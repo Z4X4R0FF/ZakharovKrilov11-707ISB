@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Jeremy Ashkenas - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIfcHMLXt7VfQqz3h5BAAAAEk","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jeremy_Ashkenas","wgTitle":"Jeremy Ashkenas","wgCurRevisionId":998589726,"wgRevisionId":998589726,"wgArticleId":41470739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles with hCards","Wikipedia articles with DBLP identifiers","Wikipedia articles with Semantic Scholar author identifiers","Year of birth missing (living people)","All stub articles","Living people","Web developers",
+"American computer programmers","Free software programmers","Programming language designers","Gerald Loeb Award winners for Images, Graphics, Interactives, and Visuals","Computer scientist stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jeremy_Ashkenas","wgRelevantArticleId":41470739,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":
+!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q6181075"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Jeremy_Ashkenas"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jeremy_Ashkenas&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jeremy_Ashkenas&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jeremy_Ashkenas"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jeremy_Ashkenas rootpage-Jeremy_Ashkenas skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Jeremy Ashkenas</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Computer programmer</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Jeremy Ashkenas</div></th></tr><tr><th scope="row">Nationality</th><td class="category"><a href="/wiki/United_States" title="United States">American</a></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Coffeescript" class="mw-redirect" title="Coffeescript">Coffeescript</a>, <a href="/wiki/Backbone.js" title="Backbone.js">backbone.js</a>, <a href="/wiki/Underscore.js" title="Underscore.js">underscore.js</a>, <a href="/wiki/DocumentCloud" title="DocumentCloud">DocumentCloud</a></td></tr><tr><th scope="row">Awards</th><td><a href="/wiki/Gerald_Loeb_Award" title="Gerald Loeb Award">Gerald Loeb Award</a> <br /> 2015                  <br /></td></tr><tr><th scope="row">Website</th><td><a rel="nofollow" class="external text" href="http://www.ashkenas.com/">ashkenas.com</a></td></tr></tbody></table>
+<p><b>Jeremy Ashkenas</b> is a <a href="/wiki/Computer_programmer" class="mw-redirect" title="Computer programmer">computer programmer</a> known for the creation and co-creation of the <a href="/wiki/CoffeeScript" title="CoffeeScript">CoffeeScript</a> and <a href="/wiki/LiveScript" title="LiveScript">LiveScript</a> <a href="/wiki/Programming_languages" class="mw-redirect" title="Programming languages">programming languages</a> respectively, the <a href="/wiki/Backbone.js" title="Backbone.js">Backbone.js</a> <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> <a href="/wiki/Software_framework" title="Software framework">framework</a> and the <a href="/wiki/Underscore.js" title="Underscore.js">Underscore.js</a> JavaScript <a href="/wiki/Library_(computing)" title="Library (computing)">library</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> While working in the graphics department at <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>, he shared the 2015 <a href="/wiki/Gerald_Loeb_Award" title="Gerald Loeb Award">Gerald Loeb Award</a> for Images/Graphics/Interactives.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> After working at the Times, he was an employee of Observable, Inc. As of 2020, he works at <a href="/wiki/Substack" title="Substack">Substack Inc</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeremy_Ashkenas&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170706140000/https://open.blogs.nytimes.com/2012/04/04/javascript-meetup-city/">"JavaScript Meetup City"</a>, <i>Open</i>, <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>, April 4, 2012, archived from <a rel="nofollow" class="external text" href="https://open.blogs.nytimes.com/2012/04/04/javascript-meetup-city/">the original</a> on July 6, 2017<span class="reference-accessdate">, retrieved <span class="nowrap">February 7,</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Open&amp;rft.atitle=JavaScript+Meetup+City&amp;rft.date=2012-04-04&amp;rft_id=https%3A%2F%2Fopen.blogs.nytimes.com%2F2012%2F04%2F04%2Fjavascript-meetup-city%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeremy+Ashkenas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120519235654/http://www.readwriteweb.com/hack/2011/01/interview-coffeescript-jeremy-ashkenas.php"><i>Interview: Jeremy Ashkenas Talks About CoffeeScript</i></a>, archived from <a rel="nofollow" class="external text" href="http://www.readwriteweb.com/hack/2011/01/interview-coffeescript-jeremy-ashkenas.php">the original</a> on 2012-05-19</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Interview%3A+Jeremy+Ashkenas+Talks+About+CoffeeScript&amp;rft_id=http%3A%2F%2Fwww.readwriteweb.com%2Fhack%2F2011%2F01%2Finterview-coffeescript-jeremy-ashkenas.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeremy+Ashkenas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://www.webdirections.org/resources/jeremy-ashkenas-a-cup-of-coffeescript/"><i>Jeremy Ashkenas — A Cup of CoffeeScript</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jeremy+Ashkenas+%E2%80%94+A+Cup+of+CoffeeScript&amp;rft_id=http%3A%2F%2Fwww.webdirections.org%2Fresources%2Fjeremy-ashkenas-a-cup-of-coffeescript%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeremy+Ashkenas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.anderson.ucla.edu/media-relations/2015/2015-gerald-loeb-awards">"UCLA Anderson School of Management Announces 2015 Gerald Loeb Award Winners"</a>. <i><a href="/wiki/UCLA_Anderson_School_of_Management" title="UCLA Anderson School of Management">UCLA Anderson School of Management</a></i>. June 24, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">January 31,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UCLA+Anderson+School+of+Management&amp;rft.atitle=UCLA+Anderson+School+of+Management+Announces+2015+Gerald+Loeb+Award+Winners&amp;rft.date=2015-06-24&amp;rft_id=https%3A%2F%2Fwww.anderson.ucla.edu%2Fmedia-relations%2F2015%2F2015-gerald-loeb-awards&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeremy+Ashkenas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://twitter.com/jashkenas/status/1321206736250830849">"Jeremy Ashkenas on Twitter"</a>. <i>Twitter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-01-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Twitter&amp;rft.atitle=Jeremy+Ashkenas+on+Twitter&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fjashkenas%2Fstatus%2F1321206736250830849&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeremy+Ashkenas" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeremy_Ashkenas&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://coffeescript.org/">CoffeeScript website</a></li>
+<li><a rel="nofollow" class="external text" href="http://backbonejs.org/">Backbone.js website</a></li>
+<li><a rel="nofollow" class="external text" href="http://underscorejs.org/">Underscore.js website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Gerald_Loeb_Award_winners_for_Images,_Graphics,_Interactives,_and_Visuals" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color: #eedd82;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:GeraldLoebAward_Images,_Graphics,_Interactives,_and_Visuals" title="Template:GeraldLoebAward Images, Graphics, Interactives, and Visuals"><abbr title="View this template" style=";background-color: #eedd82;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:GeraldLoebAward_Images,_Graphics,_Interactives,_and_Visuals" title="Template talk:GeraldLoebAward Images, Graphics, Interactives, and Visuals"><abbr title="Discuss this template" style=";background-color: #eedd82;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:GeraldLoebAward_Images,_Graphics,_Interactives,_and_Visuals&amp;action=edit"><abbr title="Edit this template" style=";background-color: #eedd82;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Gerald_Loeb_Award_winners_for_Images,_Graphics,_Interactives,_and_Visuals" style="font-size:114%;margin:0 4em"><a href="/wiki/Gerald_Loeb_Award_winners_for_Images,_Graphics,_Interactives,_and_Visuals" title="Gerald Loeb Award winners for Images, Graphics, Interactives, and Visuals">Gerald Loeb Award winners for Images, Graphics, Interactives, and Visuals</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color: #feed92;"><div id="Gerald_Loeb_Award_for_Images/Visuals_(2013–2015)" style="font-size:114%;margin:0 4em">Gerald Loeb Award for Images/Visuals (2013–2015)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center; background-color: #fff398;">(2013–2015)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Tom_Giratikanon&amp;action=edit&amp;redlink=1" class="new" title="Tom Giratikanon (page does not exist)">Tom Giratikanon</a>&#160;(2013 shared)</li>
+<li><a href="/wiki/Amanda_Cox" title="Amanda Cox">Amanda Cox</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Sergio_Pecanha&amp;action=edit&amp;redlink=1" class="new" title="Sergio Pecanha (page does not exist)">Sergio Pecanha</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Alicia_Parlapiano&amp;action=edit&amp;redlink=1" class="new" title="Alicia Parlapiano (page does not exist)">Alicia Parlapiano</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Jeremy_White_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Jeremy White (journalist) (page does not exist)">Jeremy White</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Robert_Gebeloff&amp;action=edit&amp;redlink=1" class="new" title="Robert Gebeloff (page does not exist)">Robert Gebeloff</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Ford_Fessenden&amp;action=edit&amp;redlink=1" class="new" title="Ford Fessenden (page does not exist)">Ford Fessenden</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Archie_Tse&amp;action=edit&amp;redlink=1" class="new" title="Archie Tse (page does not exist)">Archie Tse</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Alan_McLean_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Alan McLean (journalist) (page does not exist)">Alan McLean</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Shan_Carter&amp;action=edit&amp;redlink=1" class="new" title="Shan Carter (page does not exist)">Shan Carter</a>&#160;(2013 shared)</li>
+<li><a href="/wiki/Mike_Bostock" title="Mike Bostock">Mike Bostock</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Matthew_Ericson&amp;action=edit&amp;redlink=1" class="new" title="Matthew Ericson (page does not exist)">Matthew Ericson</a>&#160;(2013 shared)</li>
+<li><a href="/w/index.php?title=Ford_Fessenden&amp;action=edit&amp;redlink=1" class="new" title="Ford Fessenden (page does not exist)">Ford Fessenden</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Tom_Giratikanon&amp;action=edit&amp;redlink=1" class="new" title="Tom Giratikanon (page does not exist)">Tom Giratikanon</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Josh_Keller_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Josh Keller (journalist) (page does not exist)">Josh Keller</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Archie_Tse&amp;action=edit&amp;redlink=1" class="new" title="Archie Tse (page does not exist)">Archie Tse</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Tim_Wallace_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Tim Wallace (journalist) (page does not exist)">Tim Wallace</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Derek_Watkins_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Derek Watkins (journalist) (page does not exist)">Derek Watkins</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Jeremy_White_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Jeremy White (journalist) (page does not exist)">Jeremy White</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Karen_Yourish&amp;action=edit&amp;redlink=1" class="new" title="Karen Yourish (page does not exist)">Karen Yourish</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Shan_Carter&amp;action=edit&amp;redlink=1" class="new" title="Shan Carter (page does not exist)">Shan Carter</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Hannah_Fairfield&amp;action=edit&amp;redlink=1" class="new" title="Hannah Fairfield (page does not exist)">Hannah Fairfield</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Alicia_Parlapiano&amp;action=edit&amp;redlink=1" class="new" title="Alicia Parlapiano (page does not exist)">Alicia Parlapiano</a>&#160;(2014 shared)</li>
+<li><a href="/wiki/Mike_Bostock" title="Mike Bostock">Mike Bostock</a>&#160;(2014 shared)</li>
+<li><a href="/wiki/Amanda_Cox" title="Amanda Cox">Amanda Cox</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Matthew_Ericson&amp;action=edit&amp;redlink=1" class="new" title="Matthew Ericson (page does not exist)">Matthew Ericson</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Kevin_Quealy&amp;action=edit&amp;redlink=1" class="new" title="Kevin Quealy (page does not exist)">Kevin Quealy</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Josh_Williams_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Josh Williams (journalist) (page does not exist)">Josh Williams</a>&#160;(2014 shared)</li>
+<li><a href="/w/index.php?title=Gregor_Aisch&amp;action=edit&amp;redlink=1" class="new" title="Gregor Aisch (page does not exist)">Gregor Aisch</a>&#160;(2015 shared)</li>
+<li><a href="/w/index.php?title=Wilson_Andrews&amp;action=edit&amp;redlink=1" class="new" title="Wilson Andrews (page does not exist)">Wilson Andrews</a>&#160;(2015 shared)</li>
+<li><a class="mw-selflink selflink">Jeremy Ashkenas</a>&#160;(2015 shared)</li>
+<li><a href="/w/index.php?title=Matthew_Bloch&amp;action=edit&amp;redlink=1" class="new" title="Matthew Bloch (page does not exist)">Matthew Bloch</a>&#160;(2015 shared)</li>
+<li><a href="/wiki/Mike_Bostock" title="Mike Bostock">Mike Bostock</a>&#160;(2015 shared)</li>
+<li><a href="/w/index.php?title=Shan_Carter&amp;action=edit&amp;redlink=1" class="new" title="Shan Carter (page does not exist)">Shan Carter</a>&#160;(2015 shared)</li>
+<li><a href="/w/index.php?title=Haeyoun_Park&amp;action=edit&amp;redlink=1" class="new" title="Haeyoun Park (page does not exist)">Haeyoun Park</a>&#160;(2015 shared)</li>
+<li><a href="/w/index.php?title=Alicia_Parlapiano&amp;action=edit&amp;redlink=1" class="new" title="Alicia Parlapiano (page does not exist)">Alicia Parlapiano</a>&#160;(2015 shared)</li>
+<li><a href="/w/index.php?title=Archie_Tse&amp;action=edit&amp;redlink=1" class="new" title="Archie Tse (page does not exist)">Archie Tse</a>&#160;(2015 shared)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color: #feed92;"><div id="Gerald_Loeb_Award_for_Images/Graphics/Interactives_(2016–2018)" style="font-size:114%;margin:0 4em">Gerald Loeb Award for Images/Graphics/Interactives (2016–2018)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center; background-color: #fff398;">(2016–2018)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amanda_Cox" title="Amanda Cox">Amanda Cox</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Gregor_Aisch&amp;action=edit&amp;redlink=1" class="new" title="Gregor Aisch (page does not exist)">Gregor Aisch</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Kevin_Quealy&amp;action=edit&amp;redlink=1" class="new" title="Kevin Quealy (page does not exist)">Kevin Quealy</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Matthew_Bloch&amp;action=edit&amp;redlink=1" class="new" title="Matthew Bloch (page does not exist)">Matthew Bloch</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Wilson_Andrews&amp;action=edit&amp;redlink=1" class="new" title="Wilson Andrews (page does not exist)">Wilson Andrews</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Josh_Keller_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Josh Keller (journalist) (page does not exist)">Josh Keller</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Karen_Yourish&amp;action=edit&amp;redlink=1" class="new" title="Karen Yourish (page does not exist)">Karen Yourish</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Eric_Buth&amp;action=edit&amp;redlink=1" class="new" title="Eric Buth (page does not exist)">Eric Buth</a>&#160;(2016 shared)</li>
+<li><a href="/wiki/Nicholas_Confessore" title="Nicholas Confessore">Nicholas Confessore</a>&#160;(2016 shared)</li>
+<li><a href="/wiki/Sarah_Cohen_(journalist)" title="Sarah Cohen (journalist)">Sarah Cohen</a>&#160;(2016 shared)</li>
+<li><a href="/w/index.php?title=Larry_Buchanan_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Larry Buchanan (journalist) (page does not exist)">Larry Buchanan</a>&#160;(2017 shared)</li>
+<li><a href="/w/index.php?title=Karen_Yourish&amp;action=edit&amp;redlink=1" class="new" title="Karen Yourish (page does not exist)">Karen Yourish</a>&#160;(2017 shared)</li>
+<li><a href="/wiki/Walt_Bogdanich" title="Walt Bogdanich">Walt Bogdanich</a>&#160;(2017 shared)</li>
+<li><a href="/w/index.php?title=Jacqueline_Williams_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Jacqueline Williams (journalist) (page does not exist)">Jacqueline Williams</a>&#160;(2017 shared)</li>
+<li><a href="/w/index.php?title=Ana_Graciela_Mendez&amp;action=edit&amp;redlink=1" class="new" title="Ana Graciela Mendez (page does not exist)">Ana Graciela Mendez</a>&#160;(2017 shared)</li>
+<li><a href="/w/index.php?title=Motoko_Rich&amp;action=edit&amp;redlink=1" class="new" title="Motoko Rich (page does not exist)">Motoko Rich</a>&#160;(2017 shared)</li>
+<li><a href="/wiki/Amanda_Cox" title="Amanda Cox">Amanda Cox</a>&#160;(2017 shared)</li>
+<li><a href="/w/index.php?title=Matthew_Bloch&amp;action=edit&amp;redlink=1" class="new" title="Matthew Bloch (page does not exist)">Matthew Bloch</a>&#160;(2017 shared)</li>
+<li><a href="/w/index.php?title=Christine_Chan&amp;action=edit&amp;redlink=1" class="new" title="Christine Chan (page does not exist)">Christine Chan</a>&#160;(2018 shared)</li>
+<li><a href="/w/index.php?title=Matthew_Weber&amp;action=edit&amp;redlink=1" class="new" title="Matthew Weber (page does not exist)">Matthew Weber</a>&#160;(2018 shared)</li>
+<li><a href="/wiki/Reuters" title="Reuters">Reuters team</a>&#160;(2018 shared)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color: #feed92;"><div id="Gerald_Loeb_Award_for_Visual_Storytelling_(2019–2020)" style="font-size:114%;margin:0 4em">Gerald Loeb Award for Visual Storytelling (2019–2020)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center; background-color: #fff398;">(2019)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Tom_Randall_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Tom Randall (journalist) (page does not exist)">Tom Randall</a>&#160;(2019 shared)</li>
+<li><a href="/w/index.php?title=Dean_Halford&amp;action=edit&amp;redlink=1" class="new" title="Dean Halford (page does not exist)">Dean Halford</a>&#160;(2019 shared)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center; background-color: #fff398;">(2020)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Tracey_McManus&amp;action=edit&amp;redlink=1" class="new" title="Tracey McManus (page does not exist)">Tracey McManus</a>&#160;(2020 shared)</li>
+<li><a href="/w/index.php?title=Eli_Murray_(journalist)&amp;action=edit&amp;redlink=1" class="new" title="Eli Murray (journalist) (page does not exist)">Eli Murray</a>&#160;(2020 shared)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6181075#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6181075#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q6181075#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/19/10979">19/10979</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/S2AuthorId_(identifier)" class="mw-redirect" title="S2AuthorId (identifier)">S2AuthorId</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.semanticscholar.org/author/37975817">37975817</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr class="noresize"><td><big><b>P&#160;≟&#160;NP</b></big>&#160;</td><td><i>This biographical article relating to a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Jeremy_Ashkenas&amp;action=edit">expanding it</a>.</i><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Compu-scientist-stub" title="Template:Compu-scientist-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Compu-scientist-stub" title="Template talk:Compu-scientist-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Compu-scientist-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20210215185413
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.427 seconds
+Real time usage: 0.693 seconds
+Preprocessor visited node count: 1481/1000000
+Post‐expand include size: 48461/2097152 bytes
+Template argument size: 779/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17071/5000000 bytes
+Lua time usage: 0.224/10.000 seconds
+Lua memory usage: 5154344/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  636.759      1 -total
+ 28.07%  178.737      1 Template:Infobox_person
+ 24.02%  152.978      1 Template:Reflist
+ 20.63%  131.353      1 Template:Infobox
+ 18.66%  118.834      1 Template:Short_description
+ 17.20%  109.544      3 Template:Citation
+ 14.35%   91.404      1 Template:GeraldLoebAward_Images,_Graphics,_Interactives,_and_Visuals
+ 13.51%   86.032      1 Template:Navbox_with_collapsible_groups
+ 12.53%   79.786      1 Template:Pagetype
+  9.13%   58.152      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41470739-0!canonical and timestamp 20210215185413 and revision id 998589726. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jeremy_Ashkenas&amp;oldid=998589726">https://en.wikipedia.org/w/index.php?title=Jeremy_Ashkenas&amp;oldid=998589726</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Web_developers" title="Category:Web developers">Web developers</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Gerald_Loeb_Award_winners_for_Images,_Graphics,_Interactives,_and_Visuals" title="Category:Gerald Loeb Award winners for Images, Graphics, Interactives, and Visuals">Gerald Loeb Award winners for Images, Graphics, Interactives, and Visuals</a></li><li><a href="/wiki/Category:Computer_scientist_stubs" title="Category:Computer scientist stubs">Computer scientist stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_Semantic_Scholar_author_identifiers" title="Category:Wikipedia articles with Semantic Scholar author identifiers">Wikipedia articles with Semantic Scholar author identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jeremy+Ashkenas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jeremy+Ashkenas" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Jeremy_Ashkenas" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Jeremy_Ashkenas" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Jeremy_Ashkenas">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Jeremy_Ashkenas&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Jeremy_Ashkenas&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jeremy_Ashkenas" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jeremy_Ashkenas" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jeremy_Ashkenas&amp;oldid=998589726" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jeremy_Ashkenas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jeremy_Ashkenas&amp;id=998589726&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6181075" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Jeremy_Ashkenas&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jeremy_Ashkenas&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Jeremy_Ashkenas" title="Jeremy Ashkenas – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Jeremy_Ashkenas" title="Jeremy Ashkenas – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%88%D0%BA%D0%B5%D0%BD%D0%B0%D1%81,_%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8" title="Ашкенас, Джереми – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Jeremy_Ashkenas" title="Jeremy Ashkenas – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D1%96_%D0%90%D1%88%D0%BA%D0%B5%D0%BD%D0%B0%D0%B7" title="Джеремі Ашкеназ – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6181075#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 6 January 2021, at 02:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jeremy_Ashkenas&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.427","walltime":"0.693","ppvisitednodes":{"value":1481,"limit":1000000},"postexpandincludesize":{"value":48461,"limit":2097152},"templateargumentsize":{"value":779,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17071,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  636.759      1 -total"," 28.07%  178.737      1 Template:Infobox_person"," 24.02%  152.978      1 Template:Reflist"," 20.63%  131.353      1 Template:Infobox"," 18.66%  118.834      1 Template:Short_description"," 17.20%  109.544      3 Template:Citation"," 14.35%   91.404      1 Template:GeraldLoebAward_Images,_Graphics,_Interactives,_and_Visuals"," 13.51%   86.032      1 Template:Navbox_with_collapsible_groups"," 12.53%   79.786      1 Template:Pagetype","  9.13%   58.152      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.224","limit":"10.000"},"limitreport-memusage":{"value":5154344,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20210215185413","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jeremy Ashkenas","url":"https:\/\/en.wikipedia.org\/wiki\/Jeremy_Ashkenas","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6181075","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6181075","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-05-10T20:56:19Z","dateModified":"2021-01-06T02:45:16Z","headline":"Computer programmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":170,"wgHostname":"mw1268"});});</script>
+</body></html>

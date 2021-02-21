@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Andrew Fluegelman - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJImXrgStTYDeRCm7sfLwAAAQA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrew_Fluegelman","wgTitle":"Andrew Fluegelman","wgCurRevisionId":1001283072,"wgRevisionId":1001283072,"wgArticleId":801015,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2020","Articles with hCards","Wikipedia articles with BNF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with NKC identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1943 births","1985 suicides","American computer programmers","American publishers (people)","Book packagers","California lawyers","Freeware","Missing people","Missing person cases in California","Writers from California","20th-century American lawyers","20th-century American businesspeople","1980s missing person cases","People from Tiburon, California","20th-century American inventors"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andrew_Fluegelman","wgRelevantArticleId":801015,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,
+"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1135961"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Andrew_Fluegelman"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Andrew_Fluegelman"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andrew_Fluegelman rootpage-Andrew_Fluegelman skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Andrew Fluegelman</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American publisher,  photographer and programmer</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Andrew Fluegelman</div></th></tr><tr><th scope="row">Born</th><td><div style="display:inline" class="nickname">Andrew Cardozo Fluegelman</div><br /><span style="display:none">(<span class="bday">1943-11-27</span>)</span>November 27, 1943</td></tr><tr><th scope="row">Disappeared</th><td><abbr title="circa">c.</abbr> July 6, 1985 (aged&#160;41)</td></tr><tr><th scope="row">Cause&#160;of death</th><td>Alleged suicide</td></tr><tr><th scope="row">Occupation</th><td class="role">Publisher</td></tr></tbody></table>
+<p><b>Andrew Cardozo Fluegelman</b> (November 27, 1943 – <abbr title="circa">c.</abbr> July 6, 1985) was a publisher, photographer, <a href="/wiki/Programmer" title="Programmer">programmer</a> and attorney<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> best known as a pioneer of what is now known as the <a href="/wiki/Shareware" title="Shareware">shareware</a> business model for software marketing. He was also the founding editor of both <i><a href="/wiki/PC_World_(magazine)" class="mw-redirect" title="PC World (magazine)">PC World</a></i> and <i><a href="/wiki/Macworld" title="Macworld">Macworld</a></i> and the leader of the 1970s <i><a href="/wiki/New_Games_Book" class="mw-redirect" title="New Games Book">New Games</a></i> movement, which advocated the development of <a href="/wiki/Competition" title="Competition">noncompetitive games</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_business_career"><span class="tocnumber">1</span> <span class="toctext">Early business career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Publisher"><span class="tocnumber">1.1</span> <span class="toctext">Publisher</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#&quot;Freeware&quot;"><span class="tocnumber">1.2</span> <span class="toctext">"Freeware"</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Attorney"><span class="tocnumber">1.3</span> <span class="toctext">Attorney</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Magazine_editor"><span class="tocnumber">1.4</span> <span class="toctext">Magazine editor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Disappearance"><span class="tocnumber">2</span> <span class="toctext">Disappearance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Works"><span class="tocnumber">3</span> <span class="toctext">Works</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Books_edited"><span class="tocnumber">3.1</span> <span class="toctext">Books edited</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Books_co-authored"><span class="tocnumber">3.2</span> <span class="toctext">Books co-authored</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Photography"><span class="tocnumber">3.3</span> <span class="toctext">Photography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_business_career">Early business career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=1" title="Edit section: Early business career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Publisher">Publisher</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=2" title="Edit section: Publisher">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1981 Fluegelman was the owner and sole employee of The Headlands Press, a small book publisher in <a href="/wiki/Tiburon,_California" title="Tiburon, California">Tiburon, California</a>. He had attended an early <a href="/wiki/Computer_expo" class="mw-redirect" title="Computer expo">computer expo</a> in San Francisco in the late 1970s, and after agreeing to publish and coauthor <i>Writing in the Computer Age</i> decided to purchase his first computer. In October Fluegelman received one of the first <a href="/wiki/IBM_PC" class="mw-redirect" title="IBM PC">IBM PCs</a> sold in San Francisco, and in two weeks began to write his own accounting program in <a href="/wiki/IBM_BASIC" title="IBM BASIC">IBM BASIC</a>.<sup id="cite_ref-hewes19820203_2-0" class="reference"><a href="#cite_note-hewes19820203-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id=".22Freeware.22"></span><span class="mw-headline" id="&quot;Freeware&quot;">"Freeware"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=3" title="Edit section: &quot;Freeware&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In late 1982 Fluegelman developed <a href="/wiki/PC-Talk" title="PC-Talk">PC-Talk</a>, a very popular and successful communications program.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He marketed it under a system he called "<a href="/wiki/Freeware" title="Freeware">Freeware</a>", which he characterized as "an experiment in economics more than <a href="/wiki/Altruism" title="Altruism">altruism</a>".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> <a href="/wiki/Freeware" title="Freeware">Freeware</a> was licensed under terms that encouraged users to make voluntary payments for the software, and it allowed users to copy and redistribute the software freely as long as the license terms and text were not altered. He collaborated with PC-File (database software) developer Jim Knopf to adopt similar names (PC-File was originally "Easy-File"), and prices, for their initial shareware offerings; they also agreed to mention each other's products in their program's documentation.
+</p>
+<h3><span class="mw-headline" id="Attorney">Attorney</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=4" title="Edit section: Attorney">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fluegelman was admitted to The State Bar of California in January 1971.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Magazine_editor">Magazine editor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=5" title="Edit section: Magazine editor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Fluegelman edited <a href="/wiki/PC_World_(magazine)" class="mw-redirect" title="PC World (magazine)"><i>PC World</i></a> magazine from its introduction in 1982 until 1985, and <i><a href="/wiki/Macworld" title="Macworld">Macworld</a></i> magazine from its introduction in 1984 until 1985.
+</p>
+<h2><span class="mw-headline" id="Disappearance">Disappearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=6" title="Edit section: Disappearance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1985, Fluegelman, already suffering from <a href="/wiki/Colitis" title="Colitis">colitis</a>, was diagnosed with cancer. On the afternoon of July 6, 1985, he left his office in <a href="/wiki/Tiburon,_California" title="Tiburon, California">Tiburon, California</a>. A week later, his abandoned car was found at the north end of the <a href="/wiki/Golden_Gate_Bridge" title="Golden Gate Bridge">Golden Gate Bridge</a> near San Francisco. His family held a memorial service for Fluegelman, and he is <a href="/wiki/Declared_death_in_absentia" class="mw-redirect" title="Declared death in absentia">presumed dead</a>, though his body has never been found. Kevin Strehlo, then an <i><a href="/wiki/InfoWorld" title="InfoWorld">InfoWorld</a></i> columnist, submitted a memorial column which mentioned that "friends say a <a href="/wiki/Suicide_note" title="Suicide note">suicide note</a> was found inside" his car. <i>InfoWorld</i> rejected this column, but an online news service published it.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=7" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Books_edited">Books edited</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=8" title="Edit section: Books edited">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Headlands Press produced books and negotiated publishing contracts for them with major publishers.<sup id="cite_ref-hewes19820203_2-1" class="reference"><a href="#cite_note-hewes19820203-2">&#91;2&#93;</a></sup> Many of the books were designed by Howard Jacobsen and produced by his company, Community Type and Design. This list is arranged by year of book publication:
+</p>
+<ul><li><i><a href="/wiki/The_New_Games_Book" title="The New Games Book">The New Games Book</a></i></li></ul>
+<p>Edited by Andrew Fluegelman and Shoshana Tembeck.
+A Headlands Press Book, Dolphin/Doubleday (1976).
+<style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-12516-X" title="Special:BookSources/0-385-12516-X">0-385-12516-X</a>
+</p>
+<ul><li><i>A Traveler's Guide to El Dorado &amp; the Inca Empire</i></li></ul>
+<p>By Meisch, Lynn.
+A Headlands Press Book.
+Publisher: Penguin Books New York (1977). 
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-14-046280-5" title="Special:BookSources/0-14-046280-5">0-14-046280-5</a>
+</p>
+<ul><li><i>Familiar Subjects: Polaroid SX-70 Impressions</i></li></ul>
+<p>By Norman Locks.
+A Headlands Press Book.
+HARPER &amp; ROW, PUBLISHERS, San Francisco (1978).
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-250530-0" title="Special:BookSources/0-06-250530-0">0-06-250530-0</a>
+</p>
+<ul><li><i>How to Make and Sell Your Own Record</i></li></ul>
+<p>By Diane Sward Rapaport.
+A Headlands Press Book.
+Putnam, Prentice-Hall (1979).
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8256-9932-0" title="Special:BookSources/0-8256-9932-0">0-8256-9932-0</a>
+</p>
+<ul><li><i>How to watch a football game</i></li></ul>
+<p>By Frank Barrett; Lynn Barrett.
+Publisher: New York&#160;: Holt, Rinehart, and Winston (1980).
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-03-056958-3" title="Special:BookSources/0-03-056958-3">0-03-056958-3</a>
+</p>
+<ul><li><i>Worksteads: Living and Working in the Same Place</i></li></ul>
+<p>By Jeremy Joan Hewes.
+The Headlands Press, Inc., San Francisco.
+Doubleday (1981).
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-15995-1" title="Special:BookSources/0-385-15995-1">0-385-15995-1</a>
+</p>
+<ul><li><i>More New Games</i></li></ul>
+<p>By The New Games Foundation. 
+Main Street Books
+New York: Dolphin Books/Doubleday &amp; Company (1981).
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-17514-0" title="Special:BookSources/0-385-17514-0">0-385-17514-0</a>
+</p>
+<ul><li><i>SUSHI</i></li></ul>
+<p>By Mia Detrick, Illustrated by Kathryn Kleinman
+A Headlands Press Book. Chronicle Books LLC (1983)
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87701-238-5" title="Special:BookSources/0-87701-238-5">0-87701-238-5</a>
+</p>
+<h3><span class="mw-headline" id="Books_co-authored">Books co-authored</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=9" title="Edit section: Books co-authored">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Writing in the Computer Age: Word Processing Skills and Style for Every Writer</i></li></ul>
+<p>By Andrew Fluegelman and Jeremy Joan Hewes.
+Anchor Press/Doubleday Publishing Group (1983)
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-18125-6" title="Special:BookSources/0-385-18125-6">0-385-18125-6</a>
+</p>
+<h3><span class="mw-headline" id="Photography">Photography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=10" title="Edit section: Photography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>Mime: A Playbook of Silent Fantasy</i></li></ul>
+<p>By Kay Hamblin.
+The Doubleday Publishing Group (1978)
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-385-14246-3" title="Special:BookSources/0-385-14246-3">0-385-14246-3</a>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Free_software" title="Free software">Free software</a></li>
+<li><a href="/wiki/List_of_people_who_disappeared_mysteriously:_post-1970" title="List of people who disappeared mysteriously: post-1970">List of people who disappeared</a></li>
+<li><a href="/wiki/List_of_programmers" title="List of programmers">List of programmers</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://members.calbar.ca.gov/search/member_search.aspx?ms=Andrew+Fluegelman">California State Bar membership records</a>.</span>
+</li>
+<li id="cite_note-hewes19820203-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-hewes19820203_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hewes19820203_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHewes,_Jeremy_Joan1982" class="citation news cs1">Hewes, Jeremy Joan (February–March 1982). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=w_OhaFDePS4C&amp;pg=PA64">"PC for a Publisher"</a>. <i>PC Magazine</i>. p.&#160;64<span class="reference-accessdate">. Retrieved <span class="nowrap">October 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PC+Magazine&amp;rft.atitle=PC+for+a+Publisher&amp;rft.pages=64&amp;rft.date=1982-02%2F1982-03&amp;rft.au=Hewes%2C+Jeremy+Joan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dw_OhaFDePS4C%26pg%3DPA64&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Fluegelman" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">"Shareware: An Alternative to the High Cost of Software", <b>Damon Camille</b>, <i>1987</i>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.is/20120906052116/http://www.pc-shareware.com/quality.htm">"The Price of Quality Software by Tom Smith"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.pc-shareware.com/quality.htm">the original</a> on September 6, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">September 4,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Price+of+Quality+Software+by+Tom+Smith&amp;rft_id=http%3A%2F%2Fwww.pc-shareware.com%2Fquality.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Fluegelman" class="Z3988"></span>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://members.calbar.ca.gov/search/member_search.aspx?ms=Andrew+Fluegelman">"Attorney Search – the State Bar of California"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Attorney+Search+%E2%80%93+the+State+Bar+of+California&amp;rft_id=http%3A%2F%2Fmembers.calbar.ca.gov%2Fsearch%2Fmember_search.aspx%3Fms%3DAndrew%2BFluegelman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Fluegelman" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFKevin_Strehlo1985" class="citation web cs1">Kevin Strehlo (July 30, 1985). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060614133129/http://textfiles.fisher.hu/news/freeware.txt">"Andrew Fluegleman: In Memoriam"</a>. Archived from <a rel="nofollow" class="external text" href="http://textfiles.fisher.hu/news/freeware.txt">the original</a> on June 14, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">May 29,</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Andrew+Fluegleman%3A+In+Memoriam&amp;rft.date=1985-07-30&amp;rft.au=Kevin+Strehlo&amp;rft_id=http%3A%2F%2Ftextfiles.fisher.hu%2Fnews%2Ffreeware.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Fluegelman" class="Z3988"></span>[sic]. Note complicated provenance. The Textfiles website is said to be an archive of text postings from the days of text-based computer networking; this item is identified as being from NEWSBYTES (dated 7/30/85), an electronic publication available on <a href="/wiki/The_Source_(service)" class="mw-redirect" title="The Source (service)">The Source</a>. NEWSBYTES says that it is the full text of an InfoWorld article that led to Strehlo's resignation from that publication "because the editors saw the last few paragraphs unfit for publication." Article says in part "Fluegelman had been missing for about a week when his car was found parked near the toll plaza on the Marin County side of the Golden Gate Bridge, the site of so many of his moments of inspiration. Friends say a suicide note was found inside. His family held a memorial service in New York the following Sunday. Yet, as this is being written, no body has been found. Police still list Fluegelman as a missing person."</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928062755/http://www.charleyproject.org/cases/f/fluegelman_andrew.html">Andrew Fluegelman at the CharleyProject.org</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110814211352/http://dojapp.doj.ca.gov/missing/detail.asp?FCN=3278518932401">Missing Person: Andrew Cardoza Fluegelman</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/details/microtimes00donh">MicroTimes Volume 2 Number 5, with a full interview of Andrew Flugelman two months before his death</a></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1135961#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1135961#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1135961#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb16531529t">cb16531529t</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb16531529t">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000082546306">0000 0000 8254 6306</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n81058894">n81058894</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0161953&amp;CON_LNG=ENG">xx0161953</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NTA_(identifier)" class="mw-redirect" title="NTA (identifier)">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p069327017">069327017</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SUDOC_(identifier)" class="mw-redirect" title="SUDOC (identifier)">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/090221699">090221699</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/67190090">67190090</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n81058894">lccn-n81058894</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20210220225604
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.608 seconds
+Real time usage: 0.857 seconds
+Preprocessor visited node count: 4345/1000000
+Post‐expand include size: 29848/2097152 bytes
+Template argument size: 6594/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 33746/5000000 bytes
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 5712001/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  799.489      1 -total
+ 29.31%  234.308     10 Template:ISBN
+ 24.38%  194.914      1 Template:Infobox_person
+ 20.51%  163.987      1 Template:Infobox
+ 15.80%  126.351     10 Template:Catalog_lookup_link
+ 14.83%  118.580      1 Template:Reflist
+ 13.01%  104.020      5 Template:Br_separated_entries
+ 13.01%  104.015      1 Template:Authority_control
+ 11.49%   91.879      1 Template:Short_description
+  9.67%   77.339      1 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:801015-0!canonical and timestamp 20210220225603 and revision id 1001283072. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrew_Fluegelman&amp;oldid=1001283072">https://en.wikipedia.org/w/index.php?title=Andrew_Fluegelman&amp;oldid=1001283072</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1943_births" title="Category:1943 births">1943 births</a></li><li><a href="/wiki/Category:1985_suicides" title="Category:1985 suicides">1985 suicides</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:American_publishers_(people)" title="Category:American publishers (people)">American publishers (people)</a></li><li><a href="/wiki/Category:Book_packagers" title="Category:Book packagers">Book packagers</a></li><li><a href="/wiki/Category:California_lawyers" title="Category:California lawyers">California lawyers</a></li><li><a href="/wiki/Category:Freeware" title="Category:Freeware">Freeware</a></li><li><a href="/wiki/Category:Missing_people" title="Category:Missing people">Missing people</a></li><li><a href="/wiki/Category:Missing_person_cases_in_California" title="Category:Missing person cases in California">Missing person cases in California</a></li><li><a href="/wiki/Category:Writers_from_California" title="Category:Writers from California">Writers from California</a></li><li><a href="/wiki/Category:20th-century_American_lawyers" title="Category:20th-century American lawyers">20th-century American lawyers</a></li><li><a href="/wiki/Category:20th-century_American_businesspeople" title="Category:20th-century American businesspeople">20th-century American businesspeople</a></li><li><a href="/wiki/Category:1980s_missing_person_cases" title="Category:1980s missing person cases">1980s missing person cases</a></li><li><a href="/wiki/Category:People_from_Tiburon,_California" title="Category:People from Tiburon, California">People from Tiburon, California</a></li><li><a href="/wiki/Category:20th-century_American_inventors" title="Category:20th-century American inventors">20th-century American inventors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2020" title="Category:Use mdy dates from April 2020">Use mdy dates from April 2020</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andrew+Fluegelman" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andrew+Fluegelman" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Andrew_Fluegelman" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Andrew_Fluegelman" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Andrew_Fluegelman">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andrew_Fluegelman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andrew_Fluegelman" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andrew_Fluegelman&amp;oldid=1001283072" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andrew_Fluegelman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andrew_Fluegelman&amp;id=1001283072&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1135961" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Andrew_Fluegelman&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Andrew_Fluegelman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Andrew_Fluegelman" title="Andrew Fluegelman – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Andrew_Fluegelman" title="Andrew Fluegelman – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%86%D8%AF%D8%B1%D9%88_%D9%81%D9%84%D9%88%D9%8A%D8%AC%D9%8A%D9%84%D9%85%D8%A7%D9%86" title="اندرو فلويجيلمان – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Andrew_Fluegelman" title="Andrew Fluegelman – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Andrew_Fluegelman" title="Andrew Fluegelman – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Andrew_Fluegelman" title="Andrew Fluegelman – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1135961#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 19 January 2021, at 00:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andrew_Fluegelman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.857","ppvisitednodes":{"value":4345,"limit":1000000},"postexpandincludesize":{"value":29848,"limit":2097152},"templateargumentsize":{"value":6594,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33746,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  799.489      1 -total"," 29.31%  234.308     10 Template:ISBN"," 24.38%  194.914      1 Template:Infobox_person"," 20.51%  163.987      1 Template:Infobox"," 15.80%  126.351     10 Template:Catalog_lookup_link"," 14.83%  118.580      1 Template:Reflist"," 13.01%  104.020      5 Template:Br_separated_entries"," 13.01%  104.015      1 Template:Authority_control"," 11.49%   91.879      1 Template:Short_description","  9.67%   77.339      1 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":5712001,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20210220225604","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrew Fluegelman","url":"https:\/\/en.wikipedia.org\/wiki\/Andrew_Fluegelman","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1135961","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1135961","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-09T19:34:56Z","dateModified":"2021-01-19T00:57:16Z","headline":"American publisher"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173,"wgHostname":"mw1331"});});</script>
+</body></html>

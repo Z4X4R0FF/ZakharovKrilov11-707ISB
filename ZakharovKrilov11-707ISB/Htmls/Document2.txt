@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tarn Adams - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDEMzqEYKgZuZn0Vblz5mAAAAJc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tarn_Adams","wgTitle":"Tarn Adams","wgCurRevisionId":996151149,"wgRevisionId":996151149,"wgArticleId":32347007,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles with short description added by PearBOT 5","Short description matches Wikidata","Articles with hCards","AC with 0 elements","1978 births","American video game designers","Living people","Video game programmers","People from Silverdale, Washington",
+"Stanford University School of Humanities and Sciences alumni","University of Washington College of Arts and Sciences alumni"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tarn_Adams","wgRelevantArticleId":32347007,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q14906064"};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/06/Tarn_Adams.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Tarn_Adams"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tarn_Adams&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tarn_Adams&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tarn_Adams"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tarn_Adams rootpage-Tarn_Adams skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Tarn Adams</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American computer game programmer</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Tarn Adams</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Tarn_Adams.jpg" class="image"><img alt="Tarn Adams.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tarn_Adams.jpg/220px-Tarn_Adams.jpg" decoding="async" width="220" height="261" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tarn_Adams.jpg/330px-Tarn_Adams.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tarn_Adams.jpg/440px-Tarn_Adams.jpg 2x" data-file-width="727" data-file-height="863" /></a><div>Adams at <a href="/wiki/PAX_(event)" title="PAX (event)">PAX</a> 2013</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1978-04-17</span>) </span>April 17, 1978<span class="noprint ForceAgeToShow"> (age&#160;42)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Silverdale,_Washington" title="Silverdale, Washington">Silverdale</a>, <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>, U.S.</div></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a> (BSc)<br /><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> (PhD)</td></tr><tr><th scope="row">Occupation</th><td class="role"><a href="/wiki/Computer_game_programmer" class="mw-redirect" title="Computer game programmer">Computer game programmer</a></td></tr><tr><th scope="row">Years&#160;active</th><td>1996–present</td></tr></tbody></table>
+<p><b>Tarn Adams</b> (born April 17, 1978) is an American <a href="/wiki/Computer_game_programmer" class="mw-redirect" title="Computer game programmer">computer game programmer</a>, best known for his work on <i><a href="/wiki/Dwarf_Fortress" title="Dwarf Fortress">Dwarf Fortress</a>.</i> He has been working on the game since 2002 with his older brother Zach. He learned programming in his childhood, and has been designing computer games as a hobby. He quit his first year of a <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> post doctorate at <a href="/wiki/Texas_A%26M" class="mw-redirect" title="Texas A&amp;M">Texas A&amp;M</a> to focus on <a href="/wiki/Video_game_development" title="Video game development">game development</a> in 2006.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_education"><span class="tocnumber">1</span> <span class="toctext">Early life and education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Shift_to_game_development"><span class="tocnumber">1.1</span> <span class="toctext">Shift to game development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Dwarf_Fortress"><span class="tocnumber">2</span> <span class="toctext"><i>Dwarf Fortress</i></span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Inspiration_and_preferences"><span class="tocnumber">3</span> <span class="toctext">Inspiration and preferences</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life_and_education">Early life and education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tarn_Adams&amp;action=edit&amp;section=1" title="Edit section: Early life and education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tarn was born in <a href="/wiki/Silverdale,_Washington" title="Silverdale, Washington">Silverdale</a>, <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>, <a href="/wiki/US" class="mw-redirect" title="US">US</a>,  in 1978. His father, Dan, worked at a <a href="/wiki/Waste_water_treatment_plant" class="mw-redirect" title="Waste water treatment plant">waste water treatment plant</a> and used to manage data. He credited his father for teaching him to code and his closeness to his brother, Zach, to their family's constant shifting due to their father's work. Tarn and Zach grew up playing computer games and, with notebooks in hand, drawing their own renditions of the randomly generated creatures they encountered and logging their journeys in detail. In fifth grade, Tarn wrote his first animation game with Zach. Explaining his reluctance to socialize,<sup id="cite_ref-nyt_1-0" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup> he said, "I was a get-home-from-school, get-on-the-computer kind of kid." Tarn stated that the main reason they started writing games was to be able to play them themselves, and complicated and unpredictable behavior guaranteed <a href="/wiki/Replayability" class="mw-redirect" title="Replayability">replayability</a>.<sup id="cite_ref-PC_gamer_2-0" class="reference"><a href="#cite_note-PC_gamer-2">&#91;2&#93;</a></sup>
+</p><p>In high school Tarn and Zach created a spacecraft game that simulated sections of a rocket blowing off and released their first publicly available game on <a href="/wiki/America_Online" class="mw-redirect" title="America Online">America Online</a>.<sup id="cite_ref-Escapist_article_3-0" class="reference"><a href="#cite_note-Escapist_article-3">&#91;3&#93;</a></sup> In sixth grade, they started their first <a href="/wiki/Fantasy_game" class="mw-redirect" title="Fantasy game">fantasy game</a> called <i>dragslay</i> written in <a href="/wiki/BASIC" title="BASIC">BASIC</a>. It consisted of single battles leading to a final one with a dragon. A few years later, Tarn rewrote it in the <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> programming language, and it featured minute details and kept track of populations of units in the generated world.<sup id="cite_ref-Gamasutra_4-0" class="reference"><a href="#cite_note-Gamasutra-4">&#91;4&#93;</a></sup>
+</p><p>
+After <i>dragslay</i>, Tarn and Zach started working on another adventure game, focusing on world generation.<sup id="cite_ref-Stanford_5-0" class="reference"><a href="#cite_note-Stanford-5">&#91;5&#93;</a></sup> The <a href="/wiki/Role-playing_video_game" title="Role-playing video game">role-playing video game</a> <i><a href="/wiki/Ultima_(series)" title="Ultima (series)">Ultima</a></i> inspired them regarding world development. For four years, after working on the adventure title and rendering it in <a href="/wiki/3D_graphics" class="mw-redirect" title="3D graphics">3D graphics</a>, they completed <i>Slaves to Armok: God of Blood</i>. "Armok" was the name of the game's deity from the <a href="/wiki/Variable_(computer_science)" title="Variable (computer science)">variable</a> "arm_ok", which was used in <i>dragslay</i> to indicate how many arms were left on a particular unit. The random story generator was originated by both of them writing stories.<sup id="cite_ref-Gamasutra_4-1" class="reference"><a href="#cite_note-Gamasutra-4">&#91;4&#93;</a></sup> Tarn said, "you could zoom in on your character, and it’d tell you how curly his leg hairs were, and the melting and flash points of various materials, It was insane."<sup id="cite_ref-nyt_1-1" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup> The brothers posted it on their website in 2000, but by 2004 the project started to face increasing problems. Tarn announced in 2004 on his forums that he was going to shift his main project from <i>Armok</i> to a side project called <i>Dwarf Fortress</i>.<sup id="cite_ref-PC_gamer_2-1" class="reference"><a href="#cite_note-PC_gamer-2">&#91;2&#93;</a></sup> </p><div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:ZachAdams.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ZachAdams.jpg/150px-ZachAdams.jpg" decoding="async" width="150" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ZachAdams.jpg/225px-ZachAdams.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ZachAdams.jpg/300px-ZachAdams.jpg 2x" data-file-width="598" data-file-height="757" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ZachAdams.jpg" class="internal" title="Enlarge"></a></div>Adams' older brother, Zach, in 2013</div></div></div><p>Tarn earned a degree in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> at the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a>.<sup id="cite_ref-nyt_1-2" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup> He applied for his doctorate at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, completing it in 2005 with a dissertation titled "Flat Chains in <a href="/wiki/Banach_Space" class="mw-redirect" title="Banach Space">Banach Spaces</a>", which was published in <i>The Journal of Geometric Analysis</i>. During his first year at Stanford, he said he was under pressure, that the professional environment and competitiveness affected him negatively. He cited the conflict between studying mathematics and developing video games as the reason. This stressful situation left him depressed and he admitted to having a brief encounter with drugs.<sup id="cite_ref-nyt_1-3" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup>
+</p><h3><span class="mw-headline" id="Shift_to_game_development">Shift to game development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tarn_Adams&amp;action=edit&amp;section=2" title="Edit section: Shift to game development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tarn and Zach started a company called Bay 12 Games, where they posted <a href="/wiki/Freeware" title="Freeware">freeware</a> games and attracted a small following. Tarn assumed the name "Toady One" and Zach "ThreeToe". Tarn's background in mathematics helped in the development of <a href="/wiki/Algorithms" class="mw-redirect" title="Algorithms">algorithms</a> with <a href="/wiki/Three-dimensional_space" title="Three-dimensional space">spatial</a> considerations. With his skill in programming and Zach's background in ancient history and storytelling, together the brothers designed and developed various projects.<sup id="cite_ref-PC_gamer_2-2" class="reference"><a href="#cite_note-PC_gamer-2">&#91;2&#93;</a></sup> They worked on some other small projects during graduation which were released on their website. Tarn put up a <a href="/wiki/PayPal" title="PayPal">PayPal</a> button after a request from a fan; similarly, a subscriber system was added later. In the next five months, they made around $300, which brought in only enough to cover their site's $20 hosting cost.<sup id="cite_ref-Escapist_article_3-1" class="reference"><a href="#cite_note-Escapist_article-3">&#91;3&#93;</a></sup> They made side projects like <i>Corin</i> and <i>Kobold Quest</i> in a few days and <i>Squiggles</i> was made in three hours. Other games such as <i>Liberal Crime Squad</i> and <i>WWI Medic</i>, were also developed.<sup id="cite_ref-Gamasutra_4-2" class="reference"><a href="#cite_note-Gamasutra-4">&#91;4&#93;</a></sup>
+</p><p>In 2006, Tarn started his post doctorate in <a href="/wiki/Texas_A%26M" class="mw-redirect" title="Texas A&amp;M">Texas A&amp;M</a>, which was his goal since his undergraduate days. He decided to leave during the first year due to the increasingly stressful situation<sup id="cite_ref-PC_gamer_2-3" class="reference"><a href="#cite_note-PC_gamer-2">&#91;2&#93;</a></sup> and is said to have broken down in the head of department's office.<sup id="cite_ref-nyt_1-4" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup> After being offered to stay another year and a $50,000 stipend, he agreed and eventually left to devote his full attention to developing <i>Dwarf Fortress</i> and other games, which was until then only a hobby. He said, "At the end of a math problem, you have a paper and maybe you publish it, and the paper can be a building block for the edifice of mathematics, but to me that’s not so important. But working on a problem and having a game when you’re done? That’s pretty damn cool."<sup id="cite_ref-nyt_1-5" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Dwarf_Fortress"><i>Dwarf Fortress</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tarn_Adams&amp;action=edit&amp;section=3" title="Edit section: Dwarf Fortress">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Dwarf_Fortress" title="Dwarf Fortress">Dwarf Fortress</a></div>
+<p>After quitting university, Tarn thought he would use up his savings after a year ($15,000) and need a job to sustain himself. <i>Dwarf Fortress</i> was originally started in October 2002 as a two-month side project, but was suspended soon after in preference over <i>Armok's</i> development. He had developed a game called <i>Mutant Miner</i>. It was a <a href="/wiki/Turn-based_gaming" class="mw-redirect" title="Turn-based gaming">turn-based</a> game where players look for minerals and dig out tunnels while dealing with threats. He realized the need to be able to manage many miners and not only have a high score list, but also store more minute details, which was the beginning of the project.<sup id="cite_ref-nyt_1-6" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup>
+</p><p>The game's primary mode is set in a <a href="/wiki/Procedural_generation" title="Procedural generation">procedurally generated</a> fantasy world in which the player indirectly controls a group of <a href="/wiki/Dwarf_(Middle-earth)" title="Dwarf (Middle-earth)">dwarves</a> and attempts to construct a successful and wealthy underground fortress.<sup id="cite_ref-RPSGillen_6-0" class="reference"><a href="#cite_note-RPSGillen-6">&#91;6&#93;</a></sup> Its development continued till 8 August 2006, when the first <a href="/wiki/Alpha_version" class="mw-redirect" title="Alpha version">alpha version</a> was released. Donations reached $800–$1000 in the following months, this average increased gradually until Tarn and Zach were financially stable.<sup id="cite_ref-PC_gamer_2-4" class="reference"><a href="#cite_note-PC_gamer-2">&#91;2&#93;</a></sup> They then decided to solely rely on donations. The game eventually attracted a cult following and various web communities devoted to it were formed. <a href="/wiki/Video_game_journalism" title="Video game journalism">Videogame journalists</a> later covered the game. They focused on it being a two-member project surviving through donations. Critics praised its complex, <a href="/wiki/Emergent_gameplay" title="Emergent gameplay">emergent gameplay</a> but had mixed reactions to its difficulty.<sup id="cite_ref-ATJohnston_7-0" class="reference"><a href="#cite_note-ATJohnston-7">&#91;7&#93;</a></sup><sup id="cite_ref-IGNSpencer2_8-0" class="reference"><a href="#cite_note-IGNSpencer2-8">&#91;8&#93;</a></sup>
+</p><p>The game has text-based graphics and is open-ended with no main objectives. It is part <a href="/wiki/Construction_and_management_simulation" title="Construction and management simulation">construction and management simulation</a> and part <a href="/wiki/Roguelike" title="Roguelike">roguelike</a> game due to its multiple game modes. Before playing, the player has to generate worlds with continents, oceans and histories documenting civilizations. The main game mode, Dwarf Fortress mode, consists of selecting a suitable site from the generated-world, establishing a successful colony or fortress, combating threats like goblin invasions, generating wealth, and taking care of the dwarves. Each dwarf is modeled down to its individual personality, has likes or dislikes, and specific trainable skills in various labors.<sup id="cite_ref-IGNSpencer2_8-1" class="reference"><a href="#cite_note-IGNSpencer2-8">&#91;8&#93;</a></sup> The second game mode, Adventurer mode, is a turn-based, open-ended roguelike, where the player starts off as either an adventurer in the world, or the leader of an adventuring group, and is free to explore, complete quests, or even visit old abandoned fortresses.<sup id="cite_ref-GIPearson_9-0" class="reference"><a href="#cite_note-GIPearson-9">&#91;9&#93;</a></sup> The combat system is anatomically detailed with combat logs describing organs getting pierced, fat getting bruised, and limbs getting severed.<sup id="cite_ref-PCGHogartya_10-0" class="reference"><a href="#cite_note-PCGHogartya-10">&#91;10&#93;</a></sup><sup id="cite_ref-RPSSmith1_11-0" class="reference"><a href="#cite_note-RPSSmith1-11">&#91;11&#93;</a></sup>
+</p><p>Continuing its development, Tarn calls it his life's work and said in 2011 that version 1.0 will not be ready for at least another 20 years, and even after that he would continue to work on it. &#160;The game influenced <i><a href="/wiki/Minecraft" title="Minecraft">Minecraft</a></i> and was selected among other games to be featured in the <a href="/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">Museum of Modern Art</a> to show the history of video gaming in 2012.<sup id="cite_ref-nyt_1-7" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup> There is an active community of fans of the game, and Tarn said they have helped him in game development in addition to giving monetary support.<sup id="cite_ref-GRose_12-0" class="reference"><a href="#cite_note-GRose-12">&#91;12&#93;</a></sup> Fans have also made creative interpretations of the game. He and his brother send crayon drawings or short stories to the donors, customized to their requests and display the donors who have donated the most on their website.<sup id="cite_ref-nyt_1-8" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Inspiration_and_preferences">Inspiration and preferences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tarn_Adams&amp;action=edit&amp;section=4" title="Edit section: Inspiration and preferences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tarn has cited books, movies, <a href="/wiki/Role-playing_game" title="Role-playing game">pen and paper role-playing games</a> and other computer games, experienced during his childhood, as an inspiration for the various games he developed.<sup id="cite_ref-Stanford_5-1" class="reference"><a href="#cite_note-Stanford-5">&#91;5&#93;</a></sup> He said that <a href="/wiki/Dungeons_%26_Dragons" title="Dungeons &amp; Dragons">Dungeons &amp; Dragons</a>, works of <a href="/wiki/J.R.R._Tolkien" class="mw-redirect" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and tabletop games like <i><a href="/wiki/Cyberpunk_2020" class="mw-redirect" title="Cyberpunk 2020">Cyberpunk 2020</a></i> interested him,<sup id="cite_ref-nyt_1-9" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup> with <a href="/wiki/Fantasy" title="Fantasy">fantasy</a> and <a href="/wiki/Science_fiction" title="Science fiction">sci-fi</a> being heavily influential. On <i>Dwarf Fortress'</i> wound-based system rather than regular <a href="/wiki/Hitpoints" class="mw-redirect" title="Hitpoints">hitpoints</a>, he said, "Hit points are depressing to me. It's sort of a reflex to just have HP/MP, like a game designer stopped doing their job...You should really question all of the mechanics in the game from the bottom up."<sup id="cite_ref-Gamasutra_4-3" class="reference"><a href="#cite_note-Gamasutra-4">&#91;4&#93;</a></sup> He said he does not use <a href="/wiki/Version_control" title="Version control">version control</a> for his works.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>Regarding his career, he said, "...but as far as design is concerned, I just think that I've happened to fall into a little sweet spot where I get a lot of freedom, but I guess the cost is my livelihood."<sup id="cite_ref-Escapist_article_3-2" class="reference"><a href="#cite_note-Escapist_article-3">&#91;3&#93;</a></sup> He further said working in the gaming industry is "soul crushing".<sup id="cite_ref-Stanford_5-2" class="reference"><a href="#cite_note-Stanford-5">&#91;5&#93;</a></sup>
+</p><p>Adams has shown his dislike for <a href="/wiki/Massively_multiplayer_online_games" class="mw-redirect" title="Massively multiplayer online games">massively multiplayer online games</a> and said that popular games are addictive because they make use of the player's <a href="/wiki/Compulsive_hoarding" title="Compulsive hoarding">compulsive hoarding</a> trait.<sup id="cite_ref-nyt_1-10" class="reference"><a href="#cite_note-nyt-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tarn_Adams&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-nyt-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-nyt_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nyt_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nyt_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nyt_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nyt_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-nyt_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-nyt_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-nyt_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-nyt_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-nyt_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-nyt_1-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFJonah_Weiner2011" class="citation web cs1">Jonah Weiner (21 July 2011). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2011/07/24/magazine/the-brilliance-of-dwarf-fortress.html?pagewanted=all">"The Brilliance of Dwarf Fortress"</a>. <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120605044049/http://www.nytimes.com/2011/07/24/magazine/the-brilliance-of-dwarf-fortress.html?pagewanted=all">Archived</a> from the original on 2012-06-05<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=New+York+Times&amp;rft.atitle=The+Brilliance+of+Dwarf+Fortress&amp;rft.date=2011-07-21&amp;rft.au=Jonah+Weiner&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2011%2F07%2F24%2Fmagazine%2Fthe-brilliance-of-dwarf-fortress.html%3Fpagewanted%3Dall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-PC_gamer-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-PC_gamer_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PC_gamer_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PC_gamer_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PC_gamer_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-PC_gamer_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJaz_McDougall2010" class="citation web cs1">Jaz McDougall (2 August 2010). <a rel="nofollow" class="external text" href="http://www.pcgamer.com/2010/08/02/community-heroes-tarn-adams-for-dwarf-fortress/">"Community heroes: Tarn Adams, for Dwarf Fortress"</a>. PC gamer. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130111212748/http://www.pcgamer.com/2010/08/02/community-heroes-tarn-adams-for-dwarf-fortress/">Archived</a> from the original on 2013-01-11<span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Community+heroes%3A+Tarn+Adams%2C+for+Dwarf+Fortress&amp;rft.pub=PC+gamer&amp;rft.date=2010-08-02&amp;rft.au=Jaz+McDougall&amp;rft_id=http%3A%2F%2Fwww.pcgamer.com%2F2010%2F08%2F02%2Fcommunity-heroes-tarn-adams-for-dwarf-fortress%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Escapist_article-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Escapist_article_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Escapist_article_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Escapist_article_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFChris_LaVigne2008" class="citation web cs1">Chris LaVigne (4 March 2008). <a rel="nofollow" class="external text" href="http://www.escapistmagazine.com/articles/view/issues/issue_139/2990-For-the-Love-of-the-Game">"For the Love of the Game"</a>. The Escapist. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130303031038/http://www.escapistmagazine.com/articles/view/issues/issue_139/2990-For-the-Love-of-the-Game">Archived</a> from the original on 2013-03-03<span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=For+the+Love+of+the+Game&amp;rft.pub=The+Escapist&amp;rft.date=2008-03-04&amp;rft.au=Chris+LaVigne&amp;rft_id=http%3A%2F%2Fwww.escapistmagazine.com%2Farticles%2Fview%2Fissues%2Fissue_139%2F2990-For-the-Love-of-the-Game&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Gamasutra-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gamasutra_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gamasutra_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gamasutra_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gamasutra_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJohn_Harris2008" class="citation web cs1">John Harris (27 February 2008). <a rel="nofollow" class="external text" href="http://www.gamasutra.com/view/feature/131954/interview_the_making_of_dwarf_.php?page=1">"Interview: The Making Of Dwarf Fortress"</a>. Gamasutra. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130513232042/http://www.gamasutra.com/view/feature/131954/interview_the_making_of_dwarf_.php?page=1">Archived</a> from the original on 2013-05-13<span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview%3A+The+Making+Of+Dwarf+Fortress&amp;rft.pub=Gamasutra&amp;rft.date=2008-02-27&amp;rft.au=John+Harris&amp;rft_id=http%3A%2F%2Fwww.gamasutra.com%2Fview%2Ffeature%2F131954%2Finterview_the_making_of_dwarf_.php%3Fpage%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Stanford-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stanford_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stanford_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Stanford_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFElijah_Meeks2010" class="citation web cs1">Elijah Meeks (22 December 2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130703193653/https://dhs.stanford.edu/algorithmic-literacy/an-interview-with-tarn-adams/">"An Interview with Tarn Adams"</a>. Stanford University. Archived from <a rel="nofollow" class="external text" href="https://dhs.stanford.edu/algorithmic-literacy/an-interview-with-tarn-adams/">the original</a> on 3 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=An+Interview+with+Tarn+Adams&amp;rft.pub=Stanford+University&amp;rft.date=2010-12-22&amp;rft.au=Elijah+Meeks&amp;rft_id=https%3A%2F%2Fdhs.stanford.edu%2Falgorithmic-literacy%2Fan-interview-with-tarn-adams%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-RPSGillen-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-RPSGillen_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFKieron_Gillen2011" class="citation web cs1"><a href="/wiki/Kieron_Gillen" title="Kieron Gillen">Kieron Gillen</a> (18 February 2011). <a rel="nofollow" class="external text" href="http://www.rockpapershotgun.com/2011/02/18/the-greatest-pc-games-ever-5/">"The Very Important List of PC Games, Part 5/5"</a>. Rock, Paper, Shotgun. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140511081200/http://www.rockpapershotgun.com/2011/02/18/the-greatest-pc-games-ever-5/">Archived</a> from the original on 2014-05-11<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Very+Important+List+of+PC+Games%2C+Part+5%2F5&amp;rft.pub=Rock%2C+Paper%2C+Shotgun&amp;rft.date=2011-02-18&amp;rft.au=Kieron+Gillen&amp;rft_id=http%3A%2F%2Fwww.rockpapershotgun.com%2F2011%2F02%2F18%2Fthe-greatest-pc-games-ever-5%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ATJohnston-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ATJohnston_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJohnston2013" class="citation web cs1">Johnston, Casey (25 February 2013). <a rel="nofollow" class="external text" href="https://arstechnica.com/gaming/2013/02/dwarf-fortress-ten-hours-with-the-most-inscrutable-video-game-of-all-time/">"Dwarf Fortress: Ten hours with the most inscrutable video game of all time"</a>. Ars Technica. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140812091921/http://arstechnica.com/gaming/2013/02/dwarf-fortress-ten-hours-with-the-most-inscrutable-video-game-of-all-time/">Archived</a> from the original on 2014-08-12<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dwarf+Fortress%3A+Ten+hours+with+the+most+inscrutable+video+game+of+all+time&amp;rft.pub=Ars+Technica&amp;rft.date=2013-02-25&amp;rft.aulast=Johnston&amp;rft.aufirst=Casey&amp;rft_id=https%3A%2F%2Farstechnica.com%2Fgaming%2F2013%2F02%2Fdwarf-fortress-ten-hours-with-the-most-inscrutable-video-game-of-all-time%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-IGNSpencer2-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-IGNSpencer2_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IGNSpencer2_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAlex_Spencer2013" class="citation web cs1">Alex Spencer (26 Dec 2013). <a rel="nofollow" class="external text" href="http://www.ign.com/articles/2013/12/26/a-history-of-roguelikes-in-6-free-games">"A History of Roguelikes in 6 Free Games"</a>. IGN. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140413175539/http://www.ign.com/articles/2013/12/26/a-history-of-roguelikes-in-6-free-games">Archived</a> from the original on 2014-04-13<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+History+of+Roguelikes+in+6+Free+Games&amp;rft.pub=IGN&amp;rft.date=2013-12-26&amp;rft.au=Alex+Spencer&amp;rft_id=http%3A%2F%2Fwww.ign.com%2Farticles%2F2013%2F12%2F26%2Fa-history-of-roguelikes-in-6-free-games&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-GIPearson-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-GIPearson_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFPearson2013" class="citation web cs1">Pearson, Dan (31 January 2013). <a rel="nofollow" class="external text" href="http://www.gamesindustry.biz/articles/2013-01-30-where-im-a-brief-look-at-the-resurgence-of-roguelikes">"Where I'm @: A Brief Look at the Resurgence of Roguelikes"</a>. <i>GameIndustry.biz</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140903135329/http://www.gamesindustry.biz/articles/2013-01-30-where-im-a-brief-look-at-the-resurgence-of-roguelikes">Archived</a> from the original on 2014-09-03<span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GameIndustry.biz&amp;rft.atitle=Where+I%27m+%40%3A+A+Brief+Look+at+the+Resurgence+of+Roguelikes&amp;rft.date=2013-01-31&amp;rft.aulast=Pearson&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fwww.gamesindustry.biz%2Farticles%2F2013-01-30-where-im-a-brief-look-at-the-resurgence-of-roguelikes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-PCGHogartya-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-PCGHogartya_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHogarty2011" class="citation journal cs1">Hogarty, Steve (August 2011). <a rel="nofollow" class="external text" href="http://www.pcgamer.com/how-seven-drunks-opened-a-portal-to-hell/">"Dwarf Fortress diary: How seven drunks opened a portal to Hell p:1"</a>. <i>PC Gamer</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140727062822/http://www.pcgamer.com/2011/08/09/dwarf-fortress-feature-how-seven-drunks-opened-a-portal-to-hell/">Archived</a> from the original on 2014-07-27<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PC+Gamer&amp;rft.atitle=Dwarf+Fortress+diary%3A+How+seven+drunks+opened+a+portal+to+Hell+p%3A1&amp;rft.date=2011-08&amp;rft.aulast=Hogarty&amp;rft.aufirst=Steve&amp;rft_id=http%3A%2F%2Fwww.pcgamer.com%2Fhow-seven-drunks-opened-a-portal-to-hell%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-RPSSmith1-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-RPSSmith1_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFQuintin_Smith2010" class="citation web cs1">Quintin Smith (23 September 2010). <a rel="nofollow" class="external text" href="http://www.rockpapershotgun.com/2010/09/23/dwarf-fortress-the-song-of-onionbog-pt-1/">"Dwarf Fortress: The Song Of Onionbog, Pt 1"</a>. <i>Rock, Paper, Shotgun</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140514151900/http://www.rockpapershotgun.com/2010/09/23/dwarf-fortress-the-song-of-onionbog-pt-1/">Archived</a> from the original on 2014-05-14<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rock%2C+Paper%2C+Shotgun&amp;rft.atitle=Dwarf+Fortress%3A+The+Song+Of+Onionbog%2C+Pt+1&amp;rft.date=2010-09-23&amp;rft.au=Quintin+Smith&amp;rft_id=http%3A%2F%2Fwww.rockpapershotgun.com%2F2010%2F09%2F23%2Fdwarf-fortress-the-song-of-onionbog-pt-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-GRose-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-GRose_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFRose2013" class="citation web cs1">Rose, Mike (2 July 2013). <a rel="nofollow" class="external text" href="http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1">"Dwarf Fortress in 2013"</a>. <i>Gamasutra</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140511024509/http://www.gamasutra.com/view/feature/195148/dwarf_fortress_in_2013.php?print=1">Archived</a> from the original on 2014-05-11<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gamasutra&amp;rft.atitle=Dwarf+Fortress+in+2013&amp;rft.date=2013-07-02&amp;rft.aulast=Rose&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.gamasutra.com%2Fview%2Ffeature%2F195148%2Fdwarf_fortress_in_2013.php%3Fprint%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/3/">"Dwarf Fortress' creator on how he's 42% towards simulating existence"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923190216/http://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/3/">Archived</a> from the original on 2016-09-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dwarf+Fortress%27+creator+on+how+he%27s+42%25+towards+simulating+existence&amp;rft_id=http%3A%2F%2Fwww.pcgamer.com%2Fdwarf-fortress-creator-on-how-hes-42-towards-simulating-existence%2F3%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATarn+Adams" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tarn_Adams&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bay12games.com/">Official Bay 12 games website</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150613174554/http://www.kitsapsun.com/news/local-news/kitsap-creators-of-dwarf-fortress-make-losing">"Kitsap creators of Dwarf Fortress make losing fun"</a>, from <i>Kitsap Sun</i> on Apr 6, 2013</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20210215184422
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.531 seconds
+Real time usage: 1.012 seconds
+Preprocessor visited node count: 1871/1000000
+Post‐expand include size: 31273/2097152 bytes
+Template argument size: 1350/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 47228/5000000 bytes
+Lua time usage: 0.280/10.000 seconds
+Lua memory usage: 7401787/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  955.664      1 -total
+ 34.36%  328.334      1 Template:Reflist
+ 29.70%  283.800      1 Template:Infobox_person
+ 27.02%  258.260     12 Template:Cite_web
+ 24.70%  236.062      1 Template:Infobox
+ 22.66%  216.558      1 Template:Short_description
+ 14.93%  142.639      5 Template:Br_separated_entries
+ 11.59%  110.735      2 Template:Pagetype
+  8.28%   79.156      1 Template:Birth_date_and_age
+  6.49%   62.030      1 Template:Main_article
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32347007-0!canonical and timestamp 20210215184421 and revision id 996151149. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tarn_Adams&amp;oldid=996151149">https://en.wikipedia.org/w/index.php?title=Tarn_Adams&amp;oldid=996151149</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1978_births" title="Category:1978 births">1978 births</a></li><li><a href="/wiki/Category:American_video_game_designers" title="Category:American video game designers">American video game designers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Video_game_programmers" title="Category:Video game programmers">Video game programmers</a></li><li><a href="/wiki/Category:People_from_Silverdale,_Washington" title="Category:People from Silverdale, Washington">People from Silverdale, Washington</a></li><li><a href="/wiki/Category:Stanford_University_School_of_Humanities_and_Sciences_alumni" title="Category:Stanford University School of Humanities and Sciences alumni">Stanford University School of Humanities and Sciences alumni</a></li><li><a href="/wiki/Category:University_of_Washington_College_of_Arts_and_Sciences_alumni" title="Category:University of Washington College of Arts and Sciences alumni">University of Washington College of Arts and Sciences alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_short_description_added_by_PearBOT_5" title="Category:Articles with short description added by PearBOT 5">Articles with short description added by PearBOT 5</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:AC_with_0_elements" title="Category:AC with 0 elements">AC with 0 elements</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tarn+Adams" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tarn+Adams" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Tarn_Adams" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Tarn_Adams" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Tarn_Adams">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Tarn_Adams&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Tarn_Adams&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tarn_Adams" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tarn_Adams" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tarn_Adams&amp;oldid=996151149" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tarn_Adams&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tarn_Adams&amp;id=996151149&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14906064" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Tarn_Adams&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tarn_Adams&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tarn_Adams" title="Tarn Adams – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%BD_%D0%90%D0%B4%D0%B0%D0%BC%D1%81" title="Тарн Адамс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14906064#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 24 December 2020, at 20:55<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tarn_Adams&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.531","walltime":"1.012","ppvisitednodes":{"value":1871,"limit":1000000},"postexpandincludesize":{"value":31273,"limit":2097152},"templateargumentsize":{"value":1350,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47228,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  955.664      1 -total"," 34.36%  328.334      1 Template:Reflist"," 29.70%  283.800      1 Template:Infobox_person"," 27.02%  258.260     12 Template:Cite_web"," 24.70%  236.062      1 Template:Infobox"," 22.66%  216.558      1 Template:Short_description"," 14.93%  142.639      5 Template:Br_separated_entries"," 11.59%  110.735      2 Template:Pagetype","  8.28%   79.156      1 Template:Birth_date_and_age","  6.49%   62.030      1 Template:Main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.280","limit":"10.000"},"limitreport-memusage":{"value":7401787,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20210215184422","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tarn Adams","url":"https:\/\/en.wikipedia.org\/wiki\/Tarn_Adams","sameAs":"http:\/\/www.wikidata.org\/entity\/Q14906064","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q14906064","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-07-08T15:33:47Z","dateModified":"2020-12-24T20:55:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/Tarn_Adams.jpg","headline":"American computer game programmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":170,"wgHostname":"mw1270"});});</script>
+</body></html>

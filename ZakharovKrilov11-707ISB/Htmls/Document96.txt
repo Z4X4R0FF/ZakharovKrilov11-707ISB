@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>John Graham-Cumming - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDEsm-CnR6j2ZQyvtHOnHwAAAM8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"John_Graham-Cumming","wgTitle":"John Graham-Cumming","wgCurRevisionId":998770356,"wgRevisionId":998770356,"wgArticleId":3405876,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from January 2021","Use dmy dates from April 2018","Use British English from April 2018","Articles with hCards","Articles containing potentially dated statements from 2020",
+"All articles containing potentially dated statements","Wikipedia articles with DBLP identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Wikipedia articles with multiple identifiers","Year of birth missing (living people)","Place of birth missing (living people)","Living people","British computer programmers","Free software programmers","Businesspeople in information technology","Alumni of Lady Margaret Hall, Oxford"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"John_Graham-Cumming","wgRelevantArticleId":3405876,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q3181625"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready",
+"skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c4/Image_of_John_Graham-Cumming.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/John_Graham-Cumming"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=John_Graham-Cumming&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=John_Graham-Cumming&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/John_Graham-Cumming"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-John_Graham-Cumming rootpage-John_Graham-Cumming skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >John Graham-Cumming</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">John Graham-Cumming</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Image_of_John_Graham-Cumming.jpg" class="image"><img alt="Image of John Graham-Cumming.jpg" src="//upload.wikimedia.org/wikipedia/commons/c/c4/Image_of_John_Graham-Cumming.jpg" decoding="async" width="116" height="146" data-file-width="116" data-file-height="146" /></a><div>John Graham-Cumming in 2010</div></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a> (DPhil)</td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/POPFile" title="POPFile">POPFile</a><br /><i>The Geek Atlas</i><sup id="cite_ref-tga_1-0" class="reference"><a href="#cite_note-tga-1">&#91;1&#93;</a></sup></td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/Cloudflare" title="Cloudflare">Cloudflare</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><br /><a href="/wiki/Electric_Cloud" title="Electric Cloud">Electric Cloud</a><sup id="cite_ref-ec_3-0" class="reference"><a href="#cite_note-ec-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th><td><a rel="nofollow" class="external text" href="https://jgc.org/blog/jgc-thesis.pdf"><i>The formal development of secure systems</i></a>&#160;<span style="font-size:97%;">(1992)</span></td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th><td>Jeff W. Sanders</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://www.jgc.org">www<wbr />.jgc<wbr />.org</a></span></td></tr></tbody></table><p><b>John Graham-Cumming</b> is a British <a href="/wiki/Software_engineer" title="Software engineer">software engineer</a> and writer<sup id="cite_ref-twitter_4-0" class="reference"><a href="#cite_note-twitter-4">&#91;4&#93;</a></sup><sup id="cite_ref-grauniad_5-0" class="reference"><a href="#cite_note-grauniad-5">&#91;5&#93;</a></sup> best known for starting a successful petition to the <a href="/wiki/Government_of_the_United_Kingdom" title="Government of the United Kingdom">Government of the United Kingdom</a> asking for an apology for its persecution of <a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> As of 2020<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=John_Graham-Cumming&amp;action=edit">&#91;update&#93;</a></sup>, he serves as <a href="/wiki/Chief_Technology_Officer" class="mw-redirect" title="Chief Technology Officer">Chief Technology Officer</a> (CTO) at <a href="/wiki/Cloudflare" title="Cloudflare">Cloudflare</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> previously he worked at <a href="/wiki/Electric_Cloud" title="Electric Cloud">Electric Cloud</a>.<sup id="cite_ref-ec_3-1" class="reference"><a href="#cite_note-ec-3">&#91;3&#93;</a></sup>
+</p><h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Graham-Cumming&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Graham-Cumming was educated at the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a> where he was awarded a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a> degree in <a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a> in 1992 for research on <a href="/wiki/Communicating_sequential_processes" title="Communicating sequential processes">communicating sequential processes</a> (CSPs) supervised by Jeff W. Sanders.<sup id="cite_ref-jgcdphil_10-0" class="reference"><a href="#cite_note-jgcdphil-10">&#91;10&#93;</a></sup> He was a postgraduate student at <a href="/wiki/Lady_Margaret_Hall,_Oxford" title="Lady Margaret Hall, Oxford">Lady Margaret Hall, Oxford</a>.<sup id="cite_ref-jgcdphil_10-1" class="reference"><a href="#cite_note-jgcdphil-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Graham-Cumming&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Graham-Cumming is the original writer of <a href="/wiki/POPFile" title="POPFile">POPFile</a>, an open-source, cross-platform <a href="/wiki/Email_spam" title="Email spam">email spam</a> filtering program.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> He is the author of <i>The Geek Atlas</i>, a travel book,<sup id="cite_ref-tga_1-1" class="reference"><a href="#cite_note-tga-1">&#91;1&#93;</a></sup> and <i>The GNU Make book</i>, a how-to technical manual for the <a href="/wiki/GNU" title="GNU">GNU</a> <a href="/wiki/Make_(software)" title="Make (software)">make software</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> 
+</p><p>In October 2010, he started an organization whose aim is to build <a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a>'s <a href="/wiki/Analytical_Engine" title="Analytical Engine">Analytical Engine</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-tedx_15-0" class="reference"><a href="#cite_note-tedx-15">&#91;15&#93;</a></sup><sup id="cite_ref-ted_16-0" class="reference"><a href="#cite_note-ted-16">&#91;16&#93;</a></sup> known as Plan 28.<sup id="cite_ref-plan28_17-0" class="reference"><a href="#cite_note-plan28-17">&#91;17&#93;</a></sup> He has also campaigned for <a href="/wiki/Open-source_software" title="Open-source software">open-source software</a> in science.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In 2014, he launched his <a href="/wiki/MovieCode" title="MovieCode">MovieCode</a> site on <a href="/wiki/Tumblr" title="Tumblr">Tumblr</a>, which aims to connect <a href="/wiki/Film" title="Film">film</a> screenshots to specific extracts of <a href="/wiki/Source_code" title="Source code">source code</a>.<sup id="cite_ref-itworld_johnson_20140108_19-0" class="reference"><a href="#cite_note-itworld_johnson_20140108-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Graham-Cumming&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-tga-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-tga_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tga_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFJohn_Graham-Cumming2009" class="citation book cs1"><a class="mw-selflink selflink">John Graham-Cumming</a> (2009). <a rel="nofollow" class="external text" href="https://dl.acm.org/doi/book/10.5555/1717830"><i>The Geek Atlas: 128 Places Where Science and Technology Come Alive</i></a>. Sebastopol, CA: O'Reilly Media, Inc. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-596-52320-6" title="Special:BookSources/978-0-596-52320-6"><bdi>978-0-596-52320-6</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/850983602">850983602</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Geek+Atlas%3A+128+Places+Where+Science+and+Technology+Come+Alive&amp;rft.place=Sebastopol%2C+CA&amp;rft.pub=O%27Reilly+Media%2C+Inc&amp;rft.date=2009&amp;rft_id=info%3Aoclcnum%2F850983602&amp;rft.isbn=978-0-596-52320-6&amp;rft.au=John+Graham-Cumming&amp;rft_id=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fbook%2F10.5555%2F1717830&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSwan2014" class="citation web cs1">Swan, Chris (2014). <a rel="nofollow" class="external text" href="https://www.infoq.com/interviews/John-Graham-Cumming-Polyglot">"John Graham-Cumming on Polyglot Programming and Geek History"</a>. <i>infoq.com</i>. C4Media Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=infoq.com&amp;rft.atitle=John+Graham-Cumming+on+Polyglot+Programming+and+Geek+History&amp;rft.date=2014&amp;rft.aulast=Swan&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.infoq.com%2Finterviews%2FJohn-Graham-Cumming-Polyglot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ec-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-ec_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ec_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMelski2009" class="citation web cs1">Melski, Eric (2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200225110541/https://electric-cloud.com/blog/seven-lessons-from-seven-years-at-electric-cloud/">"Seven lessons from seven years at Electric Cloud"</a>. <i>electric-cloud.com</i>. Archived from <a rel="nofollow" class="external text" href="https://electric-cloud.com/blog/seven-lessons-from-seven-years-at-electric-cloud/">the original</a> on 25 February 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=electric-cloud.com&amp;rft.atitle=Seven+lessons+from+seven+years+at+Electric+Cloud&amp;rft.date=2009&amp;rft.aulast=Melski&amp;rft.aufirst=Eric&amp;rft_id=https%3A%2F%2Felectric-cloud.com%2Fblog%2Fseven-lessons-from-seven-years-at-electric-cloud%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-twitter-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-twitter_4-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://twitter.com/jgrahamc">John Graham-Cumming</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a> <a href="https://www.wikidata.org/wiki/Q3181625#P2002" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span>
+</li>
+<li id="cite_note-grauniad-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-grauniad_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAnon2010" class="citation web cs1">Anon (2010). <a rel="nofollow" class="external text" href="https://www.theguardian.com/profile/john-graham-cumming">"John Graham-Cumming Profile"</a>. <i>theguardian.com</i>. London: <a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=theguardian.com&amp;rft.atitle=John+Graham-Cumming+Profile&amp;rft.date=2010&amp;rft.au=Anon&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fprofile%2Fjohn-graham-cumming&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWhiteman2009" class="citation news cs1">Whiteman, Hilary (2009). <a rel="nofollow" class="external text" href="http://edition.cnn.com/2009/WORLD/europe/09/01/alan.turing.petition/">"Petition seeks apology for Enigma code-breaker Turing"</a>. <i>edition.cnn.com</i>. <a href="/wiki/CNN" title="CNN">CNN</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=edition.cnn.com&amp;rft.atitle=Petition+seeks+apology+for+Enigma+code-breaker+Turing&amp;rft.date=2009&amp;rft.aulast=Whiteman&amp;rft.aufirst=Hilary&amp;rft_id=http%3A%2F%2Fedition.cnn.com%2F2009%2FWORLD%2Feurope%2F09%2F01%2Falan.turing.petition%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGraham-Cumming2019" class="citation web cs1">Graham-Cumming, John (2019). <a rel="nofollow" class="external text" href="https://blog.cloudflare.com/helping-to-build-cloudflare-part-1/">"Helping To Build Cloudflare, Part 1: How I came to work here"</a>. <i>blog.cloudflare.com</i>. Cloudflare.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=blog.cloudflare.com&amp;rft.atitle=Helping+To+Build+Cloudflare%2C+Part+1%3A+How+I+came+to+work+here&amp;rft.date=2019&amp;rft.aulast=Graham-Cumming&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fblog.cloudflare.com%2Fhelping-to-build-cloudflare-part-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFScammell2020" class="citation web cs1">Scammell, Robert (2020). <a rel="nofollow" class="external text" href="https://www.verdict.co.uk/john-graham-cumming-cto-cloudflare/">"CTO Talk: Q&amp;A with Cloudflare's John Graham-Cumming"</a>. <i>verdict.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=verdict.co.uk&amp;rft.atitle=CTO+Talk%3A+Q%26A+with+Cloudflare%E2%80%99s+John+Graham-Cumming&amp;rft.date=2020&amp;rft.aulast=Scammell&amp;rft.aufirst=Robert&amp;rft_id=https%3A%2F%2Fwww.verdict.co.uk%2Fjohn-graham-cumming-cto-cloudflare%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGraham-Cumming2019" class="citation web cs1">Graham-Cumming, John (2019). <a rel="nofollow" class="external text" href="https://blog.cloudflare.com/helping-to-build-cloudflare-part-2/">"Helping To Build Cloudflare, Part 2: The Most Difficult Two Weeks"</a>. <i>blog.cloudflare.com</i>. Cloudflare.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=blog.cloudflare.com&amp;rft.atitle=Helping+To+Build+Cloudflare%2C+Part+2%3A+The+Most+Difficult+Two+Weeks&amp;rft.date=2019&amp;rft.aulast=Graham-Cumming&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fblog.cloudflare.com%2Fhelping-to-build-cloudflare-part-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-jgcdphil-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-jgcdphil_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jgcdphil_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGraham-Cumming1992" class="citation thesis cs1">Graham-Cumming, John (1992). <a rel="nofollow" class="external text" href="http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/display.do?doc=oxfaleph015959306"><i>The formal development of secure systems</i></a>. <i>ox.ac.uk</i> (DPhi thesis). University of Oxford. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/60063995">60063995</a>. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/EThOS" class="mw-redirect" title="EThOS">EThOS</a>&#160;<a rel="nofollow" class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.315747">uk.bl.ethos.315747</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The+formal+development+of+secure+systems&amp;rft.degree=DPhi&amp;rft.inst=University+of+Oxford&amp;rft.date=1992&amp;rft_id=info%3Aoclcnum%2F60063995&amp;rft.aulast=Graham-Cumming&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph015959306&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSchechter2003" class="citation web cs1">Schechter, Bruce (8 March 2003). <a rel="nofollow" class="external text" href="https://www.newscientist.com/article/mg17723855.300-spambusters.html">"Spambusters"</a>. <i>newscientist.com</i>. <a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=newscientist.com&amp;rft.atitle=Spambusters&amp;rft.date=2003-03-08&amp;rft.aulast=Schechter&amp;rft.aufirst=Bruce&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg17723855.300-spambusters.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGraham-Cumming2008" class="citation book cs1">Graham-Cumming, John (2008). <a rel="nofollow" class="external text" href="https://nostarch.com/gnumake"><i>The GNU Make Book</i></a>. No Starch Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781593276492" title="Special:BookSources/9781593276492"><bdi>9781593276492</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/896860365">896860365</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+GNU+Make+Book&amp;rft.pub=No+Starch+Press&amp;rft.date=2008&amp;rft_id=info%3Aoclcnum%2F896860365&amp;rft.isbn=9781593276492&amp;rft.aulast=Graham-Cumming&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fnostarch.com%2Fgnumake&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFFildes2010" class="citation news cs1">Fildes, Jonathan (2010). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/technology-11530905">"Campaign builds to construct Babbage Analytical Engine"</a>. <i>bbc.co.uk</i>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=bbc.co.uk&amp;rft.atitle=Campaign+builds+to+construct+Babbage+Analytical+Engine&amp;rft.date=2010&amp;rft.aulast=Fildes&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Ftechnology-11530905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGraham2011" class="citation web cs1">Graham, Duncan (3 March 2011). <a rel="nofollow" class="external text" href="https://www.wired.co.uk/magazine/archive/2011/04/start/a-400000-pound-pc-downgrade">"A £400,000 PC downgrade: Rebooting Babbage's Analytical Engine"</a>. <i>wired.co.uk</i>. <a href="/wiki/Wired_UK" title="Wired UK">Wired UK</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wired.co.uk&amp;rft.atitle=A+%C2%A3400%2C000+PC+downgrade%3A+Rebooting+Babbage%27s+Analytical+Engine&amp;rft.date=2011-03-03&amp;rft.aulast=Graham&amp;rft.aufirst=Duncan&amp;rft_id=https%3A%2F%2Fwww.wired.co.uk%2Fmagazine%2Farchive%2F2011%2F04%2Fstart%2Fa-400000-pound-pc-downgrade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-tedx-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-tedx_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=4rzAL5YwFow">"The Greatest Machine That Never Was: John Graham-Cumming at TEDxImperialCollege"</a>. <i>youtube.com</i>. <a href="/wiki/YouTube" title="YouTube">YouTube</a>. 26 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=youtube.com&amp;rft.atitle=The+Greatest+Machine+That+Never+Was%3A+John+Graham-Cumming+at+TEDxImperialCollege&amp;rft.date=2012-04-26&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4rzAL5YwFow&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-ted-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-ted_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ted.com/talks/john_graham_cumming_the_greatest_machine_that_never_was.html">"John Graham-Cumming: The greatest machine that never was"</a>. <i>ted.com</i>. <a href="/wiki/TED_(conference)" title="TED (conference)">TED</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ted.com&amp;rft.atitle=John+Graham-Cumming%3A+The+greatest+machine+that+never+was&amp;rft_id=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjohn_graham_cumming_the_greatest_machine_that_never_was.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-plan28-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-plan28_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://plan28.org/">"Plan 28: Building Charles Babbage's Analytical Engine"</a>. <i>plant28.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=plant28.org&amp;rft.atitle=Plan+28%3A+Building+Charles+Babbage%27s+Analytical+Engine&amp;rft_id=http%3A%2F%2Fplan28.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFInceHattonGraham-Cumming2012" class="citation journal cs1">Ince, Darrel C.; <a href="/wiki/Les_Hatton" title="Les Hatton">Hatton, Leslie</a>; <a class="mw-selflink selflink">Graham-Cumming, John</a> (2012). <a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature10836">"The case for open computer programs"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>482</b> (7386): 485–488. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature10836">10.1038/nature10836</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/22358837">22358837</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=The+case+for+open+computer+programs&amp;rft.volume=482&amp;rft.issue=7386&amp;rft.pages=485-488&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1038%2Fnature10836&amp;rft_id=info%3Apmid%2F22358837&amp;rft.aulast=Ince&amp;rft.aufirst=Darrel+C.&amp;rft.au=Hatton%2C+Leslie&amp;rft.au=Graham-Cumming%2C+John&amp;rft_id=%2F%2Fdoi.org%2F10.1038%252Fnature10836&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span></span>
+</li>
+<li id="cite_note-itworld_johnson_20140108-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-itworld_johnson_20140108_19-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJohnson,_Phil2014" class="citation web cs1">Johnson, Phil (2014). <a rel="nofollow" class="external text" href="http://www.itworld.com/security/398912/sources-all-code-you-see-tv-and-movies">"The sources of all that code you see in TV and movies"</a>. <i>itworld.com</i>. <a href="/wiki/ITworld" class="mw-redirect" title="ITworld">ITworld</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=itworld.com&amp;rft.atitle=The+sources+of+all+that+code+you+see+in+TV+and+movies&amp;rft.date=2014&amp;rft.au=Johnson%2C+Phil&amp;rft_id=http%3A%2F%2Fwww.itworld.com%2Fsecurity%2F398912%2Fsources-all-code-you-see-tv-and-movies&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Graham-Cumming" class="Z3988"></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2021">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3181625#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3181625#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q3181625#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/82/6020">82/6020</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000077899019">0000 0000 7789 9019</a></span>, <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/000000013508963X">0000 0001 3508 963X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no2010066534">no2010066534</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ntk2017953636&amp;CON_LNG=ENG">ntk2017953636</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLK_(identifier)" class="mw-redirect" title="NLK (identifier)">NLK</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nl.go.kr/authorities/resource/KAC201516739">KAC201516739</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/120580037">120580037</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-no2010066534">lccn-no2010066534</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1371
+Cached time: 20210215184131
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.624 seconds
+Real time usage: 0.918 seconds
+Preprocessor visited node count: 2811/1000000
+Post‐expand include size: 48781/2097152 bytes
+Template argument size: 3349/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 60289/5000000 bytes
+Lua time usage: 0.305/10.000 seconds
+Lua memory usage: 6293738/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  865.372      1 -total
+ 50.36%  435.770      1 Template:Reflist
+ 28.99%  250.863      1 Template:Infobox_scientist
+ 26.11%  225.961      1 Template:Infobox_person
+ 19.97%  172.784      2 Template:Infobox
+ 12.89%  111.558      2 Template:Cite_book
+  9.51%   82.321      1 Template:Use_dmy_dates
+  9.42%   81.479      1 Template:Deadlink
+  9.19%   79.556     12 Template:Cite_web
+  6.88%   59.558      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3405876-0!canonical and timestamp 20210215184130 and revision id 998770356. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=John_Graham-Cumming&amp;oldid=998770356">https://en.wikipedia.org/w/index.php?title=John_Graham-Cumming&amp;oldid=998770356</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:British_computer_programmers" title="Category:British computer programmers">British computer programmers</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:Businesspeople_in_information_technology" title="Category:Businesspeople in information technology">Businesspeople in information technology</a></li><li><a href="/wiki/Category:Alumni_of_Lady_Margaret_Hall,_Oxford" title="Category:Alumni of Lady Margaret Hall, Oxford">Alumni of Lady Margaret Hall, Oxford</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2021" title="Category:Articles with dead external links from January 2021">Articles with dead external links from January 2021</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2018" title="Category:Use dmy dates from April 2018">Use dmy dates from April 2018</a></li><li><a href="/wiki/Category:Use_British_English_from_April_2018" title="Category:Use British English from April 2018">Use British English from April 2018</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2020" title="Category:Articles containing potentially dated statements from 2020">Articles containing potentially dated statements from 2020</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLK_identifiers" title="Category:Wikipedia articles with NLK identifiers">Wikipedia articles with NLK identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_multiple_identifiers" title="Category:Wikipedia articles with multiple identifiers">Wikipedia articles with multiple identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=John+Graham-Cumming" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Graham-Cumming" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/John_Graham-Cumming" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:John_Graham-Cumming" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/John_Graham-Cumming">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=John_Graham-Cumming&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=John_Graham-Cumming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/John_Graham-Cumming" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/John_Graham-Cumming" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=John_Graham-Cumming&amp;oldid=998770356" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=John_Graham-Cumming&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=John_Graham-Cumming&amp;id=998770356&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3181625" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=John_Graham-Cumming&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=John_Graham-Cumming&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/John_Graham-Cumming" title="John Graham-Cumming – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/John_Graham-Cumming" title="John Graham-Cumming – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%8F%E3%83%A0%EF%BC%9D%E3%82%AB%E3%83%9F%E3%83%B3%E3%82%B0" title="ジョン・グラハム＝カミング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/John_Graham-Cumming" title="John Graham-Cumming – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3181625#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 6 January 2021, at 23:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=John_Graham-Cumming&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.918","ppvisitednodes":{"value":2811,"limit":1000000},"postexpandincludesize":{"value":48781,"limit":2097152},"templateargumentsize":{"value":3349,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":60289,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  865.372      1 -total"," 50.36%  435.770      1 Template:Reflist"," 28.99%  250.863      1 Template:Infobox_scientist"," 26.11%  225.961      1 Template:Infobox_person"," 19.97%  172.784      2 Template:Infobox"," 12.89%  111.558      2 Template:Cite_book","  9.51%   82.321      1 Template:Use_dmy_dates","  9.42%   81.479      1 Template:Deadlink","  9.19%   79.556     12 Template:Cite_web","  6.88%   59.558      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.305","limit":"10.000"},"limitreport-memusage":{"value":6293738,"limit":52428800}},"cachereport":{"origin":"mw1371","timestamp":"20210215184131","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"John Graham-Cumming","url":"https:\/\/en.wikipedia.org\/wiki\/John_Graham-Cumming","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3181625","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3181625","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-13T11:33:03Z","dateModified":"2021-01-06T23:32:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c4\/Image_of_John_Graham-Cumming.jpg","headline":"British computer programmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":190,"wgHostname":"mw1351"});});</script>
+</body></html>

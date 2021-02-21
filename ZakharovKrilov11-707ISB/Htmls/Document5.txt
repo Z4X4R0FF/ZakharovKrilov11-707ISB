@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Andrei Alexandrescu - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDI03eW1TALSjQ3gOrw-ZwAAAIE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrei_Alexandrescu","wgTitle":"Andrei Alexandrescu","wgCurRevisionId":984837455,"wgRevisionId":984837455,"wgArticleId":156470,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with topics of unclear notability from October 2015","All articles with topics of unclear notability","Biography articles with topics of unclear notability","Articles with hCards","Articles with Romanian-language sources (ro)",
+"Use dmy dates from March 2012","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CINII identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Romanian computer scientists","C++ people","Politehnica University of Bucharest alumni",
+"University of Washington alumni","Living people","Scientists from Bucharest","Facebook employees","1969 births","Romanian emigrants to the United States","Programming language designers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andrei_Alexandrescu","wgRelevantArticleId":156470,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
+"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92878"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/AndreiAlexandrescu.jpg/1200px-AndreiAlexandrescu.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Andrei_Alexandrescu"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Andrei_Alexandrescu"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andrei_Alexandrescu rootpage-Andrei_Alexandrescu skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Andrei Alexandrescu</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Notability plainlinks metadata ambox ambox-content ambox-Notability" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">The topic of this article <b>may not meet Wikipedia's <a href="/wiki/Wikipedia:Notability_(people)" title="Wikipedia:Notability (people)">notability guideline for biographies</a></b>.<span class="hide-when-compact"> Please help to demonstrate the notability of the topic by citing <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable secondary sources</a> that are <a href="/wiki/Wikipedia:Identifying_and_using_independent_sources" class="mw-redirect" title="Wikipedia:Identifying and using independent sources">independent</a> of the topic and provide significant coverage of it beyond a mere trivial mention. If notability cannot be shown, the article is likely to be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a>, <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirected</a>, or <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">deleted</a>.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Andrei+Alexandrescu%22">"Andrei Alexandrescu"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Andrei+Alexandrescu%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Andrei+Alexandrescu%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Andrei+Alexandrescu%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Andrei+Alexandrescu%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Andrei+Alexandrescu%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">October 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Andrei Alexandrescu</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:AndreiAlexandrescu.jpg" class="image"><img alt="AndreiAlexandrescu.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/AndreiAlexandrescu.jpg/220px-AndreiAlexandrescu.jpg" decoding="async" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/AndreiAlexandrescu.jpg/330px-AndreiAlexandrescu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/AndreiAlexandrescu.jpg/440px-AndreiAlexandrescu.jpg 2x" data-file-width="1701" data-file-height="2268" /></a><div>Alexandrescu at <a href="/wiki/ACCU_(organisation)" title="ACCU (organisation)">ACCU</a> 2009</div></td></tr><tr><th scope="row">Born</th><td>1969 (age&#160;51&#8211;52)<br /><div style="display:inline" class="birthplace"><a href="/wiki/Bucharest" title="Bucharest">Bucharest</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/Socialist_Republic_of_Romania" title="Socialist Republic of Romania">Romania</a></div></td></tr><tr><th scope="row">Nationality</th><td class="category"><a href="/wiki/Romania" title="Romania">Romanian</a>, <a href="/wiki/United_States" title="United States">American</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Education</th><td><a href="/wiki/Politehnica_University_of_Bucharest" title="Politehnica University of Bucharest">Politehnica University of Bucharest</a> and <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a></td></tr><tr><th scope="row">Occupation</th><td class="role">Developer of the <a href="/wiki/D_(programming_language)" title="D (programming language)">D</a> programming language</td></tr><tr><th scope="row">Known&#160;for</th><td>Expert on <a href="/wiki/C%2B%2B" title="C++">C++</a> and <a href="/wiki/D_programming" class="mw-redirect" title="D programming">D programming</a><sup id="cite_ref-facebook.d_3-0" class="reference"><a href="#cite_note-facebook.d-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><span class="nowrap">Spouse(s)</span></th><td>Sanda Alexandrescu</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://erdani.org">erdani<wbr />.org</a></span></td></tr></tbody></table>
+<p><b>Andrei Alexandrescu</b> (born 1969) is a <a href="/wiki/Romanian-American" class="mw-redirect" title="Romanian-American">Romanian-American</a> <a href="/wiki/C%2B%2B" title="C++">C++</a> and <a href="/wiki/D_language" class="mw-redirect" title="D language">D language</a><sup id="cite_ref-facebook.d_3-1" class="reference"><a href="#cite_note-facebook.d-3">&#91;3&#93;</a></sup> <a href="/wiki/Programmer" title="Programmer">programmer</a> and author. He is particularly known for his pioneering work on <a href="/wiki/Policy-based_design" class="mw-redirect" title="Policy-based design">policy-based design</a> implemented via <a href="/wiki/Template_metaprogramming" title="Template metaprogramming">template metaprogramming</a>. These ideas are articulated in his book <i><a href="/wiki/Modern_C%2B%2B_Design" title="Modern C++ Design">Modern C++ Design</a></i> and were first implemented in his programming library, <a href="/wiki/Loki_(C%2B%2B)" class="mw-redirect" title="Loki (C++)">Loki</a>. He also implemented the "<a href="/wiki/Move_constructor" class="mw-redirect" title="Move constructor">move constructors</a>" concept in his MOJO library.<sup id="cite_ref-movectors_4-0" class="reference"><a href="#cite_note-movectors-4">&#91;4&#93;</a></sup> He contributed to the <i><a href="/wiki/C/C%2B%2B_Users_Journal" title="C/C++ Users Journal">C/C++ Users Journal</a></i> under the <a href="/wiki/Byline" title="Byline">byline</a> "Generic&lt;Programming&gt;". Alexandrescu worked as a research scientist at <a href="/wiki/Facebook" title="Facebook">Facebook</a>, before departing the company in August 2015 in order to focus on developing the <a href="/wiki/D_(programming_language)" title="D (programming language)">D</a> programming language.<sup id="cite_ref-fbdeparture_5-0" class="reference"><a href="#cite_note-fbdeparture-5">&#91;5&#93;</a></sup>
+</p><p>He became an American citizen in August 2014.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education_and_career"><span class="tocnumber">1</span> <span class="toctext">Education and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Contributions"><span class="tocnumber">2</span> <span class="toctext">Contributions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Expected"><span class="tocnumber">2.1</span> <span class="toctext">Expected</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Example"><span class="tocnumber">2.1.1</span> <span class="toctext">Example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Scope_guard"><span class="tocnumber">2.2</span> <span class="toctext">Scope guard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">3</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Education_and_career">Education and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=1" title="Edit section: Education and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Alexandrescu received a <a href="/wiki/B.S." class="mw-redirect" title="B.S.">B.S.</a> degree in Electrical Engineering from <a href="/wiki/Polytechnic_University_of_Bucharest" class="mw-redirect" title="Polytechnic University of Bucharest">Polytechnic University of Bucharest</a> (<i>Universitatea Politehnica din București</i>) in July 1994.<sup id="cite_ref-resume_7-0" class="reference"><a href="#cite_note-resume-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>His first article was published in the <i><a href="/wiki/C/C%2B%2B_Users_Journal" title="C/C++ Users Journal">C/C++ Users Journal</a></i> in September 1998. He was a program manager for <a href="/w/index.php?title=Netzip,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Netzip, Inc. (page does not exist)">Netzip, Inc.</a> from April 1999 until February 2000. When the company was acquired by <a href="/wiki/RealNetworks,_Inc." class="mw-redirect" title="RealNetworks, Inc.">RealNetworks, Inc.</a>, he served there as a development manager from February 2000 through September 2001.<sup id="cite_ref-resume_7-1" class="reference"><a href="#cite_note-resume-7">&#91;7&#93;</a></sup>
+</p><p>Alexandrescu earned an <a href="/wiki/M.S." class="mw-redirect" title="M.S.">M.S.</a> (2003) and a <a href="/wiki/Ph.D." class="mw-redirect" title="Ph.D.">Ph.D.</a> (2009) in <a href="/wiki/Computer_science" title="Computer science">computer science</a> from the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>More recently, he has been assisting <a href="/wiki/Walter_Bright" title="Walter Bright">Walter Bright</a> in the development of the <a href="/wiki/D_programming_language" class="mw-redirect" title="D programming language">D programming language</a>. Alexandrescu released a book titled <i>The D Programming Language</i> in May 2010.
+</p><p>From 2010 to 2014, Alexandrescu, <a href="/wiki/Herb_Sutter" title="Herb Sutter">Herb Sutter</a>, and <a href="/wiki/Scott_Meyers" title="Scott Meyers">Scott Meyers</a> ran a small annual technical conference called <i>C++ and Beyond</i>.
+</p>
+<h2><span class="mw-headline" id="Contributions">Contributions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=2" title="Edit section: Contributions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Expected">Expected</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=3" title="Edit section: Expected">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Expected</b> is a <a href="/wiki/Template_(C%2B%2B)" title="Template (C++)">template</a> class for <a href="/wiki/C%2B%2B" title="C++">C++</a> which is on the C++ Standards track.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Alexandrescu proposes<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> <code>Expected&lt;T&gt;</code> as a class for use as a return value which contains either a T or the exception preventing its creation, which is an improvement over use of either return codes or exceptions exclusively.  Expected can be thought of as a restriction of sum (union) types or algebraic datatypes in various languages, e.g., <a href="/wiki/Hope_(programming_language)" title="Hope (programming language)">Hope</a>, or the more recent <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a> and <a href="/wiki/Coq" title="Coq">Gallina</a>; or of the error handling mechanism of Google's <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>, or the <a rel="nofollow" class="external text" href="https://doc.rust-lang.org/std/result/">Result</a> type in <a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>.
+</p><p>He explains the benefits of <code>Expected&lt;T&gt;</code> as:
+</p>
+<ul><li>Associates errors with computational goals</li>
+<li>Naturally allows multiple exceptions in flight</li>
+<li>Switch between "error handling" and "exception throwing" styles</li>
+<li>Teleportation possible across thread boundaries, across nothrow subsystem boundaries and across time (save now, throw later)</li>
+<li>Collect, group, combine exceptions</li></ul>
+<h4><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=4" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>For example, instead of any of the following common function prototypes:
+</p><p><code>
+int parseInt(const string&amp;);  // Returns 0 on error and sets errno.
+</code>
+</p><p>or
+</p><p><code>
+int parseInt(const string&amp;);  // Throws invalid_input or overflow
+</code>
+</p><p>he proposes the following:
+</p><p><code>
+Expected&lt;int&gt; parseInt(const string&amp;);  // Returns an expected int: either an int or an exception
+</code>
+</p>
+<h3><span class="mw-headline" id="Scope_guard">Scope guard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=5" title="Edit section: Scope guard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From 2000<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> onwards, Alexandrescu has advocated and popularized the scope guard idiom. He has introduced it as a language construct in D.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> It has been implemented by others in many other languages.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFAndrei_Alexandrescu2001" class="citation book cs1">Andrei Alexandrescu (February 2001). <i><a href="/wiki/Modern_C%2B%2B_Design" title="Modern C++ Design">Modern C++ Design</a>: Generic Programming and Design Patterns Applied</i>. Addison-Wesley. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-201-70431-0" title="Special:BookSources/978-0-201-70431-0"><bdi>978-0-201-70431-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Modern+C%2B%2B+Design%3A+Generic+Programming+and+Design+Patterns+Applied&amp;rft.pub=Addison-Wesley&amp;rft.date=2001-02&amp;rft.isbn=978-0-201-70431-0&amp;rft.au=Andrei+Alexandrescu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHerb_Sutter,_Andrei_Alexandrescu2004" class="citation book cs1"><a href="/wiki/Herb_Sutter" title="Herb Sutter">Herb Sutter</a>, Andrei Alexandrescu (November 2004). <i>C++ Coding Standards: 101 Rules, Guidelines, and Best Practices</i>. Addison-Wesley. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-321-11358-0" title="Special:BookSources/978-0-321-11358-0"><bdi>978-0-321-11358-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=C%2B%2B+Coding+Standards%3A+101+Rules%2C+Guidelines%2C+and+Best+Practices&amp;rft.pub=Addison-Wesley&amp;rft.date=2004-11&amp;rft.isbn=978-0-321-11358-0&amp;rft.au=Herb+Sutter%2C+Andrei+Alexandrescu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAndrei_Alexandrescu2010" class="citation book cs1">Andrei Alexandrescu (June 2010). <i>The D Programming Language</i>. Addison-Wesley. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-321-63536-5" title="Special:BookSources/978-0-321-63536-5"><bdi>978-0-321-63536-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+D+Programming+Language&amp;rft.pub=Addison-Wesley&amp;rft.date=2010-06&amp;rft.isbn=978-0-321-63536-5&amp;rft.au=Andrei+Alexandrescu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://erdani.com/index.php/about/">Erdani.com</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.reddit.com/r/pics/comments/2di6ik/sixteen_years_ago_at_28_i_landed_in_new_york_with/cjpvhon">https://www.reddit.com/r/pics/comments/2di6ik/sixteen_years_ago_at_28_i_landed_in_new_york_with/cjpvhon</a></span>
+</li>
+<li id="cite_note-facebook.d-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-facebook.d_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-facebook.d_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMetz2014" class="citation web cs1">Metz, Cade (7 July 2014). <a rel="nofollow" class="external text" href="https://www.wired.com/2014/07/d-programming-language/">"The Next Big Programming Language You've Never Heard Of"</a>. <i><a href="/wiki/Wired.com" class="mw-redirect" title="Wired.com">Wired.com</a></i>. <a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2014</span>. <q>Today, Alexandrescu is a research scientist at Facebook, where he and a team of coders are using <a href="/wiki/D_(programming_language)" title="D (programming language)">D</a> to refashion small parts of the company's massive operation.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wired.com&amp;rft.atitle=The+Next+Big+Programming+Language+You%27ve+Never+Heard+Of&amp;rft.date=2014-07-07&amp;rft.aulast=Metz&amp;rft.aufirst=Cade&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2014%2F07%2Fd-programming-language%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></span>
+</li>
+<li id="cite_note-movectors-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-movectors_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAlexandrescu2003" class="citation web cs1">Alexandrescu, Andrei (1 February 2003). <a rel="nofollow" class="external text" href="http://www.ddj.com/cpp/184403855">"Move Constructors"</a>. <i><a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb&#39;s Journal">Dr. Dobb's Journal</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090507104956/http://www.ddj.com/cpp/184403855">Archived</a> from the original on 7 May 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dr.+Dobb%27s+Journal&amp;rft.atitle=Move+Constructors&amp;rft.date=2003-02-01&amp;rft.aulast=Alexandrescu&amp;rft.aufirst=Andrei&amp;rft_id=http%3A%2F%2Fwww.ddj.com%2Fcpp%2F184403855&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></span>
+</li>
+<li id="cite_note-fbdeparture-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-fbdeparture_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://forum.dlang.org/thread/xsqrdgwnzehdmfmvcznn@forum.dlang.org">"Moving forward with work on the D language and foundation"</a>. 25 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Moving+forward+with+work+on+the+D+language+and+foundation&amp;rft.date=2015-08-25&amp;rft_id=http%3A%2F%2Fforum.dlang.org%2Fthread%2Fxsqrdgwnzehdmfmvcznn%40forum.dlang.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.reddit.com/r/pics/comments/2di6ik/sixteen_years_ago_at_28_i_landed_in_new_york_with/">Reddit.com: "Sixteen years ago, at 28, I landed in New York with $300 to my name. Today I became a US citizen. It's been a wild ride that I hope will go on!"</a></span>
+</li>
+<li id="cite_note-resume-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-resume_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-resume_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://erdani.com/resume.html">Andrei Alexandrescu: Resumé</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110407082008/http://erdani.com/resume.html">Archived</a> 7 April 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://accu.informika.ru/events/public/accu0103.htm">ACCU Spring Conference 2001</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110811025520/http://accu.informika.ru/events/public/accu0103.htm">Archived</a> 11 August 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://members.accu.org/index.php/conferences/accu_conference_2008/accu2008_speakers">ACCU 2008: Speakers</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://members.accu.org/index.php/conferences/accu_conference_2010/accu2010_speakers">ACCU 2010: Speakers</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://cas01.cs.washington.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1">Computer Science &amp; Engineering, Recent Ph.D. Graduates (Summer 2009)</a>.mark University of Washington.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBotetTalbot" class="citation web cs1">Botet; Talbot. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819082937/http://www.hyc.io/boost/expected-proposal.pdf">"A proposal to add a utility class to represent expected monad"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.hyc.io/boost/expected-proposal.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 19 August 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+proposal+to+add+a+utility+class+to+represent+expected+monad&amp;rft.au=Botet&amp;rft.au=Talbot&amp;rft_id=http%3A%2F%2Fwww.hyc.io%2Fboost%2Fexpected-proposal.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/viboes/std-make/blob/master/doc/proposal/expected/p0323r2.md#motivation">https://github.com/viboes/std-make/blob/master/doc/proposal/expected/p0323r2.md#motivation</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAlexandrescu" class="citation web cs1">Alexandrescu. <a rel="nofollow" class="external text" href="http://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2012-Andrei-Alexandrescu-Systematic-Error-Handling-in-C">"Systematic Error Handling in C++"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Systematic+Error+Handling+in+C%2B%2B&amp;rft.au=Alexandrescu&amp;rft_id=http%3A%2F%2Fchannel9.msdn.com%2FShows%2FGoing%2BDeep%2FC-and-Beyond-2012-Andrei-Alexandrescu-Systematic-Error-Handling-in-C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAndrei_AlexandrescuPetru_Marginean" class="citation web cs1">Andrei Alexandrescu; Petru Marginean. <a rel="nofollow" class="external text" href="https://www.drdobbs.com/cpp/generic-change-the-way-you-write-excepti/184403758">"Generic: Change the Way You Write Exception-Safe Code — Forever"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Generic%3A+Change+the+Way+You+Write+Exception-Safe+Code+%E2%80%94+Forever&amp;rft.au=Andrei+Alexandrescu&amp;rft.au=Petru+Marginean&amp;rft_id=https%3A%2F%2Fwww.drdobbs.com%2Fcpp%2Fgeneric-change-the-way-you-write-excepti%2F184403758&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrei+Alexandrescu" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://dlang.org/articles/exception-safe.html">https://dlang.org/articles/exception-safe.html</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://metacpan.org/pod/Scope::Guard">https://metacpan.org/pod/Scope::Guard</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://docs.rs/scopeguard/1.1.0/scopeguard/">https://docs.rs/scopeguard/1.1.0/scopeguard/</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090131070804/http://erdani.org/">Alexandrescu's homepage</a> – Contains links to downloadable Loki libraries for various <a href="/wiki/Compiler" title="Compiler">compilers</a>.</li>
+<li><span class="languageicon">(in Romanian)</span> <i><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110725060459/http://www.money.ro/facebook-face-angajari-in-romania_511651.html">Interviu MONEY.ro: Facebook face angajări în România</a></i>, 1 March 2010</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Facebook,_Inc." style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Facebook_navbox" title="Template:Facebook navbox"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Facebook_navbox" title="Template talk:Facebook navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Facebook_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Facebook,_Inc." style="font-size:114%;margin:0 4em"><a href="/wiki/Facebook,_Inc." title="Facebook, Inc.">Facebook, Inc.</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Website</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Facebook" title="Facebook">Facebook.com</a></li>
+<li><a href="/wiki/List_of_Facebook_features" title="List of Facebook features">Features</a></li>
+<li><a href="/wiki/Facebook_Beacon" title="Facebook Beacon">Beacon</a></li>
+<li><a href="/wiki/Facebook_Bluetooth_Beacon" title="Facebook Bluetooth Beacon">Bluetooth Beacon</a></li>
+<li><a href="/wiki/Facebook_Credits" title="Facebook Credits">Credits</a></li>
+<li><a href="/wiki/Facebook_Dating" title="Facebook Dating">Dating</a></li>
+<li><a href="/wiki/EdgeRank" title="EdgeRank">EdgeRank</a></li>
+<li><a href="/wiki/Facebook_Gaming" class="mw-redirect" title="Facebook Gaming">Gaming</a></li>
+<li><a href="/wiki/Facebook_Graph_Search" title="Facebook Graph Search">Graph Search</a></li>
+<li><a href="/wiki/Facebook_Instant_Articles" title="Facebook Instant Articles">Instant Articles</a></li>
+<li><a href="/wiki/Facebook_like_button" title="Facebook like button">Like button</a></li>
+<li><a href="/wiki/Facebook_Live" class="mw-redirect" title="Facebook Live">Live</a></li>
+<li><a href="/wiki/Facebookcorewwwi.onion" title="Facebookcorewwwi.onion">facebookcorewwwi.onion</a></li>
+<li><a href="/wiki/Facebook_Platform" title="Facebook Platform">Platform</a></li>
+<li><a href="/wiki/Facebook_Safety_Check" title="Facebook Safety Check">Safety Check</a></li>
+<li><a href="/wiki/Facebook_Stories" title="Facebook Stories">Stories</a></li>
+<li><a href="/wiki/Facebook_Watch" title="Facebook Watch">Watch</a>
+<ul><li><a href="/wiki/List_of_Facebook_Watch_original_programming" title="List of Facebook Watch original programming">List of original programs</a></li></ul></li>
+<li><a href="/wiki/Facebook_Zero" title="Facebook Zero">Zero</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Facebook,_Inc._Logo_2019.svg" class="image"><img alt="Facebook, Inc. Logo 2019.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Facebook%2C_Inc._Logo_2019.svg/100px-Facebook%2C_Inc._Logo_2019.svg.png" decoding="async" width="100" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Facebook%2C_Inc._Logo_2019.svg/150px-Facebook%2C_Inc._Logo_2019.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Facebook%2C_Inc._Logo_2019.svg/200px-Facebook%2C_Inc._Logo_2019.svg.png 2x" data-file-width="800" data-file-height="88" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other<br />products</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atlas_Solutions" title="Atlas Solutions">Atlas Solutions</a></li>
+<li><a href="/wiki/Express_Wi-Fi" title="Express Wi-Fi">Express Wi-Fi</a></li>
+<li><a href="/wiki/Giphy" title="Giphy">Giphy</a></li>
+<li><a href="/wiki/Internet.org" title="Internet.org">Free Basics</a></li>
+<li><a href="/wiki/Instagram" title="Instagram">Instagram</a>
+<ul><li><a href="/wiki/Hyperlapse_(application)" title="Hyperlapse (application)">Hyperlapse</a></li>
+<li><a href="/wiki/IGTV" title="IGTV">IGTV</a></li>
+<li><a href="/wiki/List_of_most-followed_Instagram_accounts" title="List of most-followed Instagram accounts">List of most followed accounts</a></li>
+<li><a href="/wiki/List_of_most-liked_Instagram_posts" title="List of most-liked Instagram posts">List of most liked pictures</a></li></ul></li>
+<li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Messenger</a>
+<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li></ul></li>
+<li><a href="/wiki/Mapillary" title="Mapillary">Mapillary</a></li>
+<li><a href="/wiki/Oculus_Quest" title="Oculus Quest">Oculus Quest</a>
+<ul><li><a href="/wiki/Oculus_Quest_2" title="Oculus Quest 2">2</a></li></ul></li>
+<li><a href="/wiki/Oculus_Rift" title="Oculus Rift">Oculus Rift</a>
+<ul><li><a href="/wiki/Oculus_Rift_CV1" title="Oculus Rift CV1">CV1</a></li>
+<li><a href="/wiki/Oculus_Rift_S" title="Oculus Rift S">S</a></li></ul></li>
+<li><a href="/wiki/Oculus_Go" title="Oculus Go">Oculus Go</a></li>
+<li><a href="/wiki/Oculus_Touch" title="Oculus Touch">Oculus Touch</a></li>
+<li><a href="/wiki/Facebook_Portal" title="Facebook Portal">Portal</a></li>
+<li><a href="/wiki/WhatsApp" title="WhatsApp">WhatsApp</a></li>
+<li><a href="/wiki/Workplace_by_Facebook" class="mw-redirect" title="Workplace by Facebook">Workplace</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FriendFeed" title="FriendFeed">FriendFeed</a></li>
+<li><a href="/wiki/Facebook_Home" title="Facebook Home">Home</a>
+<ul><li><a href="/wiki/HTC_First" title="HTC First">HTC First</a></li></ul></li>
+<li><a href="/wiki/M_(virtual_assistant)" title="M (virtual assistant)">M</a></li>
+<li><a href="/wiki/Onavo" title="Onavo">Onavo</a></li>
+<li><a href="/wiki/Facebook_Paper" title="Facebook Paper">Paper</a></li>
+<li><a href="/wiki/Facebook_Slingshot" title="Facebook Slingshot">Slingshot</a></li>
+<li><a href="/wiki/Tbh_(app)" title="Tbh (app)">tbh</a></li>
+<li><a href="/wiki/Wirehog" title="Wirehog">Wirehog</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Founders</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</a> (28% equity)</li>
+<li><a href="/wiki/Dustin_Moskovitz" title="Dustin Moskovitz">Dustin Moskovitz</a> (7%)</li>
+<li><a href="/wiki/Eduardo_Saverin" title="Eduardo Saverin">Eduardo Saverin</a> (<i>5%, formerly</i>)</li>
+<li><a href="/wiki/Chris_Hughes" title="Chris Hughes">Chris Hughes</a> (<i>1%, formerly</i>)</li>
+<li><a href="/wiki/Andrew_McCollum" title="Andrew McCollum">Andrew McCollum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Board</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</a></li>
+<li><a href="/wiki/Sheryl_Sandberg" title="Sheryl Sandberg">Sheryl Sandberg</a></li>
+<li><a href="/w/index.php?title=Peggy_Alford&amp;action=edit&amp;redlink=1" class="new" title="Peggy Alford (page does not exist)">Peggy Alford</a></li>
+<li><a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a></li>
+<li><a href="/wiki/Drew_Houston" title="Drew Houston">Drew Houston</a></li>
+<li><a href="/wiki/Nancy_Killefer" title="Nancy Killefer">Nancy Killefer</a></li>
+<li><a href="/wiki/Robert_M._Kimmitt" title="Robert M. Kimmitt">Robert M. Kimmitt</a></li>
+<li><a href="/wiki/Peter_Thiel" title="Peter Thiel">Peter Thiel</a></li>
+<li><a href="/w/index.php?title=Tracey_Travis&amp;action=edit&amp;redlink=1" class="new" title="Tracey Travis (page does not exist)">Tracey Travis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Executive<br />officers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</a> (Chairman and CEO)</li>
+<li><a href="/wiki/Sheryl_Sandberg" title="Sheryl Sandberg">Sheryl Sandberg</a> (COO)</li>
+<li><a href="/wiki/David_Wehner" title="David Wehner">David Wehner</a> (CFO)</li>
+<li><a href="/wiki/Mike_Schroepfer" title="Mike Schroepfer">Mike Schroepfer</a> (CTO)</li>
+<li><a href="/wiki/Chris_Cox_(Facebook)" title="Chris Cox (Facebook)">Chris Cox</a> (Chief Product Officer)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sean_Parker" title="Sean Parker">Sean Parker</a> (<i>4%, formerly</i>)</li>
+<li><a href="/wiki/Owen_Van_Natta" title="Owen Van Natta">Owen Van Natta</a></li>
+<li><a href="/wiki/Gideon_Yu" title="Gideon Yu">Gideon Yu</a></li>
+<li><a href="/wiki/Adam_D%27Angelo" title="Adam D&#39;Angelo">Adam D'Angelo</a></li>
+<li><a href="/wiki/Chris_Kelly_(entrepreneur)" title="Chris Kelly (entrepreneur)">Chris Kelly</a></li>
+<li><a href="/wiki/Bret_Taylor" title="Bret Taylor">Bret Taylor</a></li>
+<li><a href="/wiki/David_Ebersman" title="David Ebersman">David Ebersman</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Notable<br />employees</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nick_Clegg" title="Nick Clegg">Nick Clegg</a> (VP of Global Affairs and Communications)</li>
+<li><a href="/wiki/Lars_Rasmussen_(software_developer)" title="Lars Rasmussen (software developer)">Lars Rasmussen</a> (Graph Search director)</li>
+<li><a href="/wiki/John_Carmack" title="John Carmack">John Carmack</a> (CTO of <a href="/wiki/Oculus_VR" class="mw-redirect" title="Oculus VR">Oculus VR</a>)</li>
+<li><a href="/wiki/Hugo_Barra" title="Hugo Barra">Hugo Barra</a> (VP of <a href="/wiki/Oculus_VR" class="mw-redirect" title="Oculus VR">Oculus VR</a>)</li>
+<li><a href="/wiki/Naomi_Gleit" title="Naomi Gleit">Naomi Gleit</a> (VP of social good)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blake_Ross" title="Blake Ross">Blake Ross</a> (Director of Product)</li>
+<li><a href="/wiki/Ted_Ullyot" title="Ted Ullyot">Ted Ullyot</a> (VP, General Counsel, and Secretary)</li>
+<li><a href="/wiki/Matt_Cohler" title="Matt Cohler">Matt Cohler</a></li>
+<li><a href="/wiki/Charlie_Cheever" title="Charlie Cheever">Charlie Cheever</a></li>
+<li><a href="/wiki/Randi_Zuckerberg" title="Randi Zuckerberg">Randi Zuckerberg</a></li>
+<li><a href="/wiki/Yishan_Wong" title="Yishan Wong">Yishan Wong</a></li>
+<li><a href="/wiki/George_Hotz" title="George Hotz">George Hotz</a></li>
+<li><a href="/wiki/Joe_Lockhart" title="Joe Lockhart">Joe Lockhart</a></li>
+<li><a class="mw-selflink selflink">Andrei Alexandrescu</a> (research scientist)</li>
+<li><a href="/wiki/Elliot_Schrage" title="Elliot Schrage">Elliot Schrage</a> (VP of Global Communications, Marketing and Public Policy)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Open source</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apache_Cassandra" title="Apache Cassandra">Apache Cassandra</a></li>
+<li><a href="/wiki/Apache_Hive" title="Apache Hive">Apache Hive</a></li>
+<li><a href="/wiki/Apache_Thrift" title="Apache Thrift">Apache Thrift</a></li>
+<li><a href="/wiki/Buck_(software)" title="Buck (software)">Buck</a></li>
+<li><a href="/wiki/Facebook_Query_Language" title="Facebook Query Language">FQL</a></li>
+<li><a href="/wiki/Hack_(programming_language)" title="Hack (programming language)">Hack</a></li>
+<li><a href="/wiki/HHVM" title="HHVM">HHVM</a></li>
+<li><a href="/wiki/HipHop_for_PHP" title="HipHop for PHP">HipHop for PHP</a></li>
+<li><a href="/wiki/Infer_Static_Analyzer" title="Infer Static Analyzer">Infer</a></li>
+<li><a href="/wiki/MyRocks" title="MyRocks">MyRocks</a></li>
+<li><a href="/wiki/Open_Compute_Project" title="Open Compute Project">Open Compute Project</a></li>
+<li><a href="/wiki/Phabricator" title="Phabricator">Phabricator</a></li>
+<li><a href="/wiki/React_(JavaScript_library)" title="React (JavaScript library)">React</a></li>
+<li><a href="/wiki/React_Native" title="React Native">React Native</a></li>
+<li><a href="/wiki/RocksDB" title="RocksDB">RocksDB</a></li>
+<li><a href="/wiki/Scribe_(log_server)" title="Scribe (log server)">Scribe</a></li>
+<li><a href="/wiki/Telecom_Infra_Project" title="Telecom Infra Project">Telecom Infra Project</a></li>
+<li><a href="/wiki/Tornado_(web_server)" title="Tornado (web server)">Tornado</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mass media</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Facebook_Effect" title="The Facebook Effect">The Facebook Effect</a></i></li>
+<li><i><a href="/wiki/The_Accidental_Billionaires" title="The Accidental Billionaires">The Accidental Billionaires</a></i></li>
+<li><i><a href="/wiki/The_Social_Network" title="The Social Network">The Social Network</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activity_stream" title="Activity stream">Activity stream</a></li>
+<li><a href="/wiki/Social_graph" title="Social graph">Social graph</a></li>
+<li><a href="/wiki/Friending_and_following" title="Friending and following">Friending and following</a></li>
+<li><a href="/wiki/Reblogging" title="Reblogging">Reblogging</a></li>
+<li><a href="/wiki/Fan-gating" title="Fan-gating">Fan-gating</a></li>
+<li><a href="/wiki/Facebook_diplomacy" title="Facebook diplomacy">Facebook diplomacy</a></li>
+<li><a href="/wiki/Facebook_like_button" title="Facebook like button">Facebook like button</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Business</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_Facebook" title="History of Facebook">History</a></li>
+<li><a href="/wiki/Timeline_of_Facebook" class="mw-redirect" title="Timeline of Facebook">Timeline</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Facebook" title="List of mergers and acquisitions by Facebook">Acquisitions</a></li>
+<li><a href="/wiki/Facebook_F8" title="Facebook F8">f8 conference</a></li>
+<li><a href="/wiki/Initial_public_offering_of_Facebook" title="Initial public offering of Facebook">IPO</a></li>
+<li><a href="/wiki/Censorship_of_Facebook" title="Censorship of Facebook">Censorship</a></li>
+<li><a href="/wiki/Criticism_of_Facebook" title="Criticism of Facebook">Criticism</a>
+<ul><li><a href="/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal" title="Facebook–Cambridge Analytica data scandal">Cambridge Analytica data scandal</a></li>
+<li><a href="/wiki/Privacy_concerns_of_Facebook" title="Privacy concerns of Facebook">Privacy</a></li></ul></li>
+<li><a href="/wiki/Lawsuits_involving_Facebook" title="Lawsuits involving Facebook">Litigation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_most-followed_Facebook_pages" title="List of most-followed Facebook pages">Most-followed Facebook pages</a></li>
+<li><a href="/wiki/List_of_most-viewed_online_videos_in_the_first_24_hours" title="List of most-viewed online videos in the first 24 hours">Most-viewed videos in the first 24 hours</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Priscilla_Chan" title="Priscilla Chan">Priscilla Chan</a> (wife of Mark Zuckerberg)</li>
+<li><a href="/wiki/Chan_Zuckerberg_Initiative" title="Chan Zuckerberg Initiative">Chan Zuckerberg Initiative</a></li>
+<li><a href="/wiki/Facebook_Aquila" title="Facebook Aquila">Aquila Internet relay drone</a></li>
+<li><a href="/wiki/Willow_Village" title="Willow Village">Willow Village</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92878#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92878#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q92878#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_DL_(identifier)" class="mw-redirect" title="ACM DL (identifier)">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/profile/81100319482">81100319482</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS_(identifier)" class="mw-redirect" title="BIBSYS (identifier)">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/3011064">3011064</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb14585614s">cb14585614s</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb14585614s">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CiNii_(identifier)" class="mw-redirect" title="CiNii (identifier)">CiNii</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA16663517?l=en">DA16663517</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/63/1248">63/1248</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/14376943X">14376943X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/000000010982045X">0000 0001 0982 045X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n00007587">n00007587</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MGP_(identifier)" class="mw-redirect" title="MGP (identifier)">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=118549">118549</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NDL_(identifier)" class="mw-redirect" title="NDL (identifier)">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00864746">00864746</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=mzk2004262585&amp;CON_LNG=ENG">mzk2004262585</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLI_(identifier)" class="mw-redirect" title="NLI (identifier)">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=002277363&amp;local_base=nlx10">002277363</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLK_(identifier)" class="mw-redirect" title="NLK (identifier)">NLK</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nl.go.kr/authorities/resource/KAC200309726">KAC200309726</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLP_(identifier)" class="mw-redirect" title="NLP (identifier)">NLP</a>: <span class="uid"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url?p=1695&amp;id=A18333473">A18333473</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NTA_(identifier)" class="mw-redirect" title="NTA (identifier)">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p329729608">329729608</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/PLWABN_(identifier)" class="mw-redirect" title="PLWABN (identifier)">PLWABN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=4&amp;WI=9810547913305606">9810547913305606</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/RERO_(identifier)" class="mw-redirect" title="RERO (identifier)">RERO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.rero.ch/02-A009300386">02-A009300386</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SUDOC_(identifier)" class="mw-redirect" title="SUDOC (identifier)">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/058008861">058008861</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/66711976">66711976</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n00007587">lccn-n00007587</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1367
+Cached time: 20210220141953
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.855 seconds
+Real time usage: 1.402 seconds
+Preprocessor visited node count: 2009/1000000
+Post‐expand include size: 86908/2097152 bytes
+Template argument size: 1476/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 22/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31186/5000000 bytes
+Lua time usage: 0.532/10.000 seconds
+Lua memory usage: 18063504/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1258.460      1 -total
+ 24.02%  302.302      1 Template:Infobox_person
+ 20.31%  255.623      1 Template:Notability
+ 18.70%  235.345      1 Template:Infobox
+ 17.86%  224.814      1 Template:Ambox
+ 14.70%  185.010      3 Template:Cite_book
+ 14.67%  184.626      1 Template:In_lang
+  9.85%  123.995      5 Template:Br_separated_entries
+  9.28%  116.847      1 Template:Find_sources_mainspace
+  9.16%  115.260      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:156470-0!canonical and timestamp 20210220141951 and revision id 984837455. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrei_Alexandrescu&amp;oldid=984837455">https://en.wikipedia.org/w/index.php?title=Andrei_Alexandrescu&amp;oldid=984837455</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Romanian_computer_scientists" title="Category:Romanian computer scientists">Romanian computer scientists</a></li><li><a href="/wiki/Category:C%2B%2B_people" title="Category:C++ people">C++ people</a></li><li><a href="/wiki/Category:Politehnica_University_of_Bucharest_alumni" title="Category:Politehnica University of Bucharest alumni">Politehnica University of Bucharest alumni</a></li><li><a href="/wiki/Category:University_of_Washington_alumni" title="Category:University of Washington alumni">University of Washington alumni</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Scientists_from_Bucharest" title="Category:Scientists from Bucharest">Scientists from Bucharest</a></li><li><a href="/wiki/Category:Facebook_employees" title="Category:Facebook employees">Facebook employees</a></li><li><a href="/wiki/Category:1969_births" title="Category:1969 births">1969 births</a></li><li><a href="/wiki/Category:Romanian_emigrants_to_the_United_States" title="Category:Romanian emigrants to the United States">Romanian emigrants to the United States</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_topics_of_unclear_notability_from_October_2015" title="Category:Articles with topics of unclear notability from October 2015">Articles with topics of unclear notability from October 2015</a></li><li><a href="/wiki/Category:All_articles_with_topics_of_unclear_notability" title="Category:All articles with topics of unclear notability">All articles with topics of unclear notability</a></li><li><a href="/wiki/Category:Biography_articles_with_topics_of_unclear_notability" title="Category:Biography articles with topics of unclear notability">Biography articles with topics of unclear notability</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_Romanian-language_sources_(ro)" title="Category:Articles with Romanian-language sources (ro)">Articles with Romanian-language sources (ro)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2012" title="Category:Use dmy dates from March 2012">Use dmy dates from March 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_CINII_identifiers" title="Category:Wikipedia articles with CINII identifiers">Wikipedia articles with CINII identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLK_identifiers" title="Category:Wikipedia articles with NLK identifiers">Wikipedia articles with NLK identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLP_identifiers" title="Category:Wikipedia articles with NLP identifiers">Wikipedia articles with NLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PLWABN_identifiers" title="Category:Wikipedia articles with PLWABN identifiers">Wikipedia articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_RERO_identifiers" title="Category:Wikipedia articles with RERO identifiers">Wikipedia articles with RERO identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andrei+Alexandrescu" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andrei+Alexandrescu" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Andrei_Alexandrescu" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Andrei_Alexandrescu" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Andrei_Alexandrescu">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andrei_Alexandrescu" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andrei_Alexandrescu" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andrei_Alexandrescu&amp;oldid=984837455" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andrei_Alexandrescu&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andrei_Alexandrescu&amp;id=984837455&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92878" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Andrei_Alexandrescu&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Andrei_Alexandrescu&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Andrei_Alexandrescu" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D1%81%D0%BA%D1%83,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9" title="Александреску, Андрей – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Andrei_Alexandrescu" title="Andrei Alexandrescu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%BE%B7%E9%9B%B7%E6%96%AF%E5%BA%AB" title="安德烈·亞歷山德雷斯庫 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92878#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 22 October 2020, at 12:02<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andrei_Alexandrescu&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.855","walltime":"1.402","ppvisitednodes":{"value":2009,"limit":1000000},"postexpandincludesize":{"value":86908,"limit":2097152},"templateargumentsize":{"value":1476,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31186,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1258.460      1 -total"," 24.02%  302.302      1 Template:Infobox_person"," 20.31%  255.623      1 Template:Notability"," 18.70%  235.345      1 Template:Infobox"," 17.86%  224.814      1 Template:Ambox"," 14.70%  185.010      3 Template:Cite_book"," 14.67%  184.626      1 Template:In_lang","  9.85%  123.995      5 Template:Br_separated_entries","  9.28%  116.847      1 Template:Find_sources_mainspace","  9.16%  115.260      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.532","limit":"10.000"},"limitreport-memusage":{"value":18063504,"limit":52428800}},"cachereport":{"origin":"mw1367","timestamp":"20210220141953","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrei Alexandrescu","url":"https:\/\/en.wikipedia.org\/wiki\/Andrei_Alexandrescu","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92878","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92878","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-12-10T10:35:04Z","dateModified":"2020-10-22T12:02:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/57\/AndreiAlexandrescu.jpg","headline":"Romanian computer scientist and author"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":185,"wgHostname":"mw1364"});});</script>
+</body></html>

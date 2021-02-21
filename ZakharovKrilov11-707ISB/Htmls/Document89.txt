@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Adele Goldberg (computer scientist) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDGlEyzq64jy@bwW@zw6tAAAAAE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Adele_Goldberg_(computer_scientist)","wgTitle":"Adele Goldberg (computer scientist)","wgCurRevisionId":1005408724,"wgRevisionId":1005408724,"wgArticleId":246513,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia external links cleanup from January 2020","Wikipedia spam cleanup from January 2020","Articles with short description","Short description matches Wikidata","Use mdy dates from October 2018","Articles with hCards",
+"Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CINII identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with Trove identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1945 births","20th-century American non-fiction writers","20th-century American scientists","20th-century American women writers","20th-century American women scientists","21st-century American scientists","21st-century American women writers","21st-century American women scientists","American computer scientists","American Jews","American technology writers",
+"American women computer scientists","Engineers from Illinois","Engineers from Ohio","Fellows of the Association for Computing Machinery","Jewish women scientists","Living people","Presidents of the Association for Computing Machinery","Scientists at PARC (company)","Scientists from California","Scientists from Chicago","Scientists from Cleveland","University of Michigan College of Literature, Science, and the Arts alumni","Women technology writers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Adele_Goldberg_(computer_scientist)","wgRelevantArticleId":246513,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"
+},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q11605"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/36/Adele_Goldberg_at_PyCon_2007.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Adele_Goldberg_computer_scientist rootpage-Adele_Goldberg_computer_scientist skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Adele Goldberg (computer scientist)</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-External_links plainlinks metadata ambox ambox-style ambox-external_links" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links,_images,_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span>  <small class="date-container"><i>(<span class="date">January 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American computer scientist</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Adele Goldberg</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Adele_Goldberg_at_PyCon_2007.jpg" class="image"><img alt="Adele Goldberg at PyCon 2007.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adele_Goldberg_at_PyCon_2007.jpg/220px-Adele_Goldberg_at_PyCon_2007.jpg" decoding="async" width="220" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adele_Goldberg_at_PyCon_2007.jpg/330px-Adele_Goldberg_at_PyCon_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adele_Goldberg_at_PyCon_2007.jpg/440px-Adele_Goldberg_at_PyCon_2007.jpg 2x" data-file-width="1024" data-file-height="802" /></a><div>Adele Goldberg at <a href="/wiki/PyCon" class="mw-redirect" title="PyCon">PyCon</a> 2007</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1945-07-22</span>) </span>July 22, 1945<span class="noprint ForceAgeToShow"> (age&#160;75)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Cleveland,_Ohio" class="mw-redirect" title="Cleveland, Ohio">Cleveland, Ohio</a>, U.S.</div></td></tr><tr><th scope="row">Nationality</th><td class="category"><a href="/wiki/United_States" title="United States">American</a></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a>, <a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> System</td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/Xerox_PARC" class="mw-redirect" title="Xerox PARC">Xerox PARC</a>,  <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>, <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Adele Goldberg</b> (born July 22, 1945) is a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> who participated in developing the <a href="/wiki/Programming_language" title="Programming language">programming language</a> <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>-80 and various concepts related to <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented programming</a> while a researcher at the <a href="/wiki/Xerox" title="Xerox">Xerox</a> <a href="/wiki/PARC_(company)" title="PARC (company)">Palo Alto Research Center</a> (PARC), in the 1970s.<sup id="cite_ref-Oakes_1-0" class="reference"><a href="#cite_note-Oakes-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Selected_publications"><span class="tocnumber">2</span> <span class="toctext">Selected publications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>She was born in <a href="/wiki/Cleveland" title="Cleveland">Cleveland</a>, <a href="/wiki/Ohio" title="Ohio">Ohio</a>, and grew up in <a href="/wiki/Chicago" title="Chicago">Chicago</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a>. She received her bachelor's degree in mathematics at the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a> in Ann Arbor, and a master's degree in information science from the <a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a>. She received her PhD in information science from the University of Chicago in 1973. She completed her dissertation, "Computer-Assisted Instruction: The Application of Theorem-proving to Adaptive Response Analysis," while working as a research associate at Stanford University.<sup id="cite_ref-Oakes_1-1" class="reference"><a href="#cite_note-Oakes-1">&#91;1&#93;</a></sup> She also served as a visiting researcher at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.<sup id="cite_ref-bio_2-0" class="reference"><a href="#cite_note-bio-2">&#91;2&#93;</a></sup>
+</p><p>Goldberg began working at PARC in 1973 as a laboratory and research assistant, and eventually became manager of the System Concepts Laboratory where she, <a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a>, and others developed <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>-80, which both developed the object-oriented approach of <a href="/wiki/Simula" title="Simula">Simula</a> 67 and introduced a programming environment of overlapping windows on graphic display screens. Not only was Smalltalk's innovative format simpler to use, it was also customizable and objects could be transferred among applications with minimal effort.<sup id="cite_ref-Oakes_1-2" class="reference"><a href="#cite_note-Oakes-1">&#91;1&#93;</a></sup><sup id="cite_ref-bio_2-1" class="reference"><a href="#cite_note-bio-2">&#91;2&#93;</a></sup> Goldberg and Kay also were involved in the development of <i>design templates</i>, forerunners of the <a href="/wiki/Design_pattern" title="Design pattern">design patterns</a> commonly used in software design.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Along with Kay, she wrote the influential article "Personal Dynamic Media", which predicted a world where ordinary individuals would use notebook computers to exchange, modify, and redistribute personal media.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> This paper outlined the vision for the <a href="/wiki/Dynabook" title="Dynabook">Dynabook</a>.
+</p><p>She was  president of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM) from 1984 to 1986, and, together with Alan Kay and <a href="/wiki/Dan_Ingalls" title="Dan Ingalls">Dan Ingalls</a>, received the ACM Software Systems Award in 1987 and was also included in Forbes's "Twenty Who Matter".<sup id="cite_ref-Oakes_1-3" class="reference"><a href="#cite_note-Oakes-1">&#91;1&#93;</a></sup> She also received <i>PC Magazine'</i>s Lifetime Achievement Award in 1996.<sup id="cite_ref-Oakes_1-4" class="reference"><a href="#cite_note-Oakes-1">&#91;1&#93;</a></sup> In 1994, she was inducted as a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>.<sup id="cite_ref-bio_2-2" class="reference"><a href="#cite_note-bio-2">&#91;2&#93;</a></sup>
+</p><p>Many of the concepts developed by Goldberg and her team at PARC became the basis for graphically based user interfaces, replacing the earlier command line based systems. According to Goldberg, <a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> demanded a demonstration of the <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk System</a>, which she refused to give him.  Her superiors eventually ordered her to, at which point she complied, satisfied that the decision to "give away the kitchen sink" to Jobs and his team was then their responsibility.<sup id="cite_ref-totn_5-0" class="reference"><a href="#cite_note-totn-5">&#91;5&#93;</a></sup>  Apple eventually used many of the ideas in the Alto and their implementations as the basis for their Apple <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> <a href="/wiki/Desktop_environment" title="Desktop environment">desktop environment</a>.
+</p><p>In 1988, Goldberg left PARC to co-found ParcPlace Systems, a company that created development tools for Smalltalk-based applications. She served as ParcPlace Systems's chairwoman and CEO until its 1995 merger with Digitalk.
+</p><p>She cofounded, and is currently working at Neometron, Inc. an Internet support provider in 1999, of <a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto</a>, <a href="/wiki/California" title="California">California</a>. She works at <a href="/w/index.php?title=Bullitics&amp;action=edit&amp;redlink=1" class="new" title="Bullitics (page does not exist)">Bullitics</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> At the same time, she continues to pursue her interest in education, formulating computer science courses at community colleges in the United States and at schools abroad. In the same vein, she is a board member and adviser at Cognito Learning Media, a provider of multimedia software for science education.<sup id="cite_ref-Oakes_1-5" class="reference"><a href="#cite_note-Oakes-1">&#91;1&#93;</a></sup>
+</p><p>The <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> houses a collection of Goldberg's working documents, reports, publications and videotapes related to her work on the development of Smalltalk.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Selected_publications">Selected publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit&amp;section=2" title="Edit section: Selected publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Smalltalk-80: The Language and Its Implementation</i> (with <a href="/wiki/David_Robson" title="David Robson">David Robson</a>), Addison-Wesley, 1983, <style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-11371-6" title="Special:BookSources/0-201-11371-6">0-201-11371-6</a> (out of print; called the <i>blue book</i> by Smalltalk people)</li>
+<li><i>Smalltalk-80: the Interactive Programming Environment</i>, Addison-Wesley, 1984, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-11372-4" title="Special:BookSources/0-201-11372-4">0-201-11372-4</a> (the <i>orange book</i>)</li>
+<li><i>Smalltalk-80: The Language</i> (with David Robson), Addison-Wesley, 1989, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-13688-0" title="Special:BookSources/0-201-13688-0">0-201-13688-0</a> (the <i>purple book</i>, a revision of the <i>blue book</i>)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Oakes-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oakes_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oakes_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Oakes_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Oakes_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Oakes_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Oakes_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOakes2002" class="citation book cs1">Oakes, Elizabeth H. (2002). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/internationalenc00oake/page/136"><i>International encyclopedia of women scientists</i></a></span>. New York, NY: Facts on File. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/internationalenc00oake/page/136">136–137</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0816043811" title="Special:BookSources/978-0816043811"><bdi>978-0816043811</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=International+encyclopedia+of+women+scientists&amp;rft.place=New+York%2C+NY&amp;rft.pages=136-137&amp;rft.pub=Facts+on+File&amp;rft.date=2002&amp;rft.isbn=978-0816043811&amp;rft.aulast=Oakes&amp;rft.aufirst=Elizabeth+H.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Finternationalenc00oake%2Fpage%2F136&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdele+Goldberg+%28computer+scientist%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bio-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-bio_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bio_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bio_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://www.bookrags.com/biography/adele-goldberg-wcs/"><i>Adele Goldberg Biography</i></a>. BookRags.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Adele+Goldberg+Biography&amp;rft.pub=BookRags&amp;rft_id=http%3A%2F%2Fwww.bookrags.com%2Fbiography%2Fadele-goldberg-wcs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdele+Goldberg+%28computer+scientist%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Chamond Liu, <i>Smalltalk, Objects, and Design</i> (San Jose, New York, and Shanghai: toExcel, 2000), 240</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFKayGoldberg1977" class="citation journal cs1">Kay, Alan C.; Goldberg, Adele (March 1977). "Personal Dynamic Media". <i>Computer</i>. <b>10</b> (3): 31–41. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2Fc-m.1977.217672">10.1109/c-m.1977.217672</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:15070347">15070347</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computer&amp;rft.atitle=Personal+Dynamic+Media&amp;rft.volume=10&amp;rft.issue=3&amp;rft.pages=31-41&amp;rft.date=1977-03&amp;rft_id=info%3Adoi%2F10.1109%2Fc-m.1977.217672&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A15070347%23id-name%3DS2CID&amp;rft.aulast=Kay&amp;rft.aufirst=Alan+C.&amp;rft.au=Goldberg%2C+Adele&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdele+Goldberg+%28computer+scientist%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-totn-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-totn_5-0">^</a></b></span> <span class="reference-text"><i>Triumph of the Nerds, The Television Program Transcripts: <a rel="nofollow" class="external text" href="https://www.pbs.org/nerds/part3.html">Part III</a></i> June 1996</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120426065335/http://www.bullitics.com/content/team.html">"The Team - Bios"</a>. <i>Bullitics - Beta</i>. April 26, 2012. Archived from <a rel="nofollow" class="external text" href="http://www.bullitics.com/content/team.html">the original</a> on April 26, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">September 8,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bullitics+-+Beta&amp;rft.atitle=The+Team+-+Bios&amp;rft.date=2012-04-26&amp;rft_id=http%3A%2F%2Fwww.bullitics.com%2Fcontent%2Fteam.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdele+Goldberg+%28computer+scientist%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/collections/catalog/102733960">"Guide to the Adele Goldberg papers"</a>. <i>Computer History Museum</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 28,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Computer+History+Museum&amp;rft.atitle=Guide+to+the+Adele+Goldberg+papers&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Fcollections%2Fcatalog%2F102733960&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdele+Goldberg+%28computer+scientist%29" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>A <a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/muiseum/goldberg/goldberg_page.htm">brief biography</a></li>
+<li><a rel="nofollow" class="external text" href="http://www-2.cs.cmu.edu/Groups/AI/html/faqs/lang/smalltalk/faq.html">Smalltalk FAQ</a> (reference for publications)</li>
+<li><a rel="nofollow" class="external text" href="http://www.ieeeghn.org/wiki/index.php/Oral-History:Adele_Goldberg">Transcript of interview from IEEE Global History Network</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170912152617/http://neometron.com/">Neometron</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=IGNiH85PLVg">Oral History of Adele Goldberg, Computer History Museum</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Smalltalk_programming_language" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Smalltalk_programming_language" title="Template:Smalltalk programming language"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Smalltalk_programming_language" title="Template talk:Smalltalk programming language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Smalltalk_programming_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Smalltalk_programming_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Smalltalk_(programming_language)" class="mw-redirect" title="Smalltalk (programming language)">Smalltalk programming language</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_implementation" title="Programming language implementation">Implementations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Major</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amber_Smalltalk" title="Amber Smalltalk">Amber</a></li>
+<li><a href="/wiki/Dolphin_Smalltalk" title="Dolphin Smalltalk">Dolphin Smalltalk</a></li>
+<li><a href="/wiki/Gemstone_(database)" title="Gemstone (database)">GemStone/S</a></li>
+<li><a href="/wiki/GNU_Smalltalk" title="GNU Smalltalk">GNU Smalltalk</a></li>
+<li><a href="/wiki/Pharo" title="Pharo">Pharo</a></li>
+<li>Smalltalk/X</li>
+<li><a href="/wiki/Squeak" title="Squeak">Squeak</a></li>
+<li><a href="/wiki/IBM_VisualAge" class="mw-redirect" title="IBM VisualAge">VisualAge Smalltalk</a></li>
+<li><a href="/wiki/VisualWorks" title="VisualWorks">VisualWorks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dialect_(computing)" class="mw-redirect" title="Dialect (computing)">Dialects</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a></li>
+<li><a href="/wiki/Little_Smalltalk" title="Little Smalltalk">Little Smalltalk</a></li>
+<li><a href="/wiki/Newspeak_(programming_language)" title="Newspeak (programming language)">Newspeak</a></li>
+<li><a href="/wiki/Pocket_Smalltalk" title="Pocket Smalltalk">Pocket Smalltalk</a></li>
+<li><a href="/wiki/Self_(programming_language)" title="Self (programming language)">Self</a></li>
+<li><a href="/wiki/StepTalk" title="StepTalk">StepTalk</a></li>
+<li><a href="/wiki/Strongtalk" title="Strongtalk">Strongtalk</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software" title="Software">Software</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AIDA/Web" title="AIDA/Web">AIDA/Web</a></li>
+<li><a href="/wiki/Croquet_Project" title="Croquet Project">Croquet</a></li>
+<li><a href="/wiki/Gemstone_(database)" title="Gemstone (database)">GemStone/S</a></li>
+<li><a href="/wiki/Open_Cobalt" title="Open Cobalt">Open Cobalt</a></li>
+<li><a href="/wiki/Seaside_(software)" title="Seaside (software)">Seaside</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Community_of_practice" title="Community of practice">Community</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Business" title="Business">Business</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cincom_Systems" title="Cincom Systems">Cincom Systems</a></li>
+<li><a href="/wiki/Gemstone_(database)" title="Gemstone (database)">Gemstone</a></li>
+<li><a href="/wiki/IBM" title="IBM">IBM</a></li>
+<li>Object Arts</li>
+<li><a href="/wiki/PARC_(company)" title="PARC (company)">Xerox PARC</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lars_Bak_(computer_programmer)" title="Lars Bak (computer programmer)">Lars Bak</a></li>
+<li><a href="/wiki/Gilad_Bracha" title="Gilad Bracha">Gilad Bracha</a></li>
+<li><a href="/wiki/L._Peter_Deutsch" title="L. Peter Deutsch">L. Peter Deutsch</a></li>
+<li><a class="mw-selflink selflink">Adele Goldberg</a></li>
+<li><a href="/wiki/Urs_H%C3%B6lzle" title="Urs Hölzle">Urs Hölzle</a></li>
+<li><a href="/wiki/Dan_Ingalls" title="Dan Ingalls">Dan Ingalls</a></li>
+<li><a href="/wiki/Ted_Kaehler" title="Ted Kaehler">Ted Kaehler</a></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a></li>
+<li><a href="/wiki/Diana_Merry" title="Diana Merry">Diana Merry</a></li>
+<li><a href="/wiki/Larry_Tesler" title="Larry Tesler">Larry Tesler</a></li>
+<li>Scott Wallace</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Smalltalk_programming_language_family" title="Category:Smalltalk programming language family">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q11605#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q11605#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q11605#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_DL_(identifier)" class="mw-redirect" title="ACM DL (identifier)">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/profile/81332500811">81332500811</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12541122z">cb12541122z</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb12541122z">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CiNii_(identifier)" class="mw-redirect" title="CiNii (identifier)">CiNii</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA00148602?l=en">DA00148602</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/g/AdeleGoldberg">g/AdeleGoldberg</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/132191067">132191067</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000066507358">0000 0000 6650 7358</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n82091660">n82091660</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NDL_(identifier)" class="mw-redirect" title="NDL (identifier)">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00441140">00441140</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLA_(identifier)" class="mw-redirect" title="NLA (identifier)">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an36534268">36534268</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLI_(identifier)" class="mw-redirect" title="NLI (identifier)">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=002327723&amp;local_base=nlx10">002327723</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SUDOC_(identifier)" class="mw-redirect" title="SUDOC (identifier)">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/034682163">034682163</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Trove_(identifier)" class="mw-redirect" title="Trove (identifier)">Trove</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/1277644">1277644</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/94780281">94780281</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n82091660">lccn-n82091660</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20210215164540
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.836 seconds
+Real time usage: 2.531 seconds
+Preprocessor visited node count: 2841/1000000
+Post‐expand include size: 51320/2097152 bytes
+Template argument size: 4043/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24474/5000000 bytes
+Lua time usage: 0.355/10.000 seconds
+Lua memory usage: 6872979/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2387.704      1 -total
+ 26.99%  644.501      1 Template:Infobox_scientist
+ 25.17%  600.973      1 Template:Infobox_person
+ 21.30%  508.517      1 Template:External_links
+ 19.78%  472.392      1 Template:Ambox
+ 18.05%  431.029      2 Template:Infobox
+ 15.80%  377.280      3 Template:ISBN
+  9.42%  224.803      5 Template:Br_separated_entries
+  9.12%  217.766      1 Template:Authority_control
+  7.39%  176.423      3 Template:Catalog_lookup_link
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:246513-0!canonical and timestamp 20210215164537 and revision id 1005408724. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;oldid=1005408724">https://en.wikipedia.org/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;oldid=1005408724</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1945_births" title="Category:1945 births">1945 births</a></li><li><a href="/wiki/Category:20th-century_American_non-fiction_writers" title="Category:20th-century American non-fiction writers">20th-century American non-fiction writers</a></li><li><a href="/wiki/Category:20th-century_American_scientists" title="Category:20th-century American scientists">20th-century American scientists</a></li><li><a href="/wiki/Category:20th-century_American_women_writers" title="Category:20th-century American women writers">20th-century American women writers</a></li><li><a href="/wiki/Category:20th-century_American_women_scientists" title="Category:20th-century American women scientists">20th-century American women scientists</a></li><li><a href="/wiki/Category:21st-century_American_scientists" title="Category:21st-century American scientists">21st-century American scientists</a></li><li><a href="/wiki/Category:21st-century_American_women_writers" title="Category:21st-century American women writers">21st-century American women writers</a></li><li><a href="/wiki/Category:21st-century_American_women_scientists" title="Category:21st-century American women scientists">21st-century American women scientists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:American_Jews" title="Category:American Jews">American Jews</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:American_women_computer_scientists" title="Category:American women computer scientists">American women computer scientists</a></li><li><a href="/wiki/Category:Engineers_from_Illinois" title="Category:Engineers from Illinois">Engineers from Illinois</a></li><li><a href="/wiki/Category:Engineers_from_Ohio" title="Category:Engineers from Ohio">Engineers from Ohio</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Jewish_women_scientists" title="Category:Jewish women scientists">Jewish women scientists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Presidents_of_the_Association_for_Computing_Machinery" title="Category:Presidents of the Association for Computing Machinery">Presidents of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Scientists_at_PARC_(company)" title="Category:Scientists at PARC (company)">Scientists at PARC (company)</a></li><li><a href="/wiki/Category:Scientists_from_California" title="Category:Scientists from California">Scientists from California</a></li><li><a href="/wiki/Category:Scientists_from_Chicago" title="Category:Scientists from Chicago">Scientists from Chicago</a></li><li><a href="/wiki/Category:Scientists_from_Cleveland" title="Category:Scientists from Cleveland">Scientists from Cleveland</a></li><li><a href="/wiki/Category:University_of_Michigan_College_of_Literature,_Science,_and_the_Arts_alumni" title="Category:University of Michigan College of Literature, Science, and the Arts alumni">University of Michigan College of Literature, Science, and the Arts alumni</a></li><li><a href="/wiki/Category:Women_technology_writers" title="Category:Women technology writers">Women technology writers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_January_2020" title="Category:Wikipedia external links cleanup from January 2020">Wikipedia external links cleanup from January 2020</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_January_2020" title="Category:Wikipedia spam cleanup from January 2020">Wikipedia spam cleanup from January 2020</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_October_2018" title="Category:Use mdy dates from October 2018">Use mdy dates from October 2018</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_CINII_identifiers" title="Category:Wikipedia articles with CINII identifiers">Wikipedia articles with CINII identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_Trove_identifiers" title="Category:Wikipedia articles with Trove identifiers">Wikipedia articles with Trove identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Adele+Goldberg+%28computer+scientist%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Adele+Goldberg+%28computer+scientist%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Adele_Goldberg_(computer_scientist)" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Adele_Goldberg_(computer_scientist)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Adele_Goldberg_(computer_scientist)">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Adele_Goldberg_(computer_scientist)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Adele_Goldberg_(computer_scientist)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;oldid=1005408724" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Adele_Goldberg_%28computer_scientist%29&amp;id=1005408724&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11605" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Adele_Goldberg_%28computer_scientist%29&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Adele_Goldberg" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%AF%D9%8A%D9%84_%D8%BA%D9%88%D9%84%D8%AF%D8%A8%D8%B1%D8%BA_(%D8%B9%D8%A7%D9%84%D9%85%D8%A9_%D8%AD%D8%A7%D8%B3%D9%88%D8%A8%D8%8C_1945)" title="أديل غولدبرغ (عالمة حاسوب، 1945) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%AF%D9%84_%DA%AF%D9%84%D8%AF%D8%A8%D8%B1%DA%AF" title="ادل گلدبرگ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%8D%B8_%EA%B3%A8%EB%93%9C%EB%B2%84%EA%B7%B8" title="아델 골드버그 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%93%D7%9C_%D7%92%D7%95%D7%9C%D7%93%D7%91%D7%A8%D7%92" title="אדל גולדברג – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A1%E0%B5%87%E0%B5%BD_%E0%B4%97%E0%B5%8B%E0%B5%BE%E0%B4%A1%E0%B5%8D%E0%B4%AC%E0%B5%BC%E0%B4%97%E0%B5%8D_(%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E2%80%8C%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%9C%E0%B5%8D%E0%B4%9E)" title="അഡേൽ ഗോൾഡ്ബർഗ് (കമ്പ്യൂട്ടർ ശാസ്‌ത്രജ്ഞ) – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%83%AB%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0" title="アデル・ゴールドバーグ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D0%B1%D0%B5%D1%80%D0%B3,_%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82)" title="Голдберг, Адель (программист) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Adele_Goldberg" title="Adele Goldberg – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Adele_Goldberg_(datavetare)" title="Adele Goldberg (datavetare) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Adele_Goldberg_(bilgisayar_bilimcisi)" title="Adele Goldberg (bilgisayar bilimcisi) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_%D0%93%D0%BE%D0%BB%D0%B4%D0%B1%D0%B5%D1%80%D0%B3_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%96%D1%81%D1%82%D0%BA%D0%B0)" title="Адель Голдберг (програмістка) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11605#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 7 February 2021, at 14:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Adele_Goldberg_(computer_scientist)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.836","walltime":"2.531","ppvisitednodes":{"value":2841,"limit":1000000},"postexpandincludesize":{"value":51320,"limit":2097152},"templateargumentsize":{"value":4043,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24474,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2387.704      1 -total"," 26.99%  644.501      1 Template:Infobox_scientist"," 25.17%  600.973      1 Template:Infobox_person"," 21.30%  508.517      1 Template:External_links"," 19.78%  472.392      1 Template:Ambox"," 18.05%  431.029      2 Template:Infobox"," 15.80%  377.280      3 Template:ISBN","  9.42%  224.803      5 Template:Br_separated_entries","  9.12%  217.766      1 Template:Authority_control","  7.39%  176.423      3 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.355","limit":"10.000"},"limitreport-memusage":{"value":6872979,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20210215164540","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Adele Goldberg (computer scientist)","url":"https:\/\/en.wikipedia.org\/wiki\/Adele_Goldberg_(computer_scientist)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11605","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11605","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-15T02:45:11Z","dateModified":"2021-02-07T14:39:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/36\/Adele_Goldberg_at_PyCon_2007.jpg","headline":"American computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142,"wgHostname":"mw1266"});});</script>
+</body></html>

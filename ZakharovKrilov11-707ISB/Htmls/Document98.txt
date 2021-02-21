@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Richard Greenblatt (programmer) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIoA@xE8THfACmgpih-AAAAAc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Richard_Greenblatt_(programmer)","wgTitle":"Richard Greenblatt (programmer)","wgCurRevisionId":999091354,"wgRevisionId":999091354,"wgArticleId":505550,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with hCards","Pages using infobox scientist with unknown parameters","All articles with unsourced statements","Articles with unsourced statements from August 2020","Commons category link is on Wikidata",
+"Wikipedia articles with DBLP identifiers","1944 births","Living people","Lisp (programming language) people","People from Portland, Oregon","Massachusetts Institute of Technology alumni","American computer businesspeople","Artificial intelligence researchers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Richard_Greenblatt_(programmer)","wgRelevantArticleId":505550,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":
+"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2469699"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Greenblattrpg-6cropped.jpg/1200px-Greenblattrpg-6cropped.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Richard_Greenblatt_(programmer)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Richard_Greenblatt_(programmer)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Richard_Greenblatt_programmer rootpage-Richard_Greenblatt_programmer skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Richard Greenblatt (programmer)</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Richard D. Greenblatt</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Greenblattrpg-6cropped.jpg" class="image" title="Color photograph of older Caucasian man with grey hair wearing blue flannel shirt and glasses."><img alt="Color photograph of older Caucasian man with grey hair wearing blue flannel shirt and glasses." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Greenblattrpg-6cropped.jpg/220px-Greenblattrpg-6cropped.jpg" decoding="async" width="220" height="255" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Greenblattrpg-6cropped.jpg/330px-Greenblattrpg-6cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Greenblattrpg-6cropped.jpg/440px-Greenblattrpg-6cropped.jpg 2x" data-file-width="2017" data-file-height="2338" /></a><div>Richard Greenblatt in 2009</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1944-12-25</span>) </span>December 25, 1944<span class="noprint ForceAgeToShow"> (age&#160;76)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Portland,_Oregon" title="Portland, Oregon">Portland</a>, <a href="/wiki/Oregon" title="Oregon">Oregon</a></div></td></tr><tr><th scope="row">Citizenship</th><td class="category"><a href="/wiki/United_States" title="United States">United States</a></td></tr><tr><th scope="row">Education</th><td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT)</td></tr><tr><th scope="row">Known&#160;for</th><td><div class="plainlist">
+<ul><li><a href="/wiki/Mac_Hack" title="Mac Hack">Mac Hack</a> chess computer</li>
+<li><a href="/wiki/Maclisp" title="Maclisp">Maclisp</a></li>
+<li><a href="/wiki/Transposition_table" title="Transposition table">Transposition table</a></li>
+<li><a href="/wiki/Incompatible_Timesharing_System" title="Incompatible Timesharing System">Incompatible Timesharing System</a></li></ul>
+</div></td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></td></tr><tr><th scope="row">Institutions</th><td><div class="plainlist">
+<ul><li>MIT</li>
+<li><a href="/wiki/Lisp_Machines" title="Lisp Machines">Lisp Machines</a></li></ul>
+</div></td></tr><tr><th scope="row">Influences</th><td><a href="/wiki/Alan_Kotok" title="Alan Kotok">Alan Kotok</a></td></tr><tr><th scope="row">Influenced</th><td><a href="/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman">Gerald Jay Sussman</a>, <a href="/wiki/Hal_Abelson" title="Hal Abelson">Hal Abelson</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Richard D. Greenblatt</b> (born December 25, 1944) is an American <a href="/wiki/Computer" title="Computer">computer</a> <a href="/wiki/Programmer" title="Programmer">programmer</a>.  Along with <a href="/wiki/Bill_Gosper" title="Bill Gosper">Bill Gosper</a>, he may be considered to have founded the <a href="/wiki/Hacker_(programmer_subculture)" class="mw-redirect" title="Hacker (programmer subculture)">hacker</a> community,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and holds a place of distinction in the <a href="/wiki/Community_of_practice" title="Community of practice">communities</a> of the programming language <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a> and of the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT) <a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">Artificial Intelligence Laboratory</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Becoming_a_hacker"><span class="tocnumber">2.1</span> <span class="toctext">Becoming a hacker</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Lisp_Machines,_Inc."><span class="tocnumber">2.2</span> <span class="toctext">Lisp Machines, Inc.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Significant_software_developed"><span class="tocnumber">3</span> <span class="toctext">Significant software developed</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Greenblatt was born in Portland, Oregon on December 25, 1944. His family moved to Philadelphia, Pennsylvania when he was a child. He later moved to Columbia, Missouri with his mother and sister when his parents divorced.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Becoming_a_hacker">Becoming a hacker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=3" title="Edit section: Becoming a hacker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Greenblatt enrolled in <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a> in the fall of 1962, and around his second term as an undergraduate student, he found his way to MIT's famous <a href="/wiki/Tech_Model_Railroad_Club" title="Tech Model Railroad Club">Tech Model Railroad Club</a>.  At that time, <a href="/wiki/Peter_Samson" title="Peter Samson">Peter Samson</a> had written a program in <a href="/wiki/Fortran" title="Fortran">Fortran</a> for the <a href="/wiki/IBM_709" title="IBM 709">IBM 709</a> series machines, to automate the tedious business of writing the intricate timetables for the Railroad Club's vast model train layout. Greenblatt felt compelled to implement a Fortran <a href="/wiki/Compiler" title="Compiler">compiler</a> for the <a href="/wiki/PDP-1" title="PDP-1">PDP-1</a>, which then lacked one.  There was no computer time available to <a href="/wiki/Debugging" title="Debugging">debug</a> the compiler, or even to type it into the computer.  Years later, elements of this compiler (combined with some ideas from fellow TMRC member Steven Piner, the author of a very early <a href="/wiki/PDP-4" title="PDP-4">PDP-4</a> Fortran compiler while working for <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a>) were typed in and "showed signs of life".  However, the perceived need for a Fortran compiler had evaporated by then, so the compiler was not pursued further.  This and other experiences at TMRC, especially the influence of <a href="/wiki/Alan_Kotok" title="Alan Kotok">Alan Kotok</a>, who worked at DEC and was the junior partner of the design team for the <a href="/wiki/PDP-6" title="PDP-6">PDP-6</a> computer, led Greenblatt to  the <a href="/wiki/MIT_Artificial_Intelligence_Laboratory" class="mw-redirect" title="MIT Artificial Intelligence Laboratory">AI Lab</a>, where he proceeded to become a "hacker's hacker" noted for his programming acumen as described in <a href="/wiki/Steven_Levy" title="Steven Levy">Steven Levy</a>'s <i><a href="/wiki/Hackers:_Heroes_of_the_Computer_Revolution" title="Hackers: Heroes of the Computer Revolution">Hackers: Heroes of the Computer Revolution</a></i>, and as acknowledged by <a href="/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman">Gerald Jay Sussman</a> and <a href="/wiki/Harold_Abelson" class="mw-redirect" title="Harold Abelson">Harold Abelson</a> when they said they were fortunate to have been apprentice programmers at the feet of <a href="/wiki/Bill_Gosper" title="Bill Gosper">Bill Gosper</a> and Richard Greenblatt.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Indeed, he spent so much time programming the <a href="/wiki/Programmed_Data_Processor" title="Programmed Data Processor">Programmed Data Processor</a> (PDP) machines there that he failed out of MIT as a first-term junior and had to take a job at a firm, Charles Adams Associates, until the AI Lab hired him about 6 months later.
+</p>
+<h3><span id="Lisp_Machines.2C_Inc."></span><span class="mw-headline" id="Lisp_Machines,_Inc.">Lisp Machines, Inc.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=4" title="Edit section: Lisp Machines, Inc.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1979, he and <a href="/wiki/Tom_Knight_(scientist)" title="Tom Knight (scientist)">Tom Knight</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> were the main designers of the MIT <a href="/wiki/Lisp_machine" title="Lisp machine">Lisp machine</a>. He founded <a href="/wiki/Lisp_Machines" title="Lisp Machines">Lisp Machines</a>, Inc. (later renamed Gigamos Systems), according to his vision of an ideal hacker-friendly computer company, as opposed to the more commercial ideals of <a href="/wiki/Symbolics" title="Symbolics">Symbolics</a>.
+</p>
+<h2><span class="mw-headline" id="Significant_software_developed">Significant software developed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=5" title="Edit section: Significant software developed">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was the main implementor of <a href="/wiki/Maclisp" title="Maclisp">Maclisp</a> on the <a href="/wiki/PDP-6" title="PDP-6">PDP-6</a>. He wrote <a href="/wiki/Mac_Hack" title="Mac Hack">Mac Hack</a>, the first computer program to play tournament-level chess and the first to compete in a human chess tournament.  AI skeptic <a href="/wiki/Hubert_Dreyfus" title="Hubert Dreyfus">Hubert Dreyfus</a>, who famously made the claim that computers would not be able to play high-quality chess, was beaten by the program, marking the start of "respectable" <a href="/wiki/Computer_chess" title="Computer chess">computer chess</a> performances. In 1977, unbeaten chess champion <a href="/wiki/Bobby_Fischer" title="Bobby Fischer">Bobby Fischer</a> played three games in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a> against Greenblatt's computer program, and Fischer won all of them.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Greenblatt, along with <a href="/wiki/Tom_Knight_(scientist)" title="Tom Knight (scientist)">Tom Knight</a> and <a href="/wiki/Stewart_Nelson_(hacker)" class="mw-redirect" title="Stewart Nelson (hacker)">Stewart Nelson</a>, co-wrote the <a href="/wiki/Incompatible_Timesharing_System" title="Incompatible Timesharing System">Incompatible Timesharing System</a> (ITS), a highly influential <a href="/wiki/Time-sharing" title="Time-sharing">time-sharing</a> operating system for the <a href="/wiki/PDP-6" title="PDP-6">PDP-6</a> and <a href="/wiki/PDP-10" title="PDP-10">PDP-10</a> used at <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2020)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFLevy1984" class="citation book cs1"><a href="/wiki/Steven_Levy" title="Steven Levy">Levy, Steven</a> (1984). <a rel="nofollow" class="external text" href="https://mitpress.mit.edu/sites/default/files/sicp/"><i>Hackers: Heroes of the Computer Revolution</i></a>. Massachusetts: MIT Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-51087-1" title="Special:BookSources/0-262-51087-1"><bdi>0-262-51087-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hackers%3A+Heroes+of+the+Computer+Revolution&amp;rft.place=Massachusetts&amp;rft.pub=MIT+Press&amp;rft.date=1984&amp;rft.isbn=0-262-51087-1&amp;rft.aulast=Levy&amp;rft.aufirst=Steven&amp;rft_id=https%3A%2F%2Fmitpress.mit.edu%2Fsites%2Fdefault%2Ffiles%2Fsicp%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARichard+Greenblatt+%28programmer%29" class="Z3988"></span>)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/chess/related_materials/oral-history/greenblatt.oral_history.2005.102634500/index.php?iid=orl-433440f03cfe1">Oral History of Richard Greenblatt</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100223052945/http://www.computerhistory.org/chess/related_materials/oral-history/greenblatt.oral_history.2005.102634500/index.php?iid=orl-433440f03cfe1">Archived</a> 2010-02-23 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation book cs1"><a rel="nofollow" class="external text" href="http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-8.html#%_chap_Temp_5"><i>Structure and Interpretation of Computer Programs</i></a>. MIT Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Structure+and+Interpretation+of+Computer+Programs&amp;rft.pub=MIT+Press&amp;rft_id=http%3A%2F%2Fmitpress.mit.edu%2Fsicp%2Ffull-text%2Fbook%2Fbook-Z-H-8.html%23%25_chap_Temp_5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARichard+Greenblatt+%28programmer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/chess/full_record.php?iid=stl-431614f64ea3e">"Richard Greenblatt and Thomas Knight with the CADR LISP Machine at MIT in 1978"</a>. <i>Computer History Museum</i>. 1978<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Computer+History+Museum&amp;rft.atitle=Richard+Greenblatt+and+Thomas+Knight+with+the+CADR+LISP+Machine+at+MIT+in+1978&amp;rft.date=1978&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Fchess%2Ffull_record.php%3Fiid%3Dstl-431614f64ea3e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARichard+Greenblatt+%28programmer%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAyoub2003–2008" class="citation web cs1">Ayoub, Chuck (2003–2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060103073409/http://www.bobby-fischer.net/Bobby_Fischer_Biography.html">"Bobby Fischer Biography"</a>. Chuck Ayoub. Archived from <a rel="nofollow" class="external text" href="http://www.bobby-fischer.net/Bobby_Fischer_Biography.html">the original</a> on 2006-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bobby+Fischer+Biography&amp;rft.pub=Chuck+Ayoub&amp;rft.date=2003%2F2008&amp;rft.aulast=Ayoub&amp;rft.aufirst=Chuck&amp;rft_id=http%3A%2F%2Fwww.bobby-fischer.net%2FBobby_Fischer_Biography.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARichard+Greenblatt+%28programmer%29" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Richard_Greenblatt" class="extiw" title="commons:Category:Richard Greenblatt"><span style="">Richard Greenblatt</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://www.gnu.org/gnu/rms-lisp.html">A speech</a> by <a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a> in which he gives some background about Greenblatt</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Lisp_programming_language" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Lisp_programming_language" title="Template:Lisp programming language"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Lisp_programming_language" title="Template talk:Lisp programming language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Lisp_programming_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Lisp_programming_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp programming language</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Features</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Garbage_collection_(computer_science)" title="Garbage collection (computer science)">Automatic storage management</a></li>
+<li><a href="/wiki/Conditional_(computer_programming)" title="Conditional (computer programming)">Conditionals</a></li>
+<li><a href="/wiki/Dynamic_typing" class="mw-redirect" title="Dynamic typing">Dynamic typing</a></li>
+<li><a href="/wiki/Higher-order_function" title="Higher-order function">Higher-order functions</a></li>
+<li><a href="/wiki/Linked_list" title="Linked list">Linked lists</a></li>
+<li><a href="/wiki/M-expression" title="M-expression">M-expressions</a> (deprecated)</li>
+<li><a href="/wiki/Read%E2%80%93eval%E2%80%93print_loop" title="Read–eval–print loop">Read–eval–print loop</a></li>
+<li><a href="/wiki/Recursion_(computer_science)" title="Recursion (computer science)">Recursion</a></li>
+<li><a href="/wiki/S-expression" title="S-expression">S-expressions</a></li>
+<li><a href="/wiki/Self-hosting_(compilers)" title="Self-hosting (compilers)">Self-hosting</a> <a href="/wiki/Compiler" title="Compiler">compiler</a></li>
+<li><a href="/wiki/Tree_data_structure" class="mw-redirect" title="Tree data structure">Tree data structures</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object</a> systems</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common_Lisp_Object_System" title="Common Lisp Object System">Common Lisp Object System</a> (CLOS)</li>
+<li><a href="/wiki/CommonLoops" title="CommonLoops">CommonLoops</a></li>
+<li><a href="/wiki/Flavors_(programming_language)" title="Flavors (programming language)">Flavors</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_implementation" title="Programming language implementation">Implementations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Technical_standard" title="Technical standard">Technical<br />standard(s)</a><br />exists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common<br />Lisp</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allegro_Common_Lisp" title="Allegro Common Lisp">Allegro Common Lisp</a></li>
+<li><a href="/wiki/Armed_Bear_Common_Lisp" class="mw-redirect" title="Armed Bear Common Lisp">Armed Bear Common Lisp</a> (ABCL)</li>
+<li><a href="/wiki/CLISP" title="CLISP">CLISP</a></li>
+<li><a href="/wiki/Clozure_CL" title="Clozure CL">Clozure CL</a></li>
+<li><a href="/wiki/CMU_Common_Lisp" title="CMU Common Lisp">CMU Common Lisp</a> (CMUCL)</li>
+<li><a href="/wiki/Corman_Common_Lisp" class="mw-redirect" title="Corman Common Lisp">Corman Common Lisp</a></li>
+<li><a href="/wiki/Embeddable_Common_Lisp" title="Embeddable Common Lisp">Embeddable Common Lisp</a> (ECL)</li>
+<li><a href="/wiki/GNU_Common_Lisp" title="GNU Common Lisp">GNU Common Lisp</a> (GCL)</li>
+<li><a href="/wiki/LispWorks" title="LispWorks">LispWorks</a></li>
+<li><a href="/wiki/Macintosh_Common_Lisp" title="Macintosh Common Lisp">Macintosh Common Lisp</a></li>
+<li><a href="/wiki/Mocl" title="Mocl">Mocl</a></li>
+<li>Movitz</li>
+<li><a href="/wiki/Poplog" title="Poplog">Poplog</a></li>
+<li><a href="/wiki/Steel_Bank_Common_Lisp" title="Steel Bank Common Lisp">Steel Bank Common Lisp</a> (SBCL)</li>
+<li><a href="/wiki/Genera_(operating_system)" title="Genera (operating system)">Symbolics Common Lisp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/History_of_the_Scheme_programming_language" title="History of the Scheme programming language">History</a></i></li>
+<li><a href="/wiki/Bigloo" title="Bigloo">Bigloo</a></li>
+<li><a href="/wiki/Chez_Scheme" title="Chez Scheme">Chez Scheme</a></li>
+<li><a href="/wiki/Chicken_(Scheme_implementation)" title="Chicken (Scheme implementation)">Chicken</a></li>
+<li><a href="/wiki/Gambit_(scheme_implementation)" title="Gambit (scheme implementation)">Gambit</a></li>
+<li><a href="/wiki/Game_Oriented_Assembly_Lisp" title="Game Oriented Assembly Lisp">Game Oriented Assembly Lisp</a> (GOAL)</li>
+<li><a href="/wiki/Ikarus_(Scheme_implementation)" title="Ikarus (Scheme implementation)">Ikarus</a></li>
+<li><a href="/wiki/JScheme" title="JScheme">JScheme</a></li>
+<li><a href="/wiki/Kawa_(Scheme_implementation)" title="Kawa (Scheme implementation)">Kawa</a></li>
+<li><a href="/wiki/Larceny_(Scheme_implementation)" title="Larceny (Scheme implementation)">Larceny</a></li>
+<li><a href="/wiki/MIT/GNU_Scheme" title="MIT/GNU Scheme">MIT/GNU Scheme</a></li>
+<li><a href="/wiki/MultiLisp" title="MultiLisp">MultiLisp</a></li>
+<li>Pocket Scheme</li>
+<li><a href="/wiki/Racket_(programming_language)" title="Racket (programming language)">Racket</a></li>
+<li><a href="/wiki/RScheme" title="RScheme">RScheme</a></li>
+<li><a href="/wiki/Scheme_48" title="Scheme 48">Scheme 48</a></li>
+<li><a href="/wiki/SCM_(Scheme_implementation)" title="SCM (Scheme implementation)">SCM</a></li>
+<li><a href="/wiki/SIOD" title="SIOD">SIOD</a></li>
+<li><a href="/wiki/T_(programming_language)" title="T (programming language)">T</a></li>
+<li><a href="/wiki/TinyScheme" title="TinyScheme">TinyScheme</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ISLISP" title="ISLISP">ISLISP</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/OpenLisp" title="OpenLisp">OpenLisp</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nonstandard</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Logo" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/MSWLogo" title="MSWLogo">MSWLogo</a></li>
+<li><a href="/wiki/NetLogo" title="NetLogo">NetLogo</a></li>
+<li><a href="/wiki/StarLogo" title="StarLogo">StarLogo</a></li>
+<li><a href="/wiki/UCBLogo" title="UCBLogo">UCBLogo</a></li></ul>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Arc_(programming_language)" title="Arc (programming language)">Arc</a></li>
+<li><a href="/wiki/AutoLISP" title="AutoLISP">AutoLISP</a></li>
+<li><a href="/wiki/BBN_LISP" title="BBN LISP">BBN LISP</a></li>
+<li><a href="/wiki/Clojure" title="Clojure">Clojure</a></li>
+<li><a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a> (<a href="/wiki/Apple_Dylan" title="Apple Dylan">Apple</a>, <i><a href="/wiki/History_of_the_Dylan_programming_language" title="History of the Dylan programming language">history</a></i>)</li>
+<li><a href="/wiki/Emacs_Lisp" title="Emacs Lisp">Emacs Lisp</a></li>
+<li><a href="/wiki/EuLisp" title="EuLisp">EuLisp</a></li>
+<li><a href="/wiki/Franz_Lisp" title="Franz Lisp">Franz Lisp</a>, <a href="/wiki/PC-LISP" title="PC-LISP">PC-LISP</a></li>
+<li><a href="/wiki/Hy" title="Hy">Hy</a></li>
+<li><a href="/wiki/Interlisp" title="Interlisp">Interlisp</a></li>
+<li><a href="/wiki/Knowledge_Engineering_Environment" title="Knowledge Engineering Environment">Knowledge Engineering Environment</a></li>
+<li><a href="/wiki/*Lisp" title="*Lisp">*Lisp</a></li>
+<li><a href="/wiki/LeLisp" class="mw-redirect" title="LeLisp">LeLisp</a></li>
+<li><a href="/wiki/LFE_(programming_language)" title="LFE (programming language)">LFE</a></li>
+<li><a href="/wiki/Lisp_Machine_Lisp" title="Lisp Machine Lisp">Lisp Machine Lisp</a></li>
+<li><a href="/wiki/Maclisp" title="Maclisp">Maclisp</a></li>
+<li><a href="/wiki/MDL_(programming_language)" title="MDL (programming language)">MDL</a></li>
+<li><a href="/wiki/MLisp" title="MLisp">MLisp</a></li>
+<li><a href="/wiki/NewLISP" title="NewLISP">newLISP</a></li>
+<li><a href="/wiki/NIL_(programming_language)" title="NIL (programming language)">NIL</a></li>
+<li><a href="/wiki/PC-LISP" title="PC-LISP">PC-LISP</a></li>
+<li><a href="/wiki/Picolisp" class="mw-redirect" title="Picolisp">Picolisp</a></li>
+<li><a href="/wiki/Portable_Standard_Lisp" title="Portable Standard Lisp">Portable Standard Lisp</a></li>
+<li><a href="/wiki/RPL_(programming_language)" title="RPL (programming language)">RPL</a></li>
+<li><a href="/wiki/S-1_Lisp" title="S-1 Lisp">S-1 Lisp</a></li>
+<li><a href="/wiki/Cadence_SKILL" title="Cadence SKILL">SKILL</a></li>
+<li><a href="/wiki/Spice_Lisp" title="Spice Lisp">Spice Lisp</a></li>
+<li><a href="/wiki/Zetalisp" class="mw-redirect" title="Zetalisp">Zetalisp</a></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Common_Lisp_Interface_Manager" title="Common Lisp Interface Manager">Common Lisp Interface Manager</a>, <a href="/wiki/McCLIM" title="McCLIM">McCLIM</a></li>
+<li><a href="/wiki/Genera_(operating_system)" title="Genera (operating system)">Genera</a></li>
+<li><a href="/wiki/Scsh" title="Scsh">Scsh</a></li>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lisp_machine" title="Lisp machine">Lisp machines</a></li>
+<li><a href="/wiki/TI_Explorer" title="TI Explorer">TI Explorer</a></li>
+<li><a href="/wiki/Space-cadet_keyboard" title="Space-cadet keyboard">Space-cadet keyboard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Community_of_practice" title="Community of practice">Community<br />of practice</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Technical standards</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scheme_Requests_for_Implementation" title="Scheme Requests for Implementation">Scheme Requests for Implementation</a></li>
+<li><a href="/wiki/Common_Lisp_HyperSpec" title="Common Lisp HyperSpec">Common Lisp HyperSpec</a></li>
+<li><a href="/wiki/X3J13" title="X3J13">X3J13</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Education</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Books</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common_Lisp_the_Language" title="Common Lisp the Language">Common Lisp the Language</a></li>
+<li><a href="/wiki/How_to_Design_Programs" title="How to Design Programs">How to Design Programs</a> (HTDP)</li>
+<li><a href="/wiki/On_Lisp" title="On Lisp">On Lisp</a></li>
+<li><a href="/wiki/Practical_Common_Lisp" title="Practical Common Lisp">Practical Common Lisp</a></li>
+<li><a href="/wiki/Structure_and_Interpretation_of_Computer_Programs" title="Structure and Interpretation of Computer Programs">Structure and Interpretation of Computer Programs</a> (SICP)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Curriculum</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ProgramByDesign" title="ProgramByDesign">ProgramByDesign</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Business</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Computer</a></li>
+<li><a href="/wiki/BBN_Technologies" title="BBN Technologies">Bolt, Beranek and Newman</a></li>
+<li><a href="/wiki/Harlequin_(software_company)" title="Harlequin (software company)">Harlequin</a></li>
+<li><a href="/wiki/Lucid_Inc." title="Lucid Inc.">Lucid Inc.</a></li>
+<li><a href="/wiki/Symbolics" title="Symbolics">Symbolics</a></li>
+<li><a href="/wiki/Xanalys" title="Xanalys">Xanalys</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Education</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT)</li>
+<li><a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">MIT Computer Science and Artificial Intelligence Laboratory</a> (CSAIL)</li>
+<li><a href="/wiki/Stanford_University_centers_and_institutes#Stanford_Artificial_Intelligence_Laboratory" title="Stanford University centers and institutes">Stanford Artificial Intelligence Laboratory</a></li>
+<li><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Edmund_Berkeley" title="Edmund Berkeley">Edmund Berkeley</a></li>
+<li><a href="/wiki/Daniel_G._Bobrow" title="Daniel G. Bobrow">Daniel G. Bobrow</a></li>
+<li><a href="/wiki/William_Clinger_(computer_scientist)" title="William Clinger (computer scientist)">William Clinger</a></li>
+<li><a href="/wiki/R._Kent_Dybvig" title="R. Kent Dybvig">R. Kent Dybvig</a></li>
+<li><a href="/wiki/Matthias_Felleisen" title="Matthias Felleisen">Matthias Felleisen</a></li>
+<li><a href="/wiki/Robert_Bruce_Findler" title="Robert Bruce Findler">Robert Bruce Findler</a></li>
+<li><a href="/wiki/Matthew_Flatt" title="Matthew Flatt">Matthew Flatt</a></li>
+<li><a href="/wiki/Phyllis_Fox" title="Phyllis Fox">Phyllis Fox</a></li>
+<li><a href="/wiki/Paul_Graham_(programmer)" title="Paul Graham (programmer)">Paul Graham</a></li>
+<li><a class="mw-selflink selflink">Richard Greenblatt</a></li>
+<li>Timothy P. Hart</li>
+<li><a href="/wiki/Louis_Hodes" title="Louis Hodes">Louis Hodes</a></li>
+<li>Mike Levin</li>
+<li><a href="/wiki/David_Luckham" title="David Luckham">David Luckham</a></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a></li>
+<li><a href="/wiki/Robert_Tappan_Morris" title="Robert Tappan Morris">Robert Tappan Morris</a></li>
+<li><a href="/wiki/Joel_Moses" title="Joel Moses">Joel Moses</a></li>
+<li><a href="/wiki/David_Park_(computer_scientist)" title="David Park (computer scientist)">David Park</a></li>
+<li><a href="/wiki/Steve_Russell_(computer_scientist)" title="Steve Russell (computer scientist)">Steve Russell</a></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scott_Fahlman" title="Scott Fahlman">Scott Fahlman</a></li>
+<li><a href="/wiki/Richard_P._Gabriel" title="Richard P. Gabriel">Richard P. Gabriel</a></li>
+<li><a href="/wiki/Philip_Greenspun" title="Philip Greenspun">Philip Greenspun</a> (<a href="/wiki/Greenspun%27s_tenth_rule" title="Greenspun&#39;s tenth rule">10th rule</a>)</li>
+<li><a href="/wiki/David_A._Moon" title="David A. Moon">David A. Moon</a></li>
+<li><a href="/wiki/Kent_Pitman" title="Kent Pitman">Kent Pitman</a></li>
+<li><a href="/wiki/Guy_L._Steele_Jr." title="Guy L. Steele Jr.">Guy L. Steele Jr.</a></li>
+<li><a href="/wiki/Daniel_Weinreb" title="Daniel Weinreb">Daniel Weinreb</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Shriram_Krishnamurthi" title="Shriram Krishnamurthi">Shriram Krishnamurthi</a></li>
+<li><a href="/wiki/Guy_L._Steele_Jr." title="Guy L. Steele Jr.">Guy L. Steele Jr.</a></li>
+<li><a href="/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman">Gerald Jay Sussman</a></li>
+<li><a href="/wiki/Julie_Sussman" class="mw-redirect" title="Julie Sussman">Julie Sussman</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hal_Abelson" title="Hal Abelson">Hal Abelson</a></li>
+<li><a href="/wiki/Denison_Bollay" title="Denison Bollay">Denison Bollay</a></li>
+<li><a href="/wiki/Wally_Feurzeig" title="Wally Feurzeig">Wally Feurzeig</a></li>
+<li><a href="/wiki/Brian_Harvey_(lecturer)" title="Brian Harvey (lecturer)">Brian Harvey</a></li>
+<li><a href="/wiki/Seymour_Papert" title="Seymour Papert">Seymour Papert</a></li>
+<li><a href="/wiki/Mitchel_Resnick" title="Mitchel Resnick">Mitchel Resnick</a></li>
+<li><a href="/wiki/Cynthia_Solomon" title="Cynthia Solomon">Cynthia Solomon</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Lisp_(programming_language)" title="Category:Lisp (programming language)">Category</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Lisp_programming_language_family" title="Category:Lisp programming language family">Category</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_Lisp-family_programming_languages" title="List of Lisp-family programming languages">List</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2469699#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2469699#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q2469699#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/35/5238">35/5238</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1389
+Cached time: 20210215183815
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.474 seconds
+Real time usage: 0.767 seconds
+Preprocessor visited node count: 2308/1000000
+Post‐expand include size: 97815/2097152 bytes
+Template argument size: 4077/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14074/5000000 bytes
+Lua time usage: 0.245/10.000 seconds
+Lua memory usage: 6967218/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  681.081      1 -total
+ 41.49%  282.559      1 Template:Infobox_scientist
+ 39.64%  269.985      1 Template:Infobox_person
+ 35.10%  239.056      2 Template:Infobox
+ 25.45%  173.302      1 Template:Reflist
+ 20.37%  138.738      5 Template:Br_separated_entries
+ 19.20%  130.773      2 Template:Cite_book
+ 15.60%  106.224      1 Template:Birth_date_and_age
+ 13.23%   90.084      1 Template:Citation_needed
+ 11.90%   81.027      1 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:505550-0!canonical and timestamp 20210215183815 and revision id 999091354. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Richard_Greenblatt_(programmer)&amp;oldid=999091354">https://en.wikipedia.org/w/index.php?title=Richard_Greenblatt_(programmer)&amp;oldid=999091354</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1944_births" title="Category:1944 births">1944 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Lisp_(programming_language)_people" title="Category:Lisp (programming language) people">Lisp (programming language) people</a></li><li><a href="/wiki/Category:People_from_Portland,_Oregon" title="Category:People from Portland, Oregon">People from Portland, Oregon</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:American_computer_businesspeople" title="Category:American computer businesspeople">American computer businesspeople</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_scientist_with_unknown_parameters" title="Category:Pages using infobox scientist with unknown parameters">Pages using infobox scientist with unknown parameters</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2020" title="Category:Articles with unsourced statements from August 2020">Articles with unsourced statements from August 2020</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Richard+Greenblatt+%28programmer%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Richard+Greenblatt+%28programmer%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Richard_Greenblatt_(programmer)" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Richard_Greenblatt_(programmer)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Richard_Greenblatt_(programmer)">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Richard_Greenblatt_(programmer)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Richard_Greenblatt_(programmer)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;oldid=999091354" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Richard_Greenblatt_%28programmer%29&amp;id=999091354&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2469699" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Richard_Greenblatt_%28programmer%29&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Richard_Greenblatt_(programmer)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Richard_Greenblatt" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Richard_Greenblatt" title="Richard Greenblatt – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Richard_Greenblatt" title="Richard Greenblatt – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A1%CE%AF%CF%84%CF%83%CE%B1%CF%81%CE%BD%CF%84_%CE%93%CE%BA%CF%81%CE%AE%CE%BD%CE%BC%CF%80%CE%BB%CE%B1%CF%84" title="Ρίτσαρντ Γκρήνμπλατ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Richard_Greenblatt_(programador)" title="Richard Greenblatt (programador) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Richard_Greenblatt" title="Richard Greenblatt – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Richard_Greenblatt" title="Richard Greenblatt – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%96%E3%83%A9%E3%83%83%E3%83%88" title="リチャード・グリーンブラット – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Richard_Greenblatt" title="Richard Greenblatt – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2469699#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 8 January 2021, at 12:54<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Richard_Greenblatt_(programmer)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.474","walltime":"0.767","ppvisitednodes":{"value":2308,"limit":1000000},"postexpandincludesize":{"value":97815,"limit":2097152},"templateargumentsize":{"value":4077,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14074,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  681.081      1 -total"," 41.49%  282.559      1 Template:Infobox_scientist"," 39.64%  269.985      1 Template:Infobox_person"," 35.10%  239.056      2 Template:Infobox"," 25.45%  173.302      1 Template:Reflist"," 20.37%  138.738      5 Template:Br_separated_entries"," 19.20%  130.773      2 Template:Cite_book"," 15.60%  106.224      1 Template:Birth_date_and_age"," 13.23%   90.084      1 Template:Citation_needed"," 11.90%   81.027      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.245","limit":"10.000"},"limitreport-memusage":{"value":6967218,"limit":52428800}},"cachereport":{"origin":"mw1389","timestamp":"20210215183815","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Richard Greenblatt (programmer)","url":"https:\/\/en.wikipedia.org\/wiki\/Richard_Greenblatt_(programmer)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2469699","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2469699","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-05T02:17:07Z","dateModified":"2021-01-08T12:54:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5f\/Greenblattrpg-6cropped.jpg","headline":"American programmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1365"});});</script>
+</body></html>

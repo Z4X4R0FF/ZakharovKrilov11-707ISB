@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Friedrich L. Bauer - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDHBSjU0uegIOi5NcWoRIAAAAMY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Friedrich_L._Bauer","wgTitle":"Friedrich L. Bauer","wgCurRevisionId":1005979194,"wgRevisionId":1005979194,"wgArticleId":2702375,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: location","Articles with short description","Short description matches Wikidata","Use dmy dates from September 2020","Articles with hCards","Commons category link is on Wikidata","Wikipedia articles with ACM-DL identifiers",
+"Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CANTIC identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with Trove identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1924 births","2015 deaths","German computer scientists","20th-century German mathematicians","Historians of mathematics","People from Regensburg",
+"Programming language designers","Software engineering researchers","Computer science educators","Technical University of Munich faculty","Ludwig Maximilian University of Munich alumni","Officers Crosses of the Order of Merit of the Federal Republic of Germany","Recipients of the Bavarian Order of Merit","Members of the Bavarian Maximilian Order for Science and Art","21st-century German mathematicians","Members of the Austrian Academy of Sciences"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Friedrich_L._Bauer","wgRelevantArticleId":2702375,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q68604"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FriedrichLudwigBauer.jpg/1200px-FriedrichLudwigBauer.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Friedrich_L._Bauer"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Friedrich_L._Bauer"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Friedrich_L_Bauer rootpage-Friedrich_L_Bauer skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Friedrich L. Bauer</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">German computer scientist</div>
+<div role="note" class="hatnote navigation-not-searchable">"F. L. Bauer" redirects here. For the Austrian botanical illustrator, see <a href="/wiki/Ferdinand_Bauer" title="Ferdinand Bauer">Ferdinand Bauer</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Friedrich Ludwig Bauer</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:FriedrichLudwigBauer.jpg" class="image"><img alt="FriedrichLudwigBauer.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FriedrichLudwigBauer.jpg/220px-FriedrichLudwigBauer.jpg" decoding="async" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FriedrichLudwigBauer.jpg/330px-FriedrichLudwigBauer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FriedrichLudwigBauer.jpg/440px-FriedrichLudwigBauer.jpg 2x" data-file-width="1285" data-file-height="1714" /></a></td></tr><tr><th scope="row">Born</th><td><div style="display:inline" class="nickname">Friedrich Ludwig Bauer</div><br /><span style="display:none">(<span class="bday">1924-06-10</span>)</span>10 June 1924<br /><div style="display:inline" class="birthplace"><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a>, <a href="/wiki/Weimar_Republic" title="Weimar Republic">Germany</a></div></td></tr><tr><th scope="row">Died</th><td>26 March 2015<span style="display:none">(2015-03-26)</span> (aged&#160;90)</td></tr><tr><th scope="row">Nationality</th><td class="category">German</td></tr><tr><th scope="row">Education</th><td><a href="/wiki/Ludwig-Maximilians-Universit%C3%A4t" class="mw-redirect" title="Ludwig-Maximilians-Universität">Ludwig-Maximilians-Universität</a></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Stack_(data_structure)" class="mw-redirect" title="Stack (data structure)">Stack (data structure)</a><br />Sequential Formula Translation<br /><a href="/wiki/ALGOL" title="ALGOL">ALGOL</a><br /><a href="/wiki/Software_engineering" title="Software engineering">software engineering</a><br /><a href="/wiki/Bauer%E2%80%93Fike_theorem" title="Bauer–Fike theorem">Bauer–Fike theorem</a></td></tr><tr><th scope="row">Children</th><td>5</td></tr><tr><th scope="row">Awards</th><td><a href="/wiki/Iron_Cross" title="Iron Cross">Iron Cross</a> 2nd Class, <br /><a href="/wiki/Bundesverdienstkreuz" class="mw-redirect" title="Bundesverdienstkreuz">Bundesverdienstkreuz</a> 1st Class,<br />IEEE <a href="/wiki/Computer_Pioneer_Award" title="Computer Pioneer Award">Computer Pioneer Award</a> (1988)</td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a><br /><a href="/wiki/Applied_mathematics" title="Applied mathematics">Applied mathematics</a></td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/University_of_Mainz" title="University of Mainz">University of Mainz</a><br /><a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a></td></tr><tr><th scope="row"><a href="/wiki/Thesis" title="Thesis">Theses</a></th><td><div class="plainlist">
+<ul><li><i>Group-theoretic investigations of the theory of spin wave equations</i>&#160;<span style="font-size:97%;">(1952)</span></li>
+<li><i>On quadratically convergent iteration methods for solving algebraic equations and eigenvalue problems</i>&#160;<span style="font-size:97%;">(1954)</span></li></ul>
+</div></td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisors</a></th><td><a href="/wiki/Fritz_Bopp" class="mw-redirect" title="Fritz Bopp">Fritz Bopp</a>, <a href="/wiki/Georg_Aumann" title="Georg Aumann">Georg Aumann</a></td></tr><tr><th scope="row">Doctoral students</th><td><a href="/wiki/Manfred_Broy" title="Manfred Broy">Manfred Broy</a>, <a href="/wiki/David_Gries" title="David Gries">David Gries</a>, <a href="/wiki/Josef_Stoer" title="Josef Stoer">Josef Stoer</a>, <a href="/wiki/Peter_Wynn_(mathematician)" title="Peter Wynn (mathematician)">Peter Wynn</a>, <a href="/wiki/Christoph_Zenger" title="Christoph Zenger">Christoph Zenger</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Friedrich Ludwig</b> "<b>Fritz</b>" <b>Bauer</b> (10 June 1924 – 26 March 2015) was a German pioneer of <a href="/wiki/Computer_science" title="Computer science">computer science</a> and professor at the <a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Definition_of_software_engineering"><span class="tocnumber">3</span> <span class="toctext">Definition of software engineering</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Legacy"><span class="tocnumber">4</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Awards"><span class="tocnumber">5</span> <span class="toctext">Awards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Honorary_doctorates"><span class="tocnumber">5.1</span> <span class="toctext">Honorary doctorates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Publications"><span class="tocnumber">6</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bauer earned his <a href="/wiki/Abitur" title="Abitur">Abitur</a> in 1942 and served in the <a href="/wiki/Wehrmacht" title="Wehrmacht">Wehrmacht</a> during World War II, from 1943 to 1945. From 1946 to 1950, he studied mathematics and <a href="/wiki/Theoretical_physics" title="Theoretical physics">theoretical physics</a> at <a href="/wiki/Ludwig-Maximilians-Universit%C3%A4t" class="mw-redirect" title="Ludwig-Maximilians-Universität">Ludwig-Maximilians-Universität</a> in <a href="/wiki/Munich" title="Munich">Munich</a>. Bauer received his <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a> (Ph.D.) under the supervision of <a href="/wiki/Fritz_Bopp" class="mw-redirect" title="Fritz Bopp">Fritz Bopp</a> for his thesis <i>Gruppentheoretische Untersuchungen zur Theorie der Spinwellengleichungen</i> ("Group-theoretic investigations of the theory of spin wave equations") in 1952. He completed his <a href="/wiki/Habilitation" title="Habilitation">habilitation</a> thesis <i>Über quadratisch konvergente Iterationsverfahren zur Lösung von algebraischen Gleichungen und Eigenwertproblemen</i> ("On quadratically convergent iteration methods for solving algebraic equations and eigenvalue problems") in 1954 at the <a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a>. After teaching as a <i><a href="/wiki/Privatdozent" title="Privatdozent">privatdozent</a></i> at the <a href="/wiki/Ludwig_Maximilian_University_of_Munich" title="Ludwig Maximilian University of Munich">Ludwig Maximilian University of Munich</a> from 1954 to 1958, he became extraordinary professor for applied mathematics at the <a href="/wiki/University_of_Mainz" title="University of Mainz">University of Mainz</a>. Since 1963, he worked as a professor of mathematics and (since 1972) computer science at the Technical University of Munich. He retired in 1989.<sup id="cite_ref-GutenbergBiographics2016_1-0" class="reference"><a href="#cite_note-GutenbergBiographics2016-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=2" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:FriedrichLBauer29-05-1995.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/FriedrichLBauer29-05-1995.jpg/220px-FriedrichLBauer29-05-1995.jpg" decoding="async" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/FriedrichLBauer29-05-1995.jpg/330px-FriedrichLBauer29-05-1995.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/FriedrichLBauer29-05-1995.jpg/440px-FriedrichLBauer29-05-1995.jpg 2x" data-file-width="700" data-file-height="537" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:FriedrichLBauer29-05-1995.jpg" class="internal" title="Enlarge"></a></div>Friedrich L. Bauer at the editors' meeting of Informatik Spektrum on 29 May 1995.</div></div></div>
+<p>Bauer's early work involved constructing computing machinery (e.g. the logical relay computer STANISLAUS from 1951–1955<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>). In this context, he was the first to propose the widely used <a href="/wiki/Stack_(data_structure)" class="mw-redirect" title="Stack (data structure)">stack method</a> of expression evaluation.
+</p><p>Bauer was a member of the committees that developed the <a href="/wiki/Imperative_programming" title="Imperative programming">imperative</a> computer <a href="/wiki/Programming_language" title="Programming language">programming languages</a> <a href="/wiki/ALGOL_58" title="ALGOL 58">ALGOL 58</a>,<sup id="cite_ref-GAMM_3-0" class="reference"><a href="#cite_note-GAMM-3">&#91;3&#93;</a></sup> and its successor <a href="/wiki/ALGOL_60" title="ALGOL 60">ALGOL 60</a>,<sup id="cite_ref-IFIP_4-0" class="reference"><a href="#cite_note-IFIP-4">&#91;4&#93;</a></sup> important predecessors to all modern imperative programming languages. For ALGOL 58, Bauer was with the German <i><a href="/wiki/Gesellschaft_f%C3%BCr_Angewandte_Mathematik_und_Mechanik" title="Gesellschaft für Angewandte Mathematik und Mechanik">Gesellschaft für Angewandte Mathematik und Mechanik</a></i> (GAMM, Society of Applied Mathematics and Mechanics) which worked with the American <i><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a></i> (ACM).<sup id="cite_ref-GAMM_3-1" class="reference"><a href="#cite_note-GAMM-3">&#91;3&#93;</a></sup> For ALGOL 60, Bauer was with the <a href="/wiki/International_Federation_for_Information_Processing" title="International Federation for Information Processing">International Federation for Information Processing</a> (IFIP) <a href="/wiki/IFIP_Working_Group_2.1" title="IFIP Working Group 2.1">IFIP Working Group 2.1</a> on Algorithmic Languages and Calculi,<sup id="cite_ref-IFIP_4-1" class="reference"><a href="#cite_note-IFIP-4">&#91;4&#93;</a></sup> which <a href="/wiki/Specification_(technical_standard)" title="Specification (technical standard)">specified</a>, maintains, and supports the languages ALGOL 60 and <a href="/wiki/ALGOL_68" title="ALGOL 68">ALGOL 68</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Bauer was an influential figure in establishing <a href="/wiki/Computer_science" title="Computer science">computer science</a> as an independent subject in German universities, which until then was usually considered part of <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>. In 1967, he held the first lecture in computer science at a German university at the <a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a>, titled <i>Information Processing</i>. By 1992, computer science had separated from the <a href="/wiki/TUM_Department_of_Mathematics" title="TUM Department of Mathematics">Department of Mathematics</a> to form an independent <a href="/wiki/TUM_Department_of_Informatics" title="TUM Department of Informatics">Department of Informatics</a>, where he would hold a chair until his retirement in 1989.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In 1968, he coined the term <i><a href="/wiki/Software_engineering" title="Software engineering">software engineering</a></i> which has been in widespread use since, and has become a discipline in computer science.
+</p><p>His scientific contributions spread from <a href="/wiki/Numerical_analysis" title="Numerical analysis">numerical analysis</a> (<a href="/wiki/Bauer%E2%80%93Fike_theorem" title="Bauer–Fike theorem">Bauer–Fike theorem</a>) and fundamentals of interpretation and translation of programming languages, to his later works on systematics of program development, especially <a href="/wiki/Program_transformation" title="Program transformation">program transformation</a> methods and systems (CIP-S) and the associated <a href="/wiki/Wide-spectrum_language" title="Wide-spectrum language">wide-spectrum language</a> system CIP-L. He also wrote a well-respected book on <a href="/wiki/Cryptology" class="mw-redirect" title="Cryptology">cryptology</a>, <i>Decrypted secrets</i>, now in its fourth edition.
+</p><p>He was the <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">doctoral advisor</a> of 39 students, including <a href="/wiki/Rudolf_Berghammer" title="Rudolf Berghammer">Rudolf Berghammer</a>, <a href="/wiki/Manfred_Broy" title="Manfred Broy">Manfred Broy</a>, <a href="/wiki/David_Gries" title="David Gries">David Gries</a>, Manfred Paul, Gerhard Seegmüller, <a href="/wiki/Josef_Stoer" title="Josef Stoer">Josef Stoer</a>, <a href="/wiki/Peter_Wynn_(mathematician)" title="Peter Wynn (mathematician)">Peter Wynn</a>, and <a href="/wiki/Christoph_Zenger" title="Christoph Zenger">Christoph Zenger</a>.
+</p><p>Friedrich Bauer was one of the 19 founding members of the <a href="/wiki/German_Informatics_Society" title="German Informatics Society">German Informatics Society</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> He was editor of the <a href="/wiki/Informatik_Spektrum" class="mw-redirect" title="Informatik Spektrum">Informatik Spektrum</a> from its founding in 1978, and held that position until his death.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Friedrich Bauer was married to Hildegard Bauer-Vogg. He was the father of three sons and two daughters.
+</p>
+<h2><span class="mw-headline" id="Definition_of_software_engineering">Definition of software engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=3" title="Edit section: Definition of software engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bauer was a colleague of the German Representative the NATO Science Committee. In 1967, NATO had been discussing 'The Software Crisis' and Bauer had suggested the term 'Software Engineering' as a way to conceive of both the problem and the solution.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In 1972, Bauer published the following definition of software engineering:
+</p><p>"Establishment and use of sound engineering principles to economically obtain software that is reliable and works on real machines efficiently."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=4" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1992, the <a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a> has awarded the <a href="/w/index.php?title=Friedrich_L._Bauer_Prize&amp;action=edit&amp;redlink=1" class="new" title="Friedrich L. Bauer Prize (page does not exist)">Friedrich L. Bauer Prize</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://de.wikipedia.org/wiki/F.L.-Bauer-Preis" class="extiw" title="de:F.L.-Bauer-Preis">de</a>&#93;</span> in computer science.
+</p><p>In 2014, the Technical University of Munich renamed their largest <a href="/wiki/Lecture_hall" title="Lecture hall">lecture hall</a> in the <a href="/wiki/TUM_Department_of_Informatics" title="TUM Department of Informatics">Department of Informatics</a> building after him.
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=5" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1944: <a href="/wiki/Iron_Cross" title="Iron Cross">Iron Cross</a> 2nd Class</li>
+<li>1968: Member of the <a href="/wiki/Bavarian_Academy_of_Sciences" class="mw-redirect" title="Bavarian Academy of Sciences">Bavarian Academy of Sciences</a> in mathematics and science class</li>
+<li>1971: <a href="/wiki/Bavarian_Order_of_Merit" title="Bavarian Order of Merit">Bavarian Order of Merit</a></li>
+<li>1978: <a href="/wiki/Wilhelm_Exner_Medal" title="Wilhelm Exner Medal">Wilhelm Exner Medal</a> (Austria).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li>1982: <a href="/wiki/Bundesverdienstkreuz" class="mw-redirect" title="Bundesverdienstkreuz">Federal Merit Cross</a> 1st Class</li>
+<li>1984: Member of the <a href="/wiki/German_Academy_of_Sciences_Leopoldina" class="mw-redirect" title="German Academy of Sciences Leopoldina">German Academy of Sciences Leopoldina</a></li>
+<li>1986: <a href="/wiki/Bavarian_Maximilian_Order_for_Science_and_Art" title="Bavarian Maximilian Order for Science and Art">Bavarian Maximilian Order for Science and Art</a></li>
+<li>1987: Honorary Member of the Society for computer science</li>
+<li>1988: Golden Ring of Honour of the German Museum</li>
+<li>1988: <a href="/wiki/IEEE_Computer_Pioneer_Award" class="mw-redirect" title="IEEE Computer Pioneer Award">IEEE Computer Pioneer Award</a></li>
+<li>1997: Heinz-Maier-Leibnitz Medal from the <a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a></li>
+<li>1998: corresponding member of the <a href="/wiki/Austrian_Academy_of_Sciences" title="Austrian Academy of Sciences">Austrian Academy of Sciences</a></li>
+<li>2002: Honorary Member of the <a href="/wiki/Deutsches_Museum" title="Deutsches Museum">Deutsches Museum</a></li>
+<li>2004: Silver Medal of Merit of the Bavarian Academy of Sciences</li></ul>
+<h3><span class="mw-headline" id="Honorary_doctorates">Honorary doctorates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=6" title="Edit section: Honorary doctorates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>1974: Honorary Doctor of the <a href="/wiki/University_of_Grenoble" class="mw-redirect" title="University of Grenoble">University of Grenoble</a></li>
+<li>1989: Honorary Doctor of the <a href="/wiki/University_of_Passau" title="University of Passau">University of Passau</a></li>
+<li>1998: Honorary doctorate from the <a href="/wiki/Bundeswehr_University_Munich" title="Bundeswehr University Munich">Bundeswehr University Munich</a> (Neubiberg)</li></ul>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=7" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSamelsonBauer1960" class="citation journal cs1"><a href="/wiki/Klaus_Samelson" title="Klaus Samelson">Samelson, Klaus</a>; Bauer, Friedrich Ludwig (February 1960). "Sequential Formula Translation". <i>Communications of the ACM</i>. <b>3</b> (2): 76–83. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F366959.366968">10.1145/366959.366968</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:16646147">16646147</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.atitle=Sequential+Formula+Translation&amp;rft.volume=3&amp;rft.issue=2&amp;rft.pages=76-83&amp;rft.date=1960-02&amp;rft_id=info%3Adoi%2F10.1145%2F366959.366968&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A16646147%23id-name%3DS2CID&amp;rft.aulast=Samelson&amp;rft.aufirst=Klaus&amp;rft.au=Bauer%2C+Friedrich+Ludwig&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span>, a very influential paper on compilers</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBauerBaumannFelicianoSamelson1964" class="citation book cs1">Bauer, Friedrich Ludwig; Baumann, R.; Feliciano, M.; Samelson, K. (1964). <i>Introduction to Algol</i>. Prentice Hall. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-477828-6" title="Special:BookSources/0-13-477828-6"><bdi>0-13-477828-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Algol&amp;rft.pub=Prentice+Hall&amp;rft.date=1964&amp;rft.isbn=0-13-477828-6&amp;rft.aulast=Bauer&amp;rft.aufirst=Friedrich+Ludwig&amp;rft.au=Baumann%2C+R.&amp;rft.au=Feliciano%2C+M.&amp;rft.au=Samelson%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBauer1987" class="citation book cs1">Bauer, Friedrich L. (1987). <i>The Munich Project CIP: Volume II: The Programme Transformation System CIP-S (Lecture Notes in Computer Science)</i>. Springer. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-5401-8779-0" title="Special:BookSources/978-3-5401-8779-0"><bdi>978-3-5401-8779-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Munich+Project+CIP%3A+Volume+II%3A+The+Programme+Transformation+System+CIP-S+%28Lecture+Notes+in+Computer+Science%29&amp;rft.pub=Springer&amp;rft.date=1987&amp;rft.isbn=978-3-5401-8779-0&amp;rft.aulast=Bauer&amp;rft.aufirst=Friedrich+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBauerWirsing1991" class="citation book cs1">Bauer, Friedrich Ludwig; <a href="/wiki/Martin_Wirsing" title="Martin Wirsing">Wirsing, Martin</a> (March 1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Ff58BwAAQBAJ"><i>Elementare Aussagenlogik</i></a> (in German). Berlin – Heidelberg: <a href="/wiki/Springer-Verlag" class="mw-redirect" title="Springer-Verlag">Springer-Verlag</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-52974-8" title="Special:BookSources/3-540-52974-8"><bdi>3-540-52974-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elementare+Aussagenlogik&amp;rft.place=Berlin+%E2%80%93+Heidelberg&amp;rft.pub=Springer-Verlag&amp;rft.date=1991-03&amp;rft.isbn=3-540-52974-8&amp;rft.aulast=Bauer&amp;rft.aufirst=Friedrich+Ludwig&amp;rft.au=Wirsing%2C+Martin&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFf58BwAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBauer2006" class="citation book cs1">Bauer, Friedrich L. (2006). <i>Decrypted Secrets: Methods and Maxims of Cryptology, 4th edition</i>. New York: <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-5402-4502-5" title="Special:BookSources/978-3-5402-4502-5"><bdi>978-3-5402-4502-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Decrypted+Secrets%3A+Methods+and+Maxims+of+Cryptology%2C+4th+edition&amp;rft.place=New+York&amp;rft.pub=Springer&amp;rft.date=2006&amp;rft.isbn=978-3-5402-4502-5&amp;rft.aulast=Bauer&amp;rft.aufirst=Friedrich+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-GutenbergBiographics2016-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-GutenbergBiographics2016_1-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://gutenberg-biographics.ub.uni-mainz.de/id/f197cbba-1453-4ffd-8de6-24d75a2dece6.html">"Verzeichnis der Professorinnen und Professoren der Universität Mainz"</a>. <i>Gutenberg Biographics</i> (in German). Johannes Gutenberg-Universität Mainz<span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gutenberg+Biographics&amp;rft.atitle=Verzeichnis+der+Professorinnen+und+Professoren+der+Universit%C3%A4t+Mainz&amp;rft_id=http%3A%2F%2Fgutenberg-biographics.ub.uni-mainz.de%2Fid%2Ff197cbba-1453-4ffd-8de6-24d75a2dece6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHashigenKeil-SlawikNorberg2002" class="citation book cs1">Hashigen, Ulf; Keil-Slawik, Reinhard; Norberg, Arthur L., eds. (2002). <i>History of Computing: Software Issues</i>. Berlin Heidelberg New York: Springer-Verlag. pp.&#160;15–16. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-07653-4" title="Special:BookSources/978-3-642-07653-4"><bdi>978-3-642-07653-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=History+of+Computing%3A+Software+Issues&amp;rft.place=Berlin+Heidelberg+New+York&amp;rft.pages=15-16&amp;rft.pub=Springer-Verlag&amp;rft.date=2002&amp;rft.isbn=978-3-642-07653-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-GAMM-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-GAMM_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GAMM_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFPerlis1981" class="citation conference cs1"><a href="/wiki/Alan_Perlis" title="Alan Perlis">Perlis, A. J.</a> (1981). "Talk on Computing in the Fifties". <i>ACM National Conference. Nashville, Tennessee</i>. Los Alamito, CA, 1995: (Transcript in J. A. N. Lee (ed.), Computer Pioneers, IEEE Computer Society Press. pp.&#160;545–556).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Talk+on+Computing+in+the+Fifties&amp;rft.btitle=ACM+National+Conference.+Nashville%2C+Tennessee&amp;rft.place=Los+Alamito%2C+CA%2C+1995&amp;rft.pages=545-556%29&amp;rft.pub=%28Transcript+in+J.+A.+N.+Lee+%28ed.%29%2C+Computer+Pioneers%2C+IEEE+Computer+Society+Press&amp;rft.date=1981&amp;rft.aulast=Perlis&amp;rft.aufirst=A.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: location (<a href="/wiki/Category:CS1_maint:_location" title="Category:CS1 maint: location">link</a>)</span></span>
+</li>
+<li id="cite_note-IFIP-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-IFIP_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IFIP_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJeuringMeertensGuttmann2016" class="citation web cs1">Jeuring, Johan; <a href="/wiki/Lambert_Meertens" title="Lambert Meertens">Meertens, Lambert</a>; Guttmann, Walter (17 August 2016). <a rel="nofollow" class="external text" href="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/Profile">"Profile of IFIP Working Group 2.1"</a>. <i>Foswiki</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Foswiki&amp;rft.atitle=Profile+of+IFIP+Working+Group+2.1&amp;rft.date=2016-08-17&amp;rft.aulast=Jeuring&amp;rft.aufirst=Johan&amp;rft.au=Meertens%2C+Lambert&amp;rft.au=Guttmann%2C+Walter&amp;rft_id=https%3A%2F%2Fifipwg21wiki.cs.kuleuven.be%2FIFIP21%2FProfile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSwierstraGibbonsMeertens2011" class="citation web cs1">Swierstra, Doaitse; <a href="/wiki/Jeremy_Gibbons" title="Jeremy Gibbons">Gibbons, Jeremy</a>; <a href="/wiki/Lambert_Meertens" title="Lambert Meertens">Meertens, Lambert</a> (2 March 2011). <a rel="nofollow" class="external text" href="https://ifipwg21wiki.cs.kuleuven.be/IFIP21/ScopeEtc">"ScopeEtc: IFIP21: Foswiki"</a>. <i>Foswiki</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Foswiki&amp;rft.atitle=ScopeEtc%3A+IFIP21%3A+Foswiki&amp;rft.date=2011-03-02&amp;rft.aulast=Swierstra&amp;rft.aufirst=Doaitse&amp;rft.au=Gibbons%2C+Jeremy&amp;rft.au=Meertens%2C+Lambert&amp;rft_id=https%3A%2F%2Fifipwg21wiki.cs.kuleuven.be%2FIFIP21%2FScopeEtc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.in.tum.de/en/the-department/history/">"History"</a>. <i>TUM Department of Informatics</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TUM+Department+of+Informatics&amp;rft.atitle=History&amp;rft_id=https%3A%2F%2Fwww.in.tum.de%2Fen%2Fthe-department%2Fhistory%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Fritz Krückeberg: Die Geschichte der GI, p. 14; 2nd edition, November 2001, Gesellschaft für Informatik. <a rel="nofollow" class="external autonumber" href="https://gi.de/fileadmin/GI/Hauptseite/Themen/geschichte-der-gi.pdf">[1]</a>, retrieved 9 February 2021</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Informatik Spektrum Volume 38, Issue 2, April 2015: Imprint Page A4</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMacKenzie2001" class="citation book cs1">MacKenzie, Donald (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QiMS8t4V_0cC&amp;pg=PA34"><i>Mechanizing Proof: Computing, Risk, and Trust</i></a>. Cambridge: MIT Press. pp.&#160;34–36. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-13393-8" title="Special:BookSources/0-262-13393-8"><bdi>0-262-13393-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mechanizing+Proof%3A+Computing%2C+Risk%2C+and+Trust&amp;rft.place=Cambridge&amp;rft.pages=34-36&amp;rft.pub=MIT+Press&amp;rft.date=2001&amp;rft.isbn=0-262-13393-8&amp;rft.aulast=MacKenzie&amp;rft.aufirst=Donald&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQiMS8t4V_0cC%26pg%3DPA34&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBauer1972" class="citation book cs1">Bauer, Friedrich L. (1972). "Software Engineering". <i>Information Processing</i>. p.&#160;71.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Software+Engineering&amp;rft.btitle=Information+Processing&amp;rft.pages=71&amp;rft.date=1972&amp;rft.aulast=Bauer&amp;rft.aufirst=Friedrich+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFriedrich+L.+Bauer" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Editor, ÖGV. (2015). Wilhelm Exner Medal. Austrian Trade Association. ÖGV. Austria.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Friedrich_Ludwig_Bauer" class="extiw" title="commons:Category:Friedrich Ludwig Bauer"><span style="">Friedrich Ludwig Bauer</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://wayback.archive-it.org/all/20170712053858/https://conservancy.umn.edu/handle/11299/107106">Oral history interview with Friedrich L. Bauer</a>, <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota. Bauer discusses his education and early research, including the European side of the development of <a href="/wiki/ALGOL" title="ALGOL">ALGOL</a>, as well as his later work in numerical analysis and programming languages.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120717003344/http://homepages.cs.ncl.ac.uk/brian.randell/NATO/N1968/BAUER.html">Photograph of F. L. Bauer</a> (provided by <a href="/wiki/Brian_Randell" title="Brian Randell">Brian Randell</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/users/oleary/cggg/bauer.pdf">Bauer about Rutishauser at a symposium at the ETH Zürich in 2002</a></li>
+<li><a rel="nofollow" class="external text" href="https://mathgenealogy.org/id.php?id=21232">Friedrich L. Bauer</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></li>
+<li><a rel="nofollow" class="external text" href="https://zbmath.org/authors/?q=ai:bauer.friedrich-ludwig">Author profile</a> in the database <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">zbMATH</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="ALGOL_programming" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:ALGOL_programming" title="Template:ALGOL programming"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:ALGOL_programming" title="Template talk:ALGOL programming"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:ALGOL_programming&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="ALGOL_programming" style="font-size:114%;margin:0 4em"><a href="/wiki/ALGOL" title="ALGOL">ALGOL</a> programming</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_implementation" title="Programming language implementation">Implementations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Technical_standard" title="Technical standard">Technical<br />standards</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ALGOL_58" title="ALGOL 58">ALGOL 58</a></li>
+<li><a href="/wiki/ALGOL_60" title="ALGOL 60">ALGOL 60</a></li>
+<li><a href="/wiki/ALGOL_68" title="ALGOL 68">ALGOL 68</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dialect_(computing)" class="mw-redirect" title="Dialect (computing)">Dialects</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ABC_ALGOL" title="ABC ALGOL">ABC ALGOL</a></li>
+<li><a href="/wiki/ALCOR" title="ALCOR">ALCOR</a></li>
+<li><a href="/wiki/ALGO" title="ALGO">ALGO</a></li>
+<li><a href="/wiki/ALGOL_68C" title="ALGOL 68C">ALGOL 68C</a></li>
+<li><a href="/wiki/ALGOL_68-R" title="ALGOL 68-R">ALGOL 68-R</a></li>
+<li><a href="/wiki/ALGOL_68RS" title="ALGOL 68RS">ALGOL 68RS</a></li>
+<li><a href="/wiki/ALGOL_68S" title="ALGOL 68S">ALGOL 68S</a></li>
+<li><a href="/wiki/ALGOL_N" title="ALGOL N">ALGOL N</a></li>
+<li><a href="/wiki/ALGOL_W" title="ALGOL W">ALGOL W</a></li>
+<li><a href="/wiki/ALGOL_X" title="ALGOL X">ALGOL X</a></li>
+<li><a href="/wiki/Atlas_Autocode" title="Atlas Autocode">Atlas Autocode</a> (<a href="/wiki/Edinburgh_IMP" title="Edinburgh IMP">Edinburgh IMP</a>)</li>
+<li><a href="/wiki/Burroughs_large_systems#ALGOL" title="Burroughs large systems">Burroughs ALGOL</a></li>
+<li><a href="/wiki/Coral_66" class="mw-redirect" title="Coral 66">Coral 66</a></li>
+<li><a href="/wiki/Dartmouth_ALGOL_30" title="Dartmouth ALGOL 30">Dartmouth ALGOL 30</a></li>
+<li><a href="/wiki/DASK" title="DASK">DASK</a> ALGOL</li>
+<li><a href="/wiki/DG/L" title="DG/L">DG/L</a></li>
+<li><a href="/wiki/Elliott_ALGOL" title="Elliott ALGOL">Elliott ALGOL</a></li>
+<li><a href="/wiki/Executive_Systems_Problem_Oriented_Language" title="Executive Systems Problem Oriented Language">Executive Systems Problem Oriented Language</a> (ESPOL)</li>
+<li><a href="/wiki/FLACC" title="FLACC">FLACC</a></li>
+<li><a href="/wiki/IMP_(programming_language)" title="IMP (programming language)">IMP</a></li>
+<li><a href="/wiki/JOVIAL" title="JOVIAL">JOVIAL</a></li>
+<li><a href="/wiki/English_Electric_KDF9" title="English Electric KDF9">Kidsgrove</a> Algol</li>
+<li><a href="/wiki/Mary_(programming_language)" title="Mary (programming language)">Mary</a></li>
+<li><a href="/wiki/NELIAC" title="NELIAC">NELIAC</a></li>
+<li><a href="/wiki/RTL/2" title="RTL/2">RTL/2</a></li>
+<li><a href="/wiki/S-algol" title="S-algol">S-algol</a>, <a href="/wiki/PS-algol" title="PS-algol">PS-algol</a>, <a href="/wiki/Napier88" title="Napier88">Napier88</a></li>
+<li><a href="/wiki/Simula" title="Simula">Simula</a></li>
+<li>Small Machine ALGOL Like Language (<a href="/wiki/SMALL" title="SMALL">SMALL</a>)</li>
+<li><a href="/wiki/SMIL_(computer)" title="SMIL (computer)">SMIL</a> ALGOL</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Formalism_(philosophy_of_mathematics)" title="Formalism (philosophy of mathematics)">Formalisms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jensen%27s_Device" class="mw-redirect" title="Jensen&#39;s Device">Jensen's Device</a></li>
+<li><a href="/wiki/Van_Wijngaarden_grammar" title="Van Wijngaarden grammar">Van Wijngaarden grammar</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Community_of_practice" title="Community of practice">Community</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Professional_association" title="Professional association">Professional<br />associations</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ALCOR" title="ALCOR">ALCOR</a> Group</li>
+<li><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM)</li>
+<li><a href="/wiki/BSI_Group" title="BSI Group">BSI Group</a></li>
+<li><a href="/wiki/GOST" title="GOST">Euro-Asian Council for Standardization, Metrology and Certification</a> (EASC)</li>
+<li><a href="/wiki/International_Federation_for_Information_Processing" title="International Federation for Information Processing">International Federation for Information Processing</a> (IFIP) <a href="/wiki/IFIP_Working_Group_2.1" title="IFIP Working Group 2.1">IFIP Working Group 2.1</a></li>
+<li><a href="/wiki/Gesellschaft_f%C3%BCr_Angewandte_Mathematik_und_Mechanik" title="Gesellschaft für Angewandte Mathematik und Mechanik">Society of Applied Mathematics and Mechanics</a> (GAMM)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Business</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burroughs_Corporation" title="Burroughs Corporation">Burroughs Corporation</a></li>
+<li><a href="/wiki/Elliott_Brothers_(computer_company)" title="Elliott Brothers (computer company)">Elliott Brothers</a></li>
+<li><a href="/wiki/Regnecentralen" title="Regnecentralen">Regnecentralen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Education</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Case_Western_Reserve_University" title="Case Western Reserve University">Case Institute of Technology</a></li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a></li>
+<li><a href="/wiki/University_of_St_Andrews" title="University of St Andrews">University of St Andrews</a></li>
+<li><a href="/wiki/Manchester_University" class="mw-redirect" title="Manchester University">Manchester University</a></li>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Government</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Royal_Radar_Establishment" title="Royal Radar Establishment">Royal Radar Establishment</a> (RRE)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ALGOL_58" title="ALGOL 58">ALGOL 58</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Backus" title="John Backus">John Backus</a></li>
+<li><a class="mw-selflink selflink">Friedrich L. Bauer</a></li>
+<li><a href="/wiki/Hermann_Bottenbruch" title="Hermann Bottenbruch">Hermann Bottenbruch</a></li>
+<li><a href="/wiki/Charles_Katz" title="Charles Katz">Charles Katz</a></li>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a></li>
+<li><a href="/wiki/Heinz_Rutishauser" title="Heinz Rutishauser">Heinz Rutishauser</a></li>
+<li><a href="/wiki/Klaus_Samelson" title="Klaus Samelson">Klaus Samelson</a></li>
+<li><a href="/wiki/Joseph_Henry_Wegstein" title="Joseph Henry Wegstein">Joseph Henry Wegstein</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ALGOL_60" title="ALGOL 60">ALGOL 60</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Backus+</li>
+<li><a href="/wiki/Roland_Carl_Backhouse" title="Roland Carl Backhouse">Roland Carl Backhouse</a></li>
+<li>Bauer+</li>
+<li><a href="/wiki/Richard_Bird_(computer_scientist)" title="Richard Bird (computer scientist)">Richard Bird</a></li>
+<li><a href="/wiki/Stephen_R._Bourne" title="Stephen R. Bourne">Stephen R. Bourne</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><a href="/wiki/Andrey_Ershov" title="Andrey Ershov">Andrey Ershov</a></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a></li>
+<li><a href="/wiki/Jeremy_Gibbons" title="Jeremy Gibbons">Jeremy Gibbons</a></li>
+<li>Julien Green</li>
+<li><a href="/wiki/David_Gries" title="David Gries">David Gries</a></li>
+<li><a href="/wiki/Eric_Hehner" title="Eric Hehner">Eric Hehner</a></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a></li>
+<li><a href="/wiki/J%C3%B8rn_Jensen" title="Jørn Jensen">Jørn Jensen</a></li>
+<li>Katz+</li>
+<li><a href="/wiki/Peter_Landin" title="Peter Landin">Peter Landin</a></li>
+<li><a href="/wiki/Tom_Maibaum" title="Tom Maibaum">Tom Maibaum</a></li>
+<li><a href="/wiki/Conor_McBride" title="Conor McBride">Conor McBride</a></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a></li>
+<li><a href="/wiki/Carroll_Morgan_(computer_scientist)" title="Carroll Morgan (computer scientist)">Carroll Morgan</a></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a></li>
+<li><a href="/wiki/Maurice_Nivat" title="Maurice Nivat">Maurice Nivat</a></li>
+<li><a href="/wiki/John_E._L._Peck" title="John E. L. Peck">John E. L. Peck</a></li>
+<li>Perlis+</li>
+<li><a href="/wiki/Brian_Randell" title="Brian Randell">Brian Randell</a></li>
+<li>Rutishauser</li>
+<li>Samelson+</li>
+<li><a href="/wiki/Jacob_T._Schwartz" title="Jacob T. Schwartz">Jacob T. Schwartz</a></li>
+<li><a href="/wiki/Micha_Sharir" title="Micha Sharir">Micha Sharir</a></li>
+<li><a href="/wiki/David_Turner_(computer_scientist)" title="David Turner (computer scientist)">David Turner</a></li>
+<li>Bernard Vauquois</li>
+<li><a href="/wiki/Eiiti_Wada" title="Eiiti Wada">Eiiti Wada</a></li>
+<li>Wegstein+</li>
+<li><a href="/wiki/Adriaan_van_Wijngaarden" title="Adriaan van Wijngaarden">Adriaan van Wijngaarden</a></li>
+<li><a href="/wiki/Mike_Woodger" title="Mike Woodger">Mike Woodger</a></li>
+<li>+ = full name and link in prior ALGOL version above</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Simula" title="Simula">Simula</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a></li>
+<li><a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ALGOL_68" title="ALGOL 68">ALGOL 68</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Bauer+</li>
+<li><a href="/wiki/Susan_G._Bond" title="Susan G. Bond">Susan G. Bond</a></li>
+<li>Bourne+</li>
+<li><a href="/wiki/Robert_Dewar" title="Robert Dewar">Robert Dewar</a></li>
+<li>Dijkstra+</li>
+<li><a href="https://de.wikipedia.org/wiki/Gerhard_Goos" class="extiw" title="de:Gerhard Goos">Gerhard Goos</a></li>
+<li><a href="/wiki/Michael_Guy" title="Michael Guy">Michael Guy</a></li>
+<li>Hoare+</li>
+<li><a href="/wiki/Cornelis_H._A._Koster" title="Cornelis H. A. Koster">Cornelis H. A. Koster</a></li>
+<li><a href="/wiki/Peter_Landin" title="Peter Landin">Peter Landin</a></li>
+<li><a href="/wiki/Charles_H._Lindsey" title="Charles H. Lindsey">Charles H. Lindsey</a></li>
+<li><a href="/wiki/Barry_J._Mailloux" title="Barry J. Mailloux">Barry J. Mailloux</a></li>
+<li>McCarthy+</li>
+<li><a href="/wiki/Lambert_Meertens" title="Lambert Meertens">Lambert Meertens</a></li>
+<li>Naur+</li>
+<li>Peck+</li>
+<li><a href="/wiki/Willem_van_der_Poel" title="Willem van der Poel">Willem van der Poel</a></li>
+<li>Randell+</li>
+<li><a href="/wiki/Douglas_T._Ross" title="Douglas T. Ross">Douglas T. Ross</a></li>
+<li>Samelson+</li>
+<li><a href="/wiki/Michel_Sintzoff" title="Michel Sintzoff">Michel Sintzoff</a></li>
+<li>van Wijngaarden+</li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li>Woodger+</li>
+<li><a href="/wiki/Philip_Woodward" title="Philip Woodward">Philip Woodward</a></li>
+<li><a href="/wiki/Nobuo_Yoneda" title="Nobuo Yoneda">Nobuo Yoneda</a></li>
+<li>+ = full name and link in prior ALGOL version above</li></ul>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Hal_Abelson" title="Hal Abelson">Hal Abelson</a></li>
+<li><a href="/wiki/John_Barnes_(computer_scientist)" title="John Barnes (computer scientist)">John Barnes</a></li>
+<li><a href="/wiki/Tony_Brooker" title="Tony Brooker">Tony Brooker</a></li>
+<li><a href="/wiki/Ron_Morrison" title="Ron Morrison">Ron Morrison</a></li>
+<li><a href="/wiki/Peter_O%27Hearn" title="Peter O&#39;Hearn">Peter O'Hearn</a></li>
+<li><a href="/wiki/John_C._Reynolds" title="John C. Reynolds">John C. Reynolds</a></li></ul></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/ALGOL_Bulletin" title="ALGOL Bulletin">ALGOL Bulletin</a></li>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Algol_programming_language_family" title="Category:Algol programming language family">Category: ALGOL</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:ALGOL_60" title="Category:ALGOL 60">Category: ALGOL 60</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q68604#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q68604#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q68604#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_DL_(identifier)" class="mw-redirect" title="ACM DL (identifier)">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/profile/81100160154">81100160154</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS_(identifier)" class="mw-redirect" title="BIBSYS (identifier)">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90123148">90123148</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12371282c">cb12371282c</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb12371282c">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CANTIC_(identifier)" class="mw-redirect" title="CANTIC (identifier)">CANTIC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a11915171">a11915171</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/66/3698">66/3698</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/10427459X">10427459X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/000000012282501X">0000 0001 2282 501X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79060105">n79060105</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LNB_(identifier)" class="mw-redirect" title="LNB (identifier)">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000049168&amp;P_CON_LNG=ENG">000049168</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MGP_(identifier)" class="mw-redirect" title="MGP (identifier)">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=21232">21232</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ola2008419319&amp;CON_LNG=ENG">ola2008419319</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLP_(identifier)" class="mw-redirect" title="NLP (identifier)">NLP</a>: <span class="uid"><a class="external text" href="https://tools.wmflabs.org/wikidata-externalid-url?p=1695&amp;id=A12519376">A12519376</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NTA_(identifier)" class="mw-redirect" title="NTA (identifier)">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p068272375">068272375</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/PLWABN_(identifier)" class="mw-redirect" title="PLWABN (identifier)">PLWABN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=4&amp;WI=9810671074805606">9810671074805606</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SELIBR_(identifier)" class="mw-redirect" title="SELIBR (identifier)">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/39163">39163</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC-ID_(identifier)" class="mw-redirect" title="SNAC-ID (identifier)">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://snaccooperative.org/ark:/99166/w6jh5vgg">w6jh5vgg</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SUDOC_(identifier)" class="mw-redirect" title="SUDOC (identifier)">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/068767803">068767803</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Trove_(identifier)" class="mw-redirect" title="Trove (identifier)">Trove</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/790856">790856</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/85050819">85050819</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n79060105">lccn-n79060105</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1372
+Cached time: 20210220221821
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.827 seconds
+Real time usage: 1.282 seconds
+Preprocessor visited node count: 3012/1000000
+Post‐expand include size: 106674/2097152 bytes
+Template argument size: 5078/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37011/5000000 bytes
+Lua time usage: 0.427/10.000 seconds
+Lua memory usage: 7469141/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1144.945      1 -total
+ 27.16%  310.919      1 Template:Infobox_scientist
+ 26.03%  298.031      1 Template:Infobox_person
+ 24.34%  278.653      2 Template:Infobox
+ 13.96%  159.800      1 Template:Cite_journal
+ 11.21%  128.299      1 Template:Reflist
+  9.93%  113.640      5 Template:Br_separated_entries
+  9.90%  113.338      1 Template:Short_description
+  9.23%  105.647      1 Template:Commons_category
+  9.10%  104.142      6 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2702375-0!canonical and timestamp 20210220221820 and revision id 1005979194. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Friedrich_L._Bauer&amp;oldid=1005979194">https://en.wikipedia.org/w/index.php?title=Friedrich_L._Bauer&amp;oldid=1005979194</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1924_births" title="Category:1924 births">1924 births</a></li><li><a href="/wiki/Category:2015_deaths" title="Category:2015 deaths">2015 deaths</a></li><li><a href="/wiki/Category:German_computer_scientists" title="Category:German computer scientists">German computer scientists</a></li><li><a href="/wiki/Category:20th-century_German_mathematicians" title="Category:20th-century German mathematicians">20th-century German mathematicians</a></li><li><a href="/wiki/Category:Historians_of_mathematics" title="Category:Historians of mathematics">Historians of mathematics</a></li><li><a href="/wiki/Category:People_from_Regensburg" title="Category:People from Regensburg">People from Regensburg</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Software_engineering_researchers" title="Category:Software engineering researchers">Software engineering researchers</a></li><li><a href="/wiki/Category:Computer_science_educators" title="Category:Computer science educators">Computer science educators</a></li><li><a href="/wiki/Category:Technical_University_of_Munich_faculty" title="Category:Technical University of Munich faculty">Technical University of Munich faculty</a></li><li><a href="/wiki/Category:Ludwig_Maximilian_University_of_Munich_alumni" title="Category:Ludwig Maximilian University of Munich alumni">Ludwig Maximilian University of Munich alumni</a></li><li><a href="/wiki/Category:Officers_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany" title="Category:Officers Crosses of the Order of Merit of the Federal Republic of Germany">Officers Crosses of the Order of Merit of the Federal Republic of Germany</a></li><li><a href="/wiki/Category:Recipients_of_the_Bavarian_Order_of_Merit" title="Category:Recipients of the Bavarian Order of Merit">Recipients of the Bavarian Order of Merit</a></li><li><a href="/wiki/Category:Members_of_the_Bavarian_Maximilian_Order_for_Science_and_Art" title="Category:Members of the Bavarian Maximilian Order for Science and Art">Members of the Bavarian Maximilian Order for Science and Art</a></li><li><a href="/wiki/Category:21st-century_German_mathematicians" title="Category:21st-century German mathematicians">21st-century German mathematicians</a></li><li><a href="/wiki/Category:Members_of_the_Austrian_Academy_of_Sciences" title="Category:Members of the Austrian Academy of Sciences">Members of the Austrian Academy of Sciences</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_maint:_location" title="Category:CS1 maint: location">CS1 maint: location</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2020" title="Category:Use dmy dates from September 2020">Use dmy dates from September 2020</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_CANTIC_identifiers" title="Category:Wikipedia articles with CANTIC identifiers">Wikipedia articles with CANTIC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LNB_identifiers" title="Category:Wikipedia articles with LNB identifiers">Wikipedia articles with LNB identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLP_identifiers" title="Category:Wikipedia articles with NLP identifiers">Wikipedia articles with NLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PLWABN_identifiers" title="Category:Wikipedia articles with PLWABN identifiers">Wikipedia articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_Trove_identifiers" title="Category:Wikipedia articles with Trove identifiers">Wikipedia articles with Trove identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Friedrich+L.+Bauer" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Friedrich+L.+Bauer" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Friedrich_L._Bauer" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Friedrich_L._Bauer" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Friedrich_L._Bauer">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Friedrich_L._Bauer" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Friedrich_L._Bauer" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Friedrich_L._Bauer&amp;oldid=1005979194" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Friedrich_L._Bauer&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Friedrich_L._Bauer&amp;id=1005979194&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q68604" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Friedrich_L._Bauer&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Friedrich_L._Bauer&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Friedrich_Ludwig_Bauer" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Friedrich_Bauer" hreflang="en">Wikiquote</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%8A%D8%AF%D8%B1%D9%8A%D8%B4_%D8%A8%D8%A7%D9%88%D8%B1" title="فريدريش باور – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%81%D8%B1%DB%8C%D8%AF%D8%B1%DB%8C%D8%B4_%D8%A7%D9%84_%D8%A8%D8%A7%D9%88%D8%A6%D8%B1" title="فریدریش ال باوئر – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Friedrich_L._Bauer" title="Friedrich L. Bauer – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%DB%8C%D8%AF%D8%B1%DB%8C%D8%B4_%D8%A7%D9%84_%D8%A8%D8%A7%D9%88%D8%A6%D8%B1" title="فریدریش ال باوئر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Friedrich_L._Bauer" title="Friedrich L. Bauer – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Friedrich_Ludwig_Bauer" title="Friedrich Ludwig Bauer – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Friedrich_Bauer" title="Friedrich Bauer – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Friedrich_L._Bauer" title="Friedrich L. Bauer – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%A1%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_%E0%B4%8E%E0%B5%BD._%E0%B4%AC%E0%B5%8C%E0%B5%BC" title="ഫ്രീഡ്രിക്ക് എൽ. ബൌർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Friedrich_L._Bauer" title="Friedrich L. Bauer – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Friedrich_Ludwig_Bauer" title="Friedrich Ludwig Bauer – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%83%D1%8D%D1%80,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3" title="Бауэр, Фридрих Людвиг – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Friedrich_L._Bauer" title="Friedrich L. Bauer – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Friedrich_Ludwig_Bauer" title="Friedrich Ludwig Bauer – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q68604#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 10 February 2021, at 11:00<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Friedrich_L._Bauer&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.827","walltime":"1.282","ppvisitednodes":{"value":3012,"limit":1000000},"postexpandincludesize":{"value":106674,"limit":2097152},"templateargumentsize":{"value":5078,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37011,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1144.945      1 -total"," 27.16%  310.919      1 Template:Infobox_scientist"," 26.03%  298.031      1 Template:Infobox_person"," 24.34%  278.653      2 Template:Infobox"," 13.96%  159.800      1 Template:Cite_journal"," 11.21%  128.299      1 Template:Reflist","  9.93%  113.640      5 Template:Br_separated_entries","  9.90%  113.338      1 Template:Short_description","  9.23%  105.647      1 Template:Commons_category","  9.10%  104.142      6 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.427","limit":"10.000"},"limitreport-memusage":{"value":7469141,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20210220221821","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Friedrich L. Bauer","url":"https:\/\/en.wikipedia.org\/wiki\/Friedrich_L._Bauer","sameAs":"http:\/\/www.wikidata.org\/entity\/Q68604","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q68604","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-18T18:26:31Z","dateModified":"2021-02-10T11:00:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c7\/FriedrichLudwigBauer.jpg","headline":"German computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1401"});});</script>
+</body></html>

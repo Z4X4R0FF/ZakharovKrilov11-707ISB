@@ -1,0 +1,63 @@
+﻿using System.Collections.Generic;
+using HtmlAgilityPack;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Threading.Tasks;
+using System.Net;
+using System.Text;
+using System.IO;
+using System.Linq;
+
+namespace ZakharovKrilov11_707ISB
+{
+    public static class Scraper
+    {
+        public static async Task<string> CallUrl(string fullUrl)
+        {
+            var client = new HttpClient();
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls13;
+            client.DefaultRequestHeaders.Accept.Clear();
+            var response = client.GetStringAsync(fullUrl);
+            return await response;
+        }
+
+        public static IEnumerable<string> GetLinksFromHtml(HtmlDocument htmlDoc)
+        {
+            var programmerLinks = htmlDoc.DocumentNode.Descendants("li")
+                .Where(node => !node.GetAttributeValue("class", "").Contains("tocsection")).ToList();
+
+            return (from link in programmerLinks
+                where link.FirstChild.Attributes.Count > 0
+                select "https://en.wikipedia.org/" + link.FirstChild.Attributes[0].Value).ToList();
+        }
+
+        public static HtmlDocument ParseHtml(string html)
+        {
+            var htmlDoc = new HtmlDocument();
+            htmlDoc.LoadHtml(html);
+            var programmerLinks = htmlDoc.DocumentNode.Descendants("li")
+                .Where(node => !node.GetAttributeValue("class", "").Contains("tocsection")).ToList();
+
+            return htmlDoc;
+        }
+
+        public static void WriteLinksToTxt(List<string> links)
+        {
+            using (var writer = new StreamWriter("Htmls/links.txt"))
+            {
+                for (var i = 0; i < links.Count; i++)
+                {
+                    writer.WriteLine(i + " " + links[i]);
+                }
+            }
+        }
+
+        public static void WriteHtmlsToTxt(List<HtmlDocument> htmlDocuments)
+        {
+            for (var i = 0; i < htmlDocuments.Count; i++)
+            {
+                File.WriteAllText($"Htmls/Document{i}.txt", htmlDocuments[i].Text);
+            }
+        }
+    }
+}

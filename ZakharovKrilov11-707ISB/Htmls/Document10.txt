@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bill Atkinson - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YC09JZ31Xr8iyPsgK9yn@AAAANY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bill_Atkinson","wgTitle":"Bill Atkinson","wgCurRevisionId":996744985,"wgRevisionId":996744985,"wgArticleId":4158,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from March 2019","Articles with hCards","Official website different in Wikidata and Wikipedia","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers",
+"Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with PIC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Place of birth missing (living people)","1951 births","American photographers","Apple Inc. employees","Apple Fellows","Living people","University of California, San Diego alumni","University of Washington alumni","Macintosh operating systems people","Scientists from the San Francisco Bay Area"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bill_Atkinson","wgRelevantArticleId":4158,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92788"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.30"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg/1200px-Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Bill_Atkinson"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bill_Atkinson&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bill_Atkinson&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bill_Atkinson"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bill_Atkinson rootpage-Bill_Atkinson skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Bill Atkinson</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American computer engineer and photographer</div>
+<p class="mw-empty-elt">
+</p>
+<div role="note" class="hatnote navigation-not-searchable">For other people named Bill Atkinson, see <a href="/wiki/Bill_Atkinson_(disambiguation)" class="mw-redirect mw-disambig" title="Bill Atkinson (disambiguation)">Bill Atkinson (disambiguation)</a>.</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Bill Atkinson</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg" class="image"><img alt="Bill Atkinson at 25 years of HyperCard event.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg/220px-Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg/330px-Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg/440px-Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg 2x" data-file-width="3648" data-file-height="2736" /></a></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1951-03-17</span>) </span>March 17, 1951<span class="noprint ForceAgeToShow"> (age&#160;69)</span></td></tr><tr><th scope="row">Nationality</th><td class="category">American</td></tr><tr><th scope="row">Education</th><td><a href="/wiki/University_of_California,_San_Diego" title="University of California, San Diego">University of California, San Diego</a><br /><a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a></td></tr><tr><th scope="row">Occupation</th><td class="role">Engineer, inventor, <a href="/wiki/Nature_photography" title="Nature photography">nature photographer</a></td></tr><tr><th scope="row">Known&#160;for</th><td>Part of the <a href="/wiki/Apple_Lisa" title="Apple Lisa">Apple Lisa</a> and <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> development teams; conceived, designed, implemented <a href="/wiki/HyperCard" title="HyperCard">HyperCard</a>, the first popular <a href="/wiki/Hypermedia" title="Hypermedia">hypermedia</a> system; his 2004 book, <i>Within the Stone</i></td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://billatkinson.com">billatkinson<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Bill Atkinson</b> (born March 17, 1951) is an American <a href="/wiki/Computer_engineer" class="mw-redirect" title="Computer engineer">computer engineer</a> and photographer.  Atkinson worked at <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Computer</a> from 1978 to 1990.
+</p><p>Atkinson was the principal designer and developer of the <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a> (GUI) of the <a href="/wiki/Apple_Lisa" title="Apple Lisa">Apple Lisa</a> and, later, one of the first thirty members of the original Apple <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> development team,<sup id="cite_ref-lemmons198402_1-0" class="reference"><a href="#cite_note-lemmons198402-1">&#91;1&#93;</a></sup> and was the creator of the ground-breaking <a href="/wiki/MacPaint" title="MacPaint">MacPaint</a> application, which fulfilled the vision of using the computer as a creative tool. He also designed and implemented <a href="/wiki/QuickDraw" title="QuickDraw">QuickDraw</a>, the fundamental toolbox that the Lisa and Macintosh used for graphics. QuickDraw's performance was essential for the success of the Macintosh GUI. He also was one of the main designers of the Lisa and Macintosh <a href="/wiki/User_interface" title="User interface">user interfaces</a>. Atkinson also conceived, designed and implemented <a href="/wiki/HyperCard" title="HyperCard">HyperCard</a>, the first popular <a href="/wiki/Hypermedia" title="Hypermedia">hypermedia</a> system. HyperCard put the power of computer programming and database design into the hands of non<a href="/wiki/Programmer" title="Programmer">programmers</a>. In 1994, Atkinson received the <a href="/wiki/EFF_Pioneer_Award" title="EFF Pioneer Award">EFF Pioneer Award</a> for his contributions.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Atkinson&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He received his undergraduate degree from the <a href="/wiki/University_of_California,_San_Diego" title="University of California, San Diego">University of California, San Diego</a>, where Apple Macintosh developer <a href="/wiki/Jef_Raskin" title="Jef Raskin">Jef Raskin</a> was one of his professors. Atkinson continued his studies as a graduate student in neurochemistry at the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a>. Raskin invited Atkinson to visit him at <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Computer</a>; <a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> persuaded him to join the company immediately as employee No. 51, and Atkinson never finished his PhD.<sup id="cite_ref-Isaacson2014_2-0" class="reference"><a href="#cite_note-Isaacson2014-2">&#91;2&#93;</a></sup><sup id="cite_ref-Tri244_3-0" class="reference"><a href="#cite_note-Tri244-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Atkinson&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Around 1990, <a href="/wiki/General_Magic" title="General Magic">General Magic</a>'s founding, with Bill Atkinson as one of the three cofounders, met the following press in <i><a href="/wiki/Byte_(magazine)" title="Byte (magazine)">Byte</a></i> magazine:
+</p>
+<blockquote><p>The obstacles to General Magic's success may appear daunting, but General Magic is not your typical start-up company. Its partners include some of the biggest players in the worlds of computing, communications, and consumer electronics, and it's loaded with top-notch engineers who have been given a clean slate to reinvent traditional approaches to ubiquitous worldwide communications.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></p></blockquote>
+<p>In 2007, Atkinson began working as an outside developer with <a href="/wiki/Numenta" title="Numenta">Numenta</a>, a startup working on computer intelligence. On his work there Atkinson said, "what Numenta is doing is more fundamentally important to society than the personal computer and the rise of the Internet."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Currently, Atkinson has combined his passion for computer programming with his love of <a href="/wiki/Nature_photography" title="Nature photography">nature photography</a> to create art images. He takes close-up photographs of stones that have been cut and polished. His works are highly regarded for their resemblance to miniature landscapes which are hidden within the stones. Atkinson's 2004 book <i>Within the Stone</i> features a collection of his close-up photographs. The highly intricate and detailed images he creates are made possible by the accuracy and creative control of the digital printing process that he helped create.
+</p><p>Some of Atkinson's noteworthy contributions to the field of computing include:
+</p>
+<ul><li>Macintosh <a href="/wiki/QuickDraw" title="QuickDraw">QuickDraw</a> and Lisa LisaGraf
+<ul><li>Atkinson independently discovered the <a href="/wiki/Midpoint_circle_algorithm" title="Midpoint circle algorithm">midpoint circle algorithm</a> for fast drawing of circles by using the sum of consecutive odd numbers.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li></ul></li>
+<li><a href="/wiki/Marching_ants" title="Marching ants">Marching ants</a></li>
+<li>The <a href="/wiki/Double-click" title="Double-click">double-click</a></li>
+<li><a href="/wiki/Menu_bar" title="Menu bar">Menu bar</a></li>
+<li>The <a href="/w/index.php?title=Selection_lasso&amp;action=edit&amp;redlink=1" class="new" title="Selection lasso (page does not exist)">selection lasso</a></li>
+<li><a href="/w/index.php?title=FatBits&amp;action=edit&amp;redlink=1" class="new" title="FatBits (page does not exist)">FatBits</a></li>
+<li><a href="/wiki/MacPaint" title="MacPaint">MacPaint</a></li>
+<li><a href="/wiki/HyperCard" title="HyperCard">HyperCard</a></li>
+<li><a href="/wiki/Dither#Algorithms" title="Dither">Atkinson dithering</a></li>
+<li>Bill Atkinson PhotoCard<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+<p>Atkinson now works as a nature photographer. Actor <a href="/wiki/Nelson_Franklin" title="Nelson Franklin">Nelson Franklin</a> portrayed him in the 2013 film <i><a href="/wiki/Jobs_(film)" title="Jobs (film)">Jobs</a></i>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Atkinson&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-lemmons198402-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-lemmons198402_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFLemmons1984" class="citation interview cs1">Lemmons, Phil (February 1984). <a rel="nofollow" class="external text" href="https://archive.org/stream/byte-magazine-1984-02/1984_02_BYTE_09-02_Benchmarks#page/n59/mode/2up">"An Interview: The Macintosh Design Team"</a>. <i>BYTE</i> (Interview). <b>9</b> (2). p.&#160;58<span class="reference-accessdate">. Retrieved <span class="nowrap">October 22,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BYTE&amp;rft.atitle=An+Interview%3A+The+Macintosh+Design+Team&amp;rft.volume=9&amp;rft.issue=2&amp;rft.pages=58&amp;rft.date=1984-02&amp;rft.aulast=Lemmons&amp;rft.aufirst=Phil&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fbyte-magazine-1984-02%2F1984_02_BYTE_09-02_Benchmarks%23page%2Fn59%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Atkinson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Isaacson2014-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Isaacson2014_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWalter_Isaacson2014" class="citation book cs1">Walter Isaacson (October 7, 2014). <i>The Innovators</i>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1476708690" title="Special:BookSources/978-1476708690"><bdi>978-1476708690</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Innovators&amp;rft.date=2014-10-07&amp;rft.isbn=978-1476708690&amp;rft.au=Walter+Isaacson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Atkinson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Tri244-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tri244_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://twit.tv/shows/triangulation/episodes/244/">Bill Atkinson</a> interviewed on the TV show Triangulation on the <a href="/wiki/TWiT.tv" title="TWiT.tv">TWiT.tv</a> network</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHalfhillReinhardt1994" class="citation news cs1">Halfhill, Tom R.; Reinhardt, Andy (February 1994). <a rel="nofollow" class="external text" href="https://web.archive.org/web/19970713005548/http://www.byte.com/art/9402/sec3/art1.htm">"Just Like Magic?"</a>. <i><a href="/wiki/Byte_(magazine)" title="Byte (magazine)">Byte</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.byte.com/art/9402/sec3/art1.htm">the original</a> on July 13, 1997.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Byte&amp;rft.atitle=Just+Like+Magic%3F&amp;rft.date=1994-02&amp;rft.aulast=Halfhill&amp;rft.aufirst=Tom+R.&amp;rft.au=Reinhardt%2C+Andy&amp;rft_id=http%3A%2F%2Fwww.byte.com%2Fart%2F9402%2Fsec3%2Fart1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Atkinson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSchonfeld2007" class="citation news cs1">Schonfeld, Erick (March 6, 2007). <a rel="nofollow" class="external text" href="https://money.cnn.com/magazines/business2/business2_archive/2007/02/01/8398989/">"Jeff Hawkins and the Brain"</a>. <i>Business 2.0</i>. CNN. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070625063943/https://money.cnn.com/magazines/business2/business2_archive/2007/02/01/8398989/index.htm">Archived</a> from the original on June 25, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+2.0&amp;rft.atitle=Jeff+Hawkins+and+the+Brain&amp;rft.date=2007-03-06&amp;rft.aulast=Schonfeld&amp;rft.aufirst=Erick&amp;rft_id=https%3A%2F%2Fmoney.cnn.com%2Fmagazines%2Fbusiness2%2Fbusiness2_archive%2F2007%2F02%2F01%2F8398989%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Atkinson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFIsaacson2011" class="citation news cs1">Isaacson, Walter (2011). <a rel="nofollow" class="external text" href="http://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt">"Steve Jobs"</a>. Simon &amp; Schuster<span class="reference-accessdate">. Retrieved <span class="nowrap">December 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Steve+Jobs&amp;rft.date=2011&amp;rft.aulast=Isaacson&amp;rft.aufirst=Walter&amp;rft_id=http%3A%2F%2Fwww.folklore.org%2FStoryView.py%3Fstory%3DRound_Rects_Are_Everywhere.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Atkinson" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/bill-atkinson-photocard/id333208430?mt=8">Bill Atkinson PhotoCard</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Atkinson&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.billatkinson.com">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Key_figures_in_the_history_of_Apple_Inc." style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Apple_celeb" title="Template:Apple celeb"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Apple_celeb" title="Template talk:Apple celeb"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Apple_celeb&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Key_figures_in_the_history_of_Apple_Inc." style="font-size:114%;margin:0 4em">Key figures in the <a href="/wiki/History_of_Apple_Inc." title="History of Apple Inc.">history of Apple Inc.</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Founders</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li>
+<li><a href="/wiki/Ronald_Wayne" title="Ronald Wayne">Ronald Wayne</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">CEOs</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a> (1977–1981)</li>
+<li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a> (1981–1983)</li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a> (1983–1993)</li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a> (1993–1996)</li>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a> (1996–1997)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (1997–2011)</li>
+<li><a href="/wiki/Tim_Cook" title="Tim Cook">Tim Cook</a> (2011–present)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current<br />employees</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Katherine_L._Adams" title="Katherine L. Adams">Katherine Adams</a></li>
+<li><a href="/wiki/Eddy_Cue" title="Eddy Cue">Eddy Cue</a></li>
+<li><a href="/wiki/Chris_Espinosa" title="Chris Espinosa">Chris Espinosa</a></li>
+<li><a href="/wiki/Craig_Federighi" title="Craig Federighi">Craig Federighi</a></li>
+<li><a href="/wiki/Lisa_P._Jackson" title="Lisa P. Jackson">Lisa Jackson</a></li>
+<li><a href="/wiki/Luca_Maestri" title="Luca Maestri">Luca Maestri</a></li>
+<li><a href="/wiki/Bob_Mansfield" title="Bob Mansfield">Bob Mansfield</a></li>
+<li><a href="/wiki/Dan_Riccio" title="Dan Riccio">Dan Riccio</a></li>
+<li><a href="/wiki/Phil_Schiller" title="Phil Schiller">Phil Schiller</a></li>
+<li><a href="/wiki/Johny_Srouji" title="Johny Srouji">Johny Srouji</a></li>
+<li><a href="/wiki/Bud_Tribble" title="Bud Tribble">Bud Tribble</a></li>
+<li><a href="/wiki/Jeff_Williams_(Apple)" title="Jeff Williams (Apple)">Jeff Williams</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former<br />employees</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a></li>
+<li><a href="/wiki/Angela_Ahrendts" title="Angela Ahrendts">Angela Ahrendts</a></li>
+<li><a href="/wiki/Fred_D._Anderson" title="Fred D. Anderson">Fred D. Anderson</a></li>
+<li><a class="mw-selflink selflink">Bill Atkinson</a></li>
+<li><a href="/wiki/Susan_Barnes_(computing)" title="Susan Barnes (computing)">Susan Barnes</a></li>
+<li><a href="/wiki/Chrisann_Brennan" title="Chrisann Brennan">Chrisann Brennan</a></li>
+<li><a href="/wiki/Steve_Capps" title="Steve Capps">Steve Capps</a></li>
+<li><a href="/wiki/Satjiv_S._Chahil" title="Satjiv S. Chahil">Satjiv S. Chahil</a></li>
+<li><a href="/wiki/George_Crow" title="George Crow">George Crow</a></li>
+<li><a href="/wiki/Tony_Fadell" title="Tony Fadell">Tony Fadell</a></li>
+<li><a href="/wiki/Bill_Fernandez" title="Bill Fernandez">Bill Fernandez</a></li>
+<li><a href="/wiki/Scott_Forstall" title="Scott Forstall">Scott Forstall</a></li>
+<li><a href="/wiki/Jean-Louis_Gass%C3%A9e" title="Jean-Louis Gassée">Jean-Louis Gassée</a></li>
+<li><a href="/wiki/Ellen_Hancock" title="Ellen Hancock">Ellen Hancock</a></li>
+<li><a href="/wiki/Nancy_R._Heinen" title="Nancy R. Heinen">Nancy Heinen</a></li>
+<li><a href="/wiki/Andy_Hertzfeld" title="Andy Hertzfeld">Andy Hertzfeld</a></li>
+<li><a href="/wiki/Joanna_Hoffman" title="Joanna Hoffman">Joanna Hoffman</a></li>
+<li><a href="/wiki/Rod_Holt" title="Rod Holt">Rod Holt</a></li>
+<li><a href="/wiki/Bruce_Horn" title="Bruce Horn">Bruce Horn</a></li>
+<li><a href="/wiki/Jony_Ive" title="Jony Ive">Jony Ive</a></li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a></li>
+<li><a href="/wiki/Ron_Johnson_(businessman)" title="Ron Johnson (businessman)">Ron Johnson</a></li>
+<li><a href="/wiki/Susan_Kare" title="Susan Kare">Susan Kare</a></li>
+<li><a href="/wiki/Guy_Kawasaki" title="Guy Kawasaki">Guy Kawasaki</a></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a></li>
+<li><a href="/wiki/Daniel_Kottke" title="Daniel Kottke">Daniel Kottke</a></li>
+<li><a href="/wiki/Chris_Lattner" title="Chris Lattner">Chris Lattner</a></li>
+<li><a href="/wiki/Guerrino_De_Luca" title="Guerrino De Luca">Guerrino De Luca</a></li>
+<li><a href="/wiki/Mike_Markkula" title="Mike Markkula">Mike Markkula</a></li>
+<li><a href="/wiki/David_Nagel" title="David Nagel">David Nagel</a></li>
+<li><a href="/wiki/Ike_Nassi" title="Ike Nassi">Ike Nassi</a></li>
+<li><a href="/wiki/Don_Norman" title="Don Norman">Don Norman</a></li>
+<li><a href="/wiki/Peter_Oppenheimer" title="Peter Oppenheimer">Peter Oppenheimer</a></li>
+<li><a href="/wiki/Rich_Page" title="Rich Page">Rich Page</a></li>
+<li><a href="/wiki/Mark_Papermaster" title="Mark Papermaster">Mark Papermaster</a></li>
+<li><a href="/wiki/Jef_Raskin" title="Jef Raskin">Jef Raskin</a></li>
+<li><a href="/wiki/Jon_Rubinstein" title="Jon Rubinstein">Jon Rubinstein</a></li>
+<li><a href="/wiki/Michael_Scott_(Apple)" title="Michael Scott (Apple)">Michael Scott</a></li>
+<li><a href="/wiki/John_Sculley" title="John Sculley">John Sculley</a></li>
+<li><a href="/wiki/Bertrand_Serlet" title="Bertrand Serlet">Bertrand Serlet</a></li>
+<li><a href="/wiki/Bruce_Sewell" title="Bruce Sewell">Bruce Sewell</a></li>
+<li><a href="/wiki/Burrell_Smith" title="Burrell Smith">Burrell Smith</a></li>
+<li><a href="/wiki/Michael_Spindler" title="Michael Spindler">Michael Spindler</a></li>
+<li><a href="/wiki/Sina_Tamaddon" title="Sina Tamaddon">Sina Tamaddon</a></li>
+<li><a href="/wiki/Avie_Tevanian" title="Avie Tevanian">Avie Tevanian</a></li>
+<li><a href="/wiki/Ronald_Wayne" title="Ronald Wayne">Ronald Wayne</a></li>
+<li><a href="/wiki/Del_Yocam" title="Del Yocam">Del Yocam</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Original_Macintosh_developer_team" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Original_Macintosh_Design_Team" title="Template:Original Macintosh Design Team"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Original_Macintosh_Design_Team" title="Template talk:Original Macintosh Design Team"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Original_Macintosh_Design_Team&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Original_Macintosh_developer_team" style="font-size:114%;margin:0 4em"><a href="/wiki/Macintosh#1978–84:_Development_and_introduction" title="Macintosh">Original Macintosh developer team</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Bill Atkinson</a></li>
+<li><a href="/wiki/Steve_Capps" title="Steve Capps">Steve Capps</a></li>
+<li><a href="/wiki/George_Crow" title="George Crow">George Crow</a></li>
+<li><a href="/wiki/Chris_Espinosa" title="Chris Espinosa">Chris Espinosa</a></li>
+<li><a href="/wiki/Andy_Hertzfeld" title="Andy Hertzfeld">Andy Hertzfeld</a></li>
+<li><a href="/wiki/Joanna_Hoffman" title="Joanna Hoffman">Joanna Hoffman</a></li>
+<li><a href="/wiki/Bruce_Horn" title="Bruce Horn">Bruce Horn</a></li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a></li>
+<li><a href="/wiki/Susan_Kare" title="Susan Kare">Susan Kare</a></li>
+<li><a href="/wiki/Jef_Raskin" title="Jef Raskin">Jef Raskin</a></li>
+<li><a href="/wiki/Burrell_Smith" title="Burrell Smith">Burrell Smith</a></li>
+<li><a href="/wiki/Bud_Tribble" title="Bud Tribble">Bud Tribble</a></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Steve Wozniak</a></li>
+<li><a href="/wiki/Randy_Wigginton" title="Randy Wigginton">Randy Wigginton</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92788#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92788#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q92788#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1027002544">1027002544</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000035582443">0000 0000 3558 2443</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n2004001252">n2004001252</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NDL_(identifier)" class="mw-redirect" title="NDL (identifier)">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00973600">00973600</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/PIC_(identifier)" title="PIC (identifier)">PIC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://pic.nypl.org/constituents/316138">316138</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/36301403">36301403</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n2004001252">lccn-n2004001252</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1404
+Cached time: 20210215164503
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.504 seconds
+Real time usage: 0.708 seconds
+Preprocessor visited node count: 1665/1000000
+Post‐expand include size: 36951/2097152 bytes
+Template argument size: 1939/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18423/5000000 bytes
+Lua time usage: 0.266/10.000 seconds
+Lua memory usage: 5617618/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  643.430      1 -total
+ 32.65%  210.093      1 Template:Infobox_person
+ 24.85%  159.882      1 Template:Infobox
+ 19.65%  126.405      1 Template:Cite_interview
+ 15.18%   97.641      5 Template:Br_separated_entries
+ 15.12%   97.298      1 Template:Short_description
+ 12.41%   79.875      1 Template:Birth_date_and_age
+  9.60%   61.746      1 Template:Pagetype
+  7.24%   46.614      1 Template:Authority_control
+  5.66%   36.424      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4158-0!canonical and timestamp 20210215164502 and revision id 996744985. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bill_Atkinson&amp;oldid=996744985">https://en.wikipedia.org/w/index.php?title=Bill_Atkinson&amp;oldid=996744985</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1951_births" title="Category:1951 births">1951 births</a></li><li><a href="/wiki/Category:American_photographers" title="Category:American photographers">American photographers</a></li><li><a href="/wiki/Category:Apple_Inc._employees" title="Category:Apple Inc. employees">Apple Inc. employees</a></li><li><a href="/wiki/Category:Apple_Fellows" title="Category:Apple Fellows">Apple Fellows</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:University_of_California,_San_Diego_alumni" title="Category:University of California, San Diego alumni">University of California, San Diego alumni</a></li><li><a href="/wiki/Category:University_of_Washington_alumni" title="Category:University of Washington alumni">University of Washington alumni</a></li><li><a href="/wiki/Category:Macintosh_operating_systems_people" title="Category:Macintosh operating systems people">Macintosh operating systems people</a></li><li><a href="/wiki/Category:Scientists_from_the_San_Francisco_Bay_Area" title="Category:Scientists from the San Francisco Bay Area">Scientists from the San Francisco Bay Area</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2019" title="Category:Use mdy dates from March 2019">Use mdy dates from March 2019</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PIC_identifiers" title="Category:Wikipedia articles with PIC identifiers">Wikipedia articles with PIC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bill+Atkinson" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bill+Atkinson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Bill_Atkinson" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Bill_Atkinson" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Bill_Atkinson">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Bill_Atkinson&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Bill_Atkinson&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bill_Atkinson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bill_Atkinson" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bill_Atkinson&amp;oldid=996744985" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bill_Atkinson&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bill_Atkinson&amp;id=996744985&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92788" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bill_Atkinson&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bill_Atkinson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bill_Atkinson" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D9%84_%D8%A3%D8%AA%D9%83%D9%8A%D9%86%D8%B3%D9%88%D9%86_(%D8%B9%D8%A7%D9%84%D9%85)" title="بيل أتكينسون (عالم) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%BB_%D0%90%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD" title="Билл Аткинсон – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bill_Atkinson_(Programmierer)" title="Bill Atkinson (Programmierer) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bill_Atkinson_(informaticien)" title="Bill Atkinson (informaticien) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%88%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3" title="ビル・アトキンソン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD,_%D0%91%D0%B8%D0%BB%D0%BB" title="Аткинсон, Билл – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bill_Atkinson" title="Bill Atkinson – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92788#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 28 December 2020, at 11:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bill_Atkinson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.708","ppvisitednodes":{"value":1665,"limit":1000000},"postexpandincludesize":{"value":36951,"limit":2097152},"templateargumentsize":{"value":1939,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18423,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  643.430      1 -total"," 32.65%  210.093      1 Template:Infobox_person"," 24.85%  159.882      1 Template:Infobox"," 19.65%  126.405      1 Template:Cite_interview"," 15.18%   97.641      5 Template:Br_separated_entries"," 15.12%   97.298      1 Template:Short_description"," 12.41%   79.875      1 Template:Birth_date_and_age","  9.60%   61.746      1 Template:Pagetype","  7.24%   46.614      1 Template:Authority_control","  5.66%   36.424      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.266","limit":"10.000"},"limitreport-memusage":{"value":5617618,"limit":52428800}},"cachereport":{"origin":"mw1404","timestamp":"20210215164503","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bill Atkinson","url":"https:\/\/en.wikipedia.org\/wiki\/Bill_Atkinson","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92788","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92788","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-25T15:51:15Z","dateModified":"2020-12-28T11:13:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Bill_Atkinson_at_25_years_of_HyperCard_event.jpeg","headline":"American computer engineer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":195,"wgHostname":"mw1323"});});</script>
+</body></html>

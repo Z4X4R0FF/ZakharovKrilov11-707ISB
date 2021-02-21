@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bram Cohen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDHJoppQ7mH3ToYB9qxcTgAAAFU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bram_Cohen","wgTitle":"Bram Cohen","wgCurRevisionId":1007160021,"wgRevisionId":1007160021,"wgArticleId":265666,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","Articles with short description","Short description is different from Wikidata","Use mdy dates from February 2012","Articles with hCards",
+"All articles with unsourced statements","Articles with unsourced statements from November 2019","Articles with unsourced statements from March 2019","Place of birth missing (living people)","Year of birth missing (living people)","All stub articles","American bloggers","American Jews","American computer programmers","Cypherpunks","Living people","Stuyvesant High School alumni","University at Buffalo alumni","BitTorrent","Recreational mathematicians","People from San Francisco","People from the Upper West Side","Cryptocurrency stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bram_Cohen","wgRelevantArticleId":265666,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{
+"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q318489"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js",
+"ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bram_Cohen.jpg/1200px-Bram_Cohen.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Bram_Cohen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bram_Cohen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bram_Cohen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bram_Cohen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bram_Cohen rootpage-Bram_Cohen skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Bram Cohen</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American programmer and  author of the BitTorrent protocol</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Bram Cohen</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Bram_Cohen.jpg" class="image"><img alt="Bram Cohen.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bram_Cohen.jpg/220px-Bram_Cohen.jpg" decoding="async" width="220" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bram_Cohen.jpg/330px-Bram_Cohen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bram_Cohen.jpg/440px-Bram_Cohen.jpg 2x" data-file-width="1992" data-file-height="2256" /></a><div>Bram Cohen, 2015</div></td></tr><tr><th scope="row">Born</th><td><div style="display:inline" class="birthplace"><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</div></td></tr><tr><th scope="row">Nationality</th><td class="category">American</td></tr><tr><th scope="row">Education</th><td><a href="/wiki/Stuyvesant_High_School" title="Stuyvesant High School">Stuyvesant High School</a></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_at_Buffalo,_The_State_University_of_New_York" class="mw-redirect" title="University at Buffalo, The State University of New York">University at Buffalo</a></td></tr><tr><th scope="row">Occupation</th><td class="role"><a href="/wiki/Chief_Executive_Officer" class="mw-redirect" title="Chief Executive Officer">Chief Executive Officer</a>, Chia.Network</td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/BitTorrent_(protocol)" class="mw-redirect" title="BitTorrent (protocol)">BitTorrent protocol</a></td></tr><tr><th scope="row"><span class="nowrap">Spouse(s)</span></th><td>Jenna Cohen</td></tr><tr><th scope="row">Children</th><td>3</td></tr><tr><th scope="row">Relatives</th><td>Ross Cohen (brother)</td></tr><tr><th scope="row">Awards</th><td><a href="/wiki/USENIX" title="USENIX">USENIX</a> STUG Award<br /><a href="/wiki/Time_100" title="Time 100">Time 100</a><br /><a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a> TR35</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://bramcohen.com/">bramcohen<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Bram Cohen</b> is an American <a href="/wiki/Computer_programmer" class="mw-redirect" title="Computer programmer">computer programmer</a>, best known as the author of the <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a> (P2P) <a href="/wiki/BitTorrent_(protocol)" class="mw-redirect" title="BitTorrent (protocol)">BitTorrent protocol</a>, as well as the first <a href="/wiki/File_sharing" title="File sharing">file sharing</a> program to use the protocol, also known as <a href="/wiki/BitTorrent_(software)" title="BitTorrent (software)">BitTorrent</a>. He is also the co-founder of <a href="/wiki/CodeCon" title="CodeCon">CodeCon</a> and organizer of the <a href="/wiki/San_Francisco_Bay_Area" title="San Francisco Bay Area">San Francisco Bay Area</a> P2P-hackers meeting, and was the co-author of <a href="/wiki/Codeville" title="Codeville">Codeville</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_career"><span class="tocnumber">1</span> <span class="toctext">Early life and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#BitTorrent"><span class="tocnumber">2</span> <span class="toctext">BitTorrent</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#BitTorrent_and_the_MPAA"><span class="tocnumber">2.1</span> <span class="toctext">BitTorrent and the MPAA</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Chia_Network"><span class="tocnumber">3</span> <span class="toctext">Chia Network</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Awards"><span class="tocnumber">5</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life_and_career">Early life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=1" title="Edit section: Early life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cohen grew up in the <a href="/wiki/Upper_West_Side" title="Upper West Side">Upper West Side</a> of Manhattan, New York City as the son of a teacher and computer scientist. He claims he learned the <a href="/wiki/BASIC_programming_language" class="mw-redirect" title="BASIC programming language">BASIC programming language</a> at the age of 5 on his family's <a href="/wiki/Timex_Sinclair" title="Timex Sinclair">Timex Sinclair</a> computer. Cohen passed the <a href="/wiki/American_Invitational_Mathematics_Examination" title="American Invitational Mathematics Examination">American Invitational Mathematics Examination</a> to qualify for the <a href="/wiki/United_States_of_America_Mathematical_Olympiad" title="United States of America Mathematical Olympiad">United States of America Mathematical Olympiad</a> (USAMO) while he attended <a href="/wiki/Stuyvesant_High_School" title="Stuyvesant High School">Stuyvesant High School</a> in New York City. He is also an alumnus of the <a href="/wiki/Hampshire_College_Summer_Studies_in_Mathematics" title="Hampshire College Summer Studies in Mathematics">Hampshire College Summer Studies in Mathematics</a> program. He graduated from Stuyvesant in 1993<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and attended <a href="/wiki/University_at_Buffalo,_The_State_University_of_New_York" class="mw-redirect" title="University at Buffalo, The State University of New York">SUNY Buffalo</a>. He later dropped out of college to work for several <a href="/wiki/Dot-com_company" title="Dot-com company">dot com companies</a> throughout the mid to late 1990s, the last being <a href="/wiki/MojoNation" class="mw-redirect" title="MojoNation">MojoNation</a>, an ambitious but ill-fated project he worked on with Jim McCoy.
+</p><p>MojoNation allowed people to break up confidential files into encrypted chunks and distribute those pieces on computers also running the software. If someone wanted to download a copy of this encrypted file, they would have to download it simultaneously from many computers. This concept, Cohen thought, was perfect for a <a href="/wiki/File_sharing" title="File sharing">file sharing</a> program, since programs like <a href="/wiki/KaZaA" class="mw-redirect" title="KaZaA">KaZaA</a> take a long time to download a large file because the file is (usually) coming from one source (or "peer"). Cohen designed BitTorrent to be able to download files from many different sources, thus 
+speeding up the download time, especially for users with faster <a href="/wiki/Download" title="Download">download</a> than <a href="/wiki/Upload" title="Upload">upload</a> speeds. Thus, the more popular a file is, the faster a user will be able to download it, since many people will be downloading it at the same time, and these people will also be uploading the data to other users.
+</p><p>Cohen claims he has <a href="/wiki/Asperger_syndrome" title="Asperger syndrome">Asperger syndrome</a><sup id="cite_ref-wired_2-0" class="reference"><a href="#cite_note-wired-2">&#91;2&#93;</a></sup> based on a <a href="/wiki/Self_diagnosis" class="mw-redirect" title="Self diagnosis">self diagnosis</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="BitTorrent">BitTorrent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=2" title="Edit section: BitTorrent">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In April 2001, Cohen quit MojoNation and began work on BitTorrent. Cohen unveiled his novel ideas at the first <a href="/wiki/CodeCon" title="CodeCon">CodeCon</a> conference, which he and his roommate <a href="/wiki/Len_Sassaman" title="Len Sassaman">Len Sassaman</a> created as a showcase event for novel technology projects after becoming disillusioned with the state of technology conferences. It remains an event for those seeking information about new directions in software, though BitTorrent continues to lay claim to the title of "most famous presentation".
+</p><p>Cohen wrote the first BitTorrent client implementation in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, and <a href="/wiki/BitTorrent_client" class="mw-redirect" title="BitTorrent client">many other programs</a> have since implemented the protocol.
+</p><p>In the summer of 2002, Cohen collected free pornography to lure <a href="/wiki/Beta_test" class="mw-redirect" title="Beta test">beta testers</a> to use the program.<sup id="cite_ref-wired_2-1" class="reference"><a href="#cite_note-wired-2">&#91;2&#93;</a></sup> BitTorrent gained its fame for its ability to quickly share large music and movie files online. Cohen has claimed he has never violated copyright law using his software.<sup id="cite_ref-wired_2-2" class="reference"><a href="#cite_note-wired-2">&#91;2&#93;</a></sup> Regardless, he is outspoken in his belief that the current media business was doomed to being outmoded despite the <a href="/wiki/RIAA" class="mw-redirect" title="RIAA">RIAA</a> and MPAA's legal or technical tactics, such as <a href="/wiki/Digital_rights_management" title="Digital rights management">digital rights management</a>. In May 2005, Cohen released a <a href="/wiki/BitTorrent_tracker" title="BitTorrent tracker">trackerless</a> beta version of BitTorrent.
+</p><p>In late 2003, Cohen had a short career at <a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve</a> working on <a href="/wiki/Steam_(service)" title="Steam (service)">Steam</a>, their <a href="/wiki/Digital_distribution" title="Digital distribution">digital distribution</a> system introduced for <i><a href="/wiki/Half-Life_2" title="Half-Life 2">Half-Life 2</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2019)">citation needed</span></a></i>&#93;</sup>
+</p><p>By 2004, he had left Valve and formed <a href="/wiki/BitTorrent,_Inc." class="mw-redirect" title="BitTorrent, Inc.">BitTorrent, Inc.</a> with his brother <a href="/wiki/Ross_Cohen" title="Ross Cohen">Ross Cohen</a> and business partner <a href="/wiki/Ashwin_Navin" title="Ashwin Navin">Ashwin Navin</a>. In 2012 he announced a beta-version of BitTorrent Live for TV broadcasting through the Internet.<sup id="cite_ref-btlive_4-0" class="reference"><a href="#cite_note-btlive-4">&#91;4&#93;</a></sup> Cohen left BitTorrent, Inc. in a day to day capacity to co-found <a href="/w/index.php?title=Chia.Network&amp;action=edit&amp;redlink=1" class="new" title="Chia.Network (page does not exist)">Chia.Network</a> in the fall of 2017.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="BitTorrent_and_the_MPAA">BitTorrent and the MPAA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=3" title="Edit section: BitTorrent and the MPAA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By mid-2005, BitTorrent, Inc. was funded by venture capitalist <a href="/w/index.php?title=David_Chao&amp;action=edit&amp;redlink=1" class="new" title="David Chao (page does not exist)">David Chao</a> from <a href="/w/index.php?title=Doll_Capital_Management&amp;action=edit&amp;redlink=1" class="new" title="Doll Capital Management (page does not exist)">Doll Capital Management</a>, and in late 2005 Cohen and Navin made a deal with the <a href="/wiki/MPAA" class="mw-redirect" title="MPAA">MPAA</a> to remove links to illegal content on the official BitTorrent website. The deal was with the seven largest studios in America. The agreement means the site will comply with procedures outlined in the <a href="/wiki/Digital_Millennium_Copyright_Act" title="Digital Millennium Copyright Act">Digital Millennium Copyright Act</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Chia_Network">Chia Network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=4" title="Edit section: Chia Network">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="anchor" id="Chia"></span>
+Chia Network is a company founded by Cohen that has implemented at <a href="/wiki/Proof_of_space-time" class="mw-redirect" title="Proof of space-time">proof of space-time</a> <a href="/wiki/Cryptocurrency" title="Cryptocurrency">cryptocurrency</a> called <i>Chia</i>. Chia  is intended to avoid the waste of energy involved in <a href="/wiki/Proof-of-work" class="mw-redirect" title="Proof-of-work">proof-of-work</a> based cryptocurrencies such as <a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a>,<sup id="cite_ref-techcrunch_7-0" class="reference"><a href="#cite_note-techcrunch-7">&#91;7&#93;</a></sup> and the vulnerability to state actors of <a href="/wiki/Proof-of-stake" class="mw-redirect" title="Proof-of-stake">proof-of-stake</a> systems.
+</p><p>Chia Network has raised seed money from investors including <a href="/wiki/Andreessen_Horowitz" title="Andreessen Horowitz">Andreessen Horowitz</a>.<sup id="cite_ref-techcrunch_7-1" class="reference"><a href="#cite_note-techcrunch-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 2008, Cohen lives in the <a href="/wiki/San_Francisco_Bay_Area" title="San Francisco Bay Area">San Francisco Bay Area</a>, United States, with his wife Jenna and their three children.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Cohen's hobbies include original <a href="/wiki/Origami" title="Origami">origami</a> and <a href="/wiki/Juggling" title="Juggling">juggling</a> up to five balls, but his main interest is in <a href="/wiki/Recreational_mathematics" title="Recreational mathematics">recreational mathematics</a>. Cohen maintains a <a href="/wiki/Blog" title="Blog">blog</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2019)">citation needed</span></a></i>&#93;</sup> where he frequently discusses <a href="/wiki/Trust_metric" title="Trust metric">trust metrics</a> with <a href="/wiki/Raph_Levien" title="Raph Levien">Raph Levien</a>, as well as money systems, games of skill, and other math-related topics. He is also an <a href="/wiki/Mechanical_puzzle" title="Mechanical puzzle">assembly puzzle</a> enthusiast.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> He has designed several puzzles including some in conjunction with <a href="/wiki/Oskar_van_Deventer" title="Oskar van Deventer">Oskar van Deventer</a> including several gear-based puzzles such as Gear Shift<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> and a multiple <a href="/wiki/Rubik%27s_Cube" title="Rubik&#39;s Cube">Rubik's Cube</a> variant called Bram's Fortress.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Some of Bram's puzzle designs are available for <a href="/wiki/3-D_printing" class="mw-redirect" title="3-D printing">3-D printing</a> via <a href="/wiki/Shapeways" title="Shapeways">Shapeways</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=6" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cohen has received a number of awards for his work on the BitTorrent protocol. These awards include:
+</p>
+<ul><li><a href="/w/index.php?title=2004_Wired_Rave_Award&amp;action=edit&amp;redlink=1" class="new" title="2004 Wired Rave Award (page does not exist)">2004 Wired Rave Award</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li>2005 <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a> <a href="/wiki/Technology_Review" class="mw-redirect" title="Technology Review">Technology Review</a> <a href="/wiki/TR35" class="mw-redirect" title="TR35">TR35</a> as one of the top 35 innovators in the world under the age of 35.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><a href="/wiki/Time_100" title="Time 100">2005 Time's 100 Most Influential People</a> <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li><a href="/w/index.php?title=2006_USENIX_STUG_Award&amp;action=edit&amp;redlink=1" class="new" title="2006 USENIX STUG Award (page does not exist)">2006 USENIX STUG Award</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li><a href="/w/index.php?title=2010_Internet_Evolution_100&amp;action=edit&amp;redlink=1" class="new" title="2010 Internet Evolution 100 (page does not exist)">2010 Internet Evolution 100</a> <sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFCohen" class="citation web cs1">Cohen, Bram. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110708090755/http://bramcohen.com/resume.txt">"Resume"</a>. Archived from <a rel="nofollow" class="external text" href="http://bitconjurer.org/resume.txt">the original</a> on July 8, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">April 3,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Resume&amp;rft.aulast=Cohen&amp;rft.aufirst=Bram&amp;rft_id=http%3A%2F%2Fbitconjurer.org%2Fresume.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-wired-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-wired_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wired_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-wired_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFThompson2005" class="citation web cs1">Thompson, Clive (January 2005). <a rel="nofollow" class="external text" href="https://www.wired.com/wired/archive/13.01/bittorrent.html">"The BitTorrent Effect"</a>. <a href="/wiki/Wired_magazine" class="mw-redirect" title="Wired magazine">Wired</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 18,</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+BitTorrent+Effect&amp;rft.pub=Wired&amp;rft.date=2005-01&amp;rft.aulast=Thompson&amp;rft.aufirst=Clive&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fwired%2Farchive%2F13.01%2Fbittorrent.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFRoth2005" class="citation news cs1">Roth, Daniel (November 14, 2005). <a rel="nofollow" class="external text" href="https://money.cnn.com/magazines/fortune/fortune_archive/2005/10/31/8359146/index.htm">"Torrential Reign"</a>. <a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)">Fortune</a>. pp.&#160;91–96<span class="reference-accessdate">. Retrieved <span class="nowrap">November 6,</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Torrential+Reign&amp;rft.pages=91-96&amp;rft.date=2005-11-14&amp;rft.aulast=Roth&amp;rft.aufirst=Daniel&amp;rft_id=https%3A%2F%2Fmoney.cnn.com%2Fmagazines%2Ffortune%2Ffortune_archive%2F2005%2F10%2F31%2F8359146%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-btlive-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-btlive_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBitTorrent_Inc.2011" class="citation web cs1">BitTorrent Inc. (2011). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131025133454/http://live.bittorrent.com/">"BitTorrent Live JukeBox"</a>. <i>BitTorrent Live BETA</i>. BitTorrent Inc. Archived from <a rel="nofollow" class="external text" href="http://live.bittorrent.com/">the original</a> on October 25, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">September 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BitTorrent+Live+BETA&amp;rft.atitle=BitTorrent+Live+JukeBox&amp;rft.date=2011&amp;rft.au=BitTorrent+Inc.&amp;rft_id=http%3A%2F%2Flive.bittorrent.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFConstine2017" class="citation web cs1">Constine, Josh (November 8, 2017). <a rel="nofollow" class="external text" href="https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/">"BitTorrent inventor announces eco-friendly bitcoin competitor Chia"</a>. TechCrunch.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BitTorrent+inventor+announces+eco-friendly+bitcoin+competitor+Chia&amp;rft.pub=TechCrunch&amp;rft.date=2017-11-08&amp;rft.aulast=Constine&amp;rft.aufirst=Josh&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2017%2F11%2F08%2Fchia-network-cryptocurrency%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGentile2005" class="citation web cs1">Gentile, Gary (November 23, 2005). <a rel="nofollow" class="external text" href="http://www.informationweek.com/story/showArticle.jhtml?articleID=174401655">"Hollywood Hopes BitTorrent Deal Will Reduce Illegal Movie Downloads"</a>. Information Week.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hollywood+Hopes+BitTorrent+Deal+Will+Reduce+Illegal+Movie+Downloads&amp;rft.pub=Information+Week&amp;rft.date=2005-11-23&amp;rft.aulast=Gentile&amp;rft.aufirst=Gary&amp;rft_id=http%3A%2F%2Fwww.informationweek.com%2Fstory%2FshowArticle.jhtml%3FarticleID%3D174401655&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-techcrunch-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-techcrunch_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-techcrunch_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://techcrunch.com/2018/03/28/chia-vs-bitcoin/">"Energy-saving Bitcoin rival Chia raises from A16Z, plans mini-IPO"</a>. <i>TechCrunch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Energy-saving+Bitcoin+rival+Chia+raises+from+A16Z%2C+plans+mini-IPO&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2018%2F03%2F28%2Fchia-vs-bitcoin%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSusan_Berfield2008" class="citation web cs1">Susan Berfield (October 15, 2008). <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2008-10-15/bittorrents-bram-cohen-isnt-limited-by-aspergers">"BitTorrent's Bram Cohen Isn't Limited by Asperger's"</a>. <i>Bloomberg Businessweek</i>. Bloomberg L.P<span class="reference-accessdate">. Retrieved <span class="nowrap">March 22,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bloomberg+Businessweek&amp;rft.atitle=BitTorrent%27s+Bram+Cohen+Isn%27t+Limited+by+Asperger%27s&amp;rft.date=2008-10-15&amp;rft.au=Susan+Berfield&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2008-10-15%2Fbittorrents-bram-cohen-isnt-limited-by-aspergers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBram_Cohen2012" class="citation web cs1">Bram Cohen (May 7, 2012). <a rel="nofollow" class="external text" href="http://bramcohen.com/">"TCP Sucks"</a>. <i>Bram Cohen's Blog</i>. Bram Cohen<span class="reference-accessdate">. Retrieved <span class="nowrap">September 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bram+Cohen%27s+Blog&amp;rft.atitle=TCP+Sucks&amp;rft.date=2012-05-07&amp;rft.au=Bram+Cohen&amp;rft_id=http%3A%2F%2Fbramcohen.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJason_McIntosh2009" class="citation web cs1">Jason McIntosh (June 21, 2009). <a rel="nofollow" class="external text" href="http://gameshelf.jmac.org/2009/06/bram-cohens-puzzle-shop/">"Bram Cohen's puzzle shop"</a>. <i>The Gameshelf</i>. The Gameshelf<span class="reference-accessdate">. Retrieved <span class="nowrap">September 7,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Gameshelf&amp;rft.atitle=Bram+Cohen%27s+puzzle+shop&amp;rft.date=2009-06-21&amp;rft.au=Jason+McIntosh&amp;rft_id=http%3A%2F%2Fgameshelf.jmac.org%2F2009%2F06%2Fbram-cohens-puzzle-shop%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOskar_van_Deventer2010" class="citation web cs1">Oskar van Deventer (October 9, 2010). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=PkAlP9W0PM0">"Gear Shift"</a>. <i>Gear Shift</i>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gear+Shift&amp;rft.atitle=Gear+Shift&amp;rft.date=2010-10-09&amp;rft.au=Oskar+van+Deventer&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPkAlP9W0PM0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOskar_van_Deventer2012" class="citation web cs1">Oskar van Deventer (August 25, 2012). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=WeV-LBIzjJ4">"Bram's Fortress"</a>. <i>Bram's Fortress</i>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bram%27s+Fortress&amp;rft.atitle=Bram%27s+Fortress&amp;rft.date=2012-08-25&amp;rft.au=Oskar+van+Deventer&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWeV-LBIzjJ4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBram_Cohen2012" class="citation web cs1">Bram Cohen (August 25, 2012). <a rel="nofollow" class="external text" href="http://www.shapeways.com/shops/bram_cohen">"Bram Cohen Puzzles"</a>. <i>Bram Cohen Puzzles</i>. Shapeways<span class="reference-accessdate">. Retrieved <span class="nowrap">May 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bram+Cohen+Puzzles&amp;rft.atitle=Bram+Cohen+Puzzles&amp;rft.date=2012-08-25&amp;rft.au=Bram+Cohen&amp;rft_id=http%3A%2F%2Fwww.shapeways.com%2Fshops%2Fbram_cohen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.wired.com/wired/archive/12.04/rave.html?pg=10">"Wired 12.04: The 2004 Wired Rave Awards"</a>. Wired.com. January 4, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wired+12.04%3A+The+2004+Wired+Rave+Awards&amp;rft.pub=Wired.com&amp;rft.date=2009-01-04&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fwired%2Farchive%2F12.04%2Frave.html%3Fpg%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.technologyreview.com/tr35/profile.aspx?TRID=93">"2005 Young Innovators Under 35: Bram Cohen, 29"</a>. <a href="/wiki/Technology_Review" class="mw-redirect" title="Technology Review">Technology Review</a>. 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">August 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2005+Young+Innovators+Under+35%3A+Bram+Cohen%2C+29&amp;rft.pub=Technology+Review&amp;rft.date=2005&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2Ftr35%2Fprofile.aspx%3FTRID%3D93&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.time.com/time/press_releases/article/0,8599,1047355,00.html">"Special Issue: The TIME 100"</a>. <i>Time</i>. April 10, 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=Special+Issue%3A+The+TIME+100&amp;rft.date=2005-04-10&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fpress_releases%2Farticle%2F0%2C8599%2C1047355%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.usenix.org/about/stug.html">"Usenix Stug Award"</a>. Usenix.org<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Usenix+Stug+Award&amp;rft.pub=Usenix.org&amp;rft_id=http%3A%2F%2Fwww.usenix.org%2Fabout%2Fstug.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.internetevolution.com/document.asp?doc_id=190304">"The Big Report – The Internet Evolution 100"</a>. Internet Evolution<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Big+Report+%E2%80%93+The+Internet+Evolution+100&amp;rft.pub=Internet+Evolution&amp;rft_id=http%3A%2F%2Fwww.internetevolution.com%2Fdocument.asp%3Fdoc_id%3D190304&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABram+Cohen" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bram_Cohen&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Bram_Cohen" class="extiw" title="q:Special:Search/Bram Cohen">Bram Cohen</a></b></i></td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.bramcohen.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://seattletimes.nwsource.com/html/businesstechnology/2002146729_bittorrent10.html">Interview with Cohen about BitTorrent and CodeCon</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.metro.se/se/article/2008/04/22/14/3127-48/index.xml">Interview with Bram Cohen about legal issues and The Pirate Bay</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.npr.org/templates/story/story.php?storyId=89225415">Interview with Bram Cohen on NPR</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Cryptocurrencies" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Cryptocurrencies" title="Template:Cryptocurrencies"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cryptocurrencies" title="Template talk:Cryptocurrencies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cryptocurrencies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Cryptocurrencies" style="font-size:114%;margin:0 4em"><a href="/wiki/Cryptocurrency" title="Cryptocurrency">Cryptocurrencies</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blockchain" title="Blockchain">Blockchain</a></li>
+<li><a href="/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumbler</a></li>
+<li><a href="/wiki/Cryptocurrency_exchange" title="Cryptocurrency exchange">Cryptocurrency exchange</a></li>
+<li><a href="/wiki/Cryptocurrency_wallet" title="Cryptocurrency wallet">Cryptocurrency wallet</a></li>
+<li><a href="/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash function</a></li>
+<li><a href="/wiki/Distributed_ledger" title="Distributed ledger">Distributed ledger</a></li>
+<li><a href="/wiki/Fork_(blockchain)" title="Fork (blockchain)">Fork</a></li>
+<li><a href="/wiki/Lightning_Network" title="Lightning Network">Lightning Network</a></li>
+<li><a href="/wiki/Smart_contract" title="Smart contract">Smart contract</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Consensus_(computer_science)" title="Consensus (computer science)">Consensus</a> mechanisms</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proof_of_authority" title="Proof of authority">Proof of authority</a></li>
+<li><a href="/wiki/Proof_of_personhood" title="Proof of personhood">Proof of personhood</a></li>
+<li><a href="/wiki/Proof_of_space" title="Proof of space">Proof of space</a></li>
+<li><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a></li>
+<li><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_work" title="Proof of work">Proof of work</a> currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/SHA-2" title="SHA-2">SHA-256</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitcoin" title="Bitcoin">Bitcoin</a></li>
+<li><a href="/wiki/Bitcoin_Cash" title="Bitcoin Cash">Bitcoin Cash</a></li>
+<li><a href="/wiki/Counterparty_(platform)" title="Counterparty (platform)">Counterparty</a></li>
+<li><a href="/wiki/MazaCoin" title="MazaCoin">MazaCoin</a></li>
+<li><a href="/wiki/Namecoin" title="Namecoin">Namecoin</a></li>
+<li><a href="/wiki/Peercoin" title="Peercoin">Peercoin</a></li>
+<li><a href="/wiki/Titcoin" title="Titcoin">Titcoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ethash" class="mw-redirect" title="Ethash">Ethash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ethereum" title="Ethereum">Ethereum</a></li>
+<li><a href="/wiki/Ethereum_Classic" title="Ethereum Classic">Ethereum Classic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scrypt" title="Scrypt">Scrypt</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auroracoin" title="Auroracoin">Auroracoin</a></li>
+<li><a href="/wiki/Bitconnect" title="Bitconnect">Bitconnect</a></li>
+<li><a href="/wiki/Bitcoin_Gold" title="Bitcoin Gold">Bitcoin Gold</a></li>
+<li><a href="/wiki/Coinye" title="Coinye">Coinye</a></li>
+<li><a href="/wiki/Dogecoin" title="Dogecoin">Dogecoin</a></li>
+<li><a href="/wiki/Litecoin" title="Litecoin">Litecoin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Equihash" title="Equihash">Equihash</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zcash" title="Zcash">Zcash</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/CryptoNote" title="CryptoNote">CryptoNote</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Monero" title="Monero">Monero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/X11_algorithm" class="mw-redirect" title="X11 algorithm">X11</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dash_(cryptocurrency)" title="Dash (cryptocurrency)">Dash</a></li>
+<li><a href="/wiki/Petro_(cryptocurrency)" title="Petro (cryptocurrency)">Petro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmbaCoin" title="AmbaCoin">AmbaCoin</a></li>
+<li><a href="/wiki/Firo_(cryptocurrency)" title="Firo (cryptocurrency)">Firo</a></li>
+<li><a href="/wiki/IOTA_(technology)" title="IOTA (technology)">IOTA</a></li>
+<li><a href="/wiki/Primecoin" title="Primecoin">Primecoin</a></li>
+<li><a href="/wiki/Verge_(cryptocurrency)" title="Verge (cryptocurrency)">Verge</a></li>
+<li><a href="/wiki/Vertcoin" title="Vertcoin">Vertcoin</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proof_of_stake" title="Proof of stake">Proof of stake</a> currencies</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cardano_(cryptocurrency_platform)" title="Cardano (cryptocurrency platform)">Cardano</a></li>
+<li><a href="/wiki/EOS.IO" title="EOS.IO">EOS.IO</a></li>
+<li><a href="/wiki/Gridcoin" title="Gridcoin">Gridcoin</a></li>
+<li><a href="/wiki/Nxt" title="Nxt">Nxt</a></li>
+<li><a href="/wiki/Peercoin" title="Peercoin">Peercoin</a></li>
+<li><a href="/wiki/Polkadot_(cryptocurrency)" title="Polkadot (cryptocurrency)">Polkadot</a></li>
+<li><a href="/wiki/Steem" class="mw-redirect" title="Steem">Steem</a></li>
+<li><a href="/wiki/Tezos" title="Tezos">Tezos</a></li>
+<li><a href="/wiki/TRON_(cryptocurrency)" title="TRON (cryptocurrency)">TRON</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/ERC-20" class="mw-redirect" title="ERC-20">ERC-20</a> tokens</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Augur_(software)" title="Augur (software)">Augur</a></li>
+<li><a href="/wiki/Aventus_Protocol" title="Aventus Protocol">Aventus</a></li>
+<li><a href="/wiki/Bancor_(cryptocurrency)" title="Bancor (cryptocurrency)">Bancor</a></li>
+<li><a href="/wiki/Basic_Attention_Token" class="mw-redirect" title="Basic Attention Token">Basic Attention Token</a></li>
+<li><a href="/wiki/INX_(company)" title="INX (company)">INX</a></li>
+<li><a href="/wiki/Kin_(Token)" class="mw-redirect" title="Kin (Token)">Kin</a></li>
+<li><a href="/wiki/KodakCoin" title="KodakCoin">KodakCoin</a></li>
+<li><a href="/wiki/Minds" title="Minds">Minds</a></li>
+<li><a href="/wiki/The_DAO_(organization)" title="The DAO (organization)">The DAO</a></li>
+<li><a href="/wiki/Uniswap" title="Uniswap">Uniswap</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stablecoin" title="Stablecoin">Stablecoins</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dai_(cryptocurrency)" title="Dai (cryptocurrency)">Dai</a></li>
+<li><a href="/wiki/Diem_(digital_currency)" title="Diem (digital currency)">Diem</a></li>
+<li><a href="/wiki/Tether_(cryptocurrency)" title="Tether (cryptocurrency)">Tether</a></li>
+<li><a href="/wiki/USD_Coin" title="USD Coin">USD Coin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other currencies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Filecoin" title="Filecoin">Filecoin</a></li>
+<li><a href="/wiki/GNU_Taler" title="GNU Taler">GNU Taler</a></li>
+<li><a href="/wiki/Hashgraph" title="Hashgraph">Hashgraph</a></li>
+<li><a href="/wiki/Nano_(cryptocurrency)" title="Nano (cryptocurrency)">Nano</a></li>
+<li><a href="/wiki/NEO_(cryptocurrency)" title="NEO (cryptocurrency)">NEO</a></li>
+<li><a href="/wiki/Ripple_(payment_protocol)" title="Ripple (payment protocol)">Ripple</a></li>
+<li><a href="/w/index.php?title=Siacoin&amp;action=edit&amp;redlink=1" class="new" title="Siacoin (page does not exist)">Siacoin</a></li>
+<li><a href="/wiki/Stellar_(payment_network)" title="Stellar (payment network)">Stellar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airdrop_(cryptocurrency)" title="Airdrop (cryptocurrency)">Airdrop</a></li>
+<li><a href="/wiki/BitLicense" title="BitLicense">BitLicense</a></li>
+<li><a href="/wiki/Blockchain_game" class="mw-redirect" title="Blockchain game">Blockchain game</a></li>
+<li><a href="/wiki/Complementary_currency" title="Complementary currency">Complementary currency</a></li>
+<li><a href="/wiki/Crypto-anarchism" title="Crypto-anarchism">Crypto-anarchism</a></li>
+<li><a href="/wiki/Cryptocurrency_bubble" title="Cryptocurrency bubble">Cryptocurrency bubble</a></li>
+<li><a href="/wiki/Decentralized_Finance" class="mw-redirect" title="Decentralized Finance">Decentralized Finance</a></li>
+<li><a href="/wiki/Digital_currency" title="Digital currency">Digital currency</a></li>
+<li><a href="/wiki/Double-spending" title="Double-spending">Double-spending</a></li>
+<li><a href="/wiki/Hyperledger" title="Hyperledger">Hyperledger</a></li>
+<li><a href="/wiki/Initial_coin_offering" title="Initial coin offering">Initial coin offering</a></li>
+<li><a href="/wiki/Initial_exchange_offering" title="Initial exchange offering">Initial exchange offering</a></li>
+<li><a href="/wiki/Initiative_Q" title="Initiative Q">Initiative Q</a></li>
+<li><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List of cryptocurrencies</a></li>
+<li><a href="/wiki/Non-fungible_token" title="Non-fungible token">Non-fungible token</a></li>
+<li><a href="/wiki/Token_money" title="Token money">Token money</a></li>
+<li><a href="/wiki/Virtual_currency" title="Virtual currency">Virtual currency</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Cryptocurrency" class="extiw" title="commons:Category:Cryptocurrency">Commons</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="BitTorrent" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:BitTorrent" title="Template:BitTorrent"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:BitTorrent" title="Template talk:BitTorrent"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:BitTorrent&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="BitTorrent" style="font-size:114%;margin:0 4em"><a href="/wiki/BitTorrent" title="BitTorrent">BitTorrent</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Companies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BitTorrent_(company)" title="BitTorrent (company)">BitTorrent, Inc.</a></li>
+<li><a href="/wiki/Vuze,_Inc." title="Vuze, Inc.">Vuze, Inc.</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Bram Cohen</a></li>
+<li><a href="/wiki/Ross_Cohen" title="Ross Cohen">Ross Cohen</a></li>
+<li><a href="/wiki/Eric_Klinker" title="Eric Klinker">Eric Klinker</a></li>
+<li><a href="/wiki/Ashwin_Navin" title="Ashwin Navin">Ashwin Navin</a></li>
+<li><a href="/wiki/Justin_Sun" title="Justin Sun">Justin Sun</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glossary_of_BitTorrent_terms" title="Glossary of BitTorrent terms">Glossary</a></li>
+<li><a href="/wiki/Broadcatching" title="Broadcatching">Broadcatching</a></li>
+<li><a href="/wiki/Distributed_hash_table" title="Distributed hash table">Distributed hash tables</a></li>
+<li><a href="/wiki/BitTorrent_(software)#BitTorrent_DNA" title="BitTorrent (software)">DNA</a></li>
+<li><a href="/wiki/I2P#File_Sharing" title="I2P">I2P</a></li>
+<li><a href="/wiki/BitTorrent_index" class="mw-redirect" title="BitTorrent index">index</a></li>
+<li><a href="/wiki/Local_Peer_Discovery" title="Local Peer Discovery">Local Peer Discovery</a></li>
+<li><a href="/wiki/Peer_exchange" title="Peer exchange">Peer exchange</a></li>
+<li><a href="/wiki/BitTorrent_protocol_encryption" title="BitTorrent protocol encryption">Protocol encryption</a></li>
+<li><a href="/wiki/Super-seeding" title="Super-seeding">Super-seeding</a></li>
+<li><a href="/wiki/BitTorrent_tracker" title="BitTorrent tracker">Tracker</a></li>
+<li><a href="/wiki/Torrent_file" title="Torrent file">Torrent file</a></li>
+<li><a href="/wiki/Transmission_Control_Protocol" title="Transmission Control Protocol">TCP</a></li>
+<li><a href="/wiki/User_Datagram_Protocol" title="User Datagram Protocol">UDP</a></li>
+<li><a href="/wiki/Micro_Transport_Protocol" title="Micro Transport Protocol">µTP</a></li>
+<li><a href="/wiki/WebRTC" title="WebRTC">WebRTC</a></li>
+<li><a href="/wiki/WebTorrent" title="WebTorrent">WebTorrent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Clients<br />(<a href="/wiki/Comparison_of_BitTorrent_clients" title="Comparison of BitTorrent clients">comparison</a>,<br /> <a href="/wiki/Usage_share_of_BitTorrent_clients" title="Usage share of BitTorrent clients">usage share</a>)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ares_Galaxy" title="Ares Galaxy">Ares Galaxy</a></li>
+<li><a href="/wiki/BitTorrent_(software)" title="BitTorrent (software)">BitTorrent</a> (original client)</li>
+<li><a href="/wiki/BitComet" title="BitComet">BitComet</a></li>
+<li><a href="/wiki/BitLord" title="BitLord">BitLord</a></li>
+<li><a href="/wiki/Deluge_(software)" title="Deluge (software)">Deluge</a></li>
+<li><a href="/wiki/Free_Download_Manager" title="Free Download Manager">Free Download Manager</a></li>
+<li><a href="/wiki/Flashget" class="mw-redirect" title="Flashget">Flashget</a></li>
+<li><a href="/wiki/FrostWire" title="FrostWire">FrostWire</a></li>
+<li><a href="/wiki/Getright" class="mw-redirect" title="Getright">Getright</a></li>
+<li><a href="/wiki/Go!Zilla" title="Go!Zilla">Go!Zilla</a></li>
+<li><a href="/wiki/KTorrent" title="KTorrent">KTorrent</a></li>
+<li><a href="/wiki/Libtorrent" title="Libtorrent">libtorrent</a> (library)</li>
+<li><a href="/wiki/LimeWire" title="LimeWire">LimeWire</a></li>
+<li><a href="/wiki/%CE%9CTorrent" title="ΜTorrent">µTorrent</a></li>
+<li><a href="/wiki/Miro_(software)" class="mw-redirect" title="Miro (software)">Miro</a></li>
+<li><a href="/wiki/MLDonkey" title="MLDonkey">MLDonkey</a></li>
+<li><a href="/wiki/QBittorrent" title="QBittorrent">qBittorrent</a></li>
+<li><a href="/wiki/RTorrent" title="RTorrent">rTorrent</a></li>
+<li><a href="/wiki/Shareaza" title="Shareaza">Shareaza</a></li>
+<li><a href="/wiki/Tixati" title="Tixati">Tixati</a></li>
+<li><a href="/wiki/Transmission_(BitTorrent_client)" title="Transmission (BitTorrent client)">Transmission</a></li>
+<li><a href="/wiki/Tribler" title="Tribler">Tribler</a></li>
+<li><a href="/wiki/Vuze" title="Vuze">Vuze</a> (formerly Azureus)</li>
+<li><a href="/wiki/WebTorrent_Desktop" class="mw-redirect" title="WebTorrent Desktop">WebTorrent Desktop</a></li>
+<li><a href="/wiki/Xunlei" title="Xunlei">Xunlei</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tracker software<br />(<a href="/wiki/Comparison_of_BitTorrent_tracker_software" title="Comparison of BitTorrent tracker software">comparison</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Opentracker" title="Opentracker">opentracker</a></li>
+<li><a href="/wiki/PeerTracker" title="PeerTracker">PeerTracker</a></li>
+<li><a href="/wiki/TorrentPier" title="TorrentPier">TorrentPier</a></li>
+<li><a href="/wiki/XBT_Tracker" title="XBT Tracker">XBT Tracker</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Search engines<br />(<a href="/wiki/Comparison_of_BitTorrent_sites" title="Comparison of BitTorrent sites">comparison</a>)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1337x" title="1337x">1337x</a></li>
+<li><a href="/wiki/BTDigg" title="BTDigg">BTDigg</a></li>
+<li><a href="/wiki/Demonoid" title="Demonoid">Demonoid</a></li>
+<li><a href="/wiki/Etree" title="Etree">etree</a></li>
+<li><a href="/wiki/ExtraTorrent" title="ExtraTorrent">ExtraTorrent</a></li>
+<li><a href="/wiki/EZTV" title="EZTV">EZTV</a></li>
+<li><a href="/wiki/IsoHunt" title="IsoHunt">isoHunt</a></li>
+<li><a href="/wiki/Karagarga" title="Karagarga">Karagarga</a></li>
+<li><a href="/wiki/KickassTorrents" title="KickassTorrents">KickassTorrents</a></li>
+<li><a href="/wiki/Nyaa_Torrents" title="Nyaa Torrents">Nyaa Torrents</a></li>
+<li><a href="/wiki/The_Pirate_Bay" title="The Pirate Bay">The Pirate Bay</a></li>
+<li><a href="/wiki/RARBG" title="RARBG">RARBG</a></li>
+<li><a href="/wiki/Tamil_Rockers" title="Tamil Rockers">Tamil Rockers</a></li>
+<li><a href="/wiki/Torrentz" title="Torrentz">Torrentz</a></li>
+<li><a href="/wiki/YIFY" title="YIFY">YIFY</a></li>
+<li><a href="/wiki/YourBittorrent" title="YourBittorrent">yourBittorrent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct websites</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BTJunkie" title="BTJunkie">BTJunkie</a></li>
+<li><a href="/wiki/Burnbit" class="mw-redirect" title="Burnbit">Burnbit</a></li>
+<li><a href="/wiki/LokiTorrent" title="LokiTorrent">LokiTorrent</a></li>
+<li><a href="/wiki/Mininova" title="Mininova">Mininova</a></li>
+<li><a href="/wiki/Oink%27s_Pink_Palace" title="Oink&#39;s Pink Palace">Oink's Pink Palace</a></li>
+<li><a href="/wiki/OpenBitTorrent" title="OpenBitTorrent">OpenBitTorrent</a></li>
+<li><a href="/wiki/Suprnova.org" title="Suprnova.org">Suprnova.org</a></li>
+<li><a href="/wiki/T411" title="T411">t411</a></li>
+<li><a href="/wiki/Torrent_Project" title="Torrent Project">Torrent Project</a></li>
+<li><a href="/wiki/TorrentSpy" title="TorrentSpy">TorrentSpy</a></li>
+<li><a href="/wiki/What.CD" title="What.CD">What.CD</a></li>
+<li><a href="/wiki/YouTorrent" title="YouTorrent">YouTorrent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AXXo" title="AXXo">aXXo</a></li>
+<li><a href="/wiki/BitTorrent_Open_Source_License" title="BitTorrent Open Source License">BitTorrent Open Source License</a></li>
+<li><a href="/wiki/Glossary_of_BitTorrent_terms" title="Glossary of BitTorrent terms">Glossary of BitTorrent terms</a></li>
+<li><a href="/wiki/Popcorn_Time" title="Popcorn Time">Popcorn Time</a></li>
+<li><a href="/wiki/Slyck.com" title="Slyck.com">Slyck.com</a></li>
+<li><a href="/wiki/TorrentFreak" title="TorrentFreak">TorrentFreak</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:BitTorrent" title="Category:BitTorrent">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:BitTorrent" class="extiw" title="commons:Category:BitTorrent">Commons</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr class="noresize"><td><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/30px-Bitcoin.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/45px-Bitcoin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/60px-Bitcoin.svg.png 2x" data-file-width="64" data-file-height="64" /></td><td><i>This article about a cryptocurrency is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Bram_Cohen&amp;action=edit">expanding it</a>.</i><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Cryptocurrency-stub" title="Template:Cryptocurrency-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cryptocurrency-stub" title="Template talk:Cryptocurrency-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cryptocurrency-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1353
+Cached time: 20210220185004
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.659 seconds
+Real time usage: 1.320 seconds
+Preprocessor visited node count: 2791/1000000
+Post‐expand include size: 87652/2097152 bytes
+Template argument size: 3727/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 57465/5000000 bytes
+Lua time usage: 0.322/10.000 seconds
+Lua memory usage: 7689766/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1176.460      1 -total
+ 25.03%  294.429      1 Template:Reflist
+ 19.30%  227.098      1 Template:Infobox_person
+ 18.41%  216.528     16 Template:Cite_web
+ 12.36%  145.381      1 Template:Short_description
+ 12.08%  142.128      3 Template:Navbox
+ 11.41%  134.197      1 Template:Cryptocurrencies
+ 10.46%  123.094      3 Template:Fix
+ 10.28%  120.963      2 Template:Citation_needed
+  9.02%  106.162      1 Template:Infobox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:265666-0!canonical and timestamp 20210220185002 and revision id 1007160021. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bram_Cohen&amp;oldid=1007160021">https://en.wikipedia.org/w/index.php?title=Bram_Cohen&amp;oldid=1007160021</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_bloggers" title="Category:American bloggers">American bloggers</a></li><li><a href="/wiki/Category:American_Jews" title="Category:American Jews">American Jews</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Cypherpunks" title="Category:Cypherpunks">Cypherpunks</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Stuyvesant_High_School_alumni" title="Category:Stuyvesant High School alumni">Stuyvesant High School alumni</a></li><li><a href="/wiki/Category:University_at_Buffalo_alumni" title="Category:University at Buffalo alumni">University at Buffalo alumni</a></li><li><a href="/wiki/Category:BitTorrent" title="Category:BitTorrent">BitTorrent</a></li><li><a href="/wiki/Category:Recreational_mathematicians" title="Category:Recreational mathematicians">Recreational mathematicians</a></li><li><a href="/wiki/Category:People_from_San_Francisco" title="Category:People from San Francisco">People from San Francisco</a></li><li><a href="/wiki/Category:People_from_the_Upper_West_Side" title="Category:People from the Upper West Side">People from the Upper West Side</a></li><li><a href="/wiki/Category:Cryptocurrency_stubs" title="Category:Cryptocurrency stubs">Cryptocurrency stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_February_2012" title="Category:Use mdy dates from February 2012">Use mdy dates from February 2012</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2019" title="Category:Articles with unsourced statements from November 2019">Articles with unsourced statements from November 2019</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2019" title="Category:Articles with unsourced statements from March 2019">Articles with unsourced statements from March 2019</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bram+Cohen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bram+Cohen" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Bram_Cohen" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Bram_Cohen" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Bram_Cohen">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Bram_Cohen&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Bram_Cohen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bram_Cohen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bram_Cohen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bram_Cohen&amp;oldid=1007160021" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bram_Cohen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bram_Cohen&amp;id=1007160021&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q318489" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bram_Cohen&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bram_Cohen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Bram_Cohen" hreflang="en">Wikiquote</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D9%85_%D9%83%D9%88%D9%87%D9%8A%D9%86" title="برام كوهين – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Brem_Koen" title="Brem Koen – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D9%85_%DA%A9%D9%88%D9%87%D9%86" title="برام کوهن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9E%A8_%EC%BD%94%EC%96%B8" title="브램 코언 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%90%D7%9D_%D7%9B%D7%94%D7%9F" title="בראם כהן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D1%80%D1%8D%D0%BC_%D0%9A%D0%BE%D1%8D%D0%BD" title="Брэм Коэн – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Brems_Koens" title="Brems Koens – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%82_%E0%B4%95%E0%B5%8B%E0%B4%B9%E0%B5%86%E0%B5%BB" title="ബ്രാം കോഹെൻ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%A8%E3%83%B3" title="ブラム・コーエン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D0%BD,_%D0%91%D1%80%D1%8D%D0%BC" title="Коэн, Брэм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bram_Cohen" title="Bram Cohen – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%A7%86%C2%B7%E7%A7%91%E4%BA%A8" title="布莱姆·科亨 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E5%A7%86%C2%B7%E7%A7%91%E4%BA%A8" title="布莱姆·科亨 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q318489#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 16 February 2021, at 19:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bram_Cohen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.659","walltime":"1.320","ppvisitednodes":{"value":2791,"limit":1000000},"postexpandincludesize":{"value":87652,"limit":2097152},"templateargumentsize":{"value":3727,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":57465,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1176.460      1 -total"," 25.03%  294.429      1 Template:Reflist"," 19.30%  227.098      1 Template:Infobox_person"," 18.41%  216.528     16 Template:Cite_web"," 12.36%  145.381      1 Template:Short_description"," 12.08%  142.128      3 Template:Navbox"," 11.41%  134.197      1 Template:Cryptocurrencies"," 10.46%  123.094      3 Template:Fix"," 10.28%  120.963      2 Template:Citation_needed","  9.02%  106.162      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.322","limit":"10.000"},"limitreport-memusage":{"value":7689766,"limit":52428800}},"cachereport":{"origin":"mw1353","timestamp":"20210220185004","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bram Cohen","url":"https:\/\/en.wikipedia.org\/wiki\/Bram_Cohen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q318489","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q318489","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-07-12T06:44:31Z","dateModified":"2021-02-16T19:23:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e3\/Bram_Cohen.jpg","headline":"American programmer, creator of BitTorrent protocol"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":162,"wgHostname":"mw1261"});});</script>
+</body></html>

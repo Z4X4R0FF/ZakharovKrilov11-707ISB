@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stuart Feldman - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDDkJZ-sNpZc7ENPiNhqcwAAAAM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stuart_Feldman","wgTitle":"Stuart Feldman","wgCurRevisionId":1006066651,"wgRevisionId":1006066651,"wgArticleId":1136456,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with hCards","No local image but image on Wikidata","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers",
+"Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Year of birth missing (living people)","Living people","American computer scientists","Computer systems researchers","Fellow Members of the IEEE","Fellows of the Association for Computing Machinery","Presidents of the Association for Computing Machinery","Google employees","Unix people","Scientists at Bell Labs","Multics people"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Stuart_Feldman","wgRelevantArticleId":1136456,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92976"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Stuart_Feldman"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stuart_Feldman&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stuart_Feldman&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Stuart_Feldman"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Stuart_Feldman rootpage-Stuart_Feldman skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Stuart Feldman</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the American lobbyist and social activist, see <a href="/wiki/Stuart_F._Feldman" title="Stuart F. Feldman">Stuart F. Feldman</a>.</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Stuart Feldman</div></th></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Make_(software)" title="Make (software)">make</a>;<br />President of <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>, 2006–08<sup id="cite_ref-ACM_pp_1-0" class="reference"><a href="#cite_note-ACM_pp-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p><b>Stuart Feldman</b> is the creator of the <a href="/wiki/Computer_software" class="mw-redirect" title="Computer software">computer software</a> program <a href="/wiki/Make_(software)" title="Make (software)">make</a> for <a href="/wiki/Unix" title="Unix">UNIX</a> systems. He was also an author of the first <a href="/wiki/Fortran_77" class="mw-redirect" title="Fortran 77">Fortran 77</a> <a href="/wiki/Compiler" title="Compiler">compiler</a>, and he was part of the original group at <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> that created the Unix <a href="/wiki/Operating_system" title="Operating system">operating system</a>.<sup id="cite_ref-reader_2-0" class="reference"><a href="#cite_note-reader-2">&#91;2&#93;</a></sup>
+</p><p>Feldman is head of Schmidt Sciences at the foundation Schmidt Philanthropies, and a member of the dean's External Advisory Board at the University of Michigan's School of Information.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> He was previously Vice President, Engineering, East Coast, at <a href="/wiki/Google" title="Google">Google</a>, and before that Vice President of Computer Science at <a href="/wiki/IBM" title="IBM">IBM</a> Research. Feldman has served on the board of the <a href="/wiki/Computing_Research_Association" title="Computing Research Association">Computing Research Association</a> (CRA) and of the <a href="/wiki/Association_to_Advance_Collegiate_Schools_of_Business" title="Association to Advance Collegiate Schools of Business">Association to Advance Collegiate Schools of Business</a> (AACSB International). He was chair of <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> <a href="/wiki/SIGPLAN" title="SIGPLAN">SIGPLAN</a> and founding chair of ACM SIGecom. He was elected the President of the ACM in 2006.<sup id="cite_ref-ACM_pp_1-1" class="reference"><a href="#cite_note-ACM_pp-1">&#91;1&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Feldman is also a member of the Editorial Advisory Board of <i><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050106042350/http://acmqueue.com/">ACM Queue</a></i>, a magazine he helped found with <a href="/wiki/Stephen_R._Bourne" title="Stephen R. Bourne">Steve Bourne</a>.  He has also served on the editorial boards of <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE</a> Internet Computing and IEEE Transactions on Software Engineering.
+He received an <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">A.B.</a> in <a href="/wiki/Astrophysical_sciences" class="mw-redirect" title="Astrophysical sciences">astrophysical sciences</a> from <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> and a <a href="/wiki/Ph.D" class="mw-redirect" title="Ph.D">Ph.D</a> in <a href="/wiki/Applied_mathematics" title="Applied mathematics">applied mathematics</a> from the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>. 
+Feldman became a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the IEEE in 1991 and a Fellow of the ACM in 1995. In 2003, he was awarded ACM's <a href="/wiki/Software_System_Award" class="mw-redirect" title="Software System Award">Software System Award</a> for his creation of make.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Feldman also participated in development of the <a href="/wiki/ALTRAN" title="ALTRAN">ALTRAN</a> programming language.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stuart_Feldman&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/EFL_(programming_language)" title="EFL (programming language)">EFL (programming language)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stuart_Feldman&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ACM_pp-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ACM_pp_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ACM_pp_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+<style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.webcitation.org/5oJ9Ox6Xn?url=http://www.acm.org/about/past-presidents">"ACM Past Presidents"</a>. ACM, the Association for Computing Machinery. Archived from <a rel="nofollow" class="external text" href="http://www.acm.org/about/past-presidents">the original</a> on March 17, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 17,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ACM+Past+Presidents&amp;rft.pub=ACM%2C+the+Association+for+Computing+Machinery&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fabout%2Fpast-presidents&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStuart+Feldman" class="Z3988"></span></span>
+</li>
+<li id="cite_note-reader-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-reader_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcIlroy1987" class="citation techreport cs1"><a href="/wiki/Doug_McIlroy" class="mw-redirect" title="Doug McIlroy">McIlroy, M. D.</a> (1987). <a rel="nofollow" class="external text" href="http://www.cs.dartmouth.edu/~doug/reader.pdf"><i>A Research Unix reader: annotated excerpts from the Programmer's Manual, 1971–1986</i></a> <span class="cs1-format">(PDF)</span> (Technical report). CSTR. Bell Labs. 139.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=A+Research+Unix+reader%3A+annotated+excerpts+from+the+Programmer%27s+Manual%2C+1971%E2%80%931986&amp;rft.series=CSTR&amp;rft.pub=Bell+Labs&amp;rft.date=1987&amp;rft.aulast=McIlroy&amp;rft.aufirst=M.+D.&amp;rft_id=http%3A%2F%2Fwww.cs.dartmouth.edu%2F~doug%2Freader.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStuart+Feldman" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.si.umich.edu/aboutsi/stuart-feldman-0">About Stuart Feldman page at the University of Michigan</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121103080612/http://news.cnet.com/The-tech-industrys-newest-power-player/2008-1022_3-6093527.html">The tech industry's newest power player | Newsmakers | CNET News.com</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acm.org/announcements/softwaresystemaward.3-24-04.html">ACM Press Release</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061213153355/http://www.acm.org/announcements/softwaresystemaward.3-24-04.html">Archived</a> 2006-12-13 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stuart_Feldman&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180616100252/https://www.si.umich.edu/aboutsi/stuart-feldman-0">Photo of Feldman in "External Advisory Board - University of Michigan School of Information"</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Multics" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Multics" title="Template:Multics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Multics" title="Template talk:Multics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Multics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Multics" style="font-size:114%;margin:0 4em"><a href="/wiki/Multics" title="Multics">Multics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Developer</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></li>
+<li><a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a></li>
+<li><a href="/wiki/General_Electric" title="General Electric">General Electric</a></li>
+<li><a href="/wiki/Honeywell" title="Honeywell">Honeywell</a></li>
+<li><a href="/wiki/Groupe_Bull" title="Groupe Bull">Groupe Bull</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Multics_logo.gif" class="image"><img alt="Multics logo.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Multics_logo.gif/100px-Multics_logo.gif" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Multics_logo.gif/150px-Multics_logo.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Multics_logo.gif/200px-Multics_logo.gif 2x" data-file-width="700" data-file-height="700" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/David_D._Clark" title="David D. Clark">David D. Clark</a></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a></li>
+<li><a href="/wiki/Monte_Davidoff" title="Monte Davidoff">Monte Davidoff</a></li>
+<li><a href="/wiki/Peter_J._Denning" title="Peter J. Denning">Peter J. Denning</a></li>
+<li><a href="/wiki/Jack_Dennis" title="Jack Dennis">Jack Dennis</a></li>
+<li><a class="mw-selflink selflink">Stuart Feldman</a></li>
+<li><a href="/wiki/Robert_M._Graham" title="Robert M. Graham">Robert M. Graham</a></li>
+<li><a href="/wiki/Bernard_Greenberg" title="Bernard Greenberg">Bernard Greenberg</a></li>
+<li><a href="/wiki/Douglas_McIlroy" title="Douglas McIlroy">Douglas McIlroy</a></li>
+<li><a href="/wiki/Robert_Morris_(cryptographer)" title="Robert Morris (cryptographer)">Robert Morris</a></li>
+<li><a href="/wiki/Peter_G._Neumann" title="Peter G. Neumann">Peter G. Neumann</a></li>
+<li><a href="/wiki/Joe_Ossanna" title="Joe Ossanna">Joe Ossanna</a></li>
+<li><a href="/wiki/Michael_A._Padlipsky" title="Michael A. Padlipsky">Michael A. Padlipsky</a></li>
+<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a></li>
+<li><a href="/wiki/Jerry_Saltzer" title="Jerry Saltzer">Jerry Saltzer</a></li>
+<li><a href="/wiki/Glenda_Schroeder" title="Glenda Schroeder">Glenda Schroeder</a></li>
+<li><a href="/wiki/Michael_Schroeder" title="Michael Schroeder">Michael Schroeder</a></li>
+<li><a href="/wiki/Richard_Soley" title="Richard Soley">Richard Soley</a></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a></li>
+<li><a href="/wiki/Tom_Van_Vleck" title="Tom Van Vleck">Tom Van Vleck</a></li>
+<li><a href="/wiki/Victor_A._Vyssotsky" title="Victor A. Vyssotsky">Victor A. Vyssotsky</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Space_Travel_(video_game)" title="Space Travel (video game)">Space Travel</a></li>
+<li><a href="/wiki/Maclisp" title="Maclisp">Maclisp</a></li>
+<li><a href="/wiki/Macsyma" title="Macsyma">Macsyma</a></li>
+<li><a href="/wiki/Multics_Emacs" title="Multics Emacs">Multics Emacs</a></li>
+<li><a href="/wiki/Multics_Relational_Data_Store" title="Multics Relational Data Store">Multics Relational Data Store</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Multics-like<br />systems</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Domain/OS" title="Domain/OS">Domain/OS</a></li>
+<li><a href="/wiki/General_Comprehensive_Operating_System" title="General Comprehensive Operating System">General Comprehensive Operating System</a></li>
+<li><a href="/wiki/GEORGE_(operating_system)" title="GEORGE (operating system)">GEORGE</a></li>
+<li><a href="/wiki/ICL_VME" title="ICL VME">ICL VME</a></li>
+<li><a href="/wiki/Multiple_Console_Time_Sharing_System" title="Multiple Console Time Sharing System">Multiple Console Time Sharing System</a></li>
+<li><a href="/wiki/PRIMOS" title="PRIMOS">PRIMOS</a></li>
+<li><a href="/wiki/Stratus_VOS" title="Stratus VOS">Stratus VOS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Project_MAC" class="mw-redirect" title="Project MAC">Project MAC</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Multics" title="Category:Multics">Category</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92976#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92976#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q92976#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_DL_(identifier)" class="mw-redirect" title="ACM DL (identifier)">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/profile/81100064406">81100064406</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/f/StuartIFeldman">f/StuartIFeldman</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/173363024">173363024</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000050920113">0000 0000 5092 0113</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no2008009151">no2008009151</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MGP_(identifier)" class="mw-redirect" title="MGP (identifier)">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=62630">62630</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24398696">24398696</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-no2008009151">lccn-no2008009151</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1385
+Cached time: 20210215172917
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.305 seconds
+Real time usage: 0.521 seconds
+Preprocessor visited node count: 1208/1000000
+Post‐expand include size: 22505/2097152 bytes
+Template argument size: 448/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8845/5000000 bytes
+Lua time usage: 0.165/10.000 seconds
+Lua memory usage: 4308175/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  465.767      1 -total
+ 36.12%  168.217      1 Template:Reflist
+ 28.77%  134.007      1 Template:Infobox_person
+ 20.43%   95.167      1 Template:Cite_web
+ 15.47%   72.032      1 Template:Infobox
+ 14.93%   69.535      1 Template:Multics
+ 11.37%   52.979      1 Template:Navbox
+ 10.61%   49.430      1 Template:Authority_control
+  9.30%   43.296      1 Template:Webarchive
+  8.78%   40.892      1 Template:For
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1136456-0!canonical and timestamp 20210215172916 and revision id 1006066651. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Stuart_Feldman&amp;oldid=1006066651">https://en.wikipedia.org/w/index.php?title=Stuart_Feldman&amp;oldid=1006066651</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Computer_systems_researchers" title="Category:Computer systems researchers">Computer systems researchers</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Presidents_of_the_Association_for_Computing_Machinery" title="Category:Presidents of the Association for Computing Machinery">Presidents of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Google_employees" title="Category:Google employees">Google employees</a></li><li><a href="/wiki/Category:Unix_people" title="Category:Unix people">Unix people</a></li><li><a href="/wiki/Category:Scientists_at_Bell_Labs" title="Category:Scientists at Bell Labs">Scientists at Bell Labs</a></li><li><a href="/wiki/Category:Multics_people" title="Category:Multics people">Multics people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:No_local_image_but_image_on_Wikidata" title="Category:No local image but image on Wikidata">No local image but image on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Stuart+Feldman" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stuart+Feldman" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Stuart_Feldman" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Stuart_Feldman" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Stuart_Feldman">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Stuart_Feldman&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Stuart_Feldman&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stuart_Feldman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stuart_Feldman" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Stuart_Feldman&amp;oldid=1006066651" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Stuart_Feldman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Stuart_Feldman&amp;id=1006066651&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92976" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Stuart_Feldman&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stuart_Feldman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D8%AA%D9%8A%D9%88%D8%A7%D8%B1%D8%AA_%D9%81%D9%8A%D9%84%D8%AF%D9%85%D8%A7%D9%86" title="ستيوارت فيلدمان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Stuart_Feldman" title="Stuart Feldman – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Stuart_Feldman" title="Stuart Feldman – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9C%96%E4%BA%9E%E7%89%B9%C2%B7%E8%B2%BB%E7%88%BE%E5%BE%B7%E6%9B%BC" title="斯圖亞特·費爾德曼 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92976#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 10 February 2021, at 21:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Stuart_Feldman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.305","walltime":"0.521","ppvisitednodes":{"value":1208,"limit":1000000},"postexpandincludesize":{"value":22505,"limit":2097152},"templateargumentsize":{"value":448,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8845,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  465.767      1 -total"," 36.12%  168.217      1 Template:Reflist"," 28.77%  134.007      1 Template:Infobox_person"," 20.43%   95.167      1 Template:Cite_web"," 15.47%   72.032      1 Template:Infobox"," 14.93%   69.535      1 Template:Multics"," 11.37%   52.979      1 Template:Navbox"," 10.61%   49.430      1 Template:Authority_control","  9.30%   43.296      1 Template:Webarchive","  8.78%   40.892      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.165","limit":"10.000"},"limitreport-memusage":{"value":4308175,"limit":52428800}},"cachereport":{"origin":"mw1385","timestamp":"20210215172917","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Stuart Feldman","url":"https:\/\/en.wikipedia.org\/wiki\/Stuart_Feldman","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92976","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92976","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-05T23:56:09Z","dateModified":"2021-02-10T21:25:01Z","headline":"American computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1397"});});</script>
+</body></html>

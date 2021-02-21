@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lawrence M. Breed - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIhjPagknWspopLEHamwAAAAo","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lawrence_M._Breed","wgTitle":"Lawrence M. Breed","wgCurRevisionId":992892855,"wgRevisionId":992892855,"wgArticleId":2777678,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from November 2011","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from January 2017","Wikipedia articles with ACM-DL identifiers",
+"Wikipedia articles with DBLP identifiers","IBM employees","Grace Murray Hopper Award laureates","Living people","Stanford University alumni","APL implementers","1940 births"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lawrence_M._Breed","wgRelevantArticleId":2777678,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
+"interlanguage","wgWikibaseItemId":"Q6504346"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Lawrence_M._Breed"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lawrence_M._Breed"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lawrence_M_Breed rootpage-Lawrence_M_Breed skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Lawrence M. Breed</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Computer scientist and early Burning Man contributor</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Lawrence (Larry) Moser Breed</div></th></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1940-07-17</span>) </span>July 17, 1940<span class="noprint ForceAgeToShow"> (age&#160;80)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Stanford,_California" title="Stanford, California">Stanford</a>, <a href="/wiki/California" title="California">California</a>, <a href="/wiki/United_States" title="United States">United States</a></div></td></tr><tr><th scope="row">Citizenship</th><td class="category"><a href="/wiki/United_States" title="United States">United States</a></td></tr><tr><th scope="row">Education</th><td><div class="plainlist"><ul><li>B.S, Stanford University, 1961</li><li>M.S., Stanford University, 1965</li></ul></div></td></tr><tr><th scope="row">Known&#160;for</th><td>Implementation of Iverson Notation (APL)<br /><a href="/wiki/Scientific_Time_Sharing_Corporation" title="Scientific Time Sharing Corporation">Scientific Time Sharing Corporation</a> (cofounder)</td></tr><tr><th scope="row">Awards</th><td><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a>, 1973</td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td></tr><tr><th scope="row">Institutions</th><td><div class="plainlist"><ul><li><a href="/wiki/IBM" title="IBM">IBM</a></li><li><a href="/wiki/Scientific_Time_Sharing_Corporation" title="Scientific Time Sharing Corporation">Scientific Time Sharing Corporation</a></li></ul></div></td></tr><tr><th scope="row">Influences</th><td><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Lawrence (Larry) Moser Breed</b> (born July 17, 1940) is a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>, <a href="/wiki/Artist" title="Artist">artist</a> and <a href="/wiki/Inventor" title="Inventor">inventor</a>, best known for his involvement in the programming language <a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Retirement"><span class="tocnumber">2</span> <span class="toctext">Retirement</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gray-B-Gone_and_Evapotrons"><span class="tocnumber">3</span> <span class="toctext">Gray-B-Gone and Evapotrons</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Publications"><span class="tocnumber">4</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As an undergraduate at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> in 1961, he created the first computer animation language and system and used it at Stanford football half-times to coordinate images produced by a 100&#160;ft-by-100&#160;ft array of rooters holding up colored cards.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>As a graduate student at Stanford, he corresponded with APL's inventor, <a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Ken Iverson</a>, to correct the formal description of the <a href="/wiki/IBM_System/360" title="IBM System/360">IBM System/360</a> which used Iverson's notation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> After receiving his M.S. from Stanford in 1965, under academic supervisor <a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> he joined Iverson's group at IBM's <a href="/wiki/Thomas_J._Watson_Research_Center" title="Thomas J. Watson Research Center">Thomas J. Watson Research Center</a> in <a href="/wiki/Yorktown_Heights,_New_York" title="Yorktown Heights, New York">Yorktown Heights, New York</a>, where he created the first implementation of APL, with <a href="/wiki/Philip_S._Abrams" title="Philip S. Abrams">Philip S. Abrams</a>, on a <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframe computer</a>, an <a href="/wiki/IBM_7090" title="IBM 7090">IBM 7090</a>, in 1965.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>He later created APL implementations for an experimental IBM <i>Little Computer</i>, and the IBM 360 in 1966, and for the <a href="/wiki/IBM_1130" title="IBM 1130">IBM 1130</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>Breed was the 1973 recipient (with <a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Dick Lathwell</a> and <a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Roger Moore</a>) of the <a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> "for their work in the design and implementation of APL\360, setting new standards in simplicity, efficiency, reliability and response time for interactive systems."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>With Dan Dyer and others he co-founded <a href="/wiki/Scientific_Time_Sharing_Corporation" title="Scientific Time Sharing Corporation">Scientific Time Sharing Corporation</a> in 1969, where he led the development of the APL PLUS time-sharing system. While there, in 1972, he and Francis Bates III wrote <a href="/wiki/History_of_email" title="History of email">one of the world's first</a> worldwide <a href="/wiki/Email" title="Email">email</a> systems, named <i>Mailbox</i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>Breed rejoined IBM in 1977.  He helped develop the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO) APL standard, then joined IBM efforts to port <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">Berkeley Software Distribution</a> (BSD) <a href="/wiki/Unix" title="Unix">Unix</a> onto IBM platforms. He worked on <a href="/wiki/Compiler" title="Compiler">compilers</a> for the programming language <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="/wiki/Floating-point_arithmetic" title="Floating-point arithmetic">floating-point arithmetic</a> standardization, and <a href="/wiki/Radix" title="Radix">radix</a> conversion, until retiring in 1992.
+</p>
+<h2><span class="mw-headline" id="Retirement">Retirement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit&amp;section=2" title="Edit section: Retirement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Breed became a significant contributor to the <a href="/wiki/Burning_Man" title="Burning Man">Burning Man</a> festival, under the <a href="/wiki/Pseudonym" title="Pseudonym">playa name</a> of Ember. He coined the term "MOOP" (matter out of place), and conceived and built the first <i>trash fence</i> to capture windborne debris.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-bmj2015_15-0" class="reference"><a href="#cite_note-bmj2015-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> He created the spiraling, flaming sculpture "Chaotick", the playa’s longest-running art piece besides the Man himself,<sup id="cite_ref-bmj2015_15-1" class="reference"><a href="#cite_note-bmj2015-15">&#91;15&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> and built artistic bicycle light effects.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>  He edited and proofread the Black Rock Gazette newspaper, a role in which he continued as a co-founder and director of its successor the <a href="/wiki/Black_Rock_Beacon" title="Black Rock Beacon">Black Rock Beacon</a>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> and edited other Burning Man materials.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>  As co-founder of the Earth Guardians, Breed promoted the "Leave No Trace" ethos, particularly in post-event cleanup.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-bmj2015_15-2" class="reference"><a href="#cite_note-bmj2015-15">&#91;15&#93;</a></sup>
+</p><p>In 1973 and 1974 he took first place, with co-solver Donna Breed, in the Dictionary Rally.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2017)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Gray-B-Gone_and_Evapotrons">Gray-B-Gone and Evapotrons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit&amp;section=3" title="Edit section: Gray-B-Gone and Evapotrons">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Associated with his Burning Man activities, Breed devised the <i>Gray-B-Gon</i> and the <i>Evapotron</i> evaporators for <a href="/wiki/Graywater" class="mw-redirect" title="Graywater">graywater</a> disposal, and through Bay Area workshops directed construction, by Burning Man campers, of over 100 units, as of 2012.<sup id="cite_ref-bmj2015_15-3" class="reference"><a href="#cite_note-bmj2015-15">&#91;15&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit&amp;section=4" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Breed, L.M., The APL Plus File System. Proceedings of SHARE XXXV, p.&#160;392. August 1970.</li>
+<li>Larry Breed, Generalizing APL scalar extension. ACM SIGPLAN Notices, Volume 6 Issue 5, July 1971</li>
+<li><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170716061644/http://www.evapotrons.info/">"Evapotrons"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.evapotrons.info">the original</a> on July 16, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Evapotrons&amp;rft_id=http%3A%2F%2Fwww.evapotrons.info&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.cs.wpi.edu/~matt/courses/cs563/talks/history.html">"A (Spotty) History and Who's Who of Computer Graphics, by Matthew Ward"</a>. Web.cs.wpi.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+%28Spotty%29+History+and+Who%27s+Who+of+Computer+Graphics%2C+by+Matthew+Ward&amp;rft.pub=Web.cs.wpi.edu&amp;rft_id=https%3A%2F%2Fweb.cs.wpi.edu%2F~matt%2Fcourses%2Fcs563%2Ftalks%2Fhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110928122529/https://www.vintage.org/2006/main/bio.php?id=1588">"Larry Breed biography from Vintage Computing"</a>. Vintage.org. Archived from <a rel="nofollow" class="external text" href="https://www.vintage.org/2006/main/bio.php?id=1588">the original</a> on September 28, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Larry+Breed+biography+from+Vintage+Computing&amp;rft.pub=Vintage.org&amp;rft_id=https%3A%2F%2Fwww.vintage.org%2F2006%2Fmain%2Fbio.php%3Fid%3D1588&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110725192108/https://www.computerhistory.org/events/index.php?spkid=1&amp;ssid=1099685637">"Larry Breed biography from the Computer History Museum"</a>. Computerhistory.org. Archived from <a rel="nofollow" class="external text" href="https://www.computerhistory.org/events/index.php?spkid=1&amp;ssid=1099685637">the original</a> on July 25, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Larry+Breed+biography+from+the+Computer+History+Museum&amp;rft.pub=Computerhistory.org&amp;rft_id=https%3A%2F%2Fwww.computerhistory.org%2Fevents%2Findex.php%3Fspkid%3D1%26ssid%3D1099685637&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://infolab.stanford.edu/TR/CS-TR-66-47.html">[1]</a>, An interpreter for <i>Iverson notation</i></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://keiapl.info/rhui/passage.htm#globeandmail1">Obituary for Kenneth Iverson, Mathematician, 1920–2004</a>, Monday, October 25, 2004, in the Toronto Globe and Mail</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.jsoftware.com/papers/eem/socio1.htm">The Socio-Technical Beginnings of APL</a>, by <a href="/wiki/Eugene_McDonnell" title="Eugene McDonnell">Eugene McDonnell</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFFalkoffIverson1973" class="citation journal cs1"><a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Falkoff, Adin D.</a>; <a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Iverson, Kenneth E.</a> (1973). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20041230112628/https://www.research.ibm.com/journal/rd/174/ibmrd1704F.pdf">"Design of APL"</a> <span class="cs1-format">(PDF)</span>. <i>IBM Journal of Research and Development</i>. <b>17</b> (4). Archived from <a rel="nofollow" class="external text" href="https://www.research.ibm.com/journal/rd/174/ibmrd1704F.pdf">the original</a> <span class="cs1-format">(PDF)</span> on December 30, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">April 2,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IBM+Journal+of+Research+and+Development&amp;rft.atitle=Design+of+APL&amp;rft.volume=17&amp;rft.issue=4&amp;rft.date=1973&amp;rft.aulast=Falkoff&amp;rft.aufirst=Adin+D.&amp;rft.au=Iverson%2C+Kenneth+E.&amp;rft_id=https%3A%2F%2Fwww.research.ibm.com%2Fjournal%2Frd%2F174%2Fibmrd1704F.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vector.org.uk/archive/v223/APL_1130.htm">How We Got To APL\1130</a> by Larry Breed</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110706114818/https://hopl.murdoch.edu.au/showlanguage2.prx?exp=8234">"Phil Abrams' machine implementation of APL"</a>. Hopl.murdoch.edu.au. Archived from <a rel="nofollow" class="external text" href="https://hopl.murdoch.edu.au/showlanguage2.prx?exp=8234">the original</a> on July 6, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Phil+Abrams%27+machine+implementation+of+APL&amp;rft.pub=Hopl.murdoch.edu.au&amp;rft_id=https%3A%2F%2Fhopl.murdoch.edu.au%2Fshowlanguage2.prx%3Fexp%3D8234&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://cosy.com/language/APLBlos/APLBLOSS.TXT">"APL Blossom Time (song lyrics about the creation of APL)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=APL+Blossom+Time+%28song+lyrics+about+the+creation+of+APL%29&amp;rft_id=https%3A%2F%2Fcosy.com%2Flanguage%2FAPLBlos%2FAPLBLOSS.TXT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120402212031/https://awards.acm.org/citation.cfm?id=0694605&amp;srt=all&amp;aw=145&amp;ao=GMHOPPER&amp;yr=1973">"Awards – 1973 – Lawrence Breed"</a>. Association for Computing Machinery. Archived from <a rel="nofollow" class="external text" href="https://awards.acm.org/citation.cfm?id=0694605&amp;srt=all&amp;aw=145&amp;ao=GMHOPPER&amp;yr=1973">the original</a> on April 2, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Awards+%E2%80%93+1973+%E2%80%93+Lawrence+Breed&amp;rft.pub=Association+for+Computing+Machinery&amp;rft_id=https%3A%2F%2Fawards.acm.org%2Fcitation.cfm%3Fid%3D0694605%26srt%3Dall%26aw%3D145%26ao%3DGMHOPPER%26yr%3D1973&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180705152219/https://www.jsoftware.com/papers/APLQA.htm">"APL Quotations and Anecdotes"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.jsoftware.com/papers/APLQA.htm">the original</a> on July 5, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=APL+Quotations+and+Anecdotes&amp;rft_id=https%3A%2F%2Fwww.jsoftware.com%2Fpapers%2FAPLQA.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span> (see Leslie Goldsmith's story of the Mailbox)</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111216124500/https://azburners.org/bmhistory.htm">"Burning Man History"</a>. Azburners.org. Archived from <a rel="nofollow" class="external text" href="https://azburners.org/bmhistory.htm">the original</a> on December 16, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burning+Man+History&amp;rft.pub=Azburners.org&amp;rft_id=https%3A%2F%2Fazburners.org%2Fbmhistory.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDanger_Ranger_(M2)" class="citation web cs1">Danger Ranger (M2). <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/10111/477049843/">"Danger Ranger's commentary on the first Trash Fence at Burning Man"</a>. Flickr.com<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Danger+Ranger%27s+commentary+on+the+first+Trash+Fence+at+Burning+Man&amp;rft.pub=Flickr.com&amp;rft.au=Danger+Ranger+%28M2%29&amp;rft_id=https%3A%2F%2Fwww.flickr.com%2Fphotos%2F10111%2F477049843%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bmj2015-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-bmj2015_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bmj2015_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bmj2015_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bmj2015_15-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSummer_Burkes2015" class="citation web cs1">Summer Burkes (August 11, 2015). <a rel="nofollow" class="external text" href="https://journal.burningman.org/2016/05/black-rock-city/leaving-no-trace/the-origin-story-of-the-brc-trash-fence/">"How the Fence Began"</a>. <i>The Burning Man Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Burning+Man+Journal&amp;rft.atitle=How+the+Fence+Began&amp;rft.date=2015-08-11&amp;rft.au=Summer+Burkes&amp;rft_id=https%3A%2F%2Fjournal.burningman.org%2F2016%2F05%2Fblack-rock-city%2Fleaving-no-trace%2Fthe-origin-story-of-the-brc-trash-fence%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span> (see also the public comments at the end)</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSybil_Hatch2016" class="citation web cs1">Sybil Hatch (May 12, 2016). <a rel="nofollow" class="external text" href="https://journal.burningman.org/2016/05/black-rock-city/leaving-no-trace/the-origin-story-of-the-brc-trash-fence/">"The Origin Story of the BRC Trash Fence"</a>. <i>The Burning Man Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Burning+Man+Journal&amp;rft.atitle=The+Origin+Story+of+the+BRC+Trash+Fence&amp;rft.date=2016-05-12&amp;rft.au=Sybil+Hatch&amp;rft_id=https%3A%2F%2Fjournal.burningman.org%2F2016%2F05%2Fblack-rock-city%2Fleaving-no-trace%2Fthe-origin-story-of-the-brc-trash-fence%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMcCullaghTerdiman2009" class="citation web cs1">McCullagh, Declan; Terdiman, Daniel (September 8, 2009). <a rel="nofollow" class="external text" href="https://news.cnet.com/2300-10797_3-10001510-5.html">"CNet photo of Chaotick sculpture, by Declan McCullagh"</a>. News.cnet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CNet+photo+of+Chaotick+sculpture%2C+by+Declan+McCullagh&amp;rft.pub=News.cnet.com&amp;rft.date=2009-09-08&amp;rft.aulast=McCullagh&amp;rft.aufirst=Declan&amp;rft.au=Terdiman%2C+Daniel&amp;rft_id=https%3A%2F%2Fnews.cnet.com%2F2300-10797_3-10001510-5.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.leonardo.info/gallery/burningman_fire/breed.html">"<span class="cs1-kern-left">"</span>The Chaotick by Larry Breed", in the Leonardo Gallery"</a>. Leonardo.info. April 17, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22The+Chaotick+by+Larry+Breed%22%2C+in+the+Leonardo+Gallery&amp;rft.pub=Leonardo.info&amp;rft.date=2007-04-17&amp;rft_id=https%3A%2F%2Fwww.leonardo.info%2Fgallery%2Fburningman_fire%2Fbreed.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.lightnwire.com/case_breed.html">"Lightwire Bike Wheel Luminations, by Larry Breed"</a>. Lightnwire.com<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lightwire+Bike+Wheel+Luminations%2C+by+Larry+Breed&amp;rft.pub=Lightnwire.com&amp;rft_id=https%3A%2F%2Fwww.lightnwire.com%2Fcase_breed.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120425065637/https://www.blackrockbeacon.org/archive/2005_08_30_Histrionics_BRB.pdf">"First issue of Black Rock Beacon, see staff box"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="https://www.blackrockbeacon.org/archive/2005_08_30_Histrionics_BRB.pdf">the original</a> <span class="cs1-format">(PDF)</span> on April 25, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=First+issue+of+Black+Rock+Beacon%2C+see+staff+box&amp;rft_id=https%3A%2F%2Fwww.blackrockbeacon.org%2Farchive%2F2005_08_30_Histrionics_BRB.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://burningman.com/whatisburningman/2000/00n_letter_sum_0.html">"Burning Man's Summer 2000 Newsletter, proofread by Larry Breed"</a>. Burningman.com<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burning+Man%27s+Summer+2000+Newsletter%2C+proofread+by+Larry+Breed&amp;rft.pub=Burningman.com&amp;rft_id=https%3A%2F%2Fburningman.com%2Fwhatisburningman%2F2000%2F00n_letter_sum_0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120725004627/https://earthguardians.burningman.com/egbio.html">"Earth Guardians bio of Ember"</a>. Earthguardians.burningman.com. April 6, 1999. Archived from <a rel="nofollow" class="external text" href="https://earthguardians.burningman.com/egbio.html#ember">the original</a> on July 25, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Earth+Guardians+bio+of+Ember&amp;rft.pub=Earthguardians.burningman.com&amp;rft.date=1999-04-06&amp;rft_id=https%3A%2F%2Fearthguardians.burningman.com%2Fegbio.html%23ember&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFEmber2009" class="citation web cs1">Ember (September 14, 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120314134903/https://ae-zone.org/2009/09/embers-2006-evapotron-report/">"Ember's 2006 Evapotron Report, from the Alternative Energy Zone"</a>. Ae-zone.org. Archived from <a rel="nofollow" class="external text" href="https://ae-zone.org/2009/09/embers-2006-evapotron-report/">the original</a> on March 14, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ember%27s+2006+Evapotron+Report%2C+from+the+Alternative+Energy+Zone&amp;rft.pub=Ae-zone.org&amp;rft.date=2009-09-14&amp;rft.au=Ember&amp;rft_id=https%3A%2F%2Fae-zone.org%2F2009%2F09%2Fembers-2006-evapotron-report%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBreed2009" class="citation web cs1">Breed, Larry (March 22, 2009). <a rel="nofollow" class="external text" href="https://www.instructables.com/id/Gray-B-Gon-wind-powered-evapotron-for-graywater-di/">"Gray-B-Gon wind powered evapotron for graywater disposal, at The Instructables"</a>. Instructables.com<span class="reference-accessdate">. Retrieved <span class="nowrap">November 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gray-B-Gon+wind+powered+evapotron+for+graywater+disposal%2C+at+The+Instructables&amp;rft.pub=Instructables.com&amp;rft.date=2009-03-22&amp;rft.aulast=Breed&amp;rft.aufirst=Larry&amp;rft_id=https%3A%2F%2Fwww.instructables.com%2Fid%2FGray-B-Gon-wind-powered-evapotron-for-graywater-di%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALawrence+M.+Breed" class="Z3988"></span></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="APL_programming_language" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:APL_programming_language" title="Template:APL programming language"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:APL_programming_language" title="Template talk:APL programming language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:APL_programming_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="APL_programming_language" style="font-size:114%;margin:0 4em"><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL programming language</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Features</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/APL_syntax_and_symbols" title="APL syntax and symbols">APL syntax and symbols</a></li>
+<li><a href="/wiki/Direct_function" title="Direct function">Direct function</a> (dfn)</li>
+<li><a href="/wiki/Digital_encoding_of_APL_symbols" title="Digital encoding of APL symbols">EBCDIC code page</a></li>
+<li><a href="/wiki/Iverson_bracket" title="Iverson bracket">Iverson bracket</a></li>
+<li><a href="/wiki/Rank_(J_programming_language)" title="Rank (J programming language)">Rank</a></li>
+<li><a href="/wiki/Shared_Variables" title="Shared Variables">Shared Variables</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Programming_language_implementation" title="Programming language implementation">Implementations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Major</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Dyalog APL</li>
+<li>IBM APL2</li>
+<li>APL2000</li>
+<li>SHARP APL</li>
+<li><a href="/wiki/APLX" title="APLX">APLX</a></li>
+<li>NARS2000</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dialect_(computing)" class="mw-redirect" title="Dialect (computing)">Dialects</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A%2B_(programming_language)" title="A+ (programming language)">A+</a></li>
+<li>APLNext</li>
+<li><a href="/wiki/ELI_(programming_language)" title="ELI (programming language)">ELI</a></li>
+<li>GNU APL</li>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J</a></li>
+<li><a href="/wiki/K_(programming_language)" title="K (programming language)">K</a>, <a href="/wiki/Q_(programming_language_from_Kx_Systems)" title="Q (programming language from Kx Systems)">Q</a>; <a href="/wiki/Kdb%2B" title="Kdb+">kdb+</a></li>
+<li><a href="/wiki/LYaPAS" title="LYaPAS">LYaPAS</a></li>
+<li><a href="/wiki/Polymorphic_Programming_Language" title="Polymorphic Programming Language">Polymorphic Programming Language</a> (PPL)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Community_of_practice" title="Community of practice">Community</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Professional_association" title="Professional association">Professional<br />associations</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>: SIGAPL</li>
+<li>British APL Association</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Organization" title="Organization">Organizations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Business" title="Business">Business</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Analogic Corporation</li>
+<li><a href="/wiki/CompuServe" title="CompuServe">CompuServe</a></li>
+<li><a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a> (DEC)</li>
+<li>DNA Systems</li>
+<li>Dyalog Ltd.</li>
+<li><a href="/wiki/IBM" title="IBM">IBM</a></li>
+<li><a href="/wiki/I._P._Sharp_Associates" title="I. P. Sharp Associates">I. P. Sharp Associates</a></li>
+<li><a href="/wiki/Kx_Systems" title="Kx Systems">Kx Systems</a></li>
+<li><a href="/wiki/MCM/70" title="MCM/70">Micro Computer Machines</a> (MCM)</li>
+<li><a href="/wiki/Science_Research_Associates" title="Science Research Associates">Science Research Associates</a></li>
+<li><a href="/wiki/Scientific_Time_Sharing_Corporation" title="Scientific Time Sharing Corporation">Scientific Time Sharing Corporation</a> (STSC)</li>
+<li><a href="/wiki/Soliton_Incorporated" title="Soliton Incorporated">Soliton Incorporated</a></li>
+<li>Telecompute Integrated Systems, Inc.</li>
+<li>Time Sharing Resources (TSR)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Education" title="Education">Education</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> (CMU)</li>
+<li><a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">University of Maryland</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Philip_S._Abrams" title="Philip S. Abrams">Phil Abrams</a></li>
+<li><a href="/wiki/Robert_Bernecky" title="Robert Bernecky">Bob Bernecky</a></li>
+<li><a class="mw-selflink selflink">Larry Breed</a></li>
+<li><a href="/wiki/Charles_Brenner_(mathematician)" title="Charles Brenner (mathematician)">Charles Brenner</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Jim_Brown_(computer_scientist)" title="Jim Brown (computer scientist)">Jim Brown</a></li>
+<li><a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Adin Falkoff</a></li>
+<li>Patrick E. Hagerty</li>
+<li>Herbert Hellerman</li>
+<li><a href="/wiki/Roger_Hui" title="Roger Hui">Roger Hui</a></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a></li>
+<li><a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Dick Lathwell</a></li>
+<li><a href="/wiki/Eugene_McDonnell" title="Eugene McDonnell">Eugene McDonnell</a></li>
+<li>Robert Metzger</li>
+<li><a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Roger Moore</a></li>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a></li>
+<li><a href="/wiki/John_M._Scholes" title="John M. Scholes">John Scholes</a></li>
+<li>J. Henri Schueler</li>
+<li>Bob Smith</li>
+<li><a href="/wiki/Edward_H._Sussenguth" title="Edward H. Sussenguth">Edward H. Sussenguth</a> Jr.</li>
+<li><a href="/wiki/Arthur_Whitney_(computer_scientist)" title="Arthur Whitney (computer scientist)">Arthur Whitney</a></li>
+<li>William Yerazunis</li>
+<li><a href="/wiki/Rodnay_Zaks" title="Rodnay Zaks">Rodnay Zaks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iverson_Award" title="Iverson Award">Iverson Award</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:APL_programming_language_family" title="Category:APL programming language family">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:APL_(programming_language)" class="extiw" title="commons:Category:APL (programming language)">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Grace_Murray_Hopper_Award_recipients" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Hopper_winners" title="Template:Hopper winners"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hopper_winners" title="Template talk:Hopper winners"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hopper_winners&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Grace_Murray_Hopper_Award_recipients" style="font-size:114%;margin:0 4em"><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> recipients</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1970s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth</a>&#160;(1971)</li>
+<li><a href="/wiki/Paul_H._Dirksen" class="mw-redirect" title="Paul H. Dirksen">Dirksen</a>&#160;(1972)</li>
+<li><a href="/wiki/Paul_H._Cress" title="Paul H. Cress">Cress</a>&#160;(1972)</li>
+<li><a class="mw-selflink selflink">Breed</a>/<a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Lathwell</a>/<a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Moore</a>&#160;(1973)</li>
+<li><a href="/wiki/George_N._Baird" title="George N. Baird">Baird</a>&#160;(1974)</li>
+<li><a href="/wiki/Allan_L._Scherr" title="Allan L. Scherr">Scherr</a>&#160;(1975)</li>
+<li><a href="/wiki/Edward_H._Shortliffe" title="Edward H. Shortliffe">Shortliffe</a>&#160;(1976)</li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Kurzweil</a>&#160;(1978)</li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Wozniak</a>&#160;(1979)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1980s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Robert_M._Metcalfe" class="mw-redirect" title="Robert M. Metcalfe">Metcalfe</a>&#160;(1980)</li>
+<li><a href="/wiki/Daniel_S._Bricklin" class="mw-redirect" title="Daniel S. Bricklin">Bricklin</a>&#160;(1981)</li>
+<li><a href="/wiki/Brian_Reid_(computer_scientist)" title="Brian Reid (computer scientist)">Reid</a>&#160;(1982)</li>
+<li><a href="/wiki/Dan_Ingalls" title="Dan Ingalls">Ingalls</a>&#160;(1984)</li>
+<li><a href="/wiki/Cordell_Green" title="Cordell Green">Green</a>&#160;(1985)</li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Joy</a>&#160;(1986)</li>
+<li><a href="/wiki/John_Ousterhout" title="John Ousterhout">Ousterhout</a>&#160;(1987)</li>
+<li><a href="/wiki/Guy_L._Steele_Jr." title="Guy L. Steele Jr.">Steele</a>&#160;(1988)</li>
+<li><a href="/wiki/Danny_Hillis" title="Danny Hillis">Hillis</a>&#160;(1989)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1990s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Stallman</a>&#160;(1990)</li>
+<li><a href="/wiki/Feng-hsiung_Hsu" title="Feng-hsiung Hsu">Hsu</a>&#160;(1991)</li>
+<li><a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Stroustrup</a>&#160;(1993)</li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Goldwasser</a>&#160;(1996)</li>
+<li><a href="/wiki/Wen-mei_Hwu" title="Wen-mei Hwu">Hwu</a>&#160;(1999)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2000s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki</a>&#160;(2000)</li>
+<li><a href="/wiki/George_Necula" title="George Necula">Necula</a>&#160;(2001)</li>
+<li><a href="/wiki/Ramakrishnan_Srikant" title="Ramakrishnan Srikant">Srikant</a>&#160;(2002)</li>
+<li><a href="/wiki/Stephen_W._Keckler" title="Stephen W. Keckler">Keckler</a>&#160;(2003)</li>
+<li><a href="/wiki/Jennifer_Rexford" title="Jennifer Rexford">Rexford</a>&#160;(2004)</li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a>&#160;(2005)</li>
+<li><a href="/wiki/Dan_Klein" title="Dan Klein">Klein</a>&#160;(2006)</li>
+<li><a href="/wiki/Vern_Paxson" title="Vern Paxson">Paxson</a>&#160;(2007)</li>
+<li><a href="/wiki/Dawson_Engler" title="Dawson Engler">Engler</a>&#160;(2008)</li>
+<li><a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a>&#160;(2009)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2010s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Craig_Gentry_(computer_scientist)" title="Craig Gentry (computer scientist)">Gentry</a>&#160;(2010)</li>
+<li><a href="/wiki/Luis_von_Ahn" title="Luis von Ahn">Ahn</a>&#160;(2011)</li>
+<li><a href="/wiki/Martin_Casado" title="Martin Casado">Casado</a> and <a href="/wiki/Dina_Katabi" title="Dina Katabi">Katabi</a>&#160;(2012)</li>
+<li><a href="/wiki/Pedro_Felipe_Felzenszwalb" title="Pedro Felipe Felzenszwalb">Felzenszwalb</a>&#160;(2013)</li>
+<li><a href="/wiki/Sylvia_Ratnasamy" title="Sylvia Ratnasamy">Ratnasamy</a>&#160;(2014)</li>
+<li><a href="/wiki/Brent_Waters" title="Brent Waters">Waters</a>&#160;(2015)</li>
+<li><a href="/wiki/Jeffrey_Heer" title="Jeffrey Heer">Heer</a>&#160;(2016)</li>
+<li><a href="/wiki/Amanda_Randles" title="Amanda Randles">Randles</a>&#160;(2017)</li>
+<li><a href="/wiki/Constantinos_Daskalakis" title="Constantinos Daskalakis">Daskalakis</a> and <a href="/wiki/Michael_J._Freedman" title="Michael J. Freedman">Freedman</a>&#160;(2018)</li>
+<li><a href="/wiki/Maria-Florina_Balcan" title="Maria-Florina Balcan">Balcan</a>&#160;(2019)</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6504346#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6504346#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q6504346#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_DL_(identifier)" class="mw-redirect" title="ACM DL (identifier)">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/profile/81100146677">81100146677</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/74/2668">74/2668</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1368
+Cached time: 20210215211604
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.634 seconds
+Real time usage: 0.951 seconds
+Preprocessor visited node count: 2904/1000000
+Post‐expand include size: 91487/2097152 bytes
+Template argument size: 3562/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 68182/5000000 bytes
+Lua time usage: 0.339/10.000 seconds
+Lua memory usage: 7931879/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  866.965      1 -total
+ 24.25%  210.216     20 Template:Cite_web
+ 21.09%  182.803      1 Template:Infobox_scientist
+ 20.18%  174.958      1 Template:Infobox_person
+ 19.53%  169.329      1 Template:Reflist
+ 17.91%  155.249      2 Template:Infobox
+ 12.88%  111.626      5 Template:Navbox
+ 12.66%  109.749      1 Template:Short_description
+ 11.75%  101.827      1 Template:APL_programming_language
+  7.03%   60.985      5 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2777678-0!canonical and timestamp 20210215211603 and revision id 992892855. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lawrence_M._Breed&amp;oldid=992892855">https://en.wikipedia.org/w/index.php?title=Lawrence_M._Breed&amp;oldid=992892855</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IBM_employees" title="Category:IBM employees">IBM employees</a></li><li><a href="/wiki/Category:Grace_Murray_Hopper_Award_laureates" title="Category:Grace Murray Hopper Award laureates">Grace Murray Hopper Award laureates</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:APL_implementers" title="Category:APL implementers">APL implementers</a></li><li><a href="/wiki/Category:1940_births" title="Category:1940 births">1940 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_November_2011" title="Category:Use mdy dates from November 2011">Use mdy dates from November 2011</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2017" title="Category:Articles with unsourced statements from January 2017">Articles with unsourced statements from January 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lawrence+M.+Breed" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lawrence+M.+Breed" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Lawrence_M._Breed" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Lawrence_M._Breed" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Lawrence_M._Breed">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lawrence_M._Breed" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lawrence_M._Breed" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lawrence_M._Breed&amp;oldid=992892855" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lawrence_M._Breed&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lawrence_M._Breed&amp;id=992892855&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6504346" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Lawrence_M._Breed&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lawrence_M._Breed&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6504346#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 7 December 2020, at 17:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lawrence_M._Breed&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.634","walltime":"0.951","ppvisitednodes":{"value":2904,"limit":1000000},"postexpandincludesize":{"value":91487,"limit":2097152},"templateargumentsize":{"value":3562,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":68182,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  866.965      1 -total"," 24.25%  210.216     20 Template:Cite_web"," 21.09%  182.803      1 Template:Infobox_scientist"," 20.18%  174.958      1 Template:Infobox_person"," 19.53%  169.329      1 Template:Reflist"," 17.91%  155.249      2 Template:Infobox"," 12.88%  111.626      5 Template:Navbox"," 12.66%  109.749      1 Template:Short_description"," 11.75%  101.827      1 Template:APL_programming_language","  7.03%   60.985      5 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.339","limit":"10.000"},"limitreport-memusage":{"value":7931879,"limit":52428800}},"cachereport":{"origin":"mw1368","timestamp":"20210215211604","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lawrence M. Breed","url":"https:\/\/en.wikipedia.org\/wiki\/Lawrence_M._Breed","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6504346","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6504346","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-27T18:18:16Z","dateModified":"2020-12-07T17:39:29Z","headline":"computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129,"wgHostname":"mw1328"});});</script>
+</body></html>

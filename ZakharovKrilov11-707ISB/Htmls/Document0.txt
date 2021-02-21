@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Michael Abrash - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIeXawXgwvwv-PWmElywAAAJg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Michael_Abrash","wgTitle":"Michael Abrash","wgCurRevisionId":1002166617,"wgRevisionId":1002166617,"wgArticleId":274260,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with a promotional tone from May 2020","All articles with a promotional tone","Wikipedia articles with style issues from May 2020","All articles with style issues","Articles with multiple maintenance issues",
+"Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from May 2015","Articles with unsourced statements from July 2013","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","American computer programmers","American technology writers","Living people","Microsoft employees","Valve Corporation people","American video game programmers","Id Software people","1957 births"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Michael_Abrash","wgRelevantArticleId":274260,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q838831"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready",
+"wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b0/Michael_Abrash_at_Facebook%27s_F8_2015.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Michael_Abrash"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Michael_Abrash&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Michael_Abrash&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Michael_Abrash"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Michael_Abrash rootpage-Michael_Abrash skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Michael Abrash</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Game programmer  and technical writer</div>
+<table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Michael_Abrash&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Michael_Abrash" title="Talk:Michael Abrash">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Michael_Abrash&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links#Advertising_and_conflicts_of_interest" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">May 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Tone plainlinks metadata ambox ambox-style ambox-Tone" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>.<span class="hide-when-compact"> See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span>  <small class="date-container"><i>(<span class="date">May 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Michael Abrash</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Michael_Abrash_at_Facebook%27s_F8_2015.jpg" class="image"><img alt="Michael Abrash at Facebook&#39;s F8 2015.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Michael_Abrash_at_Facebook%27s_F8_2015.jpg/220px-Michael_Abrash_at_Facebook%27s_F8_2015.jpg" decoding="async" width="220" height="361" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Michael_Abrash_at_Facebook%27s_F8_2015.jpg/330px-Michael_Abrash_at_Facebook%27s_F8_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Michael_Abrash_at_Facebook%27s_F8_2015.jpg/440px-Michael_Abrash_at_Facebook%27s_F8_2015.jpg 2x" data-file-width="932" data-file-height="1530" /></a><div>Michael Abrash as <a href="/wiki/Oculus_VR" class="mw-redirect" title="Oculus VR">Oculus VR</a> Chief Scientist on stage at <a href="/wiki/Facebook" title="Facebook">Facebook</a>'s F8 2015</div></td></tr><tr><th scope="row">Born</th><td>1957 (age&#160;63&#8211;64)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Occupation</th><td class="role">Programmer<br />Technical writer</td></tr><tr><th scope="row">Employer</th><td class="org"><a href="/wiki/Oculus_VR" class="mw-redirect" title="Oculus VR">Oculus VR</a></td></tr><tr><th scope="row">Title</th><td class="title">Chief Scientist</td></tr></tbody></table>
+<p><b>Michael Abrash</b> is a software executive, <a href="/wiki/Programmer" title="Programmer">programmer</a> and <a href="/wiki/Technical_writer" title="Technical writer">technical writer</a> specializing in <a href="/wiki/Code_optimization" class="mw-redirect" title="Code optimization">code optimization</a> and <a href="/wiki/80x86" class="mw-redirect" title="80x86">80x86</a> <a href="/wiki/Assembly_language" title="Assembly language">assembly language</a>, a reputation cemented by his 1990 book <i>Zen of Assembly Language Volume 1: Knowledge</i><sup id="cite_ref-zenassembly_2-0" class="reference"><a href="#cite_note-zenassembly-2">&#91;2&#93;</a></sup> and a monthly column in <i><a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb&#39;s Journal">Dr. Dobb's Journal</a></i> in the early 1990s. A later book, <i>Zen of Graphics Programming</i>, applied these ideas to 2D and 3D graphics prior to the advent of hardware accelerators for the PC.<sup id="cite_ref-zengraphic_3-0" class="reference"><a href="#cite_note-zengraphic-3">&#91;3&#93;</a></sup> Though not strictly a game programmer, Abrash has worked on the underlying technology for games, such as <i><a href="/wiki/Quake_(video_game)" title="Quake (video game)">Quake</a></i>, for much of his career.  Since 2014, he has been the chief scientist of <a href="/wiki/Oculus_VR" class="mw-redirect" title="Oculus VR">Oculus VR</a>, a subsidiary of <a href="/wiki/Facebook" title="Facebook">Facebook, Inc.</a>.<sup id="cite_ref-Oculus01_4-0" class="reference"><a href="#cite_note-Oculus01-4">&#91;4&#93;</a></sup>
+</p><p>He frequently begins a technical discussion with an anecdote that draws parallels between a real-life experience he has had and the article's subject matter. His prose encourages readers to <a href="/wiki/Think_outside_the_box" class="mw-redirect" title="Think outside the box">think outside the box</a> and to approach solving technical problems in an innovative way.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Game_programmer"><span class="tocnumber">1</span> <span class="toctext">Game programmer</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Technical_writer"><span class="tocnumber">2</span> <span class="toctext">Technical writer</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Early_work"><span class="tocnumber">2.1</span> <span class="toctext">Early work</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Dr._Dobb&#39;s_and_later_books"><span class="tocnumber">2.2</span> <span class="toctext">Dr. Dobb's and later books</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Game_programmer">Game programmer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Abrash&amp;action=edit&amp;section=1" title="Edit section: Game programmer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abrash first bought a microcomputer while doing postgraduate studies at the <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2015)">citation needed</span></a></i>&#93;</sup>  Before getting into technical writing, Abrash was a <a href="/wiki/Game_programmer" class="mw-redirect" title="Game programmer">game programmer</a> in the early days of the <a href="/wiki/IBM_PC" class="mw-redirect" title="IBM PC">IBM PC</a>. His first commercial game was a clone of <i><a href="/wiki/Space_Invaders" title="Space Invaders">Space Invaders</a></i> published by <a href="/wiki/Datamost" title="Datamost">Datamost</a> in 1982 as <i><a href="/wiki/Space_Strike" title="Space Strike">Space Strike</a></i>.  He co-authored several PC games with Dan Illowsky, who had previously written the successful <i><a href="/wiki/Pac-Man" title="Pac-Man">Pac-Man</a></i> clone <i><a href="/wiki/Snack_Attack" title="Snack Attack">Snack Attack</a></i> for the Apple II. Abrash and Illowsky worked together on the <i><a href="/wiki/Galaxian" title="Galaxian">Galaxian</a></i>-like <i><a href="/wiki/Cosmic_Crusader" title="Cosmic Crusader">Cosmic Crusader</a></i> (1982), maze game <i>Snack Attack II</i> (1982), and platform game <i><a href="/wiki/Big_Top_(video_game)" title="Big Top (video game)">Big Top</a></i> (1983).<sup id="cite_ref-giantlist_5-0" class="reference"><a href="#cite_note-giantlist-5">&#91;5&#93;</a></sup>
+</p><p>After working at <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> on graphics and assembly code for <a href="/wiki/Windows_NT_3.1" title="Windows NT 3.1">Windows NT 3.1</a>, he returned to the <a href="/wiki/Video_game_industry" title="Video game industry">video game industry</a> in the mid-1990s to work on <i><a href="/wiki/Quake_(video_game)" title="Quake (video game)">Quake</a></i> for <a href="/wiki/Id_Software" title="Id Software">id Software</a>. Some of the technology behind <i>Quake</i> is documented in Abrash's <i>Ramblings in Realtime</i> published in <i><a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb&#39;s Journal">Dr. Dobb's Journal</a></i>.<sup id="cite_ref-rir_6-0" class="reference"><a href="#cite_note-rir-6">&#91;6&#93;</a></sup> He mentions Quake as his favourite game of all time.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> After <i>Quake</i> was released, Abrash returned to Microsoft to work on natural language research, then moved to the <a href="/wiki/Xbox_(console)" title="Xbox (console)">Xbox</a> team, until 2001.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>&#93;</sup>
+</p><p>In 2002, Abrash went to <a href="/wiki/RAD_Game_Tools" class="mw-redirect" title="RAD Game Tools">RAD Game Tools</a> where he co-wrote the Pixomatic <a href="/wiki/Software_rendering" title="Software rendering">software renderer</a>, which emulates the functionality of a <a href="/wiki/DirectX_7" class="mw-redirect" title="DirectX 7">DirectX 7</a>-level graphics card and is used as the software renderer in such games as <i><a href="/wiki/Unreal_Tournament_2004" title="Unreal Tournament 2004">Unreal Tournament 2004</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>&#93;</sup> At the end of 2005, Pixomatic was acquired by <a href="/wiki/Intel" title="Intel">Intel</a>. When developing Pixomatic, he and Mike Sartain designed a new architecture called <a href="/wiki/Larrabee_(microarchitecture)" title="Larrabee (microarchitecture)">Larrabee</a>, which now is part of Intel's <a href="/wiki/GPGPU" class="mw-redirect" title="GPGPU">GPGPU</a> project.<sup id="cite_ref-larrabee_8-0" class="reference"><a href="#cite_note-larrabee-8">&#91;8&#93;</a></sup>
+</p><p><a href="/wiki/Gabe_Newell" title="Gabe Newell">Gabe Newell</a>, managing director of <a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve</a>, said that he had "been trying to hire Michael Abrash forever. <i>[...]</i> About once a quarter we go for dinner and I say 'are you ready to work here yet?'"<sup id="cite_ref-gabenewell_9-0" class="reference"><a href="#cite_note-gabenewell-9">&#91;9&#93;</a></sup> In 2011 Abrash made the move to join Valve.<sup id="cite_ref-develop_10-0" class="reference"><a href="#cite_note-develop-10">&#91;10&#93;</a></sup>
+</p><p>On March 28, 2014, three days after <a href="/wiki/Facebook" title="Facebook">Facebook</a> announced agreements to purchase the company,<sup id="cite_ref-Oculus022_11-0" class="reference"><a href="#cite_note-Oculus022-11">&#91;11&#93;</a></sup> <a href="/wiki/Virtual_reality" title="Virtual reality">virtual reality</a> headset company <a href="/wiki/Oculus_VR" class="mw-redirect" title="Oculus VR">Oculus VR</a> published a statement saying that Michael Abrash had joined their company as <a href="/wiki/Chief_science_officer" class="mw-redirect" title="Chief science officer">Chief Scientist</a>.<sup id="cite_ref-Oculus01_4-1" class="reference"><a href="#cite_note-Oculus01-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Technical_writer">Technical writer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Abrash&amp;action=edit&amp;section=2" title="Edit section: Technical writer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_work">Early work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Abrash&amp;action=edit&amp;section=3" title="Edit section: Early work">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Michael Abrash was a columnist in the 1980s for a magazine called <i>Programmer's Journal</i>. Those articles were collected in the 1989 book, <i>Power Graphics Programming</i>.
+</p><p>His second book, <i>Zen of Assembly Language Volume 1: Knowledge</i> (1990), focused on writing efficient <a href="/wiki/Assembly_code" class="mw-redirect" title="Assembly code">assembly code</a> for the 16-bit 8086 processor, but was released after the <a href="/wiki/80486" class="mw-redirect" title="80486">80486</a> CPU was already available.<sup id="cite_ref-jameshague_12-0" class="reference"><a href="#cite_note-jameshague-12">&#91;12&#93;</a></sup> In addition to assembly-level optimization, the book focused on parts of the system that silently affect code performance, which he called "cycle eaters." A key point of <i>Zen of Assembly Language</i> is that performance must always be measured, and the book included the "Zen Timer" tool to check if theoretical code optimizations actually worked. Volume 2 was never published.
+</p>
+<h3><span id="Dr._Dobb.27s_and_later_books"></span><span class="mw-headline" id="Dr._Dobb's_and_later_books">Dr. Dobb's and later books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Abrash&amp;action=edit&amp;section=4" title="Edit section: Dr. Dobb&#039;s and later books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the early to mid-1990s, Abrash wrote a PC graphics programming column for <i><a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb&#39;s Journal">Dr. Dobb's Journal</a></i> called "Ramblings in Realtime." In 1991 he introduced <a href="/wiki/Mode_X" title="Mode X">Mode X</a>, a 320x240 VGA graphics mode with square pixels instead of the slightly elongated pixels of the standard 320x200 mode. At the same time, he introduced readers to a little known part of the VGA standard allowing multiple pixels to be written at once. The article and its follow-ups ignited interest among PC game programmers.
+</p><p>Much of the content of <i>Zen of Assembly Language</i> was updated in <i>Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit</i> (1994),<sup id="cite_ref-zen_13-0" class="reference"><a href="#cite_note-zen-13">&#91;13&#93;</a></sup> along with new material. The presentation of stepwise program refinement empirically demonstrated how algorithm re-design could improve performance up to a factor of 100. Assembly language re-coding, on the other hand, may only improve performance by a factor of 10. Abrash also showed how elusive performance improvement can be, and improving performance in one subroutine can expose bottlenecks in other routines. Finally, he demonstrated processor-dependent assembly-based performance improvements by comparing assembly language optimizations across x86 generations, including how some micro-optimizations disappeared or even made a program slower.
+</p><p>In 1997 Abrash's <i>Graphics Programming Black Book</i>,<sup id="cite_ref-gpbb-book_14-0" class="reference"><a href="#cite_note-gpbb-book-14">&#91;14&#93;</a></sup><sup id="cite_ref-gpbb_15-0" class="reference"><a href="#cite_note-gpbb-15">&#91;15&#93;</a></sup> was published. It was a collection of his <i>Dr. Dobb's Journal</i> articles and his work on the <i><a href="/wiki/Quake_(video_game)" title="Quake (video game)">Quake</a></i> graphic subsystem.
+</p><p>Abrash stopped writing publicly in the 2000s until maintaining a public blog at Valve, "Ramblings in Valve Time," from April 2012 until January 2014.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Abrash&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFAbrash1997" class="citation web cs1">Abrash, Michael (April 1, 1997). <a rel="nofollow" class="external text" href="https://www.drdobbs.com/windows/some-things-ive-learned-about-win32-game/184410376">"Some Things I've Learned About Win32 Game Programming"</a>. <i>Dr. Dobb's</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dr.+Dobb%27s&amp;rft.atitle=Some+Things+I%27ve+Learned+About+Win32+Game+Programming&amp;rft.date=1997-04-01&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fwww.drdobbs.com%2Fwindows%2Fsome-things-ive-learned-about-win32-game%2F184410376&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-zenassembly-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-zenassembly_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash1990" class="citation book cs1"><a class="mw-selflink selflink">Abrash, Michael</a> (January 1990). <i>Zen of Assembly Language: Knowledge</i>. Scott Foresman Trade. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-673-38602-1" title="Special:BookSources/978-0-673-38602-1"><bdi>978-0-673-38602-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Zen+of+Assembly+Language%3A+Knowledge&amp;rft.pub=Scott+Foresman+Trade&amp;rft.date=1990-01&amp;rft.isbn=978-0-673-38602-1&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-zengraphic-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-zengraphic_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash1994" class="citation book cs1"><a class="mw-selflink selflink">Abrash, Michael</a> (1994-01-15). <i>Zen of Graphics Programming: The Ultimate Guide to Writing Fast PC Graphics</i>. Coriolis Group; Bk&amp;Disk edition. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-883577-08-7" title="Special:BookSources/978-1-883577-08-7"><bdi>978-1-883577-08-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Zen+of+Graphics+Programming%3A+The+Ultimate+Guide+to+Writing+Fast+PC+Graphics&amp;rft.pub=Coriolis+Group%3B+Bk%26Disk+edition&amp;rft.date=1994-01-15&amp;rft.isbn=978-1-883577-08-7&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Oculus01-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oculus01_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oculus01_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oculusvr.com/blog/introducing-michael-abrash-oculus-chief-scientist/">"Introducing Michael Abrash, Oculus Chief Scientist"</a>. Oculus VR. 2014-03-28<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Introducing+Michael+Abrash%2C+Oculus+Chief+Scientist&amp;rft.pub=Oculus+VR&amp;rft.date=2014-03-28&amp;rft_id=http%3A%2F%2Fwww.oculusvr.com%2Fblog%2Fintroducing-michael-abrash-oculus-chief-scientist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-giantlist-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-giantlist_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHague" class="citation web cs1">Hague, James. <a rel="nofollow" class="external text" href="https://dadgum.com/giantlist/">"The Giant List of Classic Game Programmers"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Giant+List+of+Classic+Game+Programmers&amp;rft.aulast=Hague&amp;rft.aufirst=James&amp;rft_id=https%3A%2F%2Fdadgum.com%2Fgiantlist%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-rir-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-rir_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash1996" class="citation web cs1">Abrash, Michael (1996-02-01). <a rel="nofollow" class="external text" href="http://www.drdobbs.com/184410037">"Ramblings in Realtime"</a>. www.drdobbs.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ramblings+in+Realtime&amp;rft.pub=www.drdobbs.com&amp;rft.date=1996-02-01&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2F184410037&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFValve_Pipeline" class="citation web cs1">Valve Pipeline. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=l461vIVtDZM">"Pipeline Interviews: Michael Abrash on Virtual Reality &amp; the Future of Gaming"</a>. <i>YouTube</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft.atitle=Pipeline+Interviews%3A+Michael+Abrash+on+Virtual+Reality+%26+the+Future+of+Gaming&amp;rft.au=Valve+Pipeline&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl461vIVtDZM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-larrabee-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-larrabee_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash2009" class="citation web cs1"><a class="mw-selflink selflink">Abrash, Michael</a> (2009-04-01). <a rel="nofollow" class="external text" href="http://www.drdobbs.com/architecture-and-design/216402188">"A First Look at the Larrabee New Instructions (LRBni)"</a>. drdobbs.com/architecture-and-design<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+First+Look+at+the+Larrabee+New+Instructions+%28LRBni%29&amp;rft.pub=drdobbs.com%2Farchitecture-and-design&amp;rft.date=2009-04-01&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2Farchitecture-and-design%2F216402188&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gabenewell-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-gabenewell_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWalker2007" class="citation web cs1">Walker, John (2007-11-21). <a rel="nofollow" class="external text" href="http://www.rockpapershotgun.com/2007/11/21/rps-exclusive-gabe-newell-interview/">"RPS Exclusive: Gabe Newell Interview"</a>. <a href="/wiki/Rock,_Paper,_Shotgun" title="Rock, Paper, Shotgun">Rock, Paper, Shotgun</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RPS+Exclusive%3A+Gabe+Newell+Interview&amp;rft.pub=Rock%2C+Paper%2C+Shotgun&amp;rft.date=2007-11-21&amp;rft.aulast=Walker&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.rockpapershotgun.com%2F2007%2F11%2F21%2Frps-exclusive-gabe-newell-interview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-develop-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-develop_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFCrossley2011" class="citation web cs1">Crossley, Rob (2011-05-13). <a rel="nofollow" class="external text" href="http://www.develop-online.net/news/37665/Valve-hires-world-class-development-trio">"Valve hires world-class development trio"</a>. Develop<span class="reference-accessdate">. Retrieved <span class="nowrap">16 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Valve+hires+world-class+development+trio&amp;rft.pub=Develop&amp;rft.date=2011-05-13&amp;rft.aulast=Crossley&amp;rft.aufirst=Rob&amp;rft_id=http%3A%2F%2Fwww.develop-online.net%2Fnews%2F37665%2FValve-hires-world-class-development-trio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Oculus022-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oculus022_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://newsroom.fb.com/news/2014/03/facebook-to-acquire-oculus/">"Facebook to Acquire Oculus"</a>. Facebook. 2014-03-25<span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Facebook+to+Acquire+Oculus&amp;rft.pub=Facebook&amp;rft.date=2014-03-25&amp;rft_id=http%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2014%2F03%2Ffacebook-to-acquire-oculus%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-jameshague-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-jameshague_12-0">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHague2008" class="citation web cs1">Hague, James (2008-02-18). <a rel="nofollow" class="external text" href="https://prog21.dadgum.com/19.html">"Five Memorable Books About Programming"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Five+Memorable+Books+About+Programming&amp;rft.date=2008-02-18&amp;rft.aulast=Hague&amp;rft.aufirst=James&amp;rft_id=https%3A%2F%2Fprog21.dadgum.com%2F19.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-zen-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-zen_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash1994" class="citation book cs1"><a class="mw-selflink selflink">Abrash, Michael</a> (1994-12-08). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/zenofcodeoptimiz0000abra"><i>Zen of Code Optimization: The Ultimate Guide to Writing Software That Pushes PCs to the Limit</i></a></span>. Coriolis Group Books. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-883577-03-2" title="Special:BookSources/978-1-883577-03-2"><bdi>978-1-883577-03-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Zen+of+Code+Optimization%3A+The+Ultimate+Guide+to+Writing+Software+That+Pushes+PCs+to+the+Limit&amp;rft.pub=Coriolis+Group+Books&amp;rft.date=1994-12-08&amp;rft.isbn=978-1-883577-03-2&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fzenofcodeoptimiz0000abra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gpbb-book-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-gpbb-book_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash1997" class="citation book cs1"><a class="mw-selflink selflink">Abrash, Michael</a> (July 1997). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/michaelabrashsgr00abra"><i>Graphics Programming Black Book</i></a></span>. Coriolis Group Books. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-57610-174-2" title="Special:BookSources/978-1-57610-174-2"><bdi>978-1-57610-174-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Graphics+Programming+Black+Book&amp;rft.pub=Coriolis+Group+Books&amp;rft.date=1997-07&amp;rft.isbn=978-1-57610-174-2&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fmichaelabrashsgr00abra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+<li id="cite_note-gpbb-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-gpbb_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAbrash2001" class="citation web cs1"><a class="mw-selflink selflink">Abrash, Michael</a> (2001-11-01). <a rel="nofollow" class="external text" href="http://www.drdobbs.com/high-performance-computing/184404919">"Graphics Programming Black Book"</a>. www.drdobbs.com/high-performance-computing<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Graphics+Programming+Black+Book&amp;rft.pub=www.drdobbs.com%2Fhigh-performance-computing&amp;rft.date=2001-11-01&amp;rft.aulast=Abrash&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2Fhigh-performance-computing%2F184404919&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMichael+Abrash" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Abrash&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://blogs.valvesoftware.com/abrash/">Ramblings in Valve Time - A blog by Michael Abrash</a></li>
+<li><a rel="nofollow" class="external text" href="//www.mobygames.com/developer/sheet/view/developerId,213/">Michael Abrash's developer profile</a> at <a href="/wiki/MobyGames" title="MobyGames">MobyGames</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bluesnews.com/abrash/"><i>Ramblings in Realtime</i> by Michael Abrash</a>, detailed description of <i>Quake</i>'s graphics engine programming (<a rel="nofollow" class="external text" href="http://www.bluesnews.com/abrash/abrash.pdf">PDF version</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.drdobbs.com/high-performance-computing/184404919"><i>Graphics Programming Black Book</i> by Michael Abrash</a> (<a rel="nofollow" class="external text" href="http://www.jagregory.com/abrash-black-book">HTML version</a> and <a rel="nofollow" class="external text" href="https://github.com/jagregory/abrash-black-book">ebook source</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://babysoftmurderhands.com/2012/08/quakecon-2012-exclusive-interview-40-minutes-michael-abrash-valve-software/"><i>40 minutes with Michael Abrash of Valve Software"</i></a><i>, Audio interview with Michael Abrash at QuakeCon 2012 discussing Abrash's career and work at Valve</i></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="id_Software_(games)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Id_Software" title="Template:Id Software"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Id_Software" title="Template talk:Id Software"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Id_Software&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="id_Software_(games)" style="font-size:114%;margin:0 4em"><a href="/wiki/Id_Software" title="Id Software">id Software</a> (<a href="/wiki/List_of_id_Software_games" title="List of id Software games">games</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Main franchises</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Commander_Keen" title="Commander Keen">Commander Keen</a></i></li>
+<li><i><a href="/wiki/Doom_(franchise)" title="Doom (franchise)">Doom</a></i></li>
+<li><i><a href="/wiki/Quake_(series)" title="Quake (series)">Quake</a></i></li>
+<li><i><a href="/wiki/Wolfenstein" title="Wolfenstein">Wolfenstein</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other games</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Shadow_Knights" title="Shadow Knights">Shadow Knights</a></i></li>
+<li><i><a href="/wiki/Hovertank_3D" title="Hovertank 3D">Hovertank 3D</a></i></li>
+<li><i><a href="/wiki/Dangerous_Dave" title="Dangerous Dave">Dangerous Dave</a></i></li>
+<li><i><a href="/wiki/Rescue_Rover" title="Rescue Rover">Rescue Rover</a></i></li>
+<li><i><a href="/wiki/Tiles_of_the_Dragon" title="Tiles of the Dragon">Tiles of the Dragon</a></i></li>
+<li><i><a href="/wiki/Catacomb_3-D" title="Catacomb 3-D">Catacomb 3-D</a></i></li>
+<li><i><a href="/wiki/Orcs_%26_Elves" title="Orcs &amp; Elves">Orcs &amp; Elves</a></i></li>
+<li><i><a href="/wiki/Rage_(video_game)" title="Rage (video game)">Rage</a></i></li>
+<li><i><a href="/wiki/Rage_2" title="Rage 2">Rage 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Games published</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Heretic_(video_game)" title="Heretic (video game)">Heretic</a></i></li>
+<li><i><a href="/wiki/Hexen:_Beyond_Heretic" title="Hexen: Beyond Heretic">Hexen: Beyond Heretic</a></i></li>
+<li><i><a href="/wiki/Hexen_II" title="Hexen II">Hexen II</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kevin_Cloud" title="Kevin Cloud">Kevin Cloud</a></li>
+<li><a href="/wiki/Marty_Stratton" title="Marty Stratton">Marty Stratton</a></li>
+<li><a href="/wiki/Robert_Duffy_(programmer)" title="Robert Duffy (programmer)">Robert Duffy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Carmack" title="John Carmack">John Carmack</a></li>
+<li><a href="/wiki/John_Romero" title="John Romero">John Romero</a></li>
+<li><a href="/wiki/Adrian_Carmack" title="Adrian Carmack">Adrian Carmack</a></li>
+<li><a href="/wiki/Tom_Hall" title="Tom Hall">Tom Hall</a></li>
+<li><a href="/wiki/Mark_Rein_(software_executive)" title="Mark Rein (software executive)">Mark Rein</a></li>
+<li><a href="/wiki/Sandy_Petersen" title="Sandy Petersen">Sandy Petersen</a></li>
+<li><a href="/wiki/Dave_Taylor_(game_programmer)" title="Dave Taylor (game programmer)">Dave Taylor</a></li>
+<li><a href="/wiki/American_McGee" title="American McGee">American McGee</a></li>
+<li><a href="/wiki/Tim_Willits" title="Tim Willits">Tim Willits</a></li>
+<li><a href="/wiki/Mike_Wilson_(executive)" title="Mike Wilson (executive)">Mike Wilson</a></li>
+<li><a class="mw-selflink selflink">Michael Abrash</a></li>
+<li><a href="/wiki/Jennell_Jaquays" title="Jennell Jaquays">Jennell Jaquays</a></li>
+<li><a href="/wiki/Paul_Steed" title="Paul Steed">Paul Steed</a></li>
+<li><a href="/wiki/Graeme_Devine" title="Graeme Devine">Graeme Devine</a></li>
+<li><a href="/wiki/Todd_Hollenshead" title="Todd Hollenshead">Todd Hollenshead</a></li>
+<li><a href="/wiki/Timothee_Besset" title="Timothee Besset">Timothee Besset</a></li>
+<li><a href="/wiki/Katherine_Anna_Kang" title="Katherine Anna Kang">Katherine Anna Kang</a></li>
+<li><a href="/wiki/Matthew_Costello" title="Matthew Costello">Matthew Costello</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publishers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Softdisk" title="Softdisk">Softdisk</a></li>
+<li><a href="/wiki/3D_Realms" title="3D Realms">Apogee Software</a></li>
+<li><a href="/wiki/FormGen" title="FormGen">FormGen</a></li>
+<li><a href="/wiki/Atari,_Inc._(Atari,_SA_subsidiary)" class="mw-redirect" title="Atari, Inc. (Atari, SA subsidiary)">GT Interactive</a></li>
+<li><a href="/wiki/Activision" title="Activision">Activision</a></li>
+<li><a href="/wiki/ZeniMax_Media" title="ZeniMax Media">ZeniMax Media</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adaptive_tile_refresh" title="Adaptive tile refresh">Adaptive tile refresh</a></li>
+<li><a href="/wiki/Id_Tech" title="Id Tech">id Tech</a>
+<ul><li><a href="/wiki/Doom_engine" title="Doom engine"><i>Doom</i> engine</a></li>
+<li><a href="/wiki/Quake_engine" title="Quake engine"><i>Quake</i> engine</a></li>
+<li><a href="/wiki/Quake_II_engine" title="Quake II engine"><i>Quake II</i> engine</a></li>
+<li><a href="/wiki/Id_Tech_3" title="Id Tech 3">id Tech 3</a></li>
+<li><a href="/wiki/Id_Tech_4" title="Id Tech 4">id Tech 4</a></li>
+<li><a href="/wiki/Id_Tech_5" title="Id Tech 5">id Tech 5</a></li>
+<li><a href="/wiki/Id_Tech_6" title="Id Tech 6">id Tech 6</a></li>
+<li><a href="/wiki/Id_Tech_7" title="Id Tech 7">id Tech 7</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/QuakeCon" title="QuakeCon">QuakeCon</a></li>
+<li><i><a href="/wiki/Masters_of_Doom" title="Masters of Doom">Masters of Doom</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Valve" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Valve" title="Template:Valve"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Valve" title="Template talk:Valve"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Valve&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Valve" style="font-size:114%;margin:0 4em"><a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Valve_games" title="List of Valve games">Video games</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Half-Life_(series)" title="Half-Life (series)"><i>Half-Life</i></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Half-Life_(video_game)" title="Half-Life (video game)">Half-Life</a></i>
+<ul><li><i><a href="/wiki/Half-Life:_Opposing_Force" title="Half-Life: Opposing Force">Opposing Force</a></i></li>
+<li><i><a href="/wiki/Half-Life:_Blue_Shift" title="Half-Life: Blue Shift">Blue Shift</a></i></li>
+<li><i><a href="/wiki/Half-Life:_Decay" title="Half-Life: Decay">Decay</a></i></li></ul></li>
+<li><i><a href="/wiki/Half-Life_2" title="Half-Life 2">Half-Life 2</a></i>
+<ul><li><i><a href="/wiki/Half-Life_2:_Episode_One" title="Half-Life 2: Episode One">Episode One</a></i></li>
+<li><i><a href="/wiki/Half-Life_2:_Episode_Two" title="Half-Life 2: Episode Two">Episode Two</a></i></li>
+<li><i><a href="/wiki/Half-Life_2:_Deathmatch" title="Half-Life 2: Deathmatch">Deathmatch</a></i></li>
+<li><i><a href="/wiki/Half-Life_2:_Lost_Coast" title="Half-Life 2: Lost Coast">Lost Coast</a></i></li></ul></li>
+<li><i><a href="/wiki/Half-Life:_Alyx" title="Half-Life: Alyx">Half-Life: Alyx</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Portal_(series)" title="Portal (series)"><i>Portal</i></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Portal_(video_game)" title="Portal (video game)">Portal</a></i></li>
+<li><i><a href="/wiki/Portal_2" title="Portal 2">Portal 2</a></i></li>
+<li><i><a href="/wiki/The_Lab_(video_game)" title="The Lab (video game)">The Lab</a></i></li>
+<li><i><a href="/wiki/Aperture_Hand_Lab" title="Aperture Hand Lab">Aperture Hand Lab</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Counter-Strike" title="Counter-Strike">Counter-Strike</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Counter-Strike_(video_game)" title="Counter-Strike (video game)">Counter-Strike</a></i>
+<ul><li>"<a href="/wiki/Dust_II" title="Dust II">Dust II</a>"</li></ul></li>
+<li><i><a href="/wiki/Counter-Strike:_Condition_Zero" title="Counter-Strike: Condition Zero">Condition Zero</a></i></li>
+<li><i><a href="/wiki/Counter-Strike:_Source" title="Counter-Strike: Source">Source</a></i></li>
+<li><i><a href="/wiki/Counter-Strike:_Global_Offensive" title="Counter-Strike: Global Offensive">Global Offensive</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Day of Defeat</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Day_of_Defeat" title="Day of Defeat">Day of Defeat</a></i></li>
+<li><i><a href="/wiki/Day_of_Defeat:_Source" title="Day of Defeat: Source">Source</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Team Fortress</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Team_Fortress_Classic" title="Team Fortress Classic">Team Fortress Classic</a></i></li>
+<li><i><a href="/wiki/Team_Fortress_2" title="Team Fortress 2">Team Fortress 2</a></i>
+<ul><li>"<a href="/wiki/2Fort" title="2Fort">2Fort</a>"</li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Left_4_Dead_(series)" title="Left 4 Dead (series)"><i>Left 4 Dead</i></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Left_4_Dead" title="Left 4 Dead">Left 4 Dead</a></i></li>
+<li><i><a href="/wiki/Left_4_Dead_2" title="Left 4 Dead 2">Left 4 Dead 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Dota" title="Dota">Dota</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Dota_2" title="Dota 2">Dota 2</a></i></li>
+<li><i><a href="/wiki/Artifact_(video_game)" title="Artifact (video game)">Artifact</a></i></li>
+<li><i><a href="/wiki/Dota_Underlords" title="Dota Underlords">Dota Underlords</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Orange_Box" title="The Orange Box">The Orange Box</a></i></li>
+<li><i><a href="/wiki/Alien_Swarm" title="Alien Swarm">Alien Swarm</a></i></li>
+<li><i><a href="/wiki/Garry%27s_Mod" title="Garry&#39;s Mod">Garry's Mod</a></i></li>
+<li><i><a href="/wiki/The_Crossing_(video_game)" title="The Crossing (video game)">The Crossing</a></i> (unreleased)</li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="noviewer navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Valve_logo.svg" class="image"><img alt="Valve logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/100px-Valve_logo.svg.png" decoding="async" width="100" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/150px-Valve_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/200px-Valve_logo.svg.png 2x" data-file-width="1000" data-file-height="279" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Hardware</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Steam_Controller" title="Steam Controller">Steam Controller</a></li>
+<li><a href="/wiki/Steam_Machine_(hardware_platform)" title="Steam Machine (hardware platform)">Steam Machine</a></li>
+<li><a href="/wiki/Steam_Link" title="Steam Link">Steam Link</a></li>
+<li><a href="/wiki/HTC_Vive" title="HTC Vive">HTC Vive</a></li>
+<li><a href="/wiki/Valve_Index" title="Valve Index">Valve Index</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GoldSrc" title="GoldSrc">GoldSrc</a>
+<ul><li><a href="/wiki/List_of_GoldSrc_mods" title="List of GoldSrc mods">mods</a></li></ul></li>
+<li><a href="/wiki/Source_(game_engine)" title="Source (game engine)">Source</a>
+<ul><li><a href="/wiki/List_of_Source_mods" title="List of Source mods">mods</a></li></ul></li>
+<li><a href="/wiki/Source_2" title="Source 2">Source 2</a></li>
+<li><a href="/wiki/Source_Filmmaker" title="Source Filmmaker">Source Filmmaker</a></li>
+<li><a href="/wiki/Steam_(service)" title="Steam (service)">Steam</a></li>
+<li><a href="/wiki/SteamOS" title="SteamOS">SteamOS</a></li>
+<li><a href="/wiki/Valve_Anti-Cheat" title="Valve Anti-Cheat">Valve Anti-Cheat</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mike_Ambinder" title="Mike Ambinder">Mike Ambinder</a></li>
+<li><a href="/wiki/Sam_Lantinga" title="Sam Lantinga">Sam Lantinga</a></li>
+<li><a href="/wiki/Mike_Morasky" title="Mike Morasky">Mike Morasky</a></li>
+<li><a href="/wiki/Brad_Muir" title="Brad Muir">Brad Muir</a></li>
+<li><a href="/wiki/Gabe_Newell" title="Gabe Newell">Gabe Newell</a></li>
+<li><a href="/wiki/Jay_Pinkerton" title="Jay Pinkerton">Jay Pinkerton</a></li>
+<li><a href="/wiki/Robin_Walker_(game_designer)" title="Robin Walker (game designer)">Robin Walker</a></li>
+<li><a href="/wiki/Erik_Wolpaw" title="Erik Wolpaw">Erik Wolpaw</a></li>
+<li><a href="/wiki/Campo_Santo_(company)" title="Campo Santo (company)">Campo Santo</a>
+<ul><li><a href="/wiki/Jane_Ng" title="Jane Ng">Jane Ng</a></li>
+<li><a href="/wiki/Chris_Remo" title="Chris Remo">Chris Remo</a></li>
+<li><a href="/wiki/Jake_Rodkin" title="Jake Rodkin">Jake Rodkin</a></li>
+<li><a href="/wiki/Sean_Vanaman" title="Sean Vanaman">Sean Vanaman</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Michael Abrash</a></li>
+<li><a href="/wiki/Kelly_Bailey_(composer)" title="Kelly Bailey (composer)">Kelly Bailey</a></li>
+<li><a href="/wiki/Doug_Church" title="Doug Church">Doug Church</a></li>
+<li><a href="/wiki/Jess_Cliffe" title="Jess Cliffe">Jess Cliffe</a></li>
+<li><a href="/wiki/Chet_Faliszek" title="Chet Faliszek">Chet Faliszek</a></li>
+<li><a href="/wiki/Mike_Harrington" title="Mike Harrington">Mike Harrington</a></li>
+<li><a href="/wiki/Marc_Laidlaw" title="Marc Laidlaw">Marc Laidlaw</a></li>
+<li><a href="/wiki/Minh_Le" title="Minh Le">Minh Le</a></li>
+<li><a href="/wiki/Bay_Raitt" title="Bay Raitt">Bay Raitt</a></li>
+<li><a href="/wiki/Kim_Swift" title="Kim Swift">Kim Swift</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Valve_Corporation" title="Book:Valve Corporation">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Valve_Corporation" title="Category:Valve Corporation">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q838831#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q838831#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q838831#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/BNE_(identifier)" class="mw-redirect" title="BNE (identifier)">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1124505">XX1124505</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13488612h">cb13488612h</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13488612h">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000066372668">0000 0000 6637 2668</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n84073078">n84073078</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NTA_(identifier)" class="mw-redirect" title="NTA (identifier)">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p372668402">372668402</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SUDOC_(identifier)" class="mw-redirect" title="SUDOC (identifier)">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/035769351">035769351</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/70327685">70327685</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n84073078">lccn-n84073078</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20210220203646
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.665 seconds
+Real time usage: 1.063 seconds
+Preprocessor visited node count: 2753/1000000
+Post‐expand include size: 114395/2097152 bytes
+Template argument size: 9355/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48384/5000000 bytes
+Lua time usage: 0.340/10.000 seconds
+Lua memory usage: 6988843/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  946.353      1 -total
+ 21.07%  199.398      1 Template:Infobox_person
+ 19.52%  184.739     11 Template:Cite_web
+ 16.38%  155.012      3 Template:Ambox
+ 15.80%  149.544      1 Template:Infobox
+ 13.83%  130.898      1 Template:Multiple_issues
+ 11.59%  109.685      1 Template:Short_description
+ 10.46%   99.012      3 Template:Citation_needed
+  9.79%   92.680      5 Template:Br_separated_entries
+  8.75%   82.770      6 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:274260-0!canonical and timestamp 20210220203645 and revision id 1002166617. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Michael_Abrash&amp;oldid=1002166617">https://en.wikipedia.org/w/index.php?title=Michael_Abrash&amp;oldid=1002166617</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Microsoft_employees" title="Category:Microsoft employees">Microsoft employees</a></li><li><a href="/wiki/Category:Valve_Corporation_people" title="Category:Valve Corporation people">Valve Corporation people</a></li><li><a href="/wiki/Category:American_video_game_programmers" title="Category:American video game programmers">American video game programmers</a></li><li><a href="/wiki/Category:Id_Software_people" title="Category:Id Software people">Id Software people</a></li><li><a href="/wiki/Category:1957_births" title="Category:1957 births">1957 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_May_2020" title="Category:Articles with a promotional tone from May 2020">Articles with a promotional tone from May 2020</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_May_2020" title="Category:Wikipedia articles with style issues from May 2020">Wikipedia articles with style issues from May 2020</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2015" title="Category:Articles with unsourced statements from May 2015">Articles with unsourced statements from May 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Michael+Abrash" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Michael+Abrash" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Michael_Abrash" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Michael_Abrash" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Michael_Abrash">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Michael_Abrash&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Michael_Abrash&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Michael_Abrash" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Michael_Abrash" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Michael_Abrash&amp;oldid=1002166617" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Michael_Abrash&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Michael_Abrash&amp;id=1002166617&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q838831" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Michael_Abrash&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Michael_Abrash&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Michael_Abrash" title="Michael Abrash – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Michael_Abrash" title="Michael Abrash – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%B4_%EC%95%A0%EB%B8%8C%EB%9D%BC%EC%8B%9C" title="마이클 애브라시 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Michael_Abrash" title="Michael Abrash – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D1%88,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB" title="Абраш, Майкл – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E4%BA%9A%E4%BC%AF%E6%8B%89%E4%BB%80" title="迈克尔·亚伯拉什 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q838831#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 23 January 2021, at 04:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Michael_Abrash&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.665","walltime":"1.063","ppvisitednodes":{"value":2753,"limit":1000000},"postexpandincludesize":{"value":114395,"limit":2097152},"templateargumentsize":{"value":9355,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48384,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  946.353      1 -total"," 21.07%  199.398      1 Template:Infobox_person"," 19.52%  184.739     11 Template:Cite_web"," 16.38%  155.012      3 Template:Ambox"," 15.80%  149.544      1 Template:Infobox"," 13.83%  130.898      1 Template:Multiple_issues"," 11.59%  109.685      1 Template:Short_description"," 10.46%   99.012      3 Template:Citation_needed","  9.79%   92.680      5 Template:Br_separated_entries","  8.75%   82.770      6 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.340","limit":"10.000"},"limitreport-memusage":{"value":6988843,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20210220203646","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Michael Abrash","url":"https:\/\/en.wikipedia.org\/wiki\/Michael_Abrash","sameAs":"http:\/\/www.wikidata.org\/entity\/Q838831","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q838831","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-07-21T08:45:33Z","dateModified":"2021-01-23T04:41:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b0\/Michael_Abrash_at_Facebook%27s_F8_2015.jpg","headline":"game programmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":228,"wgHostname":"mw1368"});});</script>
+</body></html>

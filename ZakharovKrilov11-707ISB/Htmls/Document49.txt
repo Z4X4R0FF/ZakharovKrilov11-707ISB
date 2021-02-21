@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Alan Cooper - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDEIphS9SO1lioAVZML0-QAAAAc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Alan_Cooper","wgTitle":"Alan Cooper","wgCurRevisionId":1000558584,"wgRevisionId":1000558584,"wgArticleId":537597,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description matches Wikidata","Articles with hCards","Articles with specifically marked weasel-worded phrases from July 2017","All articles with specifically marked weasel-worded phrases","Wikipedia articles with BIBSYS identifiers",
+"Wikipedia articles with BNF identifiers","Wikipedia articles with CANTIC identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","American computer programmers","Software engineers","Human–computer interaction researchers","Living people","1952 births"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alan_Cooper","wgRelevantArticleId":537597,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1194856"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges"
+:"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/AlanCooper.jpg/1200px-AlanCooper.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Alan_Cooper"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alan_Cooper&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alan_Cooper&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alan_Cooper"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Alan_Cooper rootpage-Alan_Cooper skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Alan Cooper</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American computer programmer</div>
+<div role="note" class="hatnote navigation-not-searchable">This article is about the American software designer. For other uses, see <a href="/wiki/Alan_Cooper_(disambiguation)" class="mw-disambig" title="Alan Cooper (disambiguation)">Alan Cooper (disambiguation)</a>.</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Alan Cooper</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:AlanCooper.jpg" class="image"><img alt="AlanCooper.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/AlanCooper.jpg/220px-AlanCooper.jpg" decoding="async" width="220" height="277" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/AlanCooper.jpg/330px-AlanCooper.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/AlanCooper.jpg/440px-AlanCooper.jpg 2x" data-file-width="1500" data-file-height="1886" /></a><div>Cooper in September 2010</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1952-06-03</span>) </span>June 3, 1952<span class="noprint ForceAgeToShow"> (age&#160;68)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/San_Francisco,_California" class="mw-redirect" title="San Francisco, California">San Francisco, California</a>, USA</div></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Visual_Basic" title="Visual Basic">Visual Basic</a>, <a href="/wiki/User_experience" title="User experience">user experience</a>, <a href="/wiki/Interaction_design" title="Interaction design">interaction design</a>, <a href="/wiki/Persona_(marketing)" class="mw-redirect" title="Persona (marketing)">personas</a>, Goal-Directed design, <i>About Face</i>, <i>The Inmates Are Running The Asylum</i>, <a href="/wiki/VBX" class="mw-redirect" title="VBX">VBX</a></td></tr></tbody></table>
+<p><b>Alan Cooper</b> (born June 3, 1952) is an American <a href="/wiki/Software_designer" class="mw-redirect" title="Software designer">software designer</a> and <a href="/wiki/Software_programmer" class="mw-redirect" title="Software programmer">programmer</a>. Widely recognized as the “Father of <a href="/wiki/Visual_Basic" title="Visual Basic">Visual Basic</a>",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Cooper is also known for his books <i>About Face: The Essentials of Interaction Design</i> and <i>The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity</i>. As founder of Cooper, a leading interaction design consultancy, he created the Goal-Directed design methodology and pioneered the use of <a href="/wiki/Persona_(marketing)" class="mw-redirect" title="Persona (marketing)">personas</a> as practical <a href="/wiki/Interaction_design" title="Interaction design">interaction design</a> tools to create high-tech products. On April 28, 2017, Alan was inducted into the <a href="/wiki/Computer_History_Museum#Fellows" title="Computer History Museum">Computer History Museum's</a> Hall of Fellows "for his invention of the visual development environment in Visual BASIC, and for his pioneering work in establishing the field of interaction design and its fundamental tools."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Visual_Basic"><span class="tocnumber">1.2</span> <span class="toctext">Visual Basic</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Interaction_design_and_user_experience"><span class="tocnumber">1.3</span> <span class="toctext">Interaction design and user experience</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Cooper"><span class="tocnumber">1.4</span> <span class="toctext"><i>Cooper</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">2</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alan Cooper grew up in <a href="/wiki/Marin_county" class="mw-redirect" title="Marin county">Marin County</a>, <a href="/wiki/California" title="California">California</a>, United States where he attended the <a href="/wiki/College_of_Marin" title="College of Marin">College of Marin</a>, studying <a href="/wiki/Architecture" title="Architecture">architecture</a>. He learned programming and took on contract programming jobs to pay for college.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In 1975, soon after he left college and as the first <a href="/wiki/Microcomputers" class="mw-redirect" title="Microcomputers">microcomputers</a> became available, Alan Cooper founded his first company, Structured Systems Group (SSG), in <a href="/wiki/Oakland,_California" title="Oakland, California">Oakland, California</a>, which became one of the first microcomputer software companies.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> SSG's software accounting product, General Ledger, was sold through ads in popular magazines such as <i><a href="/wiki/Byte_(magazine)" title="Byte (magazine)">Byte</a></i> and <i>Interface Age</i>. This software was, according to the historical account in Fire in the Valley (by <a href="/wiki/Paul_Freiberger" class="mw-redirect" title="Paul Freiberger">Paul Freiberger</a> and <a href="/wiki/Michael_Swaine_(technical_author)" class="mw-redirect" title="Michael Swaine (technical author)">Michael Swaine</a>), “probably the first serious business software for microcomputers.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>”  It was both the start of Cooper's career as a software author and the beginning of the microcomputer software business. Ultimately, Cooper developed a dozen original products at Structured Systems Group<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> before he sold his interest in the company in 1980.
+</p><p>Early on, Cooper worked with <a href="/wiki/Gordon_Eubanks" title="Gordon Eubanks">Gordon Eubanks</a> to develop, debug, document, and publish his business programming language, <a href="/wiki/CBASIC" title="CBASIC">CBASIC</a>, an early competitor to <a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a>’ and <a href="/wiki/Paul_Allen" title="Paul Allen">Paul Allen</a>’s Microsoft BASIC.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  Eubanks wrote CBASIC’s precursor, <a href="/wiki/BASIC-E" class="mw-redirect" title="BASIC-E">BASIC-E</a> as a student project while at the Naval Postgraduate School in Monterey, California with professor <a href="/wiki/Gary_Kildall" title="Gary Kildall">Gary Kildall</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> When Eubanks left the Navy, he joined Kildall’s successful operating system company, <a href="/wiki/Digital_Research" title="Digital Research">Digital Research, Inc.</a>, in Monterey. Soon thereafter, Eubanks and Kildall invited Cooper to join them at Digital Research as one of four founders of their research and development department.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> After two-years at DRI, Cooper departed to develop desktop application software by himself.
+</p><p>During the 1980s, Alan Cooper authored several business applications including Microphone II for Windows and an early, critical-path project management program called <a href="/w/index.php?title=SuperProject&amp;action=edit&amp;redlink=1" class="new" title="SuperProject (page does not exist)">SuperProject</a>. Cooper sold SuperProject to <a href="/wiki/Computer_Associates" class="mw-redirect" title="Computer Associates">Computer Associates</a> in 1984, where it achieved success in the business-to-business marketplace.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Visual_Basic">Visual Basic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=3" title="Edit section: Visual Basic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1988, Alan Cooper created a visual programming language (code-named “Ruby”) that allowed Windows users to build “Finder”-like shells. He called it “a shell construction set."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>  After he demonstrated Ruby to <a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a>, <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> purchased it. At the time, Gates commented that the innovation would have a “profound effect”<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> on their entire product line. Microsoft initially decided not to release the product as a shell for users, but rather to transform it into a professional development tool for their <a href="/wiki/QuickBASIC" title="QuickBASIC">QuickBASIC</a> programming language called <a href="/wiki/Visual_Basic" title="Visual Basic">Visual Basic</a>, which was widely used for business application development for <a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a> computers.
+</p><p>Cooper's dynamically installable control facility, which became famous as the “<a href="/wiki/VBX" class="mw-redirect" title="VBX">VBX</a>” interface, was a well-known component of "Ruby". This innovation allowed any 3rd party developer to write a widget (control) as a DLL, put it in the Visual Basic directory, and Visual Basic would find it, communicate with it, and present it to the user as a seamless part of the program. The widget would appear in the tool palette and appropriate menus, and users could incorporate it into their Visual Basic applications. The invention of the “VBX” interface created an entire new marketplace for vendors of these “dynamically installable controls.” As a result of Cooper's work, many new software companies were able to deliver Windows software to market in the 1990s.
+</p><p>The first book ever written about Visual Basic, <i>The Waite Group’s Visual Basic How-To</i> by <a href="/wiki/Mitchell_Waite" title="Mitchell Waite">Mitchell Waite</a>, is dedicated to Alan Cooper. In his dedication, the author calls Cooper the “Father of Visual Basic.” This nickname has often served as Cooper's one-line resume.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>In 1994, Bill Gates presented Cooper with the first <a href="/wiki/Windows_Pioneers" title="Windows Pioneers">Windows Pioneer Award</a> for his contributions to the software industry. During the presentation, Gates took particular note of Cooper's innovative work creating the VBX interface.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>In 1998, the SVForum honored Cooper with its Visionary Award.<sup id="cite_ref-1998_Visionary_Awards_recipients_17-0" class="reference"><a href="#cite_note-1998_Visionary_Awards_recipients-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Interaction_design_and_user_experience">Interaction design and user experience</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=4" title="Edit section: Interaction design and user experience">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Early in his career, Cooper began to critically consider the accepted approach to software construction. As he reports in his first book, he believed something important was missing—software authors were not asking, “How do users interact with this?” Cooper's early insights drove him to create a design process, focused not on what could be <i>coded</i> but on what could be <i>designed</i> to meet users’ needs.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>In 1992, in response to a rapidly consolidating software industry, Cooper began consulting with other companies, helping them design their applications to be more user friendly. Within a few years, Alan Cooper had begun to articulate some of his basic design principles. With his clients, he championed a design methodology that puts the users’ needs first. Cooper interviewed the users of his client's products and discovered the common threads that made these people happy. Born of this practice was the use of <i><a href="/wiki/Persona_(marketing)" class="mw-redirect" title="Persona (marketing)">personas</a></i> as design tools. Cooper preached his vision in two books.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> His ideas helped to drive the <a href="/wiki/User_experience" title="User experience">user experience</a> movement and define the craft that would come to be called “<a href="/wiki/Interaction_design" title="Interaction design">interaction design</a>.”
+</p><p>Cooper's best-selling first book, <i>About Face: The Essentials of User Interface Design,</i> was first published in 1995. In it, Cooper introduces a comprehensive set of practical design principles, essentially a taxonomy for software design. By the second edition, as the industry and profession evolved, “interface design” had become the more precise “interaction design.” The basic message of this book was directed at programmers: Do the right thing. Think about your users.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The book is now in its fourth edition, entitled<i> About Face: The Essentials of Interaction Design</i>, and is considered a foundation text for the professional interaction designer. Cooper introduced the ideas of software <a href="/wiki/Application_posture" title="Application posture">application posture</a> such as a "sovereign posture" where an application uses most of the space and waits for user input or a "transient posture" for software that does not run or engage with the user all the time. With websites he discusses "informational" and "transactional" postures in <i>About Face</i>.
+</p><p>In his 1998 book, <i>The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity</i>, Alan Cooper outlined his methodology, called Goal-Directed design, based on the concept that software should speed the user towards his or her ultimate goal rather than ensnare him or her in computer minutiae.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> In the book, Cooper introduced a new concept that he called <i>personas</i> as a practical interaction design tool. Based on a brief discussion in the book, personas rapidly gained popularity in the software industry<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> due to their unusual power and effectiveness. Today, the concepts of interaction design strategy and the use of personas have been broadly adopted across the industry. Cooper directs the message of his second book to the businessperson: know your users’ goals and how to satisfy them. You need interaction design to do the thing right. Cooper advocates for integrating design into business practice in order to meet customer needs and to build better products faster by doing it right the first time.
+</p><p>Alan Cooper's current focus is on how to effectively integrate the advances of interaction design with the effectiveness of <a href="/wiki/Agile_software_development" title="Agile software development">agile software development</a> methods. Cooper regularly speaks and blogs about this on his company's website.
+</p>
+<h3><span class="mw-headline" id="Cooper"><i>Cooper</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=5" title="Edit section: Cooper">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cooper is a <a href="/wiki/User_experience_design" title="User experience design">user experience design</a> and strategy consulting firm headquartered in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> with an office in New York. Cooper is credited<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (July 2017)">by whom?</span></a></i>&#93;</sup> with inventing several widely used design concepts, including goal-directed design, personas, and pair design. It was founded by Sue Cooper and Alan Cooper in 1992 in <a href="/wiki/Menlo_Park,_CA" class="mw-redirect" title="Menlo Park, CA">Menlo Park, CA</a>, under the name 'Cooper Software,' then changing the name to 'Cooper Interaction Design' in 1997. Cooper was the first consulting firm dedicated solely to interaction design<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (July 2017)">according to whom?</span></a></i>&#93;</sup>. Its original clients were mainly Silicon Valley software and computer hardware companies.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>The company uses a human-centered methodology called “goal-directed design” that emphasizes the importance of understanding the user's desired end-state and their motivations for getting there.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>In 2002, Cooper began offering training classes to the public including topic as interaction design, service design, visual design, and design leadership.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+Cooper has served as the President of Cooper (formerly Cooper Interaction Design), a user experience and interaction design consultancy in <a href="/wiki/San_Francisco,_California" class="mw-redirect" title="San Francisco, California">San Francisco, California</a> since its founding in 1992. Cooper helps their customers with interaction design challenges and offers training courses in software design and development topics, including their Goal-Directed design (under the CooperU brand).
+</p><p>In 2017, Cooper became part of Designit, a strategic design arm of Wipro Digital. Cooper Professional Education continued to exist as a teaching and learning division of Designit until it closed its doors to business on May 29, 2020.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>About Face: The Essentials of User Interface Design</i> (<style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56884-322-4" title="Special:BookSources/1-56884-322-4">1-56884-322-4</a>), 1995</li>
+<li><i>The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity</i> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-672-31649-8" title="Special:BookSources/0-672-31649-8">0-672-31649-8</a>), 1998</li>
+<li><i>About Face 2.0: The Essentials of Interaction Design</i> (with Robert Reimann) (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7645-2641-3" title="Special:BookSources/0-7645-2641-3">0-7645-2641-3</a>), 2003</li>
+<li><i>About Face 3: The Essentials of Interaction Design</i> (with Robert Reimann and David Cronin) (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-4700-8411-1" title="Special:BookSources/0-4700-8411-1">0-4700-8411-1</a>), 2007</li>
+<li><i>About Face: The Essentials of Interaction Design, 4th Edition</i> (with Robert Reimann, David Cronin, and Christopher Noessel) (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1118766576" title="Special:BookSources/978-1118766576">978-1118766576</a>), 2014</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Application_posture" title="Application posture">Application posture</a></li>
+<li><a href="/wiki/Design_methods" title="Design methods">Design methods</a></li>
+<li><a href="/wiki/Design_thinking" title="Design thinking">Design thinking</a></li>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/User_centered_design" class="mw-redirect" title="User centered design">User centered design</a></li>
+<li><a href="/wiki/User_experience_design" title="User experience design">User experience design</a></li>
+<li><a href="/wiki/Windows_Pioneers" title="Windows Pioneers">Windows Pioneers</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Waite, Mitchell (1992). The Waite Group's Visual Basic How-To. Waite Group Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-878739-09-3" title="Special:BookSources/1-878739-09-3">1-878739-09-3</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-878739-09-4" title="Special:BookSources/978-1-878739-09-4">978-1-878739-09-4</a>, pp. dedication page</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/atchm/2017-chm-fellow-alan-cooper-father-of-visual-basic/">"2017 CHM Fellow Alan Cooper: Father of Visual Basic - Computer History Museum"</a>. <i>www.computerhistory.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.computerhistory.org&amp;rft.atitle=2017+CHM+Fellow+Alan+Cooper%3A+Father+of+Visual+Basic+-+Computer+History+Museum&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Fatchm%2F2017-chm-fellow-alan-cooper-father-of-visual-basic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/alan-cooper/">"Alan Cooper - Computer History Museum"</a>. <i>www.computerhistory.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.computerhistory.org&amp;rft.atitle=Alan+Cooper+-+Computer+History+Museum&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Falan-cooper%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFComputer_History_Museum2017" class="citation web cs1">Computer History Museum (17 May 2017). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=C10Pep7Rfa0">"2017 Fellow Awards Highlights"</a> &#8211; via YouTube.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2017+Fellow+Awards+Highlights&amp;rft.date=2017-05-17&amp;rft.au=Computer+History+Museum&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC10Pep7Rfa0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Lohr, Steve (2001) Go To: The Story of the Math Majors, Bridge Players, Engineers, Chess Wizards, Maverick Scientists and Iconoclasts--The Programmers Who Created the Software Revolution. Basic Books. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-465-04226-0" title="Special:BookSources/0-465-04226-0">0-465-04226-0</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-465-04226-5" title="Special:BookSources/978-0-465-04226-5">978-0-465-04226-5</a>, pp.94</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Paul_Freiberger" class="mw-redirect" title="Paul Freiberger">Freiberger, Paul</a> and <a href="/wiki/Michael_Swaine_(technical_author)" class="mw-redirect" title="Michael Swaine (technical author)">Swaine, Michael</a> (1984). Fire in the Valley: The Making of the Personal Computer. McGraw-Hill. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-135892-7" title="Special:BookSources/0-07-135892-7">0-07-135892-7</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-135892-7" title="Special:BookSources/978-0-07-135892-7">978-0-07-135892-7</a> pp. 184</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Freiberger and Swaine, pp.381</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation encyclopaedia cs1"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/725891/Structured-Systems-Group">"Structured Systems Group - American company"</a>. <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Structured+Systems+Group+-+American+company&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F725891%2FStructured-Systems-Group&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Freiberger and Swaine, pp. 183</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Dr. Dobb's Journal 1997</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Freiberger and Swaine, pp.384</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Cooper, Alan (1998 and 2004). The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams - Pearson Education. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-672-32614-0" title="Special:BookSources/0-672-32614-0">0-672-32614-0</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-672-32614-1" title="Special:BookSources/978-0-672-32614-1">978-0-672-32614-1</a>, pp. inside dust jacket</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cooper.com/alan/father_of_vb.html">"The Father of Visual Basic"</a>. <i>www.cooper.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cooper.com&amp;rft.atitle=The+Father+of+Visual+Basic&amp;rft_id=http%3A%2F%2Fwww.cooper.com%2Falan%2Ffather_of_vb.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Lohr, pp.95</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Waite, Mitchell (1992)</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAlan_Cooper2010" class="citation web cs1">Alan Cooper (23 September 2010). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=BOKtFr_YOxk">"Alan Cooper Receiving the Windows Pioneer Award 1994"</a> &#8211; via YouTube.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alan+Cooper+Receiving+the+Windows+Pioneer+Award+1994&amp;rft.date=2010-09-23&amp;rft.au=Alan+Cooper&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBOKtFr_YOxk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-1998_Visionary_Awards_recipients-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-1998_Visionary_Awards_recipients_17-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.svforum.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=521">1998 SVForum Visionary Awards celebration</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120325223231/http://www.svforum.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=521">Archived</a> 2012-03-25 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, 1998 SVForum Visionary Awards celebration.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Cooper, Alan (1995). About Face: The Essentials of User Interface Design. John Wiley &amp; Sons. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56884-322-4" title="Special:BookSources/1-56884-322-4">1-56884-322-4</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-56884-322-3" title="Special:BookSources/978-1-56884-322-3">978-1-56884-322-3</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Cooper (1998 and 2004) and Cooper (1995)</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Cooper, Alan (1995)</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Cooper, Alan (1998)</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Pruitt, John and Adlin, Tamara (2006), Morgan Kaufmann. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-566251-3" title="Special:BookSources/0-12-566251-3">0-12-566251-3</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-566251-2" title="Special:BookSources/978-0-12-566251-2">978-0-12-566251-2</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fastcodesign.com/3051871/a-ux-legend-on-the-much-rumored-death-of-the-design-firm">"A UX Legend On The Much-Rumored Death Of The Design Firm"</a>. <i>Co.Design</i>. 7 October 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Co.Design&amp;rft.atitle=A+UX+Legend+On+The+Much-Rumored+Death+Of+The+Design+Firm&amp;rft.date=2015-10-07&amp;rft_id=https%3A%2F%2Fwww.fastcodesign.com%2F3051871%2Fa-ux-legend-on-the-much-rumored-death-of-the-design-firm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://archive.visualstudiomagazine.com/channels/web/builder/archives/1998_08/feature/acside1.asp">"Personas in Action: Creating Sony's In-Flight Entertainment System"</a>. <i>Visual Studio Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Visual+Studio+Magazine&amp;rft.atitle=Personas+in+Action%3A+Creating+Sony%27s+In-Flight+Entertainment+System&amp;rft_id=http%3A%2F%2Farchive.visualstudiomagazine.com%2Fchannels%2Fweb%2Fbuilder%2Farchives%2F1998_08%2Ffeature%2Facside1.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://web.cs.wpi.edu/~dcb/courses/CS3041/Myth-of-Metaphor.pdf">"The Myth of Metaphor"</a> <span class="cs1-format">(PDF)</span>. <i>Worcester Polytechnic Institute</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Worcester+Polytechnic+Institute&amp;rft.atitle=The+Myth+of+Metaphor&amp;rft_id=http%3A%2F%2Fweb.cs.wpi.edu%2F~dcb%2Fcourses%2FCS3041%2FMyth-of-Metaphor.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSchoen2014" class="citation web cs1">Schoen, Ian (10 May 2014). <a rel="nofollow" class="external text" href="https://medium.com/@icschoen/coopers-interaction-design-challenge-26e4e79556a5">"Cooper's Interaction Design Challenge"</a>. <i>Medium.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Medium.com&amp;rft.atitle=Cooper%27s+Interaction+Design+Challenge&amp;rft.date=2014-05-10&amp;rft.aulast=Schoen&amp;rft.aufirst=Ian&amp;rft_id=https%3A%2F%2Fmedium.com%2F%40icschoen%2Fcoopers-interaction-design-challenge-26e4e79556a5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGabriel-Petit" class="citation web cs1">Gabriel-Petit, Pabini. <a rel="nofollow" class="external text" href="http://www.uxmatters.com/mt/archives/2015/09/cooper-and-cooper-u-part-1.php">"Cooper and Cooper U, Part 1"</a>. <i>UXmatters</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UXmatters&amp;rft.atitle=Cooper+and+Cooper+U%2C+Part+1&amp;rft.aulast=Gabriel-Petit&amp;rft.aufirst=Pabini&amp;rft_id=http%3A%2F%2Fwww.uxmatters.com%2Fmt%2Farchives%2F2015%2F09%2Fcooper-and-cooper-u-part-1.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAamoth" class="citation web cs1">Aamoth, Doug. <a rel="nofollow" class="external text" href="https://techcrunch.com/2008/10/28/dr-martin-cooper-the-father-of-the-mobile-phone-weighs-in-on-the-state-of-the-wireless-industry/">"Dr. Martin Cooper: The father of the mobile phone weighs in on the state of the wireless industry"</a>. <i>TechCrunch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Dr.+Martin+Cooper%3A+The+father+of+the+mobile+phone+weighs+in+on+the+state+of+the+wireless+industry&amp;rft.aulast=Aamoth&amp;rft.aufirst=Doug&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2008%2F10%2F28%2Fdr-martin-cooper-the-father-of-the-mobile-phone-weighs-in-on-the-state-of-the-wireless-industry%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cooper.com/journal/2020/05/a-farewell-cooper-professional-education-closes-its-doors/?mc_cid=debdfd2c9c&amp;mc_eid=e586df2d2b">https://www.cooper.com/journal/2020/05/a-farewell-cooper-professional-education-closes-its-doors/?mc_cid=debdfd2c9c&amp;mc_eid=e586df2d2b</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cooper&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cooper.com/people/alan_cooper">Profile at Cooper.com</a></li>
+<li>Article, <a rel="nofollow" class="external text" href="https://www.techinasia.com/talk/alexa-kill-me-now-thought-conversational-ui">Alexa, please kill me now: My thoughts on conversational UI</a></li>
+<li>Agile 2008 interview, <a rel="nofollow" class="external text" href="http://www.infoq.com/interviews/Interaction-Design-Alan-Cooper">“Similarities Between Interaction Designers and Agile Programmers”</a></li>
+<li>Interview, UX Podcast, <a rel="nofollow" class="external text" href="https://medium.com/@uxpodcast/ranch-stories-with-alan-cooper-bb540f07a22d">Ranch Stories with Alan Cooper</a></li>
+<li>Interview, <a rel="nofollow" class="external text" href="http://www.dotnetrocks.com/default.aspx?showNum=16">Alan Cooper Interview on .NET Rocks</a></li>
+<li>Interview, <a rel="nofollow" class="external text" href="http://channel9.msdn.com/Showpost.aspx?postid=171658">Conversation with Alan Cooper</a> at Microsoft's <a href="/wiki/Channel_9_(discussion_forum)" class="mw-redirect" title="Channel 9 (discussion forum)">Channel 9</a></li>
+<li>Article, Alan Cooper on why he has been called "<a rel="nofollow" class="external text" href="http://www.cooper.com/alan/father_of_vb.html">the Father of Visual Basic</a>"</li>
+<li>Interview, <a rel="nofollow" class="external text" href="http://www.stockexchangeofvisions.org/speaker.php?id=29">SEOV: Visions of Alan Cooper (Video Interviews)</a></li>
+<li>Discussion, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081210082733/http://www.thebradbrooksshow.com/Guests/aug-31-2008-alan-cooper-the-inmates-are-running-the-asylum.html">Alan Cooper on what companies must do to improve software products - mp3 format</a></li>
+<li>Article, <a rel="nofollow" class="external text" href="http://www.dubberly.com/articles/alan-cooper-and-the-goal-directed-design-process.html">Alan Cooper and the Goal Directed Design Process</a>—Gain AIGA Journal of Design for the Network Economy, 2001</li>
+<li>Software Development Forum's <a rel="nofollow" class="external text" href="http://www.sdforum.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=521&amp;grandparentID=476&amp;parentID=512">Software Visionary Award</a></li>
+<li>Interview, <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=OJVoBdpjRX0">Triangulation 262: Alan Cooper</a></li>
+<li>Article, <a rel="nofollow" class="external text" href="http://articles.techrepublic.com.com/5100-10878_11-1044594.html">"Tech Republic" The Church of Usability</a>, Alan K'necht</li>
+<li>Article, <a rel="nofollow" class="external text" href="http://www.gaby.de/ekildall.htm">Dr. Dobbs Special Report 1997</a> (re. <a href="/wiki/Gary_Kildall" title="Gary Kildall">Gary Kildall</a>), <a href="/wiki/Michael_Swaine_(technical_author)" class="mw-redirect" title="Michael Swaine (technical author)">Michael Swaine</a></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060504011043/http://www.computergenome.com/blastfromthepast/CBasic.asp">"History of CBASIC"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.computergenome.com/blastfromthepast/CBasic.asp">the original</a> on 2006-05-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+of+CBASIC&amp;rft_id=http%3A%2F%2Fwww.computergenome.com%2Fblastfromthepast%2FCBasic.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cooper" class="Z3988"></span></li>
+<li>Encyclopedia entry, <a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/725891/Structured-Systems-Group">Structured Systems Group</a> (<a href="/wiki/Britannica.com" class="mw-redirect" title="Britannica.com">Britannica.com</a>)</li>
+<li>Interview, <a rel="nofollow" class="external text" href="https://archive.org/details/g4tv.com-video4080/">Why People Yell at Their Computer Monitors and Hate Microsoft's Clippy</a></li></ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+
+<tbody><tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/JoAnn_Hackos" title="JoAnn Hackos">JoAnn Hackos</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> SIGDOC Rigo Award</b><br />2004
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/w/index.php?title=Aihejmen%26act&amp;action=edit&amp;redlink=1" class="new" title="Aihejmen&amp;act (page does not exist)"> Граф Инь Александр</a></span>
+</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1194856#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1194856#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1194856#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/BIBSYS_(identifier)" class="mw-redirect" title="BIBSYS (identifier)">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90928667">90928667</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13486659p">cb13486659p</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13486659p">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/CANTIC_(identifier)" class="mw-redirect" title="CANTIC (identifier)">CANTIC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://cantic.bnc.cat/registres/CUCId/a10577488">a10577488</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/138534144">138534144</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000114803398">0000 0001 1480 3398</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n96105067">n96105067</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LNB_(identifier)" class="mw-redirect" title="LNB (identifier)">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000104241&amp;P_CON_LNG=ENG">000104241</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NDL_(identifier)" class="mw-redirect" title="NDL (identifier)">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00512644">00512644</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=vse2009551714&amp;CON_LNG=ENG">vse2009551714</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NLK_(identifier)" class="mw-redirect" title="NLK (identifier)">NLK</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nl.go.kr/authorities/resource/KAC200409010">KAC200409010</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NTA_(identifier)" class="mw-redirect" title="NTA (identifier)">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p188865942">188865942</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/PLWABN_(identifier)" class="mw-redirect" title="PLWABN (identifier)">PLWABN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=4&amp;WI=9810675853205606">9810675853205606</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC-ID_(identifier)" class="mw-redirect" title="SNAC-ID (identifier)">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://snaccooperative.org/ark:/99166/w62j8t38">w62j8t38</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SUDOC_(identifier)" class="mw-redirect" title="SUDOC (identifier)">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/080474144">080474144</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/115235706">115235706</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n96105067">lccn-n96105067</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20210215163648
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.841 seconds
+Real time usage: 1.736 seconds
+Preprocessor visited node count: 6845/1000000
+Post‐expand include size: 61017/2097152 bytes
+Template argument size: 11936/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 79281/5000000 bytes
+Lua time usage: 0.360/10.000 seconds
+Lua memory usage: 9257374/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1639.305      1 -total
+ 21.10%  345.905      1 Template:Reflist
+ 21.09%  345.655      1 Template:Infobox_person
+ 18.86%  309.255     17 Template:ISBN
+ 15.00%  245.931      1 Template:Infobox
+ 12.59%  206.329      1 Template:Authority_control
+ 10.04%  164.549      1 Template:Short_description
+  8.92%  146.158     12 Template:Cite_web
+  8.69%  142.535      1 Template:By_whom
+  8.58%  140.706      5 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:537597-0!canonical and timestamp 20210215163647 and revision id 1000558584. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alan_Cooper&amp;oldid=1000558584">https://en.wikipedia.org/w/index.php?title=Alan_Cooper&amp;oldid=1000558584</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Software_engineers" title="Category:Software engineers">Software engineers</a></li><li><a href="/wiki/Category:Human%E2%80%93computer_interaction_researchers" title="Category:Human–computer interaction researchers">Human–computer interaction researchers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1952_births" title="Category:1952 births">1952 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_July_2017" title="Category:Articles with specifically marked weasel-worded phrases from July 2017">Articles with specifically marked weasel-worded phrases from July 2017</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_CANTIC_identifiers" title="Category:Wikipedia articles with CANTIC identifiers">Wikipedia articles with CANTIC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LNB_identifiers" title="Category:Wikipedia articles with LNB identifiers">Wikipedia articles with LNB identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLK_identifiers" title="Category:Wikipedia articles with NLK identifiers">Wikipedia articles with NLK identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PLWABN_identifiers" title="Category:Wikipedia articles with PLWABN identifiers">Wikipedia articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alan+Cooper" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alan+Cooper" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Alan_Cooper" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Alan_Cooper" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Alan_Cooper">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Alan_Cooper&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Alan_Cooper&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alan_Cooper" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alan_Cooper" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alan_Cooper&amp;oldid=1000558584" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alan_Cooper&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alan_Cooper&amp;id=1000558584&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1194856" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Alan_Cooper&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alan_Cooper&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Alan_Cooper" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D9%86_%D9%83%D9%88%D8%A8%D8%B1_(%D9%83%D8%A7%D8%AA%D8%A8)" title="ألان كوبر (كاتب) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Alan_Cooper_(Softwareentwickler)" title="Alan Cooper (Softwareentwickler) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Alan_Cooper" title="Alan Cooper – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Alan_Cooper" title="Alan Cooper – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%A8%EB%9F%B0_%EC%BF%A0%ED%8D%BC" title="앨런 쿠퍼 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Alan_Cooper" title="Alan Cooper – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Alan_Cooper" title="Alan Cooper – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%91%E3%83%BC" title="アラン・クーパー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alan_Cooper" title="Alan Cooper – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B5%D1%80,_%D0%90%D0%BB%D0%B0%D0%BD" title="Купер, Алан – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD_%D0%9A%D1%83%D0%BF%D0%B5%D1%80" title="Алан Купер – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%B0%C2%B7%E5%BA%93%E7%8F%80" title="阿兰·库珀 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1194856#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 15 January 2021, at 16:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alan_Cooper&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.841","walltime":"1.736","ppvisitednodes":{"value":6845,"limit":1000000},"postexpandincludesize":{"value":61017,"limit":2097152},"templateargumentsize":{"value":11936,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":79281,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1639.305      1 -total"," 21.10%  345.905      1 Template:Reflist"," 21.09%  345.655      1 Template:Infobox_person"," 18.86%  309.255     17 Template:ISBN"," 15.00%  245.931      1 Template:Infobox"," 12.59%  206.329      1 Template:Authority_control"," 10.04%  164.549      1 Template:Short_description","  8.92%  146.158     12 Template:Cite_web","  8.69%  142.535      1 Template:By_whom","  8.58%  140.706      5 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.360","limit":"10.000"},"limitreport-memusage":{"value":9257374,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20210215163648","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alan Cooper","url":"https:\/\/en.wikipedia.org\/wiki\/Alan_Cooper","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1194856","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1194856","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-19T17:42:06Z","dateModified":"2021-01-15T16:53:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/44\/AlanCooper.jpg","headline":"American computer programmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1365"});});</script>
+</body></html>

@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Jeff Dean - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDIr241FELrYstP2w2QHmwAAAIo","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jeff_Dean","wgTitle":"Jeff Dean","wgCurRevisionId":1003854607,"wgRevisionId":1003854607,"wgArticleId":37114382,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox scientist with unknown parameters","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with ISNI identifiers",
+"Wikipedia articles with MGP identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Place of birth missing (living people)","Living people","American computer scientists","Artificial intelligence researchers","University of Washington College of Engineering alumni","University of Minnesota alumni","Fellows of the Association for Computing Machinery","Fellows of the American Academy of Arts and Sciences","Members of the United States National Academy of Engineering","Digital Equipment Corporation people","Google employees","Google Fellows","1968 births","Recipients of the ACM Prize in Computing","Open source advocates"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jeff_Dean","wgRelevantArticleId":37114382,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":
+"Jeff_Dean_(computer_scientist)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Jeff_Dean","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q6173703"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Jeff_Dean"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jeff_Dean&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jeff_Dean&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jeff_Dean"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Jeff_Dean rootpage-Jeff_Dean skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Jeff Dean</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Jeff_Dean_(computer_scientist)&amp;redirect=no" class="mw-redirect" title="Jeff Dean (computer scientist)">Jeff Dean (computer scientist)</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American computer scientist and software engineer</div>
+<div role="note" class="hatnote navigation-not-searchable">For the punk rock musician, see <a href="/wiki/Jeff_Dean_(musician)" title="Jeff Dean (musician)">Jeff Dean (musician)</a>.</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Jeff Dean</div></th></tr><tr><th scope="row">Born</th><td>1968 (age&#160;52&#8211;53)<br /><div style="display:inline" class="birthplace">Hawaii</div></td></tr><tr><th scope="row">Nationality</th><td class="category">American</td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a>, B.S. Computer Science and Engineering (1990)<br /><a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a>, Ph.D. Computer Science (1996)</td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/MapReduce" title="MapReduce">MapReduce</a>, <a href="/wiki/Bigtable" title="Bigtable">Bigtable</a>, <a href="/wiki/Spanner_(distributed_database_technology)" class="mw-redirect" title="Spanner (distributed database technology)">Spanner</a>, <a href="/wiki/TensorFlow" title="TensorFlow">TensorFlow</a></td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category">Computer Technology</td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/Google" title="Google">Google</a>; <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a></td></tr><tr><th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th><td><a rel="nofollow" class="external text" href="ftp://ftp.cs.washington.edu/pub/chambers/jdean-thesis.ps.gz"><i>Whole-program optimization of object-oriented languages</i></a>&#160;<span style="font-size:97%;">(1996)</span></td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th><td><a href="/wiki/Craig_Chambers" title="Craig Chambers">Craig Chambers</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Jeffrey Adgate "Jeff" Dean</b> (born July 1968) is an American <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> and <a href="/wiki/Software_engineer" title="Software engineer">software engineer</a>. He is currently the lead of <a href="/wiki/Google_AI" title="Google AI">Google AI</a>, Google's AI division.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Philanthropy"><span class="tocnumber">3</span> <span class="toctext">Philanthropy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Awards_and_honors"><span class="tocnumber">5</span> <span class="toctext">Awards and honors</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Books"><span class="tocnumber">6</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Major_publications"><span class="tocnumber">7</span> <span class="toctext">Major publications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dean received a B.S., summa cum laude, from the <a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a> in Computer Science &amp; Economics in 1990.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He received a Ph.D. in <a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a> from the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a>, working under <a href="/wiki/Craig_Chambers" title="Craig Chambers">Craig Chambers</a> on <a href="/wiki/Compiler" title="Compiler">compilers</a><sup id="cite_ref-:1_3-0" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup> and whole-program optimization techniques for <a href="/wiki/Object-oriented_programming_languages" class="mw-redirect" title="Object-oriented programming languages">object-oriented programming languages</a> in 1996.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He was elected to the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> in 2009, which recognized his work on "the science and engineering of large-scale <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computer systems</a>."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before joining <a href="/wiki/Google" title="Google">Google</a>, Dean worked at <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a>/<a href="/wiki/Compaq" title="Compaq">Compaq</a>'s Western Research Laboratory,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> where he worked on profiling tools, microprocessor architecture, and information retrieval.<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup> Much of his work was completed in close collaboration with <a href="/wiki/Sanjay_Ghemawat" title="Sanjay Ghemawat">Sanjay Ghemawat</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup>
+</p><p>Prior to graduate school, he worked at the <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a>'s Global Programme on <a href="/wiki/AIDS" class="mw-redirect" title="AIDS">AIDS</a>, developing software for <a href="/wiki/Statistical_model" title="Statistical model">statistical modeling</a> and forecasting of the <a href="/wiki/HIV" title="HIV">HIV</a>/<a href="/wiki/AIDS" class="mw-redirect" title="AIDS">AIDS</a> <a href="/wiki/Pandemic" title="Pandemic">pandemic</a>.<sup id="cite_ref-:0_8-1" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup>
+</p><p>Dean joined Google in mid-1999, and is currently the head of its <a href="/wiki/Artificial_Intelligence" class="mw-redirect" title="Artificial Intelligence">Artificial Intelligence</a> division. While at Google, he designed and implemented large portions of the company's advertising, <a href="/wiki/Web_crawler" title="Web crawler">crawling</a>, <a href="/wiki/Web_indexing" title="Web indexing">indexing</a> and query serving systems, along with various pieces of the distributed computing infrastructure that underlies most of Google's products.<sup id="cite_ref-:1_3-2" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup> At various times, he has also worked on improving search quality, <a href="/wiki/Statistical_machine_translation" title="Statistical machine translation">statistical machine translation</a>, and various internal software development tools and has had significant involvement in the engineering hiring process.
+</p><p>The projects Dean has worked on include:
+</p>
+<ul><li><a href="/wiki/Spanner_(distributed_database_technology)" class="mw-redirect" title="Spanner (distributed database technology)">Spanner</a>, a scalable, multi-version, globally distributed, and synchronously replicated database</li>
+<li>Some of the production system design and statistical machine translation system for <a href="/wiki/Google_Translate" title="Google Translate">Google Translate</a></li>
+<li><a href="/wiki/Bigtable" title="Bigtable">BigTable</a>, a large-scale semi-structured storage system<sup id="cite_ref-:1_3-3" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/MapReduce" title="MapReduce">MapReduce</a>, a system for large-scale data processing applications<sup id="cite_ref-:1_3-4" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/LevelDB" title="LevelDB">LevelDB</a>, an open-source on-disk key-value store</li>
+<li>DistBelief, a proprietary machine-learning system for deep neural networks that was eventually refactored into TensorFlow</li>
+<li><a href="/wiki/TensorFlow" title="TensorFlow">TensorFlow</a>, an open-source machine-learning software library<sup id="cite_ref-:1_3-5" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup></li></ul>
+<p>He was an early member of <a href="/wiki/Google_Brain" title="Google Brain">Google Brain</a>,<sup id="cite_ref-:1_3-6" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup>  a team that studies large-scale artificial neural networks, and he has headed Artificial Intelligence efforts since they were split from Google Search.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>  
+</p><p>Dean was the subject of controversy when ethics in AI researcher <a href="/wiki/Timnit_Gebru" title="Timnit Gebru">Timnit Gebru</a> challenged Google's research review process, ultimately leading to her departure from the company. Dean responded by publishing a letter on Google's approach to the research process<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> that was the subject of further criticism and controversy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Philanthropy">Philanthropy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=3" title="Edit section: Philanthropy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dean and his wife, Heidi Hopper, started the Hopper-Dean Foundation and began making philanthropic grants in 2011. In 2016, the foundation gave $1 million each to <a href="/wiki/UC_Berkeley" class="mw-redirect" title="UC Berkeley">UC Berkeley</a> and <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> to support programs that promote diversity in science, technology, engineering, and mathematics (<a href="/wiki/Science,_technology,_engineering,_and_mathematics" title="Science, technology, engineering, and mathematics">STEM</a>).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=4" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dean is married and has two daughters.<sup id="cite_ref-:1_3-7" class="reference"><a href="#cite_note-:1-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=5" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Elected to the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> (2009)</li>
+<li>Fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (2009)</li>
+<li>ACM-Infosys Foundation Award<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> (2012)</li>
+<li>ACM <a href="/wiki/SIGOPS_Mark_Weiser_Award" title="SIGOPS Mark Weiser Award">SIGOPS Mark Weiser Award</a> (2012)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li>Fellow of the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a> (2016)<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></li></ul>
+<p>He is widely credited within the Google corporation and in the general field of <a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a> for his numerous contributions to the field.
+</p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=6" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dean was interviewed for the 2018 book <i>Architects of Intelligence: The Truth About AI from the People Building it</i> by the American futurist <a href="/wiki/Martin_Ford_(author)" title="Martin Ford (author)">Martin Ford</a>.<sup id="cite_ref-RR1_19-0" class="reference"><a href="#cite_note-RR1-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Major_publications">Major publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=7" title="Edit section: Major publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Jeffrey Dean and Sanjay Ghemawat. 2004. <a rel="nofollow" class="external text" href="http://research.google.com/archive/mapreduce.html">MapReduce: Simplified Data Processing on Large Clusters</a>. OSDI'04: Sixth Symposium on Operating System Design and Implementation (December 2004)</li>
+<li>Fay Chang, Jeff Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach, Mike Burrows, Tushar Chandra, Andrew Fikes, and Robert E. Gruber. 2006. <a rel="nofollow" class="external text" href="https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf">Bigtable: A Distributed Storage System for Structured Data</a>. OSDI'06: 7th Symposium on Operating System Design and Implementation (October 2006)</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Sanjay_Ghemawat" title="Sanjay Ghemawat">Sanjay Ghemawat</a></li>
+<li><a href="/wiki/MapReduce" title="MapReduce">MapReduce</a></li>
+<li><a href="/wiki/TensorFlow" title="TensorFlow">TensorFlow</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
+<ul>
+<li><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span><span><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The Verge report on Dean as new Google AI Chief <a rel="nofollow" class="external free" href="https://www.theverge.com/2018/4/3/17191944/google-ai-head-jeff-dean-reshuffle-john-giannandrea">https://www.theverge.com/2018/4/3/17191944/google-ai-head-jeff-dean-reshuffle-john-giannandrea</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://research.google/people/jeff/">"Jeff Dean Google"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jeff+Dean+Google&amp;rft_id=https%3A%2F%2Fresearch.google%2Fpeople%2Fjeff%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:1_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:1_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-:1_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-:1_3-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge">"The Friendship That Made Google Huge"</a>. <i>The New Yorker</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+Yorker&amp;rft.atitle=The+Friendship+That+Made+Google+Huge&amp;rft_id=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2018%2F12%2F10%2Fthe-friendship-that-made-google-huge&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://talks.stanford.edu/jeff-dean-tensorflow-overview-and-future-directions/">"STANFORD TALKS; Jeff Dean: TensorFlow Overview and Future Directions"</a>. <i>Stanford University</i>. 21 January 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Stanford+University&amp;rft.atitle=STANFORD+TALKS%3B+Jeff+Dean%3A+TensorFlow+Overview+and+Future+Directions&amp;rft.date=2016-01-21&amp;rft_id=https%3A%2F%2Ftalks.stanford.edu%2Fjeff-dean-tensorflow-overview-and-future-directions%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://news.cs.washington.edu/2009/02/05/jeff-dean-elected-to-national-academy-of-engineering/">"UW CSE News; Jeff Dean elected to National Academy of Engineering"</a>. <i>University of Washington</i>. 5 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=University+of+Washington&amp;rft.atitle=UW+CSE+News%3B+Jeff+Dean+elected+to+National+Academy+of+Engineering&amp;rft.date=2009-02-05&amp;rft_id=https%3A%2F%2Fnews.cs.washington.edu%2F2009%2F02%2F05%2Fjeff-dean-elected-to-national-academy-of-engineering%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://awards.acm.org/award_winners/dean_2879385.cfm">"Jeffrey A Dean - Award Winner"</a>. <i>Association for Computing Machinery</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Association+for+Computing+Machinery&amp;rft.atitle=Jeffrey+A+Dean+-+Award+Winner&amp;rft_id=http%3A%2F%2Fawards.acm.org%2Faward_winners%2Fdean_2879385.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMetz2008" class="citation news cs1">Metz, Cade (8 August 2008). <a rel="nofollow" class="external text" href="https://www.wired.com/2012/08/google-as-xerox-parc/">"If Xerox PARC Invented the PC, Google Invented the Internet | WIRED"</a>. <i>WIRED</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WIRED&amp;rft.atitle=If+Xerox+PARC+Invented+the+PC%2C+Google+Invented+the+Internet+%7C+WIRED&amp;rft.date=2008-08-08&amp;rft.aulast=Metz&amp;rft.aufirst=Cade&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2012%2F08%2Fgoogle-as-xerox-parc%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://speakerpedia.com/speakers/jeff-dean">"Jeff Dean - Speakerpedia, Discover &amp; Follow a World of Compelling Voices"</a>. <i>Speakerpedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Speakerpedia&amp;rft.atitle=Jeff+Dean+-+Speakerpedia%2C+Discover+%26+Follow+a+World+of+Compelling+Voices&amp;rft_id=https%3A%2F%2Fspeakerpedia.com%2Fspeakers%2Fjeff-dean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMetz2012" class="citation news cs1">Metz, Cade (2012-08-08). <a rel="nofollow" class="external text" href="https://www.wired.com/2012/08/google-as-xerox-parc/">"If Xerox PARC Invented the PC, Google Invented the Internet"</a>. <i>WIRED</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WIRED&amp;rft.atitle=If+Xerox+PARC+Invented+the+PC%2C+Google+Invented+the+Internet&amp;rft.date=2012-08-08&amp;rft.aulast=Metz&amp;rft.aufirst=Cade&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2012%2F08%2Fgoogle-as-xerox-parc%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFD&#39;Onfro2018" class="citation news cs1">D'Onfro, Jillian (2018-04-02). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2018/04/02/google-exec-john-giannandrea-steps-down-jeff-dean-takes-over-ai.html">"Google is splitting A.I. into its own business unit and shaking up its search leadership"</a>. <i>CNBC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-04-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNBC&amp;rft.atitle=Google+is+splitting+A.I.+into+its+own+business+unit+and+shaking+up+its+search+leadership&amp;rft.date=2018-04-02&amp;rft.aulast=D%27Onfro&amp;rft.aufirst=Jillian&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2018%2F04%2F02%2Fgoogle-exec-john-giannandrea-steps-down-jeff-dean-takes-over-ai.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDean2020" class="citation news cs1">Dean, Jeff (2020-12-03). <a rel="nofollow" class="external text" href="https://twitter.com/JeffDean/status/1334953632719011840">"About Google's approach to research publication"</a>. <i>Google</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Google&amp;rft.atitle=About+Google%27s+approach+to+research+publication&amp;rft.date=2020-12-03&amp;rft.aulast=Dean&amp;rft.aufirst=Jeff&amp;rft_id=https%3A%2F%2Ftwitter.com%2FJeffDean%2Fstatus%2F1334953632719011840&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGhaffray2020" class="citation news cs1">Ghaffray, Shirin (2020-12-04). <a rel="nofollow" class="external text" href="https://www.vox.com/recode/2020/12/4/22153786/google-timnit-gebru-ethical-ai-jeff-dean-controversy-fired">"The controversy behind a star Google AI researcher's departure"</a>. <i>Vox</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vox&amp;rft.atitle=The+controversy+behind+a+star+Google+AI+researcher%E2%80%99s+departure&amp;rft.date=2020-12-04&amp;rft.aulast=Ghaffray&amp;rft.aufirst=Shirin&amp;rft_id=https%3A%2F%2Fwww.vox.com%2Frecode%2F2020%2F12%2F4%2F22153786%2Fgoogle-timnit-gebru-ethical-ai-jeff-dean-controversy-fired&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://eecs.berkeley.edu/about/diversity/hopper-dean">"$1M Hopper-Dean Foundation Gift for Diversity in CS"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%241M+Hopper-Dean+Foundation+Gift+for+Diversity+in+CS&amp;rft_id=https%3A%2F%2Feecs.berkeley.edu%2Fabout%2Fdiversity%2Fhopper-dean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWilliams2016" class="citation news cs1">Williams, Tate (10 August 2016). <a rel="nofollow" class="external text" href="http://www.insidephilanthropy.com/home/2016/8/10/one-of-googles-top-programmers-has-made-stem-diversity-a-phi.html">"One of Google's Top Programmers Has Made STEM Diversity a Philanthropic Cause - Inside Philanthropy"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=One+of+Google%27s+Top+Programmers+Has+Made+STEM+Diversity+a+Philanthropic+Cause+-+Inside+Philanthropy&amp;rft.date=2016-08-10&amp;rft.aulast=Williams&amp;rft.aufirst=Tate&amp;rft_id=http%3A%2F%2Fwww.insidephilanthropy.com%2Fhome%2F2016%2F8%2F10%2Fone-of-googles-top-programmers-has-made-stem-diversity-a-phi.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://news.mit.edu/2016/gift-will-support-diversity-in-stem-education-0801">"$1 million gift to support diversity in STEM education"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%241+million+gift+to+support+diversity+in+STEM+education&amp;rft_id=http%3A%2F%2Fnews.mit.edu%2F2016%2Fgift-will-support-diversity-in-stem-education-0801&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://awards.acm.org/infosys/">ACM-Infosys Foundation Award</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.sigops.org/awards/mw/">"The Mark Weiser Award"</a>. ACM SIGOPS<span class="reference-accessdate">. Retrieved <span class="nowrap">5 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Mark+Weiser+Award&amp;rft.pub=ACM+SIGOPS&amp;rft_id=https%3A%2F%2Fwww.sigops.org%2Fawards%2Fmw%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://www.amacad.org/content/members/newFellows.aspx?s=c"><i>Newly Elected Members</i></a>, <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a>, April 2016<span class="reference-accessdate">, retrieved <span class="nowrap">2016-04-20</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Newly+Elected+Members&amp;rft.pub=American+Academy+of+Arts+and+Sciences&amp;rft.date=2016-04&amp;rft_id=https%3A%2F%2Fwww.amacad.org%2Fcontent%2Fmembers%2FnewFellows.aspx%3Fs%3Dc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJeff+Dean" class="Z3988"></span></span>
+</li>
+<li id="cite_note-RR1-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-RR1_19-0">^</a></b></span> <span class="reference-text">Ford, Marin (2018) <i>Architects of Intelligence: The Truth About AI from the People Building it</i>, Packt Publishing Ltd, ISDN 9781789131260</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jeff_Dean&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://ai.google/research/people/jeff">Jeff Dean's Google home and publication page</a></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6173703#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q6173703#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q6173703#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_DL_(identifier)" class="mw-redirect" title="ACM DL (identifier)">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/profile/81100248818">81100248818</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/d/JeffreyDean">d/JeffreyDean</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000063979720">0000 0000 6397 9720</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MGP_(identifier)" class="mw-redirect" title="MGP (identifier)">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=71883">71883</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0235868&amp;CON_LNG=ENG">xx0235868</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24163984">24163984</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/viaf-24163984">viaf-24163984</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1368
+Cached time: 20210220213852
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.533 seconds
+Real time usage: 0.835 seconds
+Preprocessor visited node count: 2253/1000000
+Post‐expand include size: 38740/2097152 bytes
+Template argument size: 2421/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 51228/5000000 bytes
+Lua time usage: 0.308/10.000 seconds
+Lua memory usage: 8104482/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  761.088      1 -total
+ 30.82%  234.588      1 Template:Infobox_scientist
+ 29.62%  225.404      1 Template:Reflist
+ 28.82%  219.348      1 Template:Infobox_person
+ 26.63%  202.662      2 Template:Infobox
+ 19.24%  146.439      1 Template:Short_description
+ 17.13%  130.367      6 Template:Cite_web
+ 12.95%   98.574      1 Template:Pagetype
+ 10.82%   82.314      5 Template:Br_separated_entries
+  9.94%   75.652      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37114382-0!canonical and timestamp 20210220213851 and revision id 1003854607. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jeff_Dean&amp;oldid=1003854607">https://en.wikipedia.org/w/index.php?title=Jeff_Dean&amp;oldid=1003854607</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:University_of_Washington_College_of_Engineering_alumni" title="Category:University of Washington College of Engineering alumni">University of Washington College of Engineering alumni</a></li><li><a href="/wiki/Category:University_of_Minnesota_alumni" title="Category:University of Minnesota alumni">University of Minnesota alumni</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences" title="Category:Fellows of the American Academy of Arts and Sciences">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Digital_Equipment_Corporation_people" title="Category:Digital Equipment Corporation people">Digital Equipment Corporation people</a></li><li><a href="/wiki/Category:Google_employees" title="Category:Google employees">Google employees</a></li><li><a href="/wiki/Category:Google_Fellows" title="Category:Google Fellows">Google Fellows</a></li><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/wiki/Category:Recipients_of_the_ACM_Prize_in_Computing" title="Category:Recipients of the ACM Prize in Computing">Recipients of the ACM Prize in Computing</a></li><li><a href="/wiki/Category:Open_source_advocates" title="Category:Open source advocates">Open source advocates</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_scientist_with_unknown_parameters" title="Category:Pages using infobox scientist with unknown parameters">Pages using infobox scientist with unknown parameters</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jeff+Dean" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jeff+Dean" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Jeff_Dean" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Jeff_Dean" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Jeff_Dean">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Jeff_Dean&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Jeff_Dean&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jeff_Dean" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jeff_Dean" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jeff_Dean&amp;oldid=1003854607" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jeff_Dean&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jeff_Dean&amp;id=1003854607&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6173703" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Jeff_Dean&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jeff_Dean&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D9%8A%D9%81_%D8%AF%D9%8A%D9%86" title="جيف دين – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Jeff_Dean_(Informatiker)" title="Jeff Dean (Informatiker) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Jeffrey_Dean" title="Jeffrey Dean – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82)" title="Дин, Джефф (программист) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%84%D1%84_%D0%94%D1%96%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%96%D1%81%D1%82)" title="Джефф Дін (програміст) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%82%91%E5%A4%AB%C2%B7%E8%BF%AA%E6%81%A9" title="傑夫·迪恩 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6173703#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 31 January 2021, at 00:49<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jeff_Dean&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.533","walltime":"0.835","ppvisitednodes":{"value":2253,"limit":1000000},"postexpandincludesize":{"value":38740,"limit":2097152},"templateargumentsize":{"value":2421,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51228,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  761.088      1 -total"," 30.82%  234.588      1 Template:Infobox_scientist"," 29.62%  225.404      1 Template:Reflist"," 28.82%  219.348      1 Template:Infobox_person"," 26.63%  202.662      2 Template:Infobox"," 19.24%  146.439      1 Template:Short_description"," 17.13%  130.367      6 Template:Cite_web"," 12.95%   98.574      1 Template:Pagetype"," 10.82%   82.314      5 Template:Br_separated_entries","  9.94%   75.652      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":8104482,"limit":52428800}},"cachereport":{"origin":"mw1368","timestamp":"20210220213852","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jeff Dean","url":"https:\/\/en.wikipedia.org\/wiki\/Jeff_Dean","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6173703","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6173703","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-09-25T06:42:46Z","dateModified":"2021-01-31T00:49:13Z","headline":"American computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1332"});});</script>
+</body></html>

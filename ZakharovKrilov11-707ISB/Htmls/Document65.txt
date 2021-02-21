@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Matthew Dillon - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIkpXcNDCZlN4aJ2wLxQAAAIg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Matthew_Dillon","wgTitle":"Matthew Dillon","wgCurRevisionId":1003217511,"wgRevisionId":1003217511,"wgArticleId":428519,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Russian-language sources (ru)","Articles with short description","Articles with short description added by PearBOT 5","Short description is different from Wikidata","Articles with hCards","1966 births","Living people","People from San Francisco","University of California, Berkeley alumni",
+"American computer programmers","Amiga people","BSD people","DragonFly BSD","FreeBSD people","Free software programmers","Kernel programmers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Matthew_Dillon","wgRelevantArticleId":428519,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Matt_Dillon_(computer_scientist)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Matthew_Dillon",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q93062"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e7/Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Matthew_Dillon"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Matthew_Dillon&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Matthew_Dillon&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Matthew_Dillon"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Matthew_Dillon rootpage-Matthew_Dillon skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Matthew Dillon</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Matt_Dillon_(computer_scientist)&amp;redirect=no" class="mw-redirect" title="Matt Dillon (computer scientist)">Matt Dillon (computer scientist)</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other people named Matt Dillon, see <a href="/wiki/Matt_Dillon_(disambiguation)" class="mw-disambig" title="Matt Dillon (disambiguation)">Matt Dillon (disambiguation)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">American software engineer</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Matthew Dillon</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Matthew_Dillon_(DragonFly_BSD_leader)_on_bicycle_with_bicycle_helmet--2008-08.jpeg" class="image"><img alt="Matthew Dillon (DragonFly BSD leader) on bicycle with bicycle helmet--2008-08.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg/220px-Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg" decoding="async" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg/330px-Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg/440px-Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg 2x" data-file-width="450" data-file-height="600" /></a><div>Matthew Dillon on bicycle with <a href="/wiki/Bicycle_helmet" title="Bicycle helmet">bicycle helmet</a>, August 2008</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1966-07-01</span>) </span>1 July 1966<span class="noprint ForceAgeToShow"> (age&#160;54)</span><sup id="cite_ref-calendar.freebsd_1-0" class="reference"><a href="#cite_note-calendar.freebsd-1">&#91;1&#93;</a></sup><br /><div style="display:inline" class="birthplace"><a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a><sup id="cite_ref-calendar.freebsd_1-1" class="reference"><a href="#cite_note-calendar.freebsd-1">&#91;1&#93;</a></sup></div></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td></tr><tr><th scope="row">Occupation</th><td class="role"><a href="/wiki/Software_engineer" title="Software engineer">Software engineer</a></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Amiga" title="Amiga">Amiga</a> DICE,<sup id="cite_ref-dice-mia_2-0" class="reference"><a href="#cite_note-dice-mia-2">&#91;2&#93;</a></sup><sup id="cite_ref-informit-2007_3-0" class="reference"><a href="#cite_note-informit-2007-3">&#91;3&#93;</a></sup> DME;<sup id="cite_ref-theregister-dme_4-0" class="reference"><a href="#cite_note-theregister-dme-4">&#91;4&#93;</a></sup> <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>, <a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a>, <a href="/wiki/HAMMER_(file_system)" title="HAMMER (file system)">HAMMER</a></td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://apollo.backplane.com/">apollo<wbr />.backplane<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Matthew Dillon</b> (born 1966) is an American <a href="/wiki/Software_engineer" title="Software engineer">software engineer</a> known for <a href="/wiki/Amiga" title="Amiga">Amiga</a> software,<sup id="cite_ref-informit-2007_3-1" class="reference"><a href="#cite_note-informit-2007-3">&#91;3&#93;</a></sup> contributions to <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> and for starting and leading the <a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a> project since 2003.<sup id="cite_ref-informit-2007_3-2" class="reference"><a href="#cite_note-informit-2007-3">&#91;3&#93;</a></sup><sup id="cite_ref-kerneltrap-2002_5-0" class="reference"><a href="#cite_note-kerneltrap-2002-5">&#91;5&#93;</a></sup><sup id="cite_ref-kerneltrap-2007_6-0" class="reference"><a href="#cite_note-kerneltrap-2007-6">&#91;6&#93;</a></sup><sup id="cite_ref-team_7-0" class="reference"><a href="#cite_note-team-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matthew_Dillon&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dillon studied <a href="/wiki/Electronic_engineering" title="Electronic engineering">electronic engineering</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> at the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>, where he first became involved with <a href="/wiki/BSD" class="mw-redirect" title="BSD">BSD</a> in 1985. He also became known for his <a href="/wiki/Amiga" title="Amiga">Amiga</a> programming,<sup id="cite_ref-informit-2007_3-3" class="reference"><a href="#cite_note-informit-2007-3">&#91;3&#93;</a></sup> his C compiler DICE<sup id="cite_ref-dice-mia_2-1" class="reference"><a href="#cite_note-dice-mia-2">&#91;2&#93;</a></sup> and his work on the <a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a>.<sup id="cite_ref-login04_8-0" class="reference"><a href="#cite_note-login04-8">&#91;8&#93;</a></sup> He founded and worked at <a href="/wiki/Verio" title="Verio">Best Internet</a> from 1994 until 1997, contributing to <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> in that time.<sup id="cite_ref-sage-1998_9-0" class="reference"><a href="#cite_note-sage-1998-9">&#91;9&#93;</a></sup> His "Diablo" internet news transit program was very popular with many ISPs.
+</p><p>In 1997, Dillon gained <a href="/wiki/Commit_(data_management)" title="Commit (data management)">commit</a> access to the FreeBSD code and heavily contributed to the <a href="/wiki/Virtual_memory" title="Virtual memory">virtual memory</a> subsystem,<sup id="cite_ref-onlamp-2004_10-0" class="reference"><a href="#cite_note-onlamp-2004-10">&#91;10&#93;</a></sup> amongst other contributions.
+</p><p>Concerned with problems he saw in the direction FreeBSD 5.x was headed in regards to <a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">concurrency</a>,<sup id="cite_ref-onlamp-2004_10-1" class="reference"><a href="#cite_note-onlamp-2004-10">&#91;10&#93;</a></sup> and coupled with the fact that Dillon's access to the FreeBSD source code repository was revoked due to a falling-out with other FreeBSD developers, he started the <a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a> project in 2003, implementing the <a href="/wiki/Symmetric_multiprocessing" title="Symmetric multiprocessing">SMP</a> model using <a href="/wiki/Light_Weight_Kernel_Threads" title="Light Weight Kernel Threads">light-weight kernel threads</a>.<sup id="cite_ref-informit-2007_3-4" class="reference"><a href="#cite_note-informit-2007-3">&#91;3&#93;</a></sup><sup id="cite_ref-go_11-0" class="reference"><a href="#cite_note-go-11">&#91;11&#93;</a></sup> The DragonFly project also led to the development of a new <a href="/wiki/Userspace" class="mw-redirect" title="Userspace">userspace</a> kernel <a href="/wiki/OS-level_virtualisation" class="mw-redirect" title="OS-level virtualisation">virtualisation</a> technique in 2006, called <a href="/wiki/Virtual_Kernel" class="mw-redirect" title="Virtual Kernel">Virtual Kernel</a>,<sup id="cite_ref-informit-2007_3-5" class="reference"><a href="#cite_note-informit-2007-3">&#91;3&#93;</a></sup><sup id="cite_ref-lwn-2010_12-0" class="reference"><a href="#cite_note-lwn-2010-12">&#91;12&#93;</a></sup> originally to ease the development and testing of subsequent kernel-level features;<sup id="cite_ref-Reed2007_13-0" class="reference"><a href="#cite_note-Reed2007-13">&#91;13&#93;</a></sup> a new <a href="/wiki/File_system" title="File system">file system</a>, called <a href="/wiki/HAMMER_(file_system)" title="HAMMER (file system)">HAMMER</a>, which he created using <a href="/wiki/B-tree" title="B-tree">B-trees</a>; HAMMER was declared production-ready with DragonFly 2.2 in 2009;<sup id="cite_ref-lwn-2010_12-1" class="reference"><a href="#cite_note-lwn-2010-12">&#91;12&#93;</a></sup> and, subsequently, <a href="/wiki/HAMMER2" title="HAMMER2">HAMMER2</a>, declared stable in 2018 with DragonFly 5.2.
+</p><p>Most recently, Dillon has gotten a number of headlines around <a href="/wiki/CPU" class="mw-redirect" title="CPU">CPU</a> <a href="/wiki/Errata" class="mw-redirect" title="Errata">errata</a>.  In 2007, this was after <a href="/wiki/Theo_de_Raadt" title="Theo de Raadt">Theo de Raadt</a> of <a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a> raised the alarm around the seriousness of some of the errata for <a href="/wiki/Intel_Core_2" title="Intel Core 2">Intel Core 2</a> family of CPUs.<sup id="cite_ref-lor-2007_14-0" class="reference"><a href="#cite_note-lor-2007-14">&#91;14&#93;</a></sup>  Dillon has independently evaluated Intel's errata, and did an overview of <a href="/wiki/Intel_Core" title="Intel Core">Intel Core</a> errata as well, suggesting that several of the erratums were so serious as to warrant avoiding any processor where the issues remain unfixed.<sup id="cite_ref-lor-2007_14-1" class="reference"><a href="#cite_note-lor-2007-14">&#91;14&#93;</a></sup>  Dillon has since been a fan of <a href="/wiki/AMD" class="mw-redirect" title="AMD">AMD</a> processors, and, subsequently in 2012, he has discovered a brand-new deficiency in some <a href="/wiki/AMD" class="mw-redirect" title="AMD">AMD</a> processors for which no existing erratum existed at the time.<sup id="cite_ref-theregister-amd-2012_15-0" class="reference"><a href="#cite_note-theregister-amd-2012-15">&#91;15&#93;</a></sup>  Dillon continued his work around CPU issues as late as 2018, presenting solutions to tackle the latest security vulnerabilities like <a href="/wiki/Meltdown_(security_vulnerability)" title="Meltdown (security vulnerability)">meltdown</a>, some of which have been subsequently adopted by <a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a> as well.<sup id="cite_ref-theregister-openbsd-meltdown-2018_16-0" class="reference"><a href="#cite_note-theregister-openbsd-meltdown-2018-16">&#91;16&#93;</a></sup>
+</p><p>Dillon was a frequent guest on bsdtalk during the runtime of the show,<sup id="cite_ref-bsdtalk_17-0" class="reference"><a href="#cite_note-bsdtalk-17">&#91;17&#93;</a></sup> and was interviewed several times for <a href="/wiki/KernelTrap" title="KernelTrap">KernelTrap</a>.<sup id="cite_ref-kerneltrap-2002_5-1" class="reference"><a href="#cite_note-kerneltrap-2002-5">&#91;5&#93;</a></sup><sup id="cite_ref-kerneltrap-2007_6-1" class="reference"><a href="#cite_note-kerneltrap-2007-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matthew_Dillon&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-calendar.freebsd-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-calendar.freebsd_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-calendar.freebsd_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://bxr.su/FreeBSD/usr.bin/calendar/calendars/calendar.freebsd">"usr.bin/calendar/calendars/calendar.freebsd"</a>. <i>Super User's BSD Cross Reference</i>. <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>. 2019-02-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Super+User%27s+BSD+Cross+Reference&amp;rft.atitle=usr.bin%2Fcalendar%2Fcalendars%2Fcalendar.freebsd&amp;rft.date=2019-02-09&amp;rft_id=http%3A%2F%2Fbxr.su%2FFreeBSD%2Fusr.bin%2Fcalendar%2Fcalendars%2Fcalendar.freebsd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-dice-mia-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-dice-mia_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dice-mia_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation newsgroup cs1"><a rel="nofollow" class="external text" href="https://groups.google.com/d/topic/comp.sys.amiga.programmer/xtNd06LMiMU">"Matt Dillon: Where has he gone?"</a>. <a href="/wiki/Usenet_newsgroup" title="Usenet newsgroup">Newsgroup</a>:&#160;<a rel="nofollow" class="external text" href="news:comp.sys.amiga.programmer">comp.sys.amiga.programmer</a>. 1992-11-05. <a href="/wiki/Usenet_(identifier)" class="mw-redirect" title="Usenet (identifier)">Usenet:</a>&#160;<a rel="nofollow" class="external text" href="news:1992Nov5.075732.15766@vax5.cit.cornell.edu">1992Nov5.075732.15766@vax5.cit.cornell.edu</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Matt+Dillon%3A+Where+has+he+gone%3F&amp;rft.pub=comp.sys.amiga.programmer&amp;rft.date=1992-11-05&amp;rft_id=news%3A1992Nov5.075732.15766%40vax5.cit.cornell.edu%23id-name%3DUsenet%3A&amp;rft_id=https%3A%2F%2Fgroups.google.com%2Fd%2Ftopic%2Fcomp.sys.amiga.programmer%2FxtNd06LMiMU&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-informit-2007-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-informit-2007_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-informit-2007_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-informit-2007_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-informit-2007_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-informit-2007_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-informit-2007_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDavid_Chisnall2007" class="citation web cs1">David Chisnall (2007-06-15). <a rel="nofollow" class="external text" href="http://www.informit.com/articles/printerfriendly/766375">"DragonFly BSD: UNIX for Clusters?"</a>. <i><a href="/wiki/InformIT_(publisher)" class="mw-redirect" title="InformIT (publisher)">InformIT</a></i>. <a href="/wiki/Prentice_Hall_Professional" class="mw-redirect" title="Prentice Hall Professional">Prentice Hall Professional</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=InformIT&amp;rft.atitle=DragonFly+BSD%3A+UNIX+for+Clusters%3F&amp;rft.date=2007-06-15&amp;rft.au=David+Chisnall&amp;rft_id=http%3A%2F%2Fwww.informit.com%2Farticles%2Fprinterfriendly%2F766375&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-theregister-dme-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-theregister-dme_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://forums.theregister.co.uk/forum/all/2015/07/24/amiga_turns_30/">"Happy birthday, Amiga: The 'other' home computer turns 30"</a>. <a href="/wiki/The_Register" title="The Register">The Register</a>. 2015-07-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>. <q>I loved Matt Dillon's editor DME, did anyone else come across that&#160;?</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Happy+birthday%2C+Amiga%3A+The+%27other%27+home+computer+turns+30&amp;rft.pub=The+Register&amp;rft.date=2015-07-24&amp;rft_id=https%3A%2F%2Fforums.theregister.co.uk%2Fforum%2Fall%2F2015%2F07%2F24%2Famiga_turns_30%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-kerneltrap-2002-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-kerneltrap-2002_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kerneltrap-2002_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJeremy_Andrews2002" class="citation web cs1">Jeremy Andrews (2002-01-02). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120207010924/http://kerneltrap.org/node/8">"Interview: Matthew Dillon"</a>. <i><a href="/wiki/KernelTrap" title="KernelTrap">KernelTrap</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=KernelTrap&amp;rft.atitle=Interview%3A+Matthew+Dillon&amp;rft.date=2002-01-02&amp;rft.au=Jeremy+Andrews&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120207010924%2Fhttp%3A%2F%2Fkerneltrap.org%2Fnode%2F8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-kerneltrap-2007-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-kerneltrap-2007_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kerneltrap-2007_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJeremy_Andrews2007" class="citation web cs1">Jeremy Andrews (2007-08-06). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120207011005/http://kerneltrap.org/node/14116">"Interview: Matthew Dillon"</a>. <i><a href="/wiki/KernelTrap" title="KernelTrap">KernelTrap</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=KernelTrap&amp;rft.atitle=Interview%3A+Matthew+Dillon&amp;rft.date=2007-08-06&amp;rft.au=Jeremy+Andrews&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120207011005%2Fhttp%3A%2F%2Fkerneltrap.org%2Fnode%2F14116&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-team-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-team_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181118104452/http://www.dragonflybsd.org/team/">"team"</a>. <a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a>. 2018-05-24. Archived from <a rel="nofollow" class="external text" href="http://www.dragonflybsd.org/team/">the original</a> on 2018-11-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=team&amp;rft.pub=DragonFly+BSD&amp;rft.date=2018-05-24&amp;rft_id=http%3A%2F%2Fwww.dragonflybsd.org%2Fteam%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-login04-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-login04_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMatus_Telgarsky2004" class="citation cs2">Matus Telgarsky (2004), <a rel="nofollow" class="external text" href="https://www.usenix.org/legacy/event/usenix04/usenix04reports.pdf">"Conference Reports, USENIX Annual Technical Conference (USENIX '04), UseBSD SIG, Panel: The State of the BSD Projects"</a> <span class="cs1-format">(PDF)</span>, <i><a href="/wiki/;login:" title=";login:">;login:</a></i>, <a href="/wiki/USENIX" title="USENIX">USENIX</a> (published October 2004), <b>29</b> (5): 54–55, <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1044-6397">1044-6397</a>, <q>Already a veteran hacker (contributor to Linux and FreeBSD, among many other projects), …</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%3Blogin%3A&amp;rft.atitle=Conference+Reports%2C+USENIX+Annual+Technical+Conference+%28USENIX+%E2%80%9904%29%2C+UseBSD+SIG%2C+Panel%3A+The+State+of+the+BSD+Projects&amp;rft.volume=29&amp;rft.issue=5&amp;rft.pages=54-55&amp;rft.date=2004&amp;rft.issn=1044-6397&amp;rft.au=Matus+Telgarsky&amp;rft_id=https%3A%2F%2Fwww.usenix.org%2Flegacy%2Fevent%2Fusenix04%2Fusenix04reports.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-sage-1998-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-sage-1998_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGreg_Kulosa1998" class="citation mailinglist cs1">Greg Kulosa (1998-09-15). <a rel="nofollow" class="external text" href="https://www.usenix.org/legacyurl/baylisa-meeting-unix-intel-implementing-reliable-production-systems">"BayLISA meeting: Unix on Intel: Implementing Reliable Production Systems"</a>. <i><a href="/wiki/LISA_(organization)" title="LISA (organization)">sage</a>-members@</i> (Mailing list). <a href="/wiki/USENIX" title="USENIX">USENIX</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-12</span></span>. <q>The panelists are: <a href="/wiki/BSD/OS" title="BSD/OS">BSD/OS</a>, <a href="/wiki/Paul_Vixie" title="Paul Vixie">Paul Vixie</a> [Internet Software Consortium founder]; <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>, Matt Dillon [Systems Architect at Best Internet]; …</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BayLISA+meeting%3A+Unix+on+Intel%3A+Implementing+Reliable+Production+Systems&amp;rft.pub=USENIX&amp;rft.date=1998-09-15&amp;rft.au=Greg+Kulosa&amp;rft_id=https%3A%2F%2Fwww.usenix.org%2Flegacyurl%2Fbaylisa-meeting-unix-intel-implementing-reliable-production-systems&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-onlamp-2004-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-onlamp-2004_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-onlamp-2004_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFFederico_Biancuzzi2004" class="citation web cs1">Federico Biancuzzi (2004-07-08). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110513210535/http://onlamp.com/pub/a/bsd/2004/07/08/dragonfly_bsd_interview.html">"Behind DragonFly BSD"</a>. <a href="/wiki/O%27Reilly_Media" title="O&#39;Reilly Media">O'Reilly Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Behind+DragonFly+BSD&amp;rft.pub=O%27Reilly+Media&amp;rft.date=2004-07-08&amp;rft.au=Federico+Biancuzzi&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110513210535%2Fhttp%3A%2F%2Fonlamp.com%2Fpub%2Fa%2Fbsd%2F2004%2F07%2F08%2Fdragonfly_bsd_interview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-go-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-go_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDavid_Chisnall2012" class="citation book cs1">David Chisnall (2012). "Why Go?". <span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="https://archive.org/details/goprogramminglan00chis_483"><i>The Go Programming Language Phrasebook</i></a></span> (1st&#160;ed.). <a href="/wiki/Addison-Wesley_Professional" class="mw-redirect" title="Addison-Wesley Professional">Addison-Wesley Professional</a>. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/goprogramminglan00chis_483/page/n15">5</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-321-81714-3" title="Special:BookSources/978-0-321-81714-3"><bdi>978-0-321-81714-3</bdi></a>. <q>In creating DragonFly BSD, Matt Dillon observed that there was no point in creating an N:M threading model—where N userspace threads are multiplexed on top of M kernel threads—because C code that uses more than a handful of threads is very rare.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Why+Go%3F&amp;rft.btitle=The+Go+Programming+Language+Phrasebook&amp;rft.pages=5&amp;rft.edition=1st&amp;rft.pub=Addison-Wesley+Professional&amp;rft.date=2012&amp;rft.isbn=978-0-321-81714-3&amp;rft.au=David+Chisnall&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fgoprogramminglan00chis_483&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-lwn-2010-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-lwn-2010_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lwn-2010_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFKoen_Vervloesem2010" class="citation web cs1">Koen Vervloesem (2010-04-21). <a rel="nofollow" class="external text" href="https://lwn.net/Articles/384200/">"DragonFly BSD 2.6: towards a free clustering operating system"</a>. <i><a href="/wiki/LWN.net" title="LWN.net">LWN.net</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=LWN.net&amp;rft.atitle=DragonFly+BSD+2.6%3A+towards+a+free+clustering+operating+system&amp;rft.date=2010-04-21&amp;rft.au=Koen+Vervloesem&amp;rft_id=https%3A%2F%2Flwn.net%2FArticles%2F384200%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Reed2007-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reed2007_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJeremy_C._Reed2007" class="citation web cs1">Jeremy C. Reed, ed. (2007-02-10). <a rel="nofollow" class="external text" href="http://www.bsdnewsletter.com/2007/02/Features176.html">"Answers from Matt Dillon about DragonFly's virtual kernel"</a>. <i>BSD Newsletter .com</i>. Reed Media .net. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070224140607/http://www.bsdnewsletter.com/2007/02/Features176.html">Archived</a> from the original on 2007-02-24.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BSD+Newsletter+.com&amp;rft.atitle=Answers+from+Matt+Dillon+about+DragonFly%27s+virtual+kernel&amp;rft.date=2007-02-10&amp;rft_id=http%3A%2F%2Fwww.bsdnewsletter.com%2F2007%2F02%2FFeatures176.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-lor-2007-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-lor-2007_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lor-2007_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFConstantine_A._Murenin2007" class="citation web cs1">Constantine A. Murenin (2007-07-03). <a rel="nofollow" class="external text" href="https://www.linux.org.ru/news/security/2002875">"Matthew Dillon об ошибках Intel Core и Core 2"</a> (in Russian). Linux.org.ru<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Matthew+Dillon+%D0%BE%D0%B1+%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85+Intel+Core+%D0%B8+Core+2&amp;rft.pub=Linux.org.ru&amp;rft.date=2007-07-03&amp;rft.au=Constantine+A.+Murenin&amp;rft_id=https%3A%2F%2Fwww.linux.org.ru%2Fnews%2Fsecurity%2F2002875&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-theregister-amd-2012-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-theregister-amd-2012_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2012/03/07/amd_opteron_bug_dragonfly/">"DragonFly BSD developer stung by Opteron bug"</a>. <a href="/wiki/The_Register" title="The Register">The Register</a>. 2012-03-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DragonFly+BSD+developer+stung+by+Opteron+bug&amp;rft.pub=The+Register&amp;rft.date=2012-03-07&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2012%2F03%2F07%2Famd_opteron_bug_dragonfly%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-theregister-openbsd-meltdown-2018-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-theregister-openbsd-meltdown-2018_16-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2018/02/23/openbsd_emits_meltdown_patch/">"OpenBSD releases Meltdown patch"</a>. <a href="/wiki/The_Register" title="The Register">The Register</a>. 2018-02-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>. <q>Part of the OpenBSD solution used the approach employed by Matthew Dillon in his DragonFly BSD – the per-CPU page layout aspect.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OpenBSD+releases+Meltdown+patch&amp;rft.pub=The+Register&amp;rft.date=2018-02-23&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2018%2F02%2F23%2Fopenbsd_emits_meltdown_patch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bsdtalk-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-bsdtalk_17-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://bsdtalk.blogspot.com/search?q=dillon">"bsdtalk: DragonFlyBSD with Matthew Dillon"</a>. bsdtalk. 2014-11-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=bsdtalk%3A+DragonFlyBSD+with+Matthew+Dillon&amp;rft.pub=bsdtalk&amp;rft.date=2014-11-19&amp;rft_id=https%3A%2F%2Fbsdtalk.blogspot.com%2Fsearch%3Fq%3Ddillon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMatthew+Dillon" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matthew_Dillon&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://apollo.backplane.com/">Matt Dillon home page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.slashnet.org/forums/DragonflyBSD-20031009.html">Matt Dillon IRC interview</a> from <a rel="nofollow" class="external text" href="http://www.slashnet.org/">SlashNet</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.osnews.com/story.php?news_id=6338">OSNews interview</a> (March 13, 2004)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="The_DragonFly_BSD_Project" style="padding:3px"><table class="nowraplinks mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:DragonFly" title="Template:DragonFly"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:DragonFly" title="Template talk:DragonFly"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:DragonFly&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="The_DragonFly_BSD_Project" style="font-size:114%;margin:0 4em">The <a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a> Project</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a>
+<ul><li><a href="/wiki/Light_Weight_Kernel_Threads" title="Light Weight Kernel Threads">Light Weight Kernel Threads</a>
+<ul><li><a href="/wiki/Serializing_tokens" title="Serializing tokens">LWKT serialising tokens</a></li></ul></li>
+<li><a href="/wiki/Kernel_Normal_Form" title="Kernel Normal Form">Kernel Normal Form</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/OS-level_virtualisation" class="mw-redirect" title="OS-level virtualisation">OS-level virtualisation</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chroot" title="Chroot">chroot</a></li>
+<li><a href="/wiki/FreeBSD_jail" title="FreeBSD jail">jail</a></li>
+<li><a href="/wiki/Vkernel" title="Vkernel">vkernel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/File_system" title="File system">File systems</a> and <a href="/wiki/Computer_data_storage" title="Computer data storage">storage</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advanced_Host_Controller_Interface" title="Advanced Host Controller Interface">AHCI</a>
+<ul><li><a href="/wiki/Native_Command_Queuing" title="Native Command Queuing">NCQ</a></li></ul></li>
+<li><a href="/wiki/Automounter#Software" title="Automounter">autofs</a></li>
+<li><a href="/wiki/Device_file#devfs" title="Device file">devfs</a></li>
+<li><a href="/wiki/BSD_disklabel" title="BSD disklabel">disklabel</a></li>
+<li><a href="/wiki/Fdisk" title="Fdisk">fdisk</a></li>
+<li><a href="/wiki/HAMMER_(file_system)" title="HAMMER (file system)">HAMMER</a>
+<ul><li><a href="/wiki/HAMMER2" title="HAMMER2">HAMMER2</a></li></ul></li>
+<li><a href="/wiki/Logical_Volume_Manager_(Linux)" title="Logical Volume Manager (Linux)">LVM2</a></li>
+<li><a href="/wiki/Network_File_System" title="Network File System">NFS</a></li>
+<li><a href="/wiki/NTFS" title="NTFS">NTFS</a></li>
+<li><a href="/wiki/NVM_Express" title="NVM Express">NVMe</a></li>
+<li><a href="/wiki/Procfs" title="Procfs">procfs</a></li>
+<li><a href="/wiki/PUFFS_(NetBSD)" title="PUFFS (NetBSD)">PUFFS</a></li>
+<li><a href="/wiki/Tmpfs#BSD" title="Tmpfs">tmpfs</a></li>
+<li><a href="/wiki/Unix_File_System" title="Unix File System">UFS</a>
+<ul><li><a href="/wiki/Soft_updates" title="Soft updates">soft updates</a></li></ul></li>
+<li><a href="/wiki/Vinum_volume_manager" title="Vinum volume manager">Vinum</a></li>
+<li><a href="/wiki/Virtual_file_system" title="Virtual file system">VFS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Firewall_(computing)" title="Firewall (computing)">Firewalls</a> and <a href="/wiki/Computer_network" title="Computer network">networking</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Comparison_of_open-source_wireless_drivers#DragonFly_BSD" title="Comparison of open-source wireless drivers">802.11 drivers</a></li>
+<li><a href="/wiki/ALTQ" title="ALTQ">ALTQ</a></li>
+<li><a href="/wiki/Bluetooth_stack#DragonFly_BSD" title="Bluetooth stack">Bluetooth</a></li>
+<li><a href="/wiki/Berkeley_Packet_Filter" title="Berkeley Packet Filter">BPF</a></li>
+<li><a href="/wiki/Common_Address_Redundancy_Protocol" title="Common Address Redundancy Protocol">CARP</a></li>
+<li><a href="/wiki/Ipfirewall" title="Ipfirewall">ipfw</a></li>
+<li><a href="/wiki/NDISwrapper#Similar_programs" title="NDISwrapper">NDIS</a></li>
+<li><a href="/wiki/Netgraph" title="Netgraph">netgraph</a></li>
+<li><a href="/wiki/PF_(firewall)" title="PF (firewall)">PF</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Subsystems</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Busdma" title="Busdma">busdma</a></li>
+<li><a href="/wiki/DPorts" class="mw-redirect" title="DPorts">DPorts</a></li>
+<li><a href="/wiki/Ioctl" title="Ioctl">ioctl</a></li>
+<li><a href="/wiki/Kqueue" title="Kqueue">kqueue</a></li>
+<li><a href="/wiki/Moused" title="Moused">moused</a></li>
+<li><a href="/wiki/OpenPAM" title="OpenPAM">OpenPAM</a></li>
+<li><a href="/wiki/Sysctl" title="Sysctl">sysctl</a>
+<ul><li><a href="/wiki/Hw.sensors" title="Hw.sensors">hw.sensors</a></li></ul></li>
+<li><a href="/wiki/Systat_(BSD)" title="Systat (BSD)">systat</a></li>
+<li><a href="/wiki/System_Management_Bus" title="System Management Bus">SMBus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Matthew Dillon</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="The_FreeBSD_Project" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:FreeBSD" title="Template:FreeBSD"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:FreeBSD" title="Template talk:FreeBSD"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:FreeBSD&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="The_FreeBSD_Project" style="font-size:114%;margin:0 4em">The <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> Project</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FreeBSD_Core_Team" title="FreeBSD Core Team">FreeBSD Core Team</a></li>
+<li><a href="/wiki/FreeBSD_Documentation_License" title="FreeBSD Documentation License">FreeBSD Documentation License</a></li>
+<li><a href="/wiki/FreeBSD_Foundation" title="FreeBSD Foundation">FreeBSD Foundation</a></li>
+<li><a href="/wiki/FreeBSD_Ports" title="FreeBSD Ports">FreeBSD Ports</a></li>
+<li><a href="/wiki/FreeBSD_version_history" title="FreeBSD version history">Version History</a></li>
+<li><a href="/wiki/Kernel_Normal_Form" title="Kernel Normal Form">Kernel Normal Form</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Subsystems</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scheduling_(computing)#SCHEDULER" title="Scheduling (computing)">Scheduling</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ALTQ" title="ALTQ">ALTQ</a></li>
+<li><a href="/wiki/ULE_scheduler" title="ULE scheduler">ULE scheduler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/OS-level_virtualisation" class="mw-redirect" title="OS-level virtualisation">Virtualisation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chroot" title="Chroot">chroot</a></li>
+<li><a href="/wiki/FreeBSD_jail" title="FreeBSD jail">jail</a></li>
+<li><a href="/wiki/Bhyve" title="Bhyve">bhyve</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_data_storage" title="Computer data storage">Storage</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GEOM" title="GEOM">GEOM</a>
+<ul><li><a href="/wiki/Geom_raid5" title="Geom raid5">raid5</a></li>
+<li><a href="/wiki/GBDE" title="GBDE">GBDE</a></li>
+<li><a href="/wiki/Geli_(software)" title="Geli (software)">geli</a></li>
+<li><a href="/wiki/Logical_Volume_Manager_(Linux)" title="Logical Volume Manager (Linux)">LVM2</a></li>
+<li><a href="/wiki/Vinum_volume_manager" title="Vinum volume manager">vinum</a></li></ul></li>
+<li><a href="/wiki/BSD_disklabel" title="BSD disklabel">disklabel</a>
+<ul><li><a href="/wiki/Fdisk" title="Fdisk">fdisk</a></li></ul></li>
+<li><a href="/wiki/Unix_File_System" title="Unix File System">UFS</a>
+<ul><li><a href="/wiki/Soft_updates" title="Soft updates">Soft updates</a></li></ul></li>
+<li><a href="/wiki/Virtual_file_system" title="Virtual file system">VFS</a></li>
+<li><a href="/wiki/OpenZFS#ZFS_on_FreeBSD" title="OpenZFS">ZFS</a></li>
+<li><a href="/wiki/Highly_Available_STorage" title="Highly Available STorage">Highly Available STorage</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Computer_network" title="Computer network">Networking</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Comparison_of_open-source_wireless_drivers#FreeBSD" title="Comparison of open-source wireless drivers">802.11 drivers</a></li>
+<li><a href="/wiki/ALTQ" title="ALTQ">ALTQ</a></li>
+<li><a href="/wiki/Bluetooth_stack#FreeBSD" title="Bluetooth stack">Bluetooth</a></li>
+<li><a href="/wiki/Berkeley_Packet_Filter" title="Berkeley Packet Filter">BPF</a></li>
+<li><a href="/wiki/IPFilter" title="IPFilter">IPFilter</a></li>
+<li><a href="/wiki/Ipfirewall" title="Ipfirewall">ipfw</a></li>
+<li><a href="/wiki/Netgraph" title="Netgraph">Netgraph</a></li>
+<li><a href="/wiki/NDISwrapper#Similar_programs" title="NDISwrapper">NDIS</a></li>
+<li><a href="/wiki/PF_(firewall)" title="PF (firewall)">pf</a>
+<ul><li><a href="/wiki/Common_Address_Redundancy_Protocol" title="Common Address Redundancy Protocol">CARP</a></li>
+<li><a href="/wiki/Pfsync" title="Pfsync">pfsync</a></li></ul></li>
+<li><a href="/wiki/Stream_Control_Transmission_Protocol" title="Stream Control Transmission Protocol">SCTP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Busdma" title="Busdma">busdma</a></li>
+<li><a href="/wiki/DTrace" title="DTrace">DTrace</a></li>
+<li><a href="/wiki/OpenPAM" title="OpenPAM">OpenPAM</a></li>
+<li><a href="/wiki/OpenBSM" title="OpenBSM">OpenBSM</a></li>
+<li><a href="/wiki/Portsnap" title="Portsnap">portsnap</a></li>
+<li><a href="/wiki/Kqueue" title="Kqueue">kqueue</a></li>
+<li><a href="/wiki/Loadable_kernel_module" title="Loadable kernel module">KLD</a></li>
+<li><a href="/wiki/Moused" title="Moused">moused</a></li>
+<li><a href="/wiki/Systat_(BSD)" title="Systat (BSD)">systat</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Matthew Dillon</a></li>
+<li><a href="/wiki/Jordan_Hubbard" title="Jordan Hubbard">Jordan Hubbard</a></li>
+<li><a href="/wiki/Poul-Henning_Kamp" title="Poul-Henning Kamp">Poul-Henning Kamp</a></li>
+<li><a href="/wiki/Michael_J._Karels" title="Michael J. Karels">Mike Karels</a></li>
+<li><a href="/wiki/Ben_Laurie" title="Ben Laurie">Ben Laurie</a></li>
+<li><a href="/wiki/Samuel_J_Leffler" class="mw-redirect" title="Samuel J Leffler">Sam Leffler</a></li>
+<li><a href="/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick">Marshall Kirk McKusick</a></li>
+<li><a href="/wiki/Diomidis_Spinellis" title="Diomidis Spinellis">Diomidis Spinellis</a></li>
+<li><a href="/wiki/Robert_Watson_(computer_scientist)" title="Robert Watson (computer scientist)">Robert Watson</a></li>
+<li><a href="/wiki/Dru_Lavigne" title="Dru Lavigne">Dru Lavigne</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_products_based_on_FreeBSD" title="List of products based on FreeBSD">Derivatives</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="open-source" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Open-source_software" title="Open-source software">open-source</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/XNU" title="XNU">XNU</a>
+<ul><li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li></ul></li>
+<li><a href="/wiki/DesktopBSD" title="DesktopBSD">DesktopBSD</a></li>
+<li><a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a></li>
+<li><a href="/wiki/FreeNAS" class="mw-redirect" title="FreeNAS">FreeNAS</a></li>
+<li><a href="/wiki/FreeSBIE" title="FreeSBIE">FreeSBIE</a></li>
+<li><a href="/wiki/GhostBSD" title="GhostBSD">GhostBSD</a></li>
+<li><a href="/wiki/Kylin_(operating_system)" title="Kylin (operating system)">Kylin</a></li>
+<li><a href="/wiki/MidnightBSD" title="MidnightBSD">MidnightBSD</a></li>
+<li><a href="/wiki/M0n0wall" title="M0n0wall">m0n0wall</a>
+<ul><li><a href="/wiki/OPNsense" title="OPNsense">OPNsense</a></li>
+<li><a href="/wiki/PfSense" title="PfSense">pfSense</a></li></ul></li>
+<li><a href="/wiki/TrueOS" title="TrueOS">TrueOS</a></li>
+<li><a href="/wiki/GNU_variants#BSD_variants" title="GNU variants">GNU/kFreeBSD</a></li>
+<li><a href="/wiki/Gentoo/FreeBSD" class="mw-redirect" title="Gentoo/FreeBSD">Gentoo/FreeBSD</a></li>
+<li><a href="/wiki/XigmaNAS" title="XigmaNAS">XigmaNAS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Junos" class="mw-redirect" title="Junos">Junos</a></li>
+<li><a href="/wiki/MacOS" title="MacOS">macOS</a>, <a href="/wiki/IOS" title="IOS">iOS</a>, <a href="/wiki/TvOS" title="TvOS">tvOS</a>, and <a href="/wiki/WatchOS" title="WatchOS">watchOS</a></li>
+<li><a href="/wiki/Nintendo_Switch_system_software" title="Nintendo Switch system software">Nintendo Switch OS</a></li>
+<li><a href="/wiki/OpenServer" title="OpenServer">OpenServer 10</a></li>
+<li><a href="/wiki/PlayStation_3_system_software" title="PlayStation 3 system software">PlayStation 3 OS</a></li>
+<li><a href="/wiki/PlayStation_4_system_software" title="PlayStation 4 system software">PlayStation 4 OS</a></li>
+<li><a href="/wiki/PlayStation_Vita_system_software" title="PlayStation Vita system software">PlayStation Vita OS</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Berkeley_Software_Distribution" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Berkeley_Software_Distribution" title="Template:Berkeley Software Distribution"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Berkeley_Software_Distribution" title="Template talk:Berkeley Software Distribution"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Berkeley_Software_Distribution&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Berkeley_Software_Distribution" style="font-size:114%;margin:0 4em"><a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">Berkeley Software Distribution</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bob_Fabry" title="Bob Fabry">Bob Fabry</a></li>
+<li><a href="/wiki/Keith_Bostic" title="Keith Bostic">Keith Bostic</a></li>
+<li><a href="/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick">Marshall Kirk McKusick</a></li>
+<li><a href="/wiki/Michael_J._Karels" title="Michael J. Karels">Michael J. Karels</a></li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Bill Joy</a></li>
+<li><a href="/wiki/Samuel_Leffler" class="mw-redirect" title="Samuel Leffler">Samuel Leffler</a></li>
+<li><a href="/wiki/Jordan_Hubbard" title="Jordan Hubbard">Jordan Hubbard</a></li>
+<li><a href="/wiki/Theo_de_Raadt" title="Theo de Raadt">Theo de Raadt</a></li>
+<li><a href="/wiki/Poul-Henning_Kamp" title="Poul-Henning Kamp">Poul-Henning Kamp</a></li>
+<li><a class="mw-selflink selflink">Matthew Dillon</a></li>
+<li><a href="/wiki/Ozalp_Babaoglu" class="mw-redirect" title="Ozalp Babaoglu">Ozalp Babaoglu</a></li>
+<li><a href="/wiki/Lynne_Jolitz" title="Lynne Jolitz">Lynne</a> and <a href="/wiki/William_Jolitz" title="William Jolitz">William Jolitz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Derivatives</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></li>
+<li><a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a></li>
+<li><a href="/wiki/NetBSD" title="NetBSD">NetBSD</a></li>
+<li><a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a></li>
+<li><a href="/wiki/Junos_OS" title="Junos OS">Junos OS</a></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><a href="/wiki/PlayStation_3_system_software" title="PlayStation 3 system software">PS3</a>/<a href="/wiki/PlayStation_4_system_software" title="PlayStation 4 system software">PS4</a>/<a href="/wiki/PlayStation_Vita_system_software" title="PlayStation Vita system software">PS Vita operating system</a></li>
+<li><a href="/wiki/List_of_BSD_operating_systems" title="List of BSD operating systems">Full list</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discontinued</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/386BSD" title="386BSD">386BSD</a></li>
+<li><a href="/wiki/BSD/OS" title="BSD/OS">BSD/OS</a></li>
+<li><a href="/wiki/SunOS" title="SunOS">SunOS</a></li>
+<li><a href="/wiki/TrueOS" title="TrueOS">TrueOS</a></li>
+<li><a href="/wiki/Ultrix" title="Ultrix">Ultrix</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Companies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sleepycat_Software" title="Sleepycat Software">Sleepycat Software</a></li>
+<li><a href="/wiki/Walnut_Creek_CDROM" title="Walnut Creek CDROM">Walnut Creek CDROM</a></li>
+<li><a href="/wiki/Berkeley_Software_Design" title="Berkeley Software Design">Berkeley Software Design</a></li>
+<li><a href="/wiki/IXsystems" title="IXsystems">iXsystems</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Comparison_of_BSD_operating_systems" title="Comparison of BSD operating systems">Comparison</a></li>
+<li><a href="/wiki/History_of_the_Berkeley_Software_Distribution" title="History of the Berkeley Software Distribution">History</a></li>
+<li><a href="/wiki/BSD_licenses" title="BSD licenses">Licensing</a></li>
+<li><a href="/wiki/BSD_Daemon" title="BSD Daemon">BSD Daemon</a></li>
+<li><a href="/wiki/Computer_Systems_Research_Group" title="Computer Systems Research Group">Computer Systems Research Group</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:Berkeley_Software_Distribution" title="Category:Berkeley Software Distribution">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Berkeley_Software_Distribution" class="extiw" title="commons:Category:Berkeley Software Distribution">Commons</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="AmigaOS" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:AmigaOS" title="Template:AmigaOS"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:AmigaOS" title="Template talk:AmigaOS"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:AmigaOS&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="AmigaOS" style="font-size:114%;margin:0 4em"><a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Amiga" title="Amiga">Amiga</a> technologies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmigaBASIC" title="AmigaBASIC">AmigaBASIC</a></li>
+<li><a href="/wiki/AmigaDOS" title="AmigaDOS">AmigaDOS</a></li>
+<li><a href="/wiki/AmigaGuide" title="AmigaGuide">AmigaGuide</a></li>
+<li><a href="/wiki/ARexx" title="ARexx">ARexx</a></li>
+<li><a href="/wiki/Blitter_object" title="Blitter object">Blitter object</a></li>
+<li><a href="/wiki/Exec_(Amiga)" title="Exec (Amiga)">Exec</a>/<a href="/wiki/WarpOS" title="WarpOS">WarpOS</a></li>
+<li><a href="/wiki/Guru_Meditation" title="Guru Meditation">Guru Meditation</a></li>
+<li><a href="/wiki/Amiga_Hunk" title="Amiga Hunk">Hunk</a></li>
+<li><a href="/wiki/Installer_(programming_language)" title="Installer (programming language)">Installer</a></li>
+<li><a href="/wiki/Intuition_(Amiga)" title="Intuition (Amiga)">Intuition</a></li>
+<li><a href="/wiki/Kickstart_(Amiga)" title="Kickstart (Amiga)">Kickstart</a></li>
+<li><a href="/wiki/RAM_drive" title="RAM drive">RAM disk</a></li>
+<li><a href="/wiki/Workbench_(AmigaOS)" title="Workbench (AmigaOS)">Workbench</a></li>
+<li><a href="/wiki/XAD_(software)" title="XAD (software)">XAD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Amiga <a href="/wiki/Graphical_user_interface" title="Graphical user interface">GUIs</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ambient_(desktop_environment)" title="Ambient (desktop environment)">Ambient</a></li>
+<li><a href="/wiki/Magic_User_Interface" title="Magic User Interface">MUI</a></li>
+<li><a href="/wiki/ReAction_GUI" title="ReAction GUI">ReAction</a></li>
+<li><a href="/wiki/Scalos" title="Scalos">Scalos</a></li>
+<li><a href="/wiki/Workbench_(AmigaOS)" title="Workbench (AmigaOS)">Workbench</a></li>
+<li><a href="/wiki/Zune_(widget_toolkit)" title="Zune (widget toolkit)">Zune</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">File systems</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CrossDOS" title="CrossDOS">CrossDOS</a></li>
+<li><a href="/wiki/Amiga_Old_File_System" title="Amiga Old File System">OFS</a></li>
+<li><a href="/wiki/Amiga_Fast_File_System" title="Amiga Fast File System">FFS</a></li>
+<li><a href="/wiki/Professional_File_System" title="Professional File System">PFS</a></li>
+<li><a href="/wiki/Smart_File_System" title="Smart File System">SFS</a></li>
+<li><a href="/wiki/Universal_Disk_Format" title="Universal Disk Format">UDF</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a></li>
+<li><a href="/wiki/NTFS" title="NTFS">NTFS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">OS versions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AmigaOS_version_history" title="AmigaOS version history">AmigaOS version history</a></li>
+<li><a href="/wiki/AmigaOS_4" title="AmigaOS 4">AmigaOS 4</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software packs</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amiga_Forever" title="Amiga Forever">Amiga Forever</a></li>
+<li><a href="/wiki/AmiKit" title="AmiKit">AmiKit</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other <a href="/wiki/Amiga_software" title="Amiga software">software</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aminet" title="Aminet">Aminet</a></li>
+<li><a href="/wiki/Amiga_Reflections" title="Amiga Reflections">Amiga Reflections</a></li>
+<li><a href="/wiki/Amiga_demos" title="Amiga demos">Demos</a></li>
+<li><a href="/wiki/List_of_Amiga_games" title="List of Amiga games">Games</a></li>
+<li><a href="/wiki/Hollywood_(programming_language)" title="Hollywood (programming language)">Hollywood</a></li>
+<li><a href="/wiki/Amiga_Disk_File" title="Amiga Disk File">ADF</a></li>
+<li><a href="/wiki/Interchange_File_Format" title="Interchange File Format">IFF</a></li>
+<li><a href="/wiki/LHA_(file_format)" title="LHA (file format)">LHA</a></li>
+<li><a href="/wiki/WHDLoad" title="WHDLoad">WHDLoad</a></li>
+<li><a href="/wiki/UAE_(emulator)" title="UAE (emulator)">WinUAE</a></li>
+<li><a href="/wiki/YAM_(Yet_Another_Mailer)" title="YAM (Yet Another Mailer)">YAM</a>
+<ul><li><a href="/wiki/AmiZilla" title="AmiZilla">AmiZilla</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Influenced</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AROS_Research_Operating_System" title="AROS Research Operating System">AROS</a></li>
+<li><a href="/wiki/AtheOS" class="mw-redirect" title="AtheOS">AtheOS</a></li>
+<li><a href="/wiki/BeOS" title="BeOS">BeOS</a></li>
+<li><a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a></li>
+<li><a href="/wiki/MorphOS" title="MorphOS">MorphOS</a></li>
+<li><a href="/wiki/Syllable_Desktop" title="Syllable Desktop">Syllable</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Category:AmigaOS" title="Category:AmigaOS">Category</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Amiga_people" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Amiga_people" title="Template:Amiga people"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Amiga_people" title="Template talk:Amiga people"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Amiga_people&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Amiga_people" style="font-size:114%;margin:0 4em"><a href="/wiki/Amiga" title="Amiga">Amiga</a> people</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Original creators</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dave_Haynie" title="Dave Haynie">Dave Haynie</a></li>
+<li><a href="/wiki/Robert_J._Mical" title="Robert J. Mical">Robert J. Mical</a></li>
+<li><a href="/wiki/Jay_Miner" title="Jay Miner">Jay Miner</a></li>
+<li><a href="/wiki/Dave_Needle" title="Dave Needle">Dave Needle</a></li>
+<li><a href="/wiki/David_Shannon_Morse" title="David Shannon Morse">David Shannon Morse</a></li>
+<li><a href="/wiki/Carl_Sassenrath" title="Carl Sassenrath">Carl Sassenrath</a></li>
+<li><a href="/wiki/Petro_Tyschtschenko" title="Petro Tyschtschenko">Petro Tyschtschenko</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Developers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Matthew Dillon</a></li>
+<li><a href="/wiki/Fred_Fish" title="Fred Fish">Fred Fish</a></li>
+<li><a href="/wiki/Tim_Follin" title="Tim Follin">Tim Follin</a></li>
+<li><a href="/wiki/Jon_Hare" title="Jon Hare">Jon Hare</a></li>
+<li><a href="/wiki/Chris_Huelsbeck" title="Chris Huelsbeck">Chris Huelsbeck</a></li>
+<li><a href="/wiki/Richard_Joseph" title="Richard Joseph">Richard Joseph</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Lionet" title="François Lionet">François Lionet</a></li>
+<li><a href="/wiki/David_Whittaker_(video_game_composer)" title="David Whittaker (video game composer)">David Whittaker</a></li>
+<li><a href="/wiki/Bill_Williams_(game_designer)" title="Bill Williams (game designer)">Bill Williams</a></li>
+<li><a href="/wiki/Tim_Wright_(Welsh_musician)" title="Tim Wright (Welsh musician)">Tim Wright</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Journalists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Matt_Bielby" title="Matt Bielby">Matt Bielby</a></li>
+<li><a href="/wiki/Kieron_Gillen" title="Kieron Gillen">Kieron Gillen</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1366
+Cached time: 20210209232259
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.592 seconds
+Real time usage: 1.032 seconds
+Preprocessor visited node count: 2554/1000000
+Post‐expand include size: 108879/2097152 bytes
+Template argument size: 2639/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 61933/5000000 bytes
+Lua time usage: 0.287/10.000 seconds
+Lua memory usage: 7893263/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  913.439      1 -total
+ 36.78%  335.925      1 Template:Reflist
+ 30.20%  275.818      1 Template:Infobox_person
+ 25.47%  232.649     13 Template:Cite_web
+ 20.14%  183.976      1 Template:Infobox
+ 10.80%   98.620      1 Template:Short_description
+ 10.17%   92.852      5 Template:Br_separated_entries
+  8.13%   74.281      8 Template:Navbox
+  7.20%   65.807      9 Template:Main_other
+  7.19%   65.658      1 Template:Birth_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:428519-0!canonical and timestamp 20210209232258 and revision id 1003217511. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Matthew_Dillon&amp;oldid=1003217511">https://en.wikipedia.org/w/index.php?title=Matthew_Dillon&amp;oldid=1003217511</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1966_births" title="Category:1966 births">1966 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_San_Francisco" title="Category:People from San Francisco">People from San Francisco</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_alumni" title="Category:University of California, Berkeley alumni">University of California, Berkeley alumni</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Amiga_people" title="Category:Amiga people">Amiga people</a></li><li><a href="/wiki/Category:BSD_people" title="Category:BSD people">BSD people</a></li><li><a href="/wiki/Category:DragonFly_BSD" title="Category:DragonFly BSD">DragonFly BSD</a></li><li><a href="/wiki/Category:FreeBSD_people" title="Category:FreeBSD people">FreeBSD people</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:Kernel_programmers" title="Category:Kernel programmers">Kernel programmers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Russian-language_sources_(ru)" title="Category:CS1 Russian-language sources (ru)">CS1 Russian-language sources (ru)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_short_description_added_by_PearBOT_5" title="Category:Articles with short description added by PearBOT 5">Articles with short description added by PearBOT 5</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Matthew+Dillon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Matthew+Dillon" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Matthew_Dillon" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Matthew_Dillon" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Matthew_Dillon">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Matthew_Dillon&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Matthew_Dillon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Matthew_Dillon" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Matthew_Dillon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Matthew_Dillon&amp;oldid=1003217511" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Matthew_Dillon&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Matthew_Dillon&amp;id=1003217511&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q93062" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Matthew_Dillon&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Matthew_Dillon&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%AB%D9%8A%D9%88_%D8%AF%D9%8A%D9%84%D9%88%D9%86" title="ماثيو ديلون – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Matt_Dillon_(Softwareentwickler)" title="Matt Dillon (Softwareentwickler) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Matt_Dillon_(d%C3%A9veloppeur)" title="Matt Dillon (développeur) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B4%A4%E0%B5%8D%E0%B4%AF%E0%B5%81_%E0%B4%A6%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%BA" title="മാത്യു ദില്ലൺ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Matthew_Dillon_(programista)" title="Matthew Dillon (programista) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q93062#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 27 January 2021, at 23:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Matthew_Dillon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.592","walltime":"1.032","ppvisitednodes":{"value":2554,"limit":1000000},"postexpandincludesize":{"value":108879,"limit":2097152},"templateargumentsize":{"value":2639,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61933,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  913.439      1 -total"," 36.78%  335.925      1 Template:Reflist"," 30.20%  275.818      1 Template:Infobox_person"," 25.47%  232.649     13 Template:Cite_web"," 20.14%  183.976      1 Template:Infobox"," 10.80%   98.620      1 Template:Short_description"," 10.17%   92.852      5 Template:Br_separated_entries","  8.13%   74.281      8 Template:Navbox","  7.20%   65.807      9 Template:Main_other","  7.19%   65.658      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.287","limit":"10.000"},"limitreport-memusage":{"value":7893263,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20210209232259","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Matthew Dillon","url":"https:\/\/en.wikipedia.org\/wiki\/Matthew_Dillon","sameAs":"http:\/\/www.wikidata.org\/entity\/Q93062","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q93062","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-12T16:07:52Z","dateModified":"2021-01-27T23:38:42Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e7\/Matthew_Dillon_%28DragonFly_BSD_leader%29_on_bicycle_with_bicycle_helmet--2008-08.jpeg","headline":"systems software engineer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":246,"wgHostname":"mw1274"});});</script>
+</body></html>

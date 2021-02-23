@@ -39,7 +39,7 @@ namespace ZakharovKrilov11_707ISB
 
         public static void WriteLinksToTxt(List<string> links)
         {
-            using (var writer = new StreamWriter("Htmls/links.txt"))
+            using (var writer = new StreamWriter("Htmls/index.txt"))
             {
                 for (var i = 0; i < links.Count; i++)
                 {

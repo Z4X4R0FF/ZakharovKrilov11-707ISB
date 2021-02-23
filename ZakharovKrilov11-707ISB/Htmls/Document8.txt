@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Marc Andreessen - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YCvSfuSha4E9ZDpygdSiFQAAAJQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Marc_Andreessen","wgTitle":"Marc Andreessen","wgCurRevisionId":1006123975,"wgRevisionId":1006123975,"wgArticleId":331986,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Articles with short description","Short description matches Wikidata","Use mdy dates from January 2020","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from September 2020",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDRtPQGTDXAbWLn0MnQT5QAAAIU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Marc_Andreessen","wgTitle":"Marc Andreessen","wgCurRevisionId":1006123975,"wgRevisionId":1006123975,"wgArticleId":331986,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Articles with short description","Short description matches Wikidata","Use mdy dates from January 2020","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from September 2020",
 "All articles lacking reliable references","Articles lacking reliable references from April 2019","Commons category link from Wikidata","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Netscape","1971 births","Living people","American computer programmers","American technology company founders","American venture capitalists","AOL employees","Directors of Facebook","Internet pioneers","Netscape people","People from Cedar Falls, Iowa","People from New Lisbon, Wisconsin","Silicon Valley people","University of Illinois at Urbana–Champaign alumni","American financial company founders","California Republicans","Andreessen Horowitz","Arrillaga family"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
 "Marc_Andreessen","wgRelevantArticleId":331986,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q62882"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
 "skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -13,7 +13,7 @@
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.27"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -38,7 +38,7 @@
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">Marc Andreessen</h1>
+	<h1 id="firstHeading" class="firstHeading" >Marc Andreessen</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 		<div id="contentSub"></div>
@@ -407,7 +407,7 @@
 <li><a href="/wiki/NPAPI" title="NPAPI">Netscape Plugin Application Programming Interface (NPAPI)</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#AAC2C8; color:#FFFFFF;">E-mail clients</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/Netscape_Mail_%26_Newsgroups" title="Netscape Mail &amp; Newsgroups">Netscape Mail &amp; Newsgroups</a></li>
-<li><a href="/wiki/Netscape_Messenger_9" title="Netscape Messenger 9">Netscape Messenger 9</a></li></ul>
+<li><a href="/wiki/Netscape_Messenger_9" class="mw-redirect" title="Netscape Messenger 9">Netscape Messenger 9</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#AAC2C8; color:#FFFFFF;">Other components</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/Netscape_Composer" title="Netscape Composer">Netscape Composer</a></li></ul>
 </div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#AAC2C8; color:#FFFFFF;">Server software</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
@@ -676,7 +676,8 @@
 <li><a href="/wiki/List_of_most-followed_Instagram_accounts" title="List of most-followed Instagram accounts">List of most followed accounts</a></li>
 <li><a href="/wiki/List_of_most-liked_Instagram_posts" title="List of most-liked Instagram posts">List of most liked pictures</a></li></ul></li>
 <li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Messenger</a>
-<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li></ul></li>
+<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li>
+<li><a href="/wiki/Facebook_Messenger_Rooms" title="Facebook Messenger Rooms">Rooms</a></li></ul></li>
 <li><a href="/wiki/Mapillary" title="Mapillary">Mapillary</a></li>
 <li><a href="/wiki/Oculus_Quest" title="Oculus Quest">Oculus Quest</a>
 <ul><li><a href="/wiki/Oculus_Quest_2" title="Oculus Quest 2">2</a></li></ul></li>
@@ -945,39 +946,39 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1320
-Cached time: 20210215163147
+Parsed by mw1272
+Cached time: 20210223011144
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.420 seconds
-Real time usage: 1.708 seconds
+CPU time usage: 1.451 seconds
+Real time usage: 1.817 seconds
 Preprocessor visited node count: 6140/1000000
-Post‐expand include size: 294044/2097152 bytes
+Post‐expand include size: 294229/2097152 bytes
 Template argument size: 6933/2097152 bytes
 Highest expansion depth: 20/40
 Expensive parser function count: 11/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 225649/5000000 bytes
-Lua time usage: 0.726/10.000 seconds
-Lua memory usage: 11362219/52428800 bytes
+Lua time usage: 0.738/10.000 seconds
+Lua memory usage: 11388898/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1413.271      1 -total
- 40.46%  571.793      1 Template:Reflist
- 19.63%  277.364      1 Template:Infobox_person
- 17.41%  246.030     32 Template:Cite_web
- 16.48%  232.904      1 Template:Infobox
- 12.58%  177.769     35 Template:Cite_news
-  9.51%  134.382     15 Template:Navbox
-  7.43%  104.966      5 Template:Br_separated_entries
-  6.54%   92.481      1 Template:Short_description
-  6.19%   87.509      1 Template:Birth_date_and_age
+100.00% 1502.077      1 -total
+ 40.58%  609.551      1 Template:Reflist
+ 17.41%  261.472     32 Template:Cite_web
+ 15.35%  230.617      1 Template:Infobox_person
+ 12.57%  188.765     35 Template:Cite_news
+ 12.07%  181.362      1 Template:Infobox
+  9.31%  139.856     15 Template:Navbox
+  5.82%   87.476      1 Template:Bitcoin
+  5.60%   84.144      1 Template:Authority_control
+  5.14%   77.176      5 Template:Br_separated_entries
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:331986-0!canonical and timestamp 20210215163146 and revision id 1006123975. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:331986-0!canonical and timestamp 20210223011143 and revision id 1006123975. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marc_Andreessen&amp;oldid=1006123975">https://en.wikipedia.org/w/index.php?title=Marc_Andreessen&amp;oldid=1006123975</a>"</div></div>
@@ -994,7 +995,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
-	<h3 id="p-personal-label">
+	<h3 id="p-personal-label" class="vector-menu-heading">
 		<span>Personal tools</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1007,7 +1008,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
-	<h3 id="p-namespaces-label">
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
 		<span>Namespaces</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1020,7 +1021,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
-	<h3 id="p-variants-label">
+	<h3 id="p-variants-label" class="vector-menu-heading">
 		<span>Variants</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1034,7 +1035,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
-	<h3 id="p-views-label">
+	<h3 id="p-views-label" class="vector-menu-heading">
 		<span>Views</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1047,7 +1048,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
-	<h3 id="p-cactions-label">
+	<h3 id="p-cactions-label" class="vector-menu-heading">
 		<span>More</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1056,14 +1057,14 @@ Transclusion expansion time report (%,ms,calls,template)
 	</div>
 </nav>
 
-			<div id="p-search" role="search">
+			<div id="p-search" role="search" >
 	<h3 >
 		<label for="searchInput">Search</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
 			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search">
+			<input type="hidden" name="title" value="Special:Search"/>
 			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
 			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
@@ -1081,7 +1082,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
-	<h3 id="p-navigation-label">
+	<h3 id="p-navigation-label" class="vector-menu-heading">
 		<span>Navigation</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1093,7 +1094,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label">
+	<h3 id="p-interaction-label" class="vector-menu-heading">
 		<span>Contribute</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1104,7 +1105,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
-	<h3 id="p-tb-label">
+	<h3 id="p-tb-label" class="vector-menu-heading">
 		<span>Tools</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1115,7 +1116,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
-	<h3 id="p-coll-print_export-label">
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
 		<span>Print/export</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1126,7 +1127,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
 	 >
-	<h3 id="p-wikibase-otherprojects-label">
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
 		<span>In other projects</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1138,7 +1139,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
-	<h3 id="p-lang-label">
+	<h3 id="p-lang-label" class="vector-menu-heading">
 		<span>Languages</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -1177,7 +1178,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.420","walltime":"1.708","ppvisitednodes":{"value":6140,"limit":1000000},"postexpandincludesize":{"value":294044,"limit":2097152},"templateargumentsize":{"value":6933,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":225649,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1413.271      1 -total"," 40.46%  571.793      1 Template:Reflist"," 19.63%  277.364      1 Template:Infobox_person"," 17.41%  246.030     32 Template:Cite_web"," 16.48%  232.904      1 Template:Infobox"," 12.58%  177.769     35 Template:Cite_news","  9.51%  134.382     15 Template:Navbox","  7.43%  104.966      5 Template:Br_separated_entries","  6.54%   92.481      1 Template:Short_description","  6.19%   87.509      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.726","limit":"10.000"},"limitreport-memusage":{"value":11362219,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20210215163147","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.451","walltime":"1.817","ppvisitednodes":{"value":6140,"limit":1000000},"postexpandincludesize":{"value":294229,"limit":2097152},"templateargumentsize":{"value":6933,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":225649,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1502.077      1 -total"," 40.58%  609.551      1 Template:Reflist"," 17.41%  261.472     32 Template:Cite_web"," 15.35%  230.617      1 Template:Infobox_person"," 12.57%  188.765     35 Template:Cite_news"," 12.07%  181.362      1 Template:Infobox","  9.31%  139.856     15 Template:Navbox","  5.82%   87.476      1 Template:Bitcoin","  5.60%   84.144      1 Template:Authority_control","  5.14%   77.176      5 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.738","limit":"10.000"},"limitreport-memusage":{"value":11388898,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20210223011144","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Marc Andreessen","url":"https:\/\/en.wikipedia.org\/wiki\/Marc_Andreessen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q62882","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q62882","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-30T18:11:26Z","dateModified":"2021-02-11T05:06:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/94\/Marc_Andreessen-9.jpg","headline":"American entrepreneur, investor, and software engineer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":256,"wgHostname":"mw1372"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173,"wgHostname":"mw1367"});});</script>
 </body></html>

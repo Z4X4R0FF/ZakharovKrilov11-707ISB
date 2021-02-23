@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Larry Ellison - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDICN7anH-@CR@I7H6JpgAAAAEM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Larry_Ellison","wgTitle":"Larry Ellison","wgCurRevisionId":1007997462,"wgRevisionId":1007997462,"wgArticleId":172395,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 French-language sources (fr)","Wikipedia pending changes protected pages","Wikipedia indefinitely move-protected pages","Articles with short description","Short description matches Wikidata","Use American English from March 2015",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDLAVGJcddb@2-BRdLEdvgAAAEU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Larry_Ellison","wgTitle":"Larry Ellison","wgCurRevisionId":1007997462,"wgRevisionId":1007997462,"wgArticleId":172395,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 French-language sources (fr)","Wikipedia pending changes protected pages","Wikipedia indefinitely move-protected pages","Articles with short description","Short description matches Wikidata","Use American English from March 2015",
 "All Wikipedia articles written in American English","Use mdy dates from September 2019","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from September 2013","Articles containing potentially dated statements from 2013","All articles containing potentially dated statements","Articles with unsourced statements from October 2020","Wikipedia articles needing clarification from July 2010","All articles with vague or ambiguous time","Vague or ambiguous time from January 2019","Commons category link from Wikidata","Articles with Open Library links","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers",
 "Wikipedia articles with PLWABN identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1944 births","University of Illinois at Urbana–Champaign alumni","2007 America's Cup sailors","2010 America's Cup sailors","America's Cup","American adoptees","American aviators","American billionaires","American computer businesspeople","American male sailors (sport)","American people of Italian descent","American people of Russian-Jewish descent","American technology chief executives","American technology company founders","Businesspeople from California","Businesspeople from New York City","Businesspeople in software","Directors of Apple Inc.","Giving Pledgers","21st-century philanthropists","California Republicans","Life extensionists","Living people","Oracle Corporation","Oracle employees","Oracle Racing sailors","People from Rancho Mirage, California",
 "People from the Bronx","People from Woodside, California","Philanthropists from New York (state)","SailGP","Tesla, Inc."],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Larry_Ellison","wgRelevantArticleId":172395,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgStableRevisionId":1007997462,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
@@ -596,7 +596,7 @@
 <li><a href="/wiki/Walkie-Talkie_(Apple)" title="Walkie-Talkie (Apple)">Walkie-Talkie</a></li></ul></li>
 <li><a href="/wiki/IMessage" title="IMessage">iMessage</a></li>
 <li><a href="/wiki/Game_Center" title="Game Center">Game Center</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Stores</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/App_store" title="App store">App stores</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Retail and<br />digital sales</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/App_store" title="App store">App stores</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
 <ul><li><a href="/wiki/App_Store_(iOS/iPadOS)" title="App Store (iOS/iPadOS)">iOS / iPadOS</a></li>
 <li><a href="/wiki/App_Store_(iMessage)" class="mw-redirect" title="App Store (iMessage)">iMessage</a></li>
 <li><a href="/wiki/App_Store_(watchOS)" class="mw-redirect" title="App Store (watchOS)">watchOS</a></li>
@@ -883,51 +883,39 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1274
-Cached time: 20210221060632
+Parsed by mw1389
+Cached time: 20210221200130
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.020 seconds
-Real time usage: 3.090 seconds
-Preprocessor visited node count: 10605/1000000
-Post‐expand include size: 391914/2097152 bytes
+CPU time usage: 1.662 seconds
+Real time usage: 2.128 seconds
+Preprocessor visited node count: 10606/1000000
+Post‐expand include size: 392029/2097152 bytes
 Template argument size: 15560/2097152 bytes
 Highest expansion depth: 20/40
 Expensive parser function count: 28/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 332654/5000000 bytes
-Lua time usage: 1.006/10.000 seconds
-Lua memory usage: 13955024/52428800 bytes
-Lua Profile:
-    ?                                                                360 ms       29.0%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                160 ms       12.9%
-    dataWrapper <mw.lua:661>                                          80 ms        6.5%
-    recursiveClone <mwInit.lua:41>                                    80 ms        6.5%
-    Scribunto_LuaSandboxCallback::match                               80 ms        6.5%
-    Scribunto_LuaSandboxCallback::callParserFunction                  60 ms        4.8%
-    Scribunto_LuaSandboxCallback::find                                40 ms        3.2%
-    Scribunto_LuaSandboxCallback::plain                               40 ms        3.2%
-    <mw.lua:683>                                                      40 ms        3.2%
-    Scribunto_LuaSandboxCallback::entityExists                        40 ms        3.2%
-    [others]                                                         260 ms       21.0%
+Lua time usage: 0.866/10.000 seconds
+Lua memory usage: 13961285/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2730.675      1 -total
- 30.62%  836.018      1 Template:Reflist
- 18.39%  502.086      1 Template:Infobox_person
- 15.22%  415.713      1 Template:Infobox
- 15.20%  414.988     48 Template:Cite_web
- 10.17%  277.781     14 Template:Navbox
-  8.36%  228.268     41 Template:Cite_news
-  7.10%  193.826      2 Template:Plainlist
-  6.64%  181.428      4 Template:Marriage
-  5.34%  145.750      1 Template:World's_richest_people
+100.00% 1841.293      1 -total
+ 36.45%  671.094      1 Template:Reflist
+ 16.61%  305.889      1 Template:Infobox_person
+ 16.49%  303.686     48 Template:Cite_web
+ 14.44%  265.931      1 Template:Infobox
+ 10.08%  185.629     14 Template:Navbox
+  9.44%  173.808     41 Template:Cite_news
+  6.43%  118.454      2 Template:Plainlist
+  6.26%  115.196      4 Template:Marriage
+  4.48%   82.467      1 Template:Pp-pc1
 -->
 
-<!-- Saved in parser cache with key enwiki:stable-pcache:idhash:172395-0!canonical and timestamp 20210221060632 and revision id 1007997462. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:stable-pcache:idhash:172395-0!canonical and timestamp 20210221200130 and revision id 1007997462. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Larry_Ellison&amp;oldid=1007997462">https://en.wikipedia.org/w/index.php?title=Larry_Ellison&amp;oldid=1007997462</a>"</div></div>
@@ -1127,7 +1115,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.020","walltime":"3.090","ppvisitednodes":{"value":10605,"limit":1000000},"postexpandincludesize":{"value":391914,"limit":2097152},"templateargumentsize":{"value":15560,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":332654,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2730.675      1 -total"," 30.62%  836.018      1 Template:Reflist"," 18.39%  502.086      1 Template:Infobox_person"," 15.22%  415.713      1 Template:Infobox"," 15.20%  414.988     48 Template:Cite_web"," 10.17%  277.781     14 Template:Navbox","  8.36%  228.268     41 Template:Cite_news","  7.10%  193.826      2 Template:Plainlist","  6.64%  181.428      4 Template:Marriage","  5.34%  145.750      1 Template:World's_richest_people"]},"scribunto":{"limitreport-timeusage":{"value":"1.006","limit":"10.000"},"limitreport-memusage":{"value":13955024,"limit":52428800},"limitreport-profile":[["?","360","29.0"],["Scribunto_LuaSandboxCallback::getExpandedArgument","160","12.9"],["dataWrapper \u003Cmw.lua:661\u003E","80","6.5"],["recursiveClone \u003CmwInit.lua:41\u003E","80","6.5"],["Scribunto_LuaSandboxCallback::match","80","6.5"],["Scribunto_LuaSandboxCallback::callParserFunction","60","4.8"],["Scribunto_LuaSandboxCallback::find","40","3.2"],["Scribunto_LuaSandboxCallback::plain","40","3.2"],["\u003Cmw.lua:683\u003E","40","3.2"],["Scribunto_LuaSandboxCallback::entityExists","40","3.2"],["[others]","260","21.0"]]},"cachereport":{"origin":"mw1274","timestamp":"20210221060632","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.662","walltime":"2.128","ppvisitednodes":{"value":10606,"limit":1000000},"postexpandincludesize":{"value":392029,"limit":2097152},"templateargumentsize":{"value":15560,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":332654,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1841.293      1 -total"," 36.45%  671.094      1 Template:Reflist"," 16.61%  305.889      1 Template:Infobox_person"," 16.49%  303.686     48 Template:Cite_web"," 14.44%  265.931      1 Template:Infobox"," 10.08%  185.629     14 Template:Navbox","  9.44%  173.808     41 Template:Cite_news","  6.43%  118.454      2 Template:Plainlist","  6.26%  115.196      4 Template:Marriage","  4.48%   82.467      1 Template:Pp-pc1"]},"scribunto":{"limitreport-timeusage":{"value":"0.866","limit":"10.000"},"limitreport-memusage":{"value":13961285,"limit":52428800}},"cachereport":{"origin":"mw1389","timestamp":"20210221200130","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Larry Ellison","url":"https:\/\/en.wikipedia.org\/wiki\/Larry_Ellison","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92759","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92759","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-01-22T00:39:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Larry_Ellison_picture.png","headline":"American internet entrepreneur and businessman"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":222,"wgHostname":"mw1275"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":176,"wgHostname":"mw1401"});});</script>
 </body></html>

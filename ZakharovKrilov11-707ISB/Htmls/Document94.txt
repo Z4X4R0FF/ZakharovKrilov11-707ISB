@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Jagex - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIn7R6RdWdul39jug3PQAAAIg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jagex","wgTitle":"Jagex","wgCurRevisionId":1003159906,"wgRevisionId":1003159906,"wgArticleId":546334,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments","Articles with short description","Short description matches Wikidata","Articles needing additional references from June 2020","All articles needing additional references","Use dmy dates from May 2019","Use British English from September 2010",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDSynaMldCbxGktMPzlRuAAAAFg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jagex","wgTitle":"Jagex","wgCurRevisionId":1003159906,"wgRevisionId":1003159906,"wgArticleId":546334,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments","Articles with short description","Short description matches Wikidata","Articles needing additional references from June 2020","All articles needing additional references","Use dmy dates from May 2019","Use British English from September 2010",
 "All articles with unsourced statements","Articles with unsourced statements from February 2017","Articles with unsourced statements from April 2016","Jagex","2001 establishments in England","British companies established in 2001","Companies based in Cambridge","English brands","MUD organizations","Software companies of England","Video game companies established in 2001","Video game companies of the United Kingdom","Video game development companies","Video game publishers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jagex","wgRelevantArticleId":546334,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Paul_Gower","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
 "pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Jagex","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q958101"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
 "skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -383,13 +383,13 @@
 </div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:MUDs" title="Category:MUDs">Category:MUDs</a></div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1389
-Cached time: 20210220164919
+Parsed by mw1368
+Cached time: 20210222174059
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.719 seconds
-Real time usage: 0.956 seconds
+CPU time usage: 0.968 seconds
+Real time usage: 1.696 seconds
 Preprocessor visited node count: 3888/1000000
 Post‐expand include size: 115656/2097152 bytes
 Template argument size: 3583/2097152 bytes
@@ -397,25 +397,25 @@ Highest expansion depth: 15/40
 Expensive parser function count: 5/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 138554/5000000 bytes
-Lua time usage: 0.383/10.000 seconds
-Lua memory usage: 10560058/52428800 bytes
+Lua time usage: 0.544/10.000 seconds
+Lua memory usage: 10559754/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  836.253      1 -total
- 35.26%  294.886      1 Template:Reflist
- 28.77%  240.582     40 Template:Cite_web
- 21.16%  176.945      1 Template:Infobox_company
- 19.49%  162.956      1 Template:Infobox
-  9.35%   78.185      1 Template:Short_description
-  9.32%   77.976      1 Template:More_citations_needed
-  7.95%   66.493      1 Template:Ambox
-  5.65%   47.212      2 Template:Navbox
-  5.52%   46.133      1 Template:Pagetype
+100.00% 1541.861      1 -total
+ 27.80%  428.646      1 Template:Reflist
+ 23.25%  358.549      1 Template:Infobox_company
+ 22.94%  353.666     40 Template:Cite_web
+ 20.42%  314.798      1 Template:Infobox
+ 11.82%  182.211      1 Template:Short_description
+ 11.66%  179.778      1 Template:More_citations_needed
+  9.99%  153.979      1 Template:Ambox
+  7.90%  121.851      2 Template:Navbox
+  6.59%  101.537      1 Template:Find_sources_mainspace
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:546334-0!canonical and timestamp 20210220164918 and revision id 1003159906. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:546334-0!canonical and timestamp 20210222174057 and revision id 1003159906. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jagex&amp;oldid=1003159906">https://en.wikipedia.org/w/index.php?title=Jagex&amp;oldid=1003159906</a>"</div></div>
@@ -604,7 +604,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.719","walltime":"0.956","ppvisitednodes":{"value":3888,"limit":1000000},"postexpandincludesize":{"value":115656,"limit":2097152},"templateargumentsize":{"value":3583,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":138554,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  836.253      1 -total"," 35.26%  294.886      1 Template:Reflist"," 28.77%  240.582     40 Template:Cite_web"," 21.16%  176.945      1 Template:Infobox_company"," 19.49%  162.956      1 Template:Infobox","  9.35%   78.185      1 Template:Short_description","  9.32%   77.976      1 Template:More_citations_needed","  7.95%   66.493      1 Template:Ambox","  5.65%   47.212      2 Template:Navbox","  5.52%   46.133      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.383","limit":"10.000"},"limitreport-memusage":{"value":10560058,"limit":52428800}},"cachereport":{"origin":"mw1389","timestamp":"20210220164919","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.968","walltime":"1.696","ppvisitednodes":{"value":3888,"limit":1000000},"postexpandincludesize":{"value":115656,"limit":2097152},"templateargumentsize":{"value":3583,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":138554,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1541.861      1 -total"," 27.80%  428.646      1 Template:Reflist"," 23.25%  358.549      1 Template:Infobox_company"," 22.94%  353.666     40 Template:Cite_web"," 20.42%  314.798      1 Template:Infobox"," 11.82%  182.211      1 Template:Short_description"," 11.66%  179.778      1 Template:More_citations_needed","  9.99%  153.979      1 Template:Ambox","  7.90%  121.851      2 Template:Navbox","  6.59%  101.537      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.544","limit":"10.000"},"limitreport-memusage":{"value":10559754,"limit":52428800}},"cachereport":{"origin":"mw1368","timestamp":"20210222174059","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jagex","url":"https:\/\/en.wikipedia.org\/wiki\/Jagex","sameAs":"http:\/\/www.wikidata.org\/entity\/Q958101","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q958101","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-23T13:56:19Z","dateModified":"2021-01-27T18:02:07Z","headline":"British video game developer and publisher"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1354"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1265"});});</script>
 </body></html>

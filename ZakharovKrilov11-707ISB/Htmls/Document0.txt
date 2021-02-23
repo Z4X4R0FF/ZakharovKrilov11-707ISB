@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Michael Abrash - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIeXawXgwvwv-PWmElywAAAJg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Michael_Abrash","wgTitle":"Michael Abrash","wgCurRevisionId":1002166617,"wgRevisionId":1002166617,"wgArticleId":274260,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with a promotional tone from May 2020","All articles with a promotional tone","Wikipedia articles with style issues from May 2020","All articles with style issues","Articles with multiple maintenance issues",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDOWs7LfM8UT3qlLbEccMAAAAEs","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Michael_Abrash","wgTitle":"Michael Abrash","wgCurRevisionId":1002166617,"wgRevisionId":1002166617,"wgArticleId":274260,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with a promotional tone from May 2020","All articles with a promotional tone","Wikipedia articles with style issues from May 2020","All articles with style issues","Articles with multiple maintenance issues",
 "Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from May 2015","Articles with unsourced statements from July 2013","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","American computer programmers","American technology writers","Living people","Microsoft employees","Valve Corporation people","American video game programmers","Id Software people","1957 births"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Michael_Abrash","wgRelevantArticleId":274260,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
 "wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q838831"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready",
 "wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -292,13 +292,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1267
-Cached time: 20210220203646
+Parsed by mw1409
+Cached time: 20210221212009
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.665 seconds
-Real time usage: 1.063 seconds
+CPU time usage: 0.536 seconds
+Real time usage: 0.710 seconds
 Preprocessor visited node count: 2753/1000000
 Post‐expand include size: 114395/2097152 bytes
 Template argument size: 9355/2097152 bytes
@@ -306,25 +306,25 @@ Highest expansion depth: 19/40
 Expensive parser function count: 12/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 48384/5000000 bytes
-Lua time usage: 0.340/10.000 seconds
-Lua memory usage: 6988843/52428800 bytes
+Lua time usage: 0.304/10.000 seconds
+Lua memory usage: 6988803/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  946.353      1 -total
- 21.07%  199.398      1 Template:Infobox_person
- 19.52%  184.739     11 Template:Cite_web
- 16.38%  155.012      3 Template:Ambox
- 15.80%  149.544      1 Template:Infobox
- 13.83%  130.898      1 Template:Multiple_issues
- 11.59%  109.685      1 Template:Short_description
- 10.46%   99.012      3 Template:Citation_needed
-  9.79%   92.680      5 Template:Br_separated_entries
-  8.75%   82.770      6 Template:Navbox
+100.00%  627.837      1 -total
+ 21.33%  133.938     11 Template:Cite_web
+ 20.50%  128.735      1 Template:Infobox_person
+ 15.95%  100.111      1 Template:Infobox
+ 13.84%   86.919      3 Template:Ambox
+ 11.94%   74.953      1 Template:Short_description
+ 11.30%   70.921      1 Template:Multiple_issues
+ 11.26%   70.726      6 Template:Navbox
+  9.40%   58.987      5 Template:Br_separated_entries
+  7.14%   44.823      3 Template:Citation_needed
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:274260-0!canonical and timestamp 20210220203645 and revision id 1002166617. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:274260-0!canonical and timestamp 20210221212008 and revision id 1002166617. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Michael_Abrash&amp;oldid=1002166617">https://en.wikipedia.org/w/index.php?title=Michael_Abrash&amp;oldid=1002166617</a>"</div></div>
@@ -513,7 +513,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.665","walltime":"1.063","ppvisitednodes":{"value":2753,"limit":1000000},"postexpandincludesize":{"value":114395,"limit":2097152},"templateargumentsize":{"value":9355,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48384,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  946.353      1 -total"," 21.07%  199.398      1 Template:Infobox_person"," 19.52%  184.739     11 Template:Cite_web"," 16.38%  155.012      3 Template:Ambox"," 15.80%  149.544      1 Template:Infobox"," 13.83%  130.898      1 Template:Multiple_issues"," 11.59%  109.685      1 Template:Short_description"," 10.46%   99.012      3 Template:Citation_needed","  9.79%   92.680      5 Template:Br_separated_entries","  8.75%   82.770      6 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.340","limit":"10.000"},"limitreport-memusage":{"value":6988843,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20210220203646","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.536","walltime":"0.710","ppvisitednodes":{"value":2753,"limit":1000000},"postexpandincludesize":{"value":114395,"limit":2097152},"templateargumentsize":{"value":9355,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48384,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  627.837      1 -total"," 21.33%  133.938     11 Template:Cite_web"," 20.50%  128.735      1 Template:Infobox_person"," 15.95%  100.111      1 Template:Infobox"," 13.84%   86.919      3 Template:Ambox"," 11.94%   74.953      1 Template:Short_description"," 11.30%   70.921      1 Template:Multiple_issues"," 11.26%   70.726      6 Template:Navbox","  9.40%   58.987      5 Template:Br_separated_entries","  7.14%   44.823      3 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.304","limit":"10.000"},"limitreport-memusage":{"value":6988803,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20210221212009","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Michael Abrash","url":"https:\/\/en.wikipedia.org\/wiki\/Michael_Abrash","sameAs":"http:\/\/www.wikidata.org\/entity\/Q838831","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q838831","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-07-21T08:45:33Z","dateModified":"2021-01-23T04:41:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b0\/Michael_Abrash_at_Facebook%27s_F8_2015.jpg","headline":"game programmer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":228,"wgHostname":"mw1368"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":190,"wgHostname":"mw1370"});});</script>
 </body></html>

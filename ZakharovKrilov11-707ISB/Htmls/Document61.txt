@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Jeff Dean - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDIr241FELrYstP2w2QHmwAAAIo","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jeff_Dean","wgTitle":"Jeff Dean","wgCurRevisionId":1003854607,"wgRevisionId":1003854607,"wgArticleId":37114382,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox scientist with unknown parameters","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with ISNI identifiers",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDBFLBkJeifDAxHJREvUhQAAAI0","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jeff_Dean","wgTitle":"Jeff Dean","wgCurRevisionId":1003854607,"wgRevisionId":1003854607,"wgArticleId":37114382,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","Pages using infobox scientist with unknown parameters","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with ISNI identifiers",
 "Wikipedia articles with MGP identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Place of birth missing (living people)","Living people","American computer scientists","Artificial intelligence researchers","University of Washington College of Engineering alumni","University of Minnesota alumni","Fellows of the Association for Computing Machinery","Fellows of the American Academy of Arts and Sciences","Members of the United States National Academy of Engineering","Digital Equipment Corporation people","Google employees","Google Fellows","1968 births","Recipients of the ACM Prize in Computing","Open source advocates"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jeff_Dean","wgRelevantArticleId":37114382,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":
 "Jeff_Dean_(computer_scientist)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Jeff_Dean","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q6173703"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":
 "ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -168,13 +168,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1368
-Cached time: 20210220213852
+Parsed by mw1322
+Cached time: 20210219210414
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.533 seconds
-Real time usage: 0.835 seconds
+CPU time usage: 0.605 seconds
+Real time usage: 0.813 seconds
 Preprocessor visited node count: 2253/1000000
 Post‐expand include size: 38740/2097152 bytes
 Template argument size: 2421/2097152 bytes
@@ -182,25 +182,25 @@ Highest expansion depth: 16/40
 Expensive parser function count: 8/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 51228/5000000 bytes
-Lua time usage: 0.308/10.000 seconds
-Lua memory usage: 8104482/52428800 bytes
+Lua time usage: 0.358/10.000 seconds
+Lua memory usage: 8104522/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  761.088      1 -total
- 30.82%  234.588      1 Template:Infobox_scientist
- 29.62%  225.404      1 Template:Reflist
- 28.82%  219.348      1 Template:Infobox_person
- 26.63%  202.662      2 Template:Infobox
- 19.24%  146.439      1 Template:Short_description
- 17.13%  130.367      6 Template:Cite_web
- 12.95%   98.574      1 Template:Pagetype
- 10.82%   82.314      5 Template:Br_separated_entries
-  9.94%   75.652      1 Template:Authority_control
+100.00%  751.207      1 -total
+ 35.16%  264.158      1 Template:Reflist
+ 29.37%  220.658      1 Template:Infobox_scientist
+ 26.97%  202.615      1 Template:Infobox_person
+ 24.98%  187.687      2 Template:Infobox
+ 22.03%  165.524      6 Template:Cite_web
+ 12.30%   92.384      1 Template:Short_description
+  8.73%   65.594      5 Template:Br_separated_entries
+  8.69%   65.304      1 Template:Authority_control
+  8.23%   61.836      9 Template:Cite_news
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:37114382-0!canonical and timestamp 20210220213851 and revision id 1003854607. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37114382-0!canonical and timestamp 20210219210413 and revision id 1003854607. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jeff_Dean&amp;oldid=1003854607">https://en.wikipedia.org/w/index.php?title=Jeff_Dean&amp;oldid=1003854607</a>"</div></div>
@@ -389,7 +389,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.533","walltime":"0.835","ppvisitednodes":{"value":2253,"limit":1000000},"postexpandincludesize":{"value":38740,"limit":2097152},"templateargumentsize":{"value":2421,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51228,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  761.088      1 -total"," 30.82%  234.588      1 Template:Infobox_scientist"," 29.62%  225.404      1 Template:Reflist"," 28.82%  219.348      1 Template:Infobox_person"," 26.63%  202.662      2 Template:Infobox"," 19.24%  146.439      1 Template:Short_description"," 17.13%  130.367      6 Template:Cite_web"," 12.95%   98.574      1 Template:Pagetype"," 10.82%   82.314      5 Template:Br_separated_entries","  9.94%   75.652      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":8104482,"limit":52428800}},"cachereport":{"origin":"mw1368","timestamp":"20210220213852","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.605","walltime":"0.813","ppvisitednodes":{"value":2253,"limit":1000000},"postexpandincludesize":{"value":38740,"limit":2097152},"templateargumentsize":{"value":2421,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51228,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  751.207      1 -total"," 35.16%  264.158      1 Template:Reflist"," 29.37%  220.658      1 Template:Infobox_scientist"," 26.97%  202.615      1 Template:Infobox_person"," 24.98%  187.687      2 Template:Infobox"," 22.03%  165.524      6 Template:Cite_web"," 12.30%   92.384      1 Template:Short_description","  8.73%   65.594      5 Template:Br_separated_entries","  8.69%   65.304      1 Template:Authority_control","  8.23%   61.836      9 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.358","limit":"10.000"},"limitreport-memusage":{"value":8104522,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20210219210414","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jeff Dean","url":"https:\/\/en.wikipedia.org\/wiki\/Jeff_Dean","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6173703","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6173703","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-09-25T06:42:46Z","dateModified":"2021-01-31T00:49:13Z","headline":"American computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1332"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1355"});});</script>
 </body></html>

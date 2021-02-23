@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Edgar F. Codd - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YCqoY5M8r2rFgfZ@X5iJFgAAAAA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Edgar_F._Codd","wgTitle":"Edgar F. Codd","wgCurRevisionId":1002958803,"wgRevisionId":1002958803,"wgArticleId":93548,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","EngvarB from August 2014","Use dmy dates from August 2014","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from January 2016",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YC1PQtuNl6YwyYYRXMAflwAAAME","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Edgar_F._Codd","wgTitle":"Edgar F. Codd","wgCurRevisionId":1002958803,"wgRevisionId":1002958803,"wgArticleId":93548,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","EngvarB from August 2014","Use dmy dates from August 2014","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from January 2016",
 "Articles with unsourced statements from September 2008","Articles with unsourced statements from July 2014","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1923 births","2003 deaths","Database researchers","British computer scientists","Turing Award laureates","IBM employees","IBM Fellows","IBM Research computer scientists","Alumni of Exeter College, Oxford","People from San Jose, California","University of Michigan alumni","People from the Isle of Portland",
 "Fellows of the Association for Computing Machinery","Cellular automatists","People educated at Poole Grammar School","People from Aventura, Florida","Royal Air Force pilots of World War II","Researchers of artificial life"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Edgar_F._Codd","wgRelevantArticleId":93548,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,
 "wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92596"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
@@ -14,7 +14,7 @@
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.27"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.30"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -39,7 +39,7 @@
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">Edgar F. Codd</h1>
+	<h1 id="firstHeading" class="firstHeading" >Edgar F. Codd</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 		<div id="contentSub"></div>
@@ -259,13 +259,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1349
-Cached time: 20210215163223
+Parsed by mw1333
+Cached time: 20210217163359
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.796 seconds
-Real time usage: 1.029 seconds
+CPU time usage: 0.960 seconds
+Real time usage: 1.193 seconds
 Preprocessor visited node count: 4365/1000000
 Post‐expand include size: 95302/2097152 bytes
 Template argument size: 9320/2097152 bytes
@@ -273,25 +273,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 18/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 57355/5000000 bytes
-Lua time usage: 0.395/10.000 seconds
-Lua memory usage: 8345087/52428800 bytes
+Lua time usage: 0.430/10.000 seconds
+Lua memory usage: 8345012/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  932.706      1 -total
- 23.96%  223.481      1 Template:Infobox_scientist
- 23.16%  215.986      1 Template:Reflist
- 23.03%  214.827      1 Template:Infobox_person
- 19.69%  183.631      2 Template:Infobox
- 14.36%  133.941      5 Template:Cite_book
- 10.06%   93.798      5 Template:Br_separated_entries
-  9.69%   90.397      4 Template:Citation_needed
-  8.28%   77.204      1 Template:Short_description
-  8.14%   75.915      4 Template:Fix
+100.00% 1064.544      1 -total
+ 27.09%  288.352      1 Template:Infobox_scientist
+ 25.88%  275.494      1 Template:Infobox_person
+ 23.46%  249.714      1 Template:Reflist
+ 21.96%  233.740      2 Template:Infobox
+ 11.57%  123.172      5 Template:Cite_book
+ 10.99%  117.020      5 Template:Br_separated_entries
+  9.01%   95.880      1 Template:Short_description
+  7.94%   84.557      4 Template:Citation_needed
+  6.80%   72.390      1 Template:Birth_date
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:93548-0!canonical and timestamp 20210215163222 and revision id 1002958803. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:93548-0!canonical and timestamp 20210217163358 and revision id 1002958803. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Edgar_F._Codd&amp;oldid=1002958803">https://en.wikipedia.org/w/index.php?title=Edgar_F._Codd&amp;oldid=1002958803</a>"</div></div>
@@ -308,7 +308,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
-	<h3 id="p-personal-label">
+	<h3 id="p-personal-label" class="vector-menu-heading">
 		<span>Personal tools</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -321,7 +321,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
-	<h3 id="p-namespaces-label">
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
 		<span>Namespaces</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -334,7 +334,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
-	<h3 id="p-variants-label">
+	<h3 id="p-variants-label" class="vector-menu-heading">
 		<span>Variants</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -348,7 +348,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
-	<h3 id="p-views-label">
+	<h3 id="p-views-label" class="vector-menu-heading">
 		<span>Views</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -361,7 +361,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
-	<h3 id="p-cactions-label">
+	<h3 id="p-cactions-label" class="vector-menu-heading">
 		<span>More</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -370,14 +370,14 @@ Transclusion expansion time report (%,ms,calls,template)
 	</div>
 </nav>
 
-			<div id="p-search" role="search">
+			<div id="p-search" role="search" >
 	<h3 >
 		<label for="searchInput">Search</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
 			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search">
+			<input type="hidden" name="title" value="Special:Search"/>
 			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
 			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
@@ -395,7 +395,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
-	<h3 id="p-navigation-label">
+	<h3 id="p-navigation-label" class="vector-menu-heading">
 		<span>Navigation</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -407,7 +407,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label">
+	<h3 id="p-interaction-label" class="vector-menu-heading">
 		<span>Contribute</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -418,7 +418,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
-	<h3 id="p-tb-label">
+	<h3 id="p-tb-label" class="vector-menu-heading">
 		<span>Tools</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -429,7 +429,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
-	<h3 id="p-coll-print_export-label">
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
 		<span>Print/export</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -440,7 +440,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
 	 >
-	<h3 id="p-wikibase-otherprojects-label">
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
 		<span>In other projects</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -452,7 +452,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
-	<h3 id="p-lang-label">
+	<h3 id="p-lang-label" class="vector-menu-heading">
 		<span>Languages</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -491,7 +491,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"1.029","ppvisitednodes":{"value":4365,"limit":1000000},"postexpandincludesize":{"value":95302,"limit":2097152},"templateargumentsize":{"value":9320,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":57355,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  932.706      1 -total"," 23.96%  223.481      1 Template:Infobox_scientist"," 23.16%  215.986      1 Template:Reflist"," 23.03%  214.827      1 Template:Infobox_person"," 19.69%  183.631      2 Template:Infobox"," 14.36%  133.941      5 Template:Cite_book"," 10.06%   93.798      5 Template:Br_separated_entries","  9.69%   90.397      4 Template:Citation_needed","  8.28%   77.204      1 Template:Short_description","  8.14%   75.915      4 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.395","limit":"10.000"},"limitreport-memusage":{"value":8345087,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20210215163223","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.960","walltime":"1.193","ppvisitednodes":{"value":4365,"limit":1000000},"postexpandincludesize":{"value":95302,"limit":2097152},"templateargumentsize":{"value":9320,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":57355,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1064.544      1 -total"," 27.09%  288.352      1 Template:Infobox_scientist"," 25.88%  275.494      1 Template:Infobox_person"," 23.46%  249.714      1 Template:Reflist"," 21.96%  233.740      2 Template:Infobox"," 11.57%  123.172      5 Template:Cite_book"," 10.99%  117.020      5 Template:Br_separated_entries","  9.01%   95.880      1 Template:Short_description","  7.94%   84.557      4 Template:Citation_needed","  6.80%   72.390      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"0.430","limit":"10.000"},"limitreport-memusage":{"value":8345012,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20210217163359","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Edgar F. Codd","url":"https:\/\/en.wikipedia.org\/wiki\/Edgar_F._Codd","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92596","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92596","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-28T01:39:35Z","dateModified":"2021-01-26T20:31:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/5\/58\/Edgar_F_Codd.jpg","headline":"computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":138,"wgHostname":"mw1385"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":243,"wgHostname":"mw1322"});});</script>
 </body></html>

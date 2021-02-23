@@ -26,18 +26,14 @@ namespace ZakharovKrilov11_707ISB
             var programmerLinks = htmlDoc.DocumentNode.Descendants("li")
                 .Where(node => !node.GetAttributeValue("class", "").Contains("tocsection")).ToList();
 
-            return (from link in programmerLinks
-                where link.FirstChild.Attributes.Count > 0
-                select "https://en.wikipedia.org/" + link.FirstChild.Attributes[0].Value).ToList();
+            return programmerLinks.Where(r => r.FirstChild.Attributes.Count > 0)
+                .Select(r => "https://en.wikipedia.org/" + r.FirstChild.Attributes[0].Value).ToList();
         }
 
         public static HtmlDocument ParseHtml(string html)
         {
             var htmlDoc = new HtmlDocument();
             htmlDoc.LoadHtml(html);
-            var programmerLinks = htmlDoc.DocumentNode.Descendants("li")
-                .Where(node => !node.GetAttributeValue("class", "").Contains("tocsection")).ToList();
-
             return htmlDoc;
         }
 

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Walter Bright - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIiGfXIkpwOxuj--u0PwAAAAU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Walter_Bright","wgTitle":"Walter Bright","wgCurRevisionId":994206577,"wgRevisionId":994206577,"wgArticleId":452284,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles with short description added by PearBOT 5","Short description is different from Wikidata","BLP articles lacking sources from February 2014","All BLP articles lacking sources","Articles with hCards","All articles with unsourced statements",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDPQcVGQTytDjeSnIXpSYwAAAJM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Walter_Bright","wgTitle":"Walter Bright","wgCurRevisionId":994206577,"wgRevisionId":994206577,"wgArticleId":452284,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles with short description added by PearBOT 5","Short description is different from Wikidata","BLP articles lacking sources from February 2014","All BLP articles lacking sources","Articles with hCards","All articles with unsourced statements",
 "Articles with unsourced statements from September 2020","All articles with vague or ambiguous time","Vague or ambiguous time from April 2019","AC with 0 elements","Year of birth missing (living people)","American computer programmers","Living people","Programming language designers","California Institute of Technology alumni"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Walter_Bright","wgRelevantArticleId":452284,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
 "wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2993645"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
 "ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -91,13 +91,13 @@
 <li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation magazine cs1">Walter Bright (8 April 2014). <a rel="nofollow" class="external text" href="http://www.drdobbs.com/architecture-and-design/how-i-came-to-write-d/240165322?elq=ec1276a03f5a494d9198908d67c3b086&amp;elqCampaignId=1886">"How I Came to Write D"</a>. <i><a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb&#39;s Journal">Dr. Dobb's Journal</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dr.+Dobb%27s+Journal&amp;rft.atitle=How+I+Came+to+Write+D&amp;rft.date=2014-04-08&amp;rft.au=Walter+Bright&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2Farchitecture-and-design%2Fhow-i-came-to-write-d%2F240165322%3Felq%3Dec1276a03f5a494d9198908d67c3b086%26elqCampaignId%3D1886&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWalter+Bright" class="Z3988"></span></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1411
-Cached time: 20210221003454
+Parsed by mw1329
+Cached time: 20210222014127
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.469 seconds
-Real time usage: 0.774 seconds
+CPU time usage: 0.503 seconds
+Real time usage: 0.783 seconds
 Preprocessor visited node count: 1769/1000000
 Post‐expand include size: 24540/2097152 bytes
 Template argument size: 2315/2097152 bytes
@@ -105,25 +105,25 @@ Highest expansion depth: 14/40
 Expensive parser function count: 4/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 15158/5000000 bytes
-Lua time usage: 0.276/10.000 seconds
+Lua time usage: 0.280/10.000 seconds
 Lua memory usage: 6078965/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  751.464      1 -total
- 26.45%  198.766      1 Template:Infobox_person
- 23.87%  179.383      1 Template:Reflist
- 20.21%  151.895      3 Template:Cite_magazine
- 17.75%  133.376      1 Template:Infobox
- 16.82%  126.431      1 Template:Short_description
- 16.57%  124.547      1 Template:BLP_sources
- 14.52%  109.079      1 Template:Ambox
-  9.53%   71.644      5 Template:Br_separated_entries
-  8.23%   61.881      2 Template:Fix
+100.00%  727.453      1 -total
+ 28.84%  209.786      1 Template:Infobox_person
+ 25.19%  183.218      1 Template:Reflist
+ 21.47%  156.220      1 Template:Infobox
+ 19.26%  140.131      3 Template:Cite_magazine
+ 16.84%  122.504      1 Template:BLP_sources
+ 15.28%  111.169      1 Template:Ambox
+ 15.20%  110.604      1 Template:Short_description
+ 11.67%   84.919      5 Template:Br_separated_entries
+  9.00%   65.473      2 Template:Pagetype
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:452284-0!canonical and timestamp 20210221003453 and revision id 994206577. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:452284-0!canonical and timestamp 20210222014127 and revision id 994206577. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Walter_Bright&amp;oldid=994206577">https://en.wikipedia.org/w/index.php?title=Walter_Bright&amp;oldid=994206577</a>"</div></div>
@@ -312,7 +312,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.469","walltime":"0.774","ppvisitednodes":{"value":1769,"limit":1000000},"postexpandincludesize":{"value":24540,"limit":2097152},"templateargumentsize":{"value":2315,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15158,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  751.464      1 -total"," 26.45%  198.766      1 Template:Infobox_person"," 23.87%  179.383      1 Template:Reflist"," 20.21%  151.895      3 Template:Cite_magazine"," 17.75%  133.376      1 Template:Infobox"," 16.82%  126.431      1 Template:Short_description"," 16.57%  124.547      1 Template:BLP_sources"," 14.52%  109.079      1 Template:Ambox","  9.53%   71.644      5 Template:Br_separated_entries","  8.23%   61.881      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.276","limit":"10.000"},"limitreport-memusage":{"value":6078965,"limit":52428800}},"cachereport":{"origin":"mw1411","timestamp":"20210221003454","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.503","walltime":"0.783","ppvisitednodes":{"value":1769,"limit":1000000},"postexpandincludesize":{"value":24540,"limit":2097152},"templateargumentsize":{"value":2315,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15158,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  727.453      1 -total"," 28.84%  209.786      1 Template:Infobox_person"," 25.19%  183.218      1 Template:Reflist"," 21.47%  156.220      1 Template:Infobox"," 19.26%  140.131      3 Template:Cite_magazine"," 16.84%  122.504      1 Template:BLP_sources"," 15.28%  111.169      1 Template:Ambox"," 15.20%  110.604      1 Template:Short_description"," 11.67%   84.919      5 Template:Br_separated_entries","  9.00%   65.473      2 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.280","limit":"10.000"},"limitreport-memusage":{"value":6078965,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20210222014127","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Walter Bright","url":"https:\/\/en.wikipedia.org\/wiki\/Walter_Bright","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2993645","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2993645","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-02T22:25:52Z","dateModified":"2020-12-14T16:25:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/WalterBright.jpg","headline":"Computer programmer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1405"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1322"});});</script>
 </body></html>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Friedrich L. Bauer - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDHBSjU0uegIOi5NcWoRIAAAAMY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Friedrich_L._Bauer","wgTitle":"Friedrich L. Bauer","wgCurRevisionId":1005979194,"wgRevisionId":1005979194,"wgArticleId":2702375,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: location","Articles with short description","Short description matches Wikidata","Use dmy dates from September 2020","Articles with hCards","Commons category link is on Wikidata","Wikipedia articles with ACM-DL identifiers",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDNxznEJCJrC5HTDAg46MwAAAQQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Friedrich_L._Bauer","wgTitle":"Friedrich L. Bauer","wgCurRevisionId":1005979194,"wgRevisionId":1005979194,"wgArticleId":2702375,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: location","Articles with short description","Short description matches Wikidata","Use dmy dates from September 2020","Articles with hCards","Commons category link is on Wikidata","Wikipedia articles with ACM-DL identifiers",
 "Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CANTIC identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with Trove identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1924 births","2015 deaths","German computer scientists","20th-century German mathematicians","Historians of mathematics","People from Regensburg",
 "Programming language designers","Software engineering researchers","Computer science educators","Technical University of Munich faculty","Ludwig Maximilian University of Munich alumni","Officers Crosses of the Order of Merit of the Federal Republic of Germany","Recipients of the Bavarian Order of Merit","Members of the Bavarian Maximilian Order for Science and Art","21st-century German mathematicians","Members of the Austrian Academy of Sciences"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Friedrich_L._Bauer","wgRelevantArticleId":2702375,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
 "wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q68604"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons",
@@ -330,13 +330,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1372
-Cached time: 20210220221821
+Parsed by mw1391
+Cached time: 20210222014345
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.827 seconds
-Real time usage: 1.282 seconds
+CPU time usage: 0.526 seconds
+Real time usage: 0.734 seconds
 Preprocessor visited node count: 3012/1000000
 Post‐expand include size: 106674/2097152 bytes
 Template argument size: 5078/2097152 bytes
@@ -344,25 +344,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 23/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 37011/5000000 bytes
-Lua time usage: 0.427/10.000 seconds
+Lua time usage: 0.270/10.000 seconds
 Lua memory usage: 7469141/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1144.945      1 -total
- 27.16%  310.919      1 Template:Infobox_scientist
- 26.03%  298.031      1 Template:Infobox_person
- 24.34%  278.653      2 Template:Infobox
- 13.96%  159.800      1 Template:Cite_journal
- 11.21%  128.299      1 Template:Reflist
-  9.93%  113.640      5 Template:Br_separated_entries
-  9.90%  113.338      1 Template:Short_description
-  9.23%  105.647      1 Template:Commons_category
-  9.10%  104.142      6 Template:Navbox
+100.00%  639.134      1 -total
+ 30.39%  194.202      1 Template:Infobox_scientist
+ 29.39%  187.822      1 Template:Infobox_person
+ 26.67%  170.454      2 Template:Infobox
+ 13.93%   89.009      5 Template:Br_separated_entries
+ 13.64%   87.179      1 Template:Cite_journal
+ 11.61%   74.187      1 Template:Short_description
+  9.82%   62.748      1 Template:Birth_date
+  9.78%   62.536      6 Template:Navbox
+  9.49%   60.671      1 Template:Reflist
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2702375-0!canonical and timestamp 20210220221820 and revision id 1005979194. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2702375-0!canonical and timestamp 20210222014344 and revision id 1005979194. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Friedrich_L._Bauer&amp;oldid=1005979194">https://en.wikipedia.org/w/index.php?title=Friedrich_L._Bauer&amp;oldid=1005979194</a>"</div></div>
@@ -562,7 +562,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.827","walltime":"1.282","ppvisitednodes":{"value":3012,"limit":1000000},"postexpandincludesize":{"value":106674,"limit":2097152},"templateargumentsize":{"value":5078,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37011,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1144.945      1 -total"," 27.16%  310.919      1 Template:Infobox_scientist"," 26.03%  298.031      1 Template:Infobox_person"," 24.34%  278.653      2 Template:Infobox"," 13.96%  159.800      1 Template:Cite_journal"," 11.21%  128.299      1 Template:Reflist","  9.93%  113.640      5 Template:Br_separated_entries","  9.90%  113.338      1 Template:Short_description","  9.23%  105.647      1 Template:Commons_category","  9.10%  104.142      6 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.427","limit":"10.000"},"limitreport-memusage":{"value":7469141,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20210220221821","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.526","walltime":"0.734","ppvisitednodes":{"value":3012,"limit":1000000},"postexpandincludesize":{"value":106674,"limit":2097152},"templateargumentsize":{"value":5078,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37011,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  639.134      1 -total"," 30.39%  194.202      1 Template:Infobox_scientist"," 29.39%  187.822      1 Template:Infobox_person"," 26.67%  170.454      2 Template:Infobox"," 13.93%   89.009      5 Template:Br_separated_entries"," 13.64%   87.179      1 Template:Cite_journal"," 11.61%   74.187      1 Template:Short_description","  9.82%   62.748      1 Template:Birth_date","  9.78%   62.536      6 Template:Navbox","  9.49%   60.671      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"10.000"},"limitreport-memusage":{"value":7469141,"limit":52428800}},"cachereport":{"origin":"mw1391","timestamp":"20210222014345","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Friedrich L. Bauer","url":"https:\/\/en.wikipedia.org\/wiki\/Friedrich_L._Bauer","sameAs":"http:\/\/www.wikidata.org\/entity\/Q68604","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q68604","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-18T18:26:31Z","dateModified":"2021-02-10T11:00:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c7\/FriedrichLudwigBauer.jpg","headline":"German computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1401"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":145,"wgHostname":"mw1405"});});</script>
 </body></html>

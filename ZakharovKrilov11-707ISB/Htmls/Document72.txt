@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Andrey Ershov - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDGPJw9572ayz9A2Az48oQAAAIc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrey_Ershov","wgTitle":"Andrey Ershov","wgCurRevisionId":993778980,"wgRevisionId":993778980,"wgArticleId":146952,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2018","Articles with hCards","No local image but image on Wikidata","Articles containing Russian-language text","All articles with unsourced statements","Articles with unsourced statements from May 2017","Articles with Russian-language sources (ru)",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDSylH-ASx4LFCmyS1-eOgAAAEI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrey_Ershov","wgTitle":"Andrey Ershov","wgCurRevisionId":993778980,"wgRevisionId":993778980,"wgArticleId":146952,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2018","Articles with hCards","No local image but image on Wikidata","Articles containing Russian-language text","All articles with unsourced statements","Articles with unsourced statements from May 2017","Articles with Russian-language sources (ru)",
 "Wikipedia articles with ACM-DL identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1931 births","1988 deaths","People from Moscow","Computer programmers","Computer systems researchers","Programming language researchers","Russian computer scientists","Russian inventors","Soviet computer scientists","Full Members of the USSR Academy of Sciences","Fellows of the British Computer Society","20th-century inventors","Burials at Yuzhnoye Cemetery (Novosibirsk)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andrey_Ershov"
 ,"wgRelevantArticleId":146952,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1961494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
 "skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -242,13 +242,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1263
-Cached time: 20210220164849
+Parsed by mw1352
+Cached time: 20210223022352
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.743 seconds
-Real time usage: 1.101 seconds
+CPU time usage: 0.709 seconds
+Real time usage: 1.264 seconds
 Preprocessor visited node count: 2413/1000000
 Post‐expand include size: 84046/2097152 bytes
 Template argument size: 3242/2097152 bytes
@@ -256,25 +256,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 14/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 16983/5000000 bytes
-Lua time usage: 0.445/10.000 seconds
-Lua memory usage: 22347319/52428800 bytes
+Lua time usage: 0.428/10.000 seconds
+Lua memory usage: 22349328/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1004.834      1 -total
- 27.55%  276.834      1 Template:Infobox_scientist
- 25.82%  259.407      1 Template:Infobox_person
- 23.47%  235.808      2 Template:Infobox
- 18.44%  185.334      1 Template:Lang-ru
- 15.99%  160.672      1 Template:Reflist
- 14.15%  142.178      5 Template:Cite_web
- 13.09%  131.569      5 Template:Br_separated_entries
-  9.45%   94.925      6 Template:Navbox
-  8.98%   90.281      1 Template:ALGOL_programming
+100.00% 1170.984      1 -total
+ 28.98%  339.353      1 Template:Infobox_scientist
+ 26.18%  306.552      1 Template:Infobox_person
+ 22.77%  266.600      2 Template:Infobox
+ 16.03%  187.674      1 Template:Lang-ru
+ 15.84%  185.488      1 Template:Reflist
+ 14.39%  168.466      5 Template:Cite_web
+ 12.54%  146.869      6 Template:Navbox
+ 12.30%  144.028      5 Template:Br_separated_entries
+ 11.20%  131.144      1 Template:ALGOL_programming
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:146952-0!canonical and timestamp 20210220164848 and revision id 993778980. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:146952-0!canonical and timestamp 20210223022351 and revision id 993778980. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrey_Ershov&amp;oldid=993778980">https://en.wikipedia.org/w/index.php?title=Andrey_Ershov&amp;oldid=993778980</a>"</div></div>
@@ -463,7 +463,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.743","walltime":"1.101","ppvisitednodes":{"value":2413,"limit":1000000},"postexpandincludesize":{"value":84046,"limit":2097152},"templateargumentsize":{"value":3242,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16983,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1004.834      1 -total"," 27.55%  276.834      1 Template:Infobox_scientist"," 25.82%  259.407      1 Template:Infobox_person"," 23.47%  235.808      2 Template:Infobox"," 18.44%  185.334      1 Template:Lang-ru"," 15.99%  160.672      1 Template:Reflist"," 14.15%  142.178      5 Template:Cite_web"," 13.09%  131.569      5 Template:Br_separated_entries","  9.45%   94.925      6 Template:Navbox","  8.98%   90.281      1 Template:ALGOL_programming"]},"scribunto":{"limitreport-timeusage":{"value":"0.445","limit":"10.000"},"limitreport-memusage":{"value":22347319,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20210220164849","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.709","walltime":"1.264","ppvisitednodes":{"value":2413,"limit":1000000},"postexpandincludesize":{"value":84046,"limit":2097152},"templateargumentsize":{"value":3242,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16983,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1170.984      1 -total"," 28.98%  339.353      1 Template:Infobox_scientist"," 26.18%  306.552      1 Template:Infobox_person"," 22.77%  266.600      2 Template:Infobox"," 16.03%  187.674      1 Template:Lang-ru"," 15.84%  185.488      1 Template:Reflist"," 14.39%  168.466      5 Template:Cite_web"," 12.54%  146.869      6 Template:Navbox"," 12.30%  144.028      5 Template:Br_separated_entries"," 11.20%  131.144      1 Template:ALGOL_programming"]},"scribunto":{"limitreport-timeusage":{"value":"0.428","limit":"10.000"},"limitreport-memusage":{"value":22349328,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20210223022352","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrey Ershov","url":"https:\/\/en.wikipedia.org\/wiki\/Andrey_Ershov","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1961494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1961494","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-13T20:36:47Z","dateModified":"2020-12-12T13:16:04Z","headline":"Russian computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1387"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":219,"wgHostname":"mw1333"});});</script>
 </body></html>

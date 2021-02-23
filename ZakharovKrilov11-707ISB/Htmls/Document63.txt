@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Robert Dewar - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDHclzS8Co2tYdJ8hhrXHQAAAJU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robert_Dewar","wgTitle":"Robert Dewar","wgCurRevisionId":994551626,"wgRevisionId":994551626,"wgArticleId":31836283,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","All articles with dead external links","Articles with dead external links from November 2017","Articles with permanently dead external links","Articles with dead external links from November 2018","Articles with short description","Short description is different from Wikidata",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDSqNj7-B27-nG@EY79P9QAAAFQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robert_Dewar","wgTitle":"Robert Dewar","wgCurRevisionId":994551626,"wgRevisionId":994551626,"wgArticleId":31836283,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","All articles with dead external links","Articles with dead external links from November 2017","Articles with permanently dead external links","Articles with dead external links from November 2018","Articles with short description","Short description is different from Wikidata",
 "Use dmy dates from October 2020","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from July 2015","Official website not in Wikidata","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1945 births","English emigrants to the United States","American computer scientists","American technology chief executives","Free software programmers","University of Chicago alumni","Illinois Institute of Technology faculty","New York University faculty","2015 deaths"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Robert_Dewar","wgRelevantArticleId":31836283,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
 "wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q983144"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};
 RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -416,13 +416,13 @@ RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1384
-Cached time: 20210220074425
+Parsed by mw1364
+Cached time: 20210223064931
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.060 seconds
-Real time usage: 1.766 seconds
+CPU time usage: 0.951 seconds
+Real time usage: 1.357 seconds
 Preprocessor visited node count: 4258/1000000
 Post‐expand include size: 176102/2097152 bytes
 Template argument size: 6009/2097152 bytes
@@ -430,25 +430,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 109232/5000000 bytes
-Lua time usage: 0.580/10.000 seconds
-Lua memory usage: 9482515/52428800 bytes
+Lua time usage: 0.513/10.000 seconds
+Lua memory usage: 9749989/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1641.417      1 -total
- 27.71%  454.805      1 Template:Infobox_scientist
- 26.48%  434.603      1 Template:Infobox_person
- 21.94%  360.049      2 Template:Infobox
- 17.66%  289.890      1 Template:Reflist
- 11.94%  195.975      8 Template:Navbox
-  9.51%  156.043      5 Template:Br_separated_entries
-  8.96%  146.993      5 Template:Cite_journal
-  7.36%  120.834      1 Template:Authority_control
-  7.33%  120.250      1 Template:Short_description
+100.00% 1215.138      1 -total
+ 27.32%  331.992      1 Template:Infobox_scientist
+ 26.71%  324.539      1 Template:Infobox_person
+ 25.47%  309.468      2 Template:Infobox
+ 23.68%  287.773      1 Template:Reflist
+ 12.04%  146.348      5 Template:Cite_journal
+ 10.75%  130.624      5 Template:Br_separated_entries
+ 10.22%  124.229      8 Template:Navbox
+  7.14%   86.809     12 Template:Cite_web
+  6.35%   77.147      1 Template:New_York_University
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:31836283-0!canonical and timestamp 20210220074423 and revision id 994551626. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31836283-0!canonical and timestamp 20210223064930 and revision id 994551626. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Robert_Dewar&amp;oldid=994551626">https://en.wikipedia.org/w/index.php?title=Robert_Dewar&amp;oldid=994551626</a>"</div></div>
@@ -637,7 +637,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.060","walltime":"1.766","ppvisitednodes":{"value":4258,"limit":1000000},"postexpandincludesize":{"value":176102,"limit":2097152},"templateargumentsize":{"value":6009,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":109232,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1641.417      1 -total"," 27.71%  454.805      1 Template:Infobox_scientist"," 26.48%  434.603      1 Template:Infobox_person"," 21.94%  360.049      2 Template:Infobox"," 17.66%  289.890      1 Template:Reflist"," 11.94%  195.975      8 Template:Navbox","  9.51%  156.043      5 Template:Br_separated_entries","  8.96%  146.993      5 Template:Cite_journal","  7.36%  120.834      1 Template:Authority_control","  7.33%  120.250      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.580","limit":"10.000"},"limitreport-memusage":{"value":9482515,"limit":52428800}},"cachereport":{"origin":"mw1384","timestamp":"20210220074425","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.951","walltime":"1.357","ppvisitednodes":{"value":4258,"limit":1000000},"postexpandincludesize":{"value":176102,"limit":2097152},"templateargumentsize":{"value":6009,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":109232,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1215.138      1 -total"," 27.32%  331.992      1 Template:Infobox_scientist"," 26.71%  324.539      1 Template:Infobox_person"," 25.47%  309.468      2 Template:Infobox"," 23.68%  287.773      1 Template:Reflist"," 12.04%  146.348      5 Template:Cite_journal"," 10.75%  130.624      5 Template:Br_separated_entries"," 10.22%  124.229      8 Template:Navbox","  7.14%   86.809     12 Template:Cite_web","  6.35%   77.147      1 Template:New_York_University"]},"scribunto":{"limitreport-timeusage":{"value":"0.513","limit":"10.000"},"limitreport-memusage":{"value":9749989,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20210223064931","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Robert Dewar","url":"https:\/\/en.wikipedia.org\/wiki\/Robert_Dewar","sameAs":"http:\/\/www.wikidata.org\/entity\/Q983144","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q983144","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-05-20T18:50:36Z","dateModified":"2020-12-16T08:42:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/24\/Robert_Dewar.jpg","headline":"American computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1389"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1365"});});</script>
 </body></html>

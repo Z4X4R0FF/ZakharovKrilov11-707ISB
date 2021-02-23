@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Fabrice Bellard - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDEcarcRUnCR4vY7FGrfUwAAAQY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fabrice_Bellard","wgTitle":"Fabrice Bellard","wgCurRevisionId":1005395422,"wgRevisionId":1005395422,"wgArticleId":926739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Pages using infobox person with unknown parameters","Articles with hCards","Official website different in Wikidata and Wikipedia","AC with 0 elements","Télécom ParisTech alumni","1972 births","Living people","École Polytechnique alumni",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDLoW8358mW9TF0bnoh95wAAAMQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fabrice_Bellard","wgTitle":"Fabrice Bellard","wgCurRevisionId":1005395422,"wgRevisionId":1005395422,"wgArticleId":926739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Pages using infobox person with unknown parameters","Articles with hCards","Official website different in Wikidata and Wikipedia","AC with 0 elements","Télécom ParisTech alumni","1972 births","Living people","École Polytechnique alumni",
 "French computer programmers","People from Grenoble","French computer scientists","Free software programmers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Fabrice_Bellard","wgRelevantArticleId":926739,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q93013"};RLSTATE={
 "ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -110,13 +110,13 @@
 <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110726063943/http://www.freearchive.org/o/55dfc9935a719fc36ab1d16567972732c2db1fd7d7e3826fd73ee07e4c3c7d0b">ACM Journal Article</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1389
-Cached time: 20210219221138
+Parsed by mw1366
+Cached time: 20210221225410
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.309 seconds
-Real time usage: 0.398 seconds
+CPU time usage: 0.446 seconds
+Real time usage: 0.581 seconds
 Preprocessor visited node count: 1651/1000000
 Post‐expand include size: 22159/2097152 bytes
 Template argument size: 1036/2097152 bytes
@@ -124,25 +124,25 @@ Highest expansion depth: 14/40
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 40759/5000000 bytes
-Lua time usage: 0.185/10.000 seconds
-Lua memory usage: 6255528/52428800 bytes
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 6254624/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  373.742      1 -total
- 46.08%  172.202      1 Template:Reflist
- 41.49%  155.055      1 Template:Infobox_person
- 39.64%  148.169     13 Template:Cite_web
- 33.28%  124.381      1 Template:Infobox
- 17.12%   63.970      5 Template:Br_separated_entries
- 12.80%   47.821      1 Template:Birth_year_and_age
-  6.21%   23.200      1 Template:Authority_control
-  2.52%    9.415      1 Template:Wikidata_image
-  2.05%    7.661      8 Template:Main_other
+100.00%  520.726      1 -total
+ 49.28%  256.594      1 Template:Infobox_person
+ 40.98%  213.387      1 Template:Infobox
+ 37.63%  195.932      1 Template:Reflist
+ 30.61%  159.417     13 Template:Cite_web
+ 21.70%  113.010      5 Template:Br_separated_entries
+ 16.86%   87.772      1 Template:Birth_year_and_age
+  8.12%   42.266      1 Template:Authority_control
+  2.76%   14.388      8 Template:Main_other
+  2.11%   11.002      1 Template:Wikidata_image
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:926739-0!canonical and timestamp 20210219221137 and revision id 1005395422. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:926739-0!canonical and timestamp 20210221225410 and revision id 1005395422. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fabrice_Bellard&amp;oldid=1005395422">https://en.wikipedia.org/w/index.php?title=Fabrice_Bellard&amp;oldid=1005395422</a>"</div></div>
@@ -331,7 +331,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.309","walltime":"0.398","ppvisitednodes":{"value":1651,"limit":1000000},"postexpandincludesize":{"value":22159,"limit":2097152},"templateargumentsize":{"value":1036,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40759,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  373.742      1 -total"," 46.08%  172.202      1 Template:Reflist"," 41.49%  155.055      1 Template:Infobox_person"," 39.64%  148.169     13 Template:Cite_web"," 33.28%  124.381      1 Template:Infobox"," 17.12%   63.970      5 Template:Br_separated_entries"," 12.80%   47.821      1 Template:Birth_year_and_age","  6.21%   23.200      1 Template:Authority_control","  2.52%    9.415      1 Template:Wikidata_image","  2.05%    7.661      8 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.185","limit":"10.000"},"limitreport-memusage":{"value":6255528,"limit":52428800}},"cachereport":{"origin":"mw1389","timestamp":"20210219221138","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.446","walltime":"0.581","ppvisitednodes":{"value":1651,"limit":1000000},"postexpandincludesize":{"value":22159,"limit":2097152},"templateargumentsize":{"value":1036,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40759,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  520.726      1 -total"," 49.28%  256.594      1 Template:Infobox_person"," 40.98%  213.387      1 Template:Infobox"," 37.63%  195.932      1 Template:Reflist"," 30.61%  159.417     13 Template:Cite_web"," 21.70%  113.010      5 Template:Br_separated_entries"," 16.86%   87.772      1 Template:Birth_year_and_age","  8.12%   42.266      1 Template:Authority_control","  2.76%   14.388      8 Template:Main_other","  2.11%   11.002      1 Template:Wikidata_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":6254624,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20210221225410","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Fabrice Bellard","url":"https:\/\/en.wikipedia.org\/wiki\/Fabrice_Bellard","sameAs":"http:\/\/www.wikidata.org\/entity\/Q93013","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q93013","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-24T19:15:53Z","dateModified":"2021-02-07T13:11:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/93\/Fabrice_Bellard.jpg","headline":"French computer programmer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173,"wgHostname":"mw1264"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1370"});});</script>
 </body></html>

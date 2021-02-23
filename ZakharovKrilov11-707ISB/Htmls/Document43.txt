@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>John Carmack - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDAYPzkZNlafPBgfE6pFigAAAJY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"John_Carmack","wgTitle":"John Carmack","wgCurRevisionId":1007754338,"wgRevisionId":1007754338,"wgArticleId":38368,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description matches Wikidata","Use mdy dates from September 2019","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from December 2019",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDSDUbXZt@JaWOewENeD2wAAAEM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"John_Carmack","wgTitle":"John Carmack","wgCurRevisionId":1007754338,"wgRevisionId":1007754338,"wgArticleId":38368,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description matches Wikidata","Use mdy dates from September 2019","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from December 2019",
 "Articles with unsourced statements from December 2012","Articles with unsourced statements from August 2013","Articles with unsourced statements from May 2008","Incomplete lists from August 2008","Commons category link from Wikidata","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1970 births","Living people","20th-century American businesspeople","20th-century atheists","21st-century American businesspeople","21st-century atheists","Academy of Interactive Arts \u0026 Sciences Hall of Fame inductees","American aerospace businesspeople","American aerospace designers","American aerospace engineers","American atheists","American computer businesspeople","American libertarians",
 "American male bloggers","American bloggers","American software engineers","American technology chief executives","American technology company founders","American video game designers","American video game programmers","Businesspeople from Kansas","Businesspeople from Texas","BAFTA fellows","Emmy Award winners","Facebook employees","Free software programmers","Id Software people","People from Heath, Texas","People from Johnson County, Kansas","Texas Libertarians","Virtual reality pioneers","Game Developers Conference Lifetime Achievement Award recipients"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"John_Carmack","wgRelevantArticleId":38368,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,
 "wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92605"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter",
@@ -1070,7 +1070,8 @@
 <li><a href="/wiki/List_of_most-followed_Instagram_accounts" title="List of most-followed Instagram accounts">List of most followed accounts</a></li>
 <li><a href="/wiki/List_of_most-liked_Instagram_posts" title="List of most-liked Instagram posts">List of most liked pictures</a></li></ul></li>
 <li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Messenger</a>
-<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li></ul></li>
+<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li>
+<li><a href="/wiki/Facebook_Messenger_Rooms" title="Facebook Messenger Rooms">Rooms</a></li></ul></li>
 <li><a href="/wiki/Mapillary" title="Mapillary">Mapillary</a></li>
 <li><a href="/wiki/Oculus_Quest" title="Oculus Quest">Oculus Quest</a>
 <ul><li><a href="/wiki/Oculus_Quest_2" title="Oculus Quest 2">2</a></li></ul></li>
@@ -1202,39 +1203,39 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1319
-Cached time: 20210219193121
+Parsed by mw1409
+Cached time: 20210223011249
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 1.450 seconds
-Real time usage: 2.158 seconds
+CPU time usage: 1.140 seconds
+Real time usage: 1.450 seconds
 Preprocessor visited node count: 6487/1000000
-Post‐expand include size: 224918/2097152 bytes
+Post‐expand include size: 225103/2097152 bytes
 Template argument size: 7807/2097152 bytes
 Highest expansion depth: 20/40
 Expensive parser function count: 14/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 168096/5000000 bytes
-Lua time usage: 0.728/10.000 seconds
-Lua memory usage: 10702398/52428800 bytes
+Lua time usage: 0.587/10.000 seconds
+Lua memory usage: 10471137/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1878.138      1 -total
- 29.99%  563.209      1 Template:Reflist
- 17.87%  335.557     35 Template:Cite_web
- 17.65%  331.523      1 Template:Infobox_person
- 14.61%  274.481      1 Template:Infobox
-  6.29%  118.054      1 Template:ISBN
-  6.12%  115.002      5 Template:Br_separated_entries
-  5.77%  108.335      5 Template:Citation_needed
-  5.01%   94.107      1 Template:Marriage
-  4.83%   90.672     58 Template:Dts
+100.00% 1221.977      1 -total
+ 39.38%  481.231      1 Template:Reflist
+ 25.31%  309.264     35 Template:Cite_web
+ 15.05%  183.945      1 Template:Infobox_person
+ 12.50%  152.709      1 Template:Infobox
+  5.85%   71.529     10 Template:Navbox
+  5.46%   66.759     58 Template:Dts
+  5.16%   63.085      5 Template:Citation_needed
+  4.88%   59.621      5 Template:Br_separated_entries
+  4.40%   53.758      1 Template:Short_description
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:38368-0!canonical and timestamp 20210219193119 and revision id 1007754338. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38368-0!canonical and timestamp 20210223011247 and revision id 1007754338. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=John_Carmack&amp;oldid=1007754338">https://en.wikipedia.org/w/index.php?title=John_Carmack&amp;oldid=1007754338</a>"</div></div>
@@ -1434,7 +1435,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.450","walltime":"2.158","ppvisitednodes":{"value":6487,"limit":1000000},"postexpandincludesize":{"value":224918,"limit":2097152},"templateargumentsize":{"value":7807,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":168096,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1878.138      1 -total"," 29.99%  563.209      1 Template:Reflist"," 17.87%  335.557     35 Template:Cite_web"," 17.65%  331.523      1 Template:Infobox_person"," 14.61%  274.481      1 Template:Infobox","  6.29%  118.054      1 Template:ISBN","  6.12%  115.002      5 Template:Br_separated_entries","  5.77%  108.335      5 Template:Citation_needed","  5.01%   94.107      1 Template:Marriage","  4.83%   90.672     58 Template:Dts"]},"scribunto":{"limitreport-timeusage":{"value":"0.728","limit":"10.000"},"limitreport-memusage":{"value":10702398,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20210219193121","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.140","walltime":"1.450","ppvisitednodes":{"value":6487,"limit":1000000},"postexpandincludesize":{"value":225103,"limit":2097152},"templateargumentsize":{"value":7807,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":168096,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1221.977      1 -total"," 39.38%  481.231      1 Template:Reflist"," 25.31%  309.264     35 Template:Cite_web"," 15.05%  183.945      1 Template:Infobox_person"," 12.50%  152.709      1 Template:Infobox","  5.85%   71.529     10 Template:Navbox","  5.46%   66.759     58 Template:Dts","  5.16%   63.085      5 Template:Citation_needed","  4.88%   59.621      5 Template:Br_separated_entries","  4.40%   53.758      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.587","limit":"10.000"},"limitreport-memusage":{"value":10471137,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20210223011249","ttl":2592000,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"John Carmack","url":"https:\/\/en.wikipedia.org\/wiki\/John_Carmack","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92605","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92605","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-25T15:51:15Z","dateModified":"2021-02-19T19:30:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4e\/John_Carmack_at_GDCA_2017_--_1_March_2017_%28cropped%29.jpeg","headline":"American computer programmer, engineer, and businessman"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":161,"wgHostname":"mw1325"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":216,"wgHostname":"mw1351"});});</script>
 </body></html>

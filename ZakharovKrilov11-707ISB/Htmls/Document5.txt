@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Andrei Alexandrescu - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDI03eW1TALSjQ3gOrw-ZwAAAIE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrei_Alexandrescu","wgTitle":"Andrei Alexandrescu","wgCurRevisionId":984837455,"wgRevisionId":984837455,"wgArticleId":156470,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with topics of unclear notability from October 2015","All articles with topics of unclear notability","Biography articles with topics of unclear notability","Articles with hCards","Articles with Romanian-language sources (ro)",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDSye4H9mD7pa4bs@5OT0gAAABQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrei_Alexandrescu","wgTitle":"Andrei Alexandrescu","wgCurRevisionId":984837455,"wgRevisionId":984837455,"wgArticleId":156470,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with topics of unclear notability from October 2015","All articles with topics of unclear notability","Biography articles with topics of unclear notability","Articles with hCards","Articles with Romanian-language sources (ro)",
 "Use dmy dates from March 2012","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with CINII identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with RERO identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Romanian computer scientists","C++ people","Politehnica University of Bucharest alumni",
 "University of Washington alumni","Living people","Scientists from Bucharest","Facebook employees","1969 births","Romanian emigrants to the United States","Programming language designers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andrei_Alexandrescu","wgRelevantArticleId":156470,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
 "wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92878"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
@@ -184,7 +184,8 @@ Expected&lt;int&gt; parseInt(const string&amp;);  // Returns an expected int: ei
 <li><a href="/wiki/List_of_most-followed_Instagram_accounts" title="List of most-followed Instagram accounts">List of most followed accounts</a></li>
 <li><a href="/wiki/List_of_most-liked_Instagram_posts" title="List of most-liked Instagram posts">List of most liked pictures</a></li></ul></li>
 <li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Messenger</a>
-<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li></ul></li>
+<ul><li><a href="/wiki/Messenger_Kids" title="Messenger Kids">Kids</a></li>
+<li><a href="/wiki/Facebook_Messenger_Rooms" title="Facebook Messenger Rooms">Rooms</a></li></ul></li>
 <li><a href="/wiki/Mapillary" title="Mapillary">Mapillary</a></li>
 <li><a href="/wiki/Oculus_Quest" title="Oculus Quest">Oculus Quest</a>
 <ul><li><a href="/wiki/Oculus_Quest_2" title="Oculus Quest 2">2</a></li></ul></li>
@@ -330,39 +331,39 @@ Expected&lt;int&gt; parseInt(const string&amp;);  // Returns an expected int: ei
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1367
-Cached time: 20210220141953
+Parsed by mw1378
+Cached time: 20210223012412
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.855 seconds
-Real time usage: 1.402 seconds
+CPU time usage: 0.814 seconds
+Real time usage: 1.049 seconds
 Preprocessor visited node count: 2009/1000000
-Post‐expand include size: 86908/2097152 bytes
+Post‐expand include size: 87093/2097152 bytes
 Template argument size: 1476/2097152 bytes
 Highest expansion depth: 14/40
 Expensive parser function count: 22/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 31186/5000000 bytes
-Lua time usage: 0.532/10.000 seconds
-Lua memory usage: 18063504/52428800 bytes
+Lua time usage: 0.502/10.000 seconds
+Lua memory usage: 18064028/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1258.460      1 -total
- 24.02%  302.302      1 Template:Infobox_person
- 20.31%  255.623      1 Template:Notability
- 18.70%  235.345      1 Template:Infobox
- 17.86%  224.814      1 Template:Ambox
- 14.70%  185.010      3 Template:Cite_book
- 14.67%  184.626      1 Template:In_lang
-  9.85%  123.995      5 Template:Br_separated_entries
-  9.28%  116.847      1 Template:Find_sources_mainspace
-  9.16%  115.260      1 Template:Reflist
+100.00%  927.049      1 -total
+ 24.42%  226.381      1 Template:Infobox_person
+ 20.06%  185.995      1 Template:Infobox
+ 17.68%  163.923      1 Template:In_lang
+ 14.95%  138.610      1 Template:Notability
+ 12.93%  119.858      3 Template:Cite_book
+ 11.20%  103.845      5 Template:Br_separated_entries
+ 10.79%  100.055      1 Template:Ambox
+ 10.33%   95.789      1 Template:Reflist
+  8.20%   76.030      5 Template:Navbox
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:156470-0!canonical and timestamp 20210220141951 and revision id 984837455. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:156470-0!canonical and timestamp 20210223012411 and revision id 984837455. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrei_Alexandrescu&amp;oldid=984837455">https://en.wikipedia.org/w/index.php?title=Andrei_Alexandrescu&amp;oldid=984837455</a>"</div></div>
@@ -562,7 +563,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.855","walltime":"1.402","ppvisitednodes":{"value":2009,"limit":1000000},"postexpandincludesize":{"value":86908,"limit":2097152},"templateargumentsize":{"value":1476,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31186,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1258.460      1 -total"," 24.02%  302.302      1 Template:Infobox_person"," 20.31%  255.623      1 Template:Notability"," 18.70%  235.345      1 Template:Infobox"," 17.86%  224.814      1 Template:Ambox"," 14.70%  185.010      3 Template:Cite_book"," 14.67%  184.626      1 Template:In_lang","  9.85%  123.995      5 Template:Br_separated_entries","  9.28%  116.847      1 Template:Find_sources_mainspace","  9.16%  115.260      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.532","limit":"10.000"},"limitreport-memusage":{"value":18063504,"limit":52428800}},"cachereport":{"origin":"mw1367","timestamp":"20210220141953","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.814","walltime":"1.049","ppvisitednodes":{"value":2009,"limit":1000000},"postexpandincludesize":{"value":87093,"limit":2097152},"templateargumentsize":{"value":1476,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31186,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  927.049      1 -total"," 24.42%  226.381      1 Template:Infobox_person"," 20.06%  185.995      1 Template:Infobox"," 17.68%  163.923      1 Template:In_lang"," 14.95%  138.610      1 Template:Notability"," 12.93%  119.858      3 Template:Cite_book"," 11.20%  103.845      5 Template:Br_separated_entries"," 10.79%  100.055      1 Template:Ambox"," 10.33%   95.789      1 Template:Reflist","  8.20%   76.030      5 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.502","limit":"10.000"},"limitreport-memusage":{"value":18064028,"limit":52428800}},"cachereport":{"origin":"mw1378","timestamp":"20210223012412","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrei Alexandrescu","url":"https:\/\/en.wikipedia.org\/wiki\/Andrei_Alexandrescu","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92878","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92878","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-12-10T10:35:04Z","dateModified":"2020-10-22T12:02:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/57\/AndreiAlexandrescu.jpg","headline":"Romanian computer scientist and author"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":185,"wgHostname":"mw1364"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":167,"wgHostname":"mw1263"});});</script>
 </body></html>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Jonathan Blow - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YCq4bQpAAEEAACoxLL0AAAEA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jonathan_Blow","wgTitle":"Jonathan Blow","wgCurRevisionId":1005581465,"wgRevisionId":1005581465,"wgArticleId":4018856,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: bot: original URL status unknown","Wikipedia articles with style issues from September 2020","All articles with style issues","Articles with short description","Short description is different from Wikidata","Articles with hCards","All articles with unsourced statements",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDR80qQwHR3hmKXki9t7aQAAAEE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Jonathan_Blow","wgTitle":"Jonathan Blow","wgCurRevisionId":1008403239,"wgRevisionId":1008403239,"wgArticleId":4018856,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: bot: original URL status unknown","Wikipedia articles with style issues from September 2020","All articles with style issues","Articles with short description","Short description is different from Wikidata","Articles with hCards","All articles with unsourced statements",
 "Articles with unsourced statements from July 2020","Wikipedia articles needing clarification from June 2016","Commons category link is on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1971 births","American computer programmers","American video game designers","American video game programmers","Independent video game developers","Living people","People from San Francisco","University of California, Berkeley alumni","Video game writers","Giving What We Can members"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Jonathan_Blow","wgRelevantArticleId":4018856,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en"
 ,"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1154944"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips",
 "ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -13,7 +13,7 @@
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.27"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -38,7 +38,7 @@
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">Jonathan Blow</h1>
+	<h1 id="firstHeading" class="firstHeading" >Jonathan Blow</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 		<div id="contentSub"></div>
@@ -82,7 +82,7 @@
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jonathan_Blow,_Gamelab_2018_(42432130094).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jonathan_Blow%2C_Gamelab_2018_%2842432130094%29.jpg/220px-Jonathan_Blow%2C_Gamelab_2018_%2842432130094%29.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jonathan_Blow%2C_Gamelab_2018_%2842432130094%29.jpg/330px-Jonathan_Blow%2C_Gamelab_2018_%2842432130094%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jonathan_Blow%2C_Gamelab_2018_%2842432130094%29.jpg/440px-Jonathan_Blow%2C_Gamelab_2018_%2842432130094%29.jpg 2x" data-file-width="4608" data-file-height="2592" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Jonathan_Blow,_Gamelab_2018_(42432130094).jpg" class="internal" title="Enlarge"></a></div>Blow in 2018</div></div></div>
 <h3><span class="mw-headline" id="Braid"><i>Braid</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jonathan_Blow&amp;action=edit&amp;section=3" title="Edit section: Braid">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
 <div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Braid_(video_game)" title="Braid (video game)">Braid (video game)</a></div>
-<p>In December 2004, feeling inspired during a trip in Thailand, Blow made a prototype for a time manipulation puzzle platformer game. The demo had crude graphics, but featured the ability of the player to rewind all the objects on screen backwards in time to a previous state. Encouraged by feedback from his peers, Blow worked on the game from about April 2005 to about December that year before having the final prototype of his game, titled <i><a href="/wiki/Braid_(video_game)" title="Braid (video game)">Braid</a></i>. This version won the <a href="/wiki/Independent_Games_Festival" title="Independent Games Festival">Independent Games Festival</a> Game Design Award at the 2006 <a href="/wiki/Game_Developers_Conference" title="Game Developers Conference">Game Developers Conference</a>.
+<p>In December 2004, feeling inspired during a trip in Thailand, Blow made a prototype for a time manipulation puzzle platform game. The demo had crude graphics, but featured the ability of the player to rewind all the objects on screen backwards in time to a previous state. Encouraged by feedback from his peers, Blow worked on the game from about April 2005 to about December that year before having the final prototype of his game, titled <i><a href="/wiki/Braid_(video_game)" title="Braid (video game)">Braid</a></i>. This version won the <a href="/wiki/Independent_Games_Festival" title="Independent Games Festival">Independent Games Festival</a> Game Design Award at the 2006 <a href="/wiki/Game_Developers_Conference" title="Game Developers Conference">Game Developers Conference</a>.
 </p><p>He continued work on the game mostly focusing on art and music while polishing some of the design until its release in 2008 on <a href="/wiki/Xbox_Live_Arcade" title="Xbox Live Arcade">Xbox Live Arcade</a>. By then, Blow was $40,000 in debt<sup id="cite_ref-The_Most_Dangerous_Gamer_3-3" class="reference"><a href="#cite_note-The_Most_Dangerous_Gamer-3">&#91;3&#93;</a></sup> and had invested $200,000 into the game's development.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
 </p><p>The game was released on August 8, 2008, to critical acclaim and achieved financial success, receiving an aggregate score of 93% on <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, making it the top-rated Xbox Live Arcade game. <i>Braid</i> was purchased by more than 55,000 people during the first week of release.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Blow recalled that he did not receive any money until some time later when he suddenly saw "a lot of zeroes" in his bank account.<sup id="cite_ref-The_Most_Dangerous_Gamer_3-4" class="reference"><a href="#cite_note-The_Most_Dangerous_Gamer-3">&#91;3&#93;</a></sup>
 </p>
@@ -210,13 +210,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1269
-Cached time: 20210215172303
+Parsed by mw1306
+Cached time: 20210223035111
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.935 seconds
-Real time usage: 2.002 seconds
+CPU time usage: 0.705 seconds
+Real time usage: 1.109 seconds
 Preprocessor visited node count: 3379/1000000
 Post‐expand include size: 75456/2097152 bytes
 Template argument size: 3805/2097152 bytes
@@ -224,28 +224,28 @@ Highest expansion depth: 17/40
 Expensive parser function count: 5/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 96153/5000000 bytes
-Lua time usage: 0.496/10.000 seconds
-Lua memory usage: 9646681/52428800 bytes
+Lua time usage: 0.366/10.000 seconds
+Lua memory usage: 9638808/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1843.332      1 -total
- 28.03%  516.680      1 Template:Reflist
- 21.85%  402.845      1 Template:Infobox_person
- 18.33%  337.868     25 Template:Cite_web
- 14.50%  267.216      1 Template:Infobox
-  8.33%  153.605      1 Template:Short_description
-  7.97%  146.889      1 Template:Tone
-  7.72%  142.370      5 Template:Br_separated_entries
-  7.22%  133.079      1 Template:Citation_needed
-  6.65%  122.538      1 Template:Fix
+100.00% 1017.170      1 -total
+ 30.81%  313.413      1 Template:Reflist
+ 21.14%  214.988     25 Template:Cite_web
+ 21.04%  213.984      1 Template:Citation_needed
+ 20.47%  208.186      1 Template:Fix
+ 19.29%  196.182      4 Template:Category_handler
+ 15.02%  152.746      1 Template:Infobox_person
+ 11.44%  116.371      1 Template:Infobox
+  6.48%   65.886      5 Template:Br_separated_entries
+  6.31%   64.142      1 Template:Tone
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:4018856-0!canonical and timestamp 20210215172301 and revision id 1005581465. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4018856-0!canonical and timestamp 20210223035111 and revision id 1008403239. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jonathan_Blow&amp;oldid=1005581465">https://en.wikipedia.org/w/index.php?title=Jonathan_Blow&amp;oldid=1005581465</a>"</div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jonathan_Blow&amp;oldid=1008403239">https://en.wikipedia.org/w/index.php?title=Jonathan_Blow&amp;oldid=1008403239</a>"</div></div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1971_births" title="Category:1971 births">1971 births</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:American_video_game_designers" title="Category:American video game designers">American video game designers</a></li><li><a href="/wiki/Category:American_video_game_programmers" title="Category:American video game programmers">American video game programmers</a></li><li><a href="/wiki/Category:Independent_video_game_developers" title="Category:Independent video game developers">Independent video game developers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_San_Francisco" title="Category:People from San Francisco">People from San Francisco</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_alumni" title="Category:University of California, Berkeley alumni">University of California, Berkeley alumni</a></li><li><a href="/wiki/Category:Video_game_writers" title="Category:Video game writers">Video game writers</a></li><li><a href="/wiki/Category:Giving_What_We_Can_members" title="Category:Giving What We Can members">Giving What We Can members</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_bot:_original_URL_status_unknown" title="Category:CS1 maint: bot: original URL status unknown">CS1 maint: bot: original URL status unknown</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_September_2020" title="Category:Wikipedia articles with style issues from September 2020">Wikipedia articles with style issues from September 2020</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2020" title="Category:Articles with unsourced statements from July 2020">Articles with unsourced statements from July 2020</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_June_2016" title="Category:Wikipedia articles needing clarification from June 2016">Wikipedia articles needing clarification from June 2016</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
 	</div>
 </div>
@@ -259,7 +259,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
-	<h3 id="p-personal-label">
+	<h3 id="p-personal-label" class="vector-menu-heading">
 		<span>Personal tools</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -272,7 +272,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
-	<h3 id="p-namespaces-label">
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
 		<span>Namespaces</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -285,7 +285,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
-	<h3 id="p-variants-label">
+	<h3 id="p-variants-label" class="vector-menu-heading">
 		<span>Variants</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -299,7 +299,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
-	<h3 id="p-views-label">
+	<h3 id="p-views-label" class="vector-menu-heading">
 		<span>Views</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -312,7 +312,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
-	<h3 id="p-cactions-label">
+	<h3 id="p-cactions-label" class="vector-menu-heading">
 		<span>More</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -321,14 +321,14 @@ Transclusion expansion time report (%,ms,calls,template)
 	</div>
 </nav>
 
-			<div id="p-search" role="search">
+			<div id="p-search" role="search" >
 	<h3 >
 		<label for="searchInput">Search</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
 			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search">
+			<input type="hidden" name="title" value="Special:Search"/>
 			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
 			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
@@ -346,7 +346,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
-	<h3 id="p-navigation-label">
+	<h3 id="p-navigation-label" class="vector-menu-heading">
 		<span>Navigation</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -358,7 +358,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label">
+	<h3 id="p-interaction-label" class="vector-menu-heading">
 		<span>Contribute</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -369,18 +369,18 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
-	<h3 id="p-tb-label">
+	<h3 id="p-tb-label" class="vector-menu-heading">
 		<span>Tools</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jonathan_Blow" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jonathan_Blow" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jonathan_Blow&amp;oldid=1005581465" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jonathan_Blow&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jonathan_Blow&amp;id=1005581465&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1154944" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jonathan_Blow" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jonathan_Blow" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jonathan_Blow&amp;oldid=1008403239" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jonathan_Blow&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jonathan_Blow&amp;id=1008403239&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1154944" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
 		
 	</div>
 </nav>
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
-	<h3 id="p-coll-print_export-label">
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
 		<span>Print/export</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -391,7 +391,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
 	 >
-	<h3 id="p-wikibase-otherprojects-label">
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
 		<span>In other projects</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -403,7 +403,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
-	<h3 id="p-lang-label">
+	<h3 id="p-lang-label" class="vector-menu-heading">
 		<span>Languages</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -417,7 +417,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> This page was last edited on 8 February 2021, at 12:00<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-lastmod"> This page was last edited on 23 February 2021, at 03:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
 	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>
@@ -442,7 +442,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.935","walltime":"2.002","ppvisitednodes":{"value":3379,"limit":1000000},"postexpandincludesize":{"value":75456,"limit":2097152},"templateargumentsize":{"value":3805,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":96153,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1843.332      1 -total"," 28.03%  516.680      1 Template:Reflist"," 21.85%  402.845      1 Template:Infobox_person"," 18.33%  337.868     25 Template:Cite_web"," 14.50%  267.216      1 Template:Infobox","  8.33%  153.605      1 Template:Short_description","  7.97%  146.889      1 Template:Tone","  7.72%  142.370      5 Template:Br_separated_entries","  7.22%  133.079      1 Template:Citation_needed","  6.65%  122.538      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.496","limit":"10.000"},"limitreport-memusage":{"value":9646681,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20210215172303","ttl":86400,"transientcontent":true}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jonathan Blow","url":"https:\/\/en.wikipedia.org\/wiki\/Jonathan_Blow","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1154944","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1154944","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-09T22:03:42Z","dateModified":"2021-02-08T12:00:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a8\/Jonathan_Blow_Game_Access_Conf_%2719.jpg","headline":"American video game designer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1270"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.705","walltime":"1.109","ppvisitednodes":{"value":3379,"limit":1000000},"postexpandincludesize":{"value":75456,"limit":2097152},"templateargumentsize":{"value":3805,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":96153,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1017.170      1 -total"," 30.81%  313.413      1 Template:Reflist"," 21.14%  214.988     25 Template:Cite_web"," 21.04%  213.984      1 Template:Citation_needed"," 20.47%  208.186      1 Template:Fix"," 19.29%  196.182      4 Template:Category_handler"," 15.02%  152.746      1 Template:Infobox_person"," 11.44%  116.371      1 Template:Infobox","  6.48%   65.886      5 Template:Br_separated_entries","  6.31%   64.142      1 Template:Tone"]},"scribunto":{"limitreport-timeusage":{"value":"0.366","limit":"10.000"},"limitreport-memusage":{"value":9638808,"limit":52428800}},"cachereport":{"origin":"mw1306","timestamp":"20210223035111","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Jonathan Blow","url":"https:\/\/en.wikipedia.org\/wiki\/Jonathan_Blow","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1154944","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1154944","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-09T22:03:42Z","dateModified":"2021-02-23T03:51:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a8\/Jonathan_Blow_Game_Access_Conf_%2719.jpg","headline":"American video game designer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":146,"wgHostname":"mw1352"});});</script>
 </body></html>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Paul Allen - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDG9zqRPcPYxXnPwE5aoFQAAAEE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Paul_Allen","wgTitle":"Paul Allen","wgCurRevisionId":1007723428,"wgRevisionId":1007723428,"wgArticleId":23347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments","Webarchive template wayback links","CS1 maint: location","CS1 maint: bot: original URL status unknown","All articles with dead external links","Articles with dead external links from July 2017","Articles with permanently dead external links",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDMSO3l4w6xHINh8o8If@gAAAAA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Paul_Allen","wgTitle":"Paul Allen","wgCurRevisionId":1007723428,"wgRevisionId":1007723428,"wgArticleId":23347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments","Webarchive template wayback links","CS1 maint: location","CS1 maint: bot: original URL status unknown","All articles with dead external links","Articles with dead external links from July 2017","Articles with permanently dead external links",
 "Articles with short description","Short description is different from Wikidata","Use American English from July 2015","All Wikipedia articles written in American English","Use mdy dates from April 2020","Infobox person using certain parameters when dead","Articles with hCards","Pages using Sister project links with wikidata namespace mismatch","Pages using Sister project links with hidden wikidata","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1953 births","2018 deaths","20th-century American businesspeople",
 "21st-century American businesspeople","American aerospace businesspeople","American art collectors","American billionaires","American communications businesspeople","American computer businesspeople","American computer programmers","American construction businesspeople","American documentary filmmakers","American inventors","American investors","American mass media owners","American memoirists","American philanthropists","American real estate businesspeople","Record producers from Washington (state)","American male guitarists","American soccer chairmen and investors","American software engineers","American technology chief executives","American technology company founders","American technology writers","American television producers","American venture capitalists","Businesspeople from King County, Washington","Businesspeople in software","Cancer survivors","Deaths from cancer in Washington (state)","Deaths from lymphoma","Fellows of the American Academy of Arts and Sciences",
 "Giving Pledgers","21st-century philanthropists","Guitarists from Washington (state)","History of Microsoft","Humanitarians","Lakeside School alumni","Major League Soccer executives","Members of the United States National Academy of Engineering","Microsoft employees","Musicians from Seattle","Portland Trail Blazers owners","Space advocates","Seattle Seahawks owners","Washington State University alumni","Writers from Seattle","Film producers from Washington (state)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Paul_Allen","wgRelevantArticleId":23347,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
@@ -1231,12 +1231,12 @@
 <!-- 
 NewPP limit report
 Parsed by mw1384
-Cached time: 20210220182545
+Cached time: 20210222004401
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 2.816 seconds
-Real time usage: 3.706 seconds
+CPU time usage: 2.749 seconds
+Real time usage: 3.325 seconds
 Preprocessor visited node count: 14395/1000000
 Post‐expand include size: 509004/2097152 bytes
 Template argument size: 9222/2097152 bytes
@@ -1244,37 +1244,37 @@ Highest expansion depth: 18/40
 Expensive parser function count: 15/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 644310/5000000 bytes
-Lua time usage: 1.470/10.000 seconds
-Lua memory usage: 13986237/52428800 bytes
+Lua time usage: 1.461/10.000 seconds
+Lua memory usage: 13689905/52428800 bytes
 Lua Profile:
-    ?                                                                340 ms       20.7%
-    Scribunto_LuaSandboxCallback::match                              300 ms       18.3%
-    Scribunto_LuaSandboxCallback::callParserFunction                 120 ms        7.3%
-    dataWrapper <mw.lua:661>                                         100 ms        6.1%
-    Scribunto_LuaSandboxCallback::getAllExpandedArguments             80 ms        4.9%
-    recursiveClone <mwInit.lua:41>                                    80 ms        4.9%
-    gsub                                                              60 ms        3.7%
-    Scribunto_LuaSandboxCallback::gsub                                60 ms        3.7%
-    Scribunto_LuaSandboxCallback::getExpandedArgument                 60 ms        3.7%
-    Scribunto_LuaSandboxCallback::getEntityStatements                 40 ms        2.4%
-    [others]                                                         400 ms       24.4%
+    ?                                                                300 ms       19.2%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                140 ms        9.0%
+    Scribunto_LuaSandboxCallback::match                              120 ms        7.7%
+    Scribunto_LuaSandboxCallback::getAllExpandedArguments            120 ms        7.7%
+    recursiveClone <mwInit.lua:41>                                   120 ms        7.7%
+    Scribunto_LuaSandboxCallback::find                               100 ms        6.4%
+    Scribunto_LuaSandboxCallback::callParserFunction                 100 ms        6.4%
+    dataWrapper <mw.lua:661>                                          80 ms        5.1%
+    <mw.lua:683>                                                      60 ms        3.8%
+    Scribunto_LuaSandboxCallback::setTTL                              40 ms        2.6%
+    [others]                                                         380 ms       24.4%
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 3258.328      1 -total
- 52.43% 1708.475      1 Template:Reflist
- 25.59%  833.852    116 Template:Cite_web
- 12.05%  392.576      1 Template:Infobox_person
- 11.20%  364.918     58 Template:Cite_news
-  9.86%  321.352      1 Template:Infobox
-  5.93%  193.273      9 Template:Navbox
-  4.12%  134.148      5 Template:Br_separated_entries
-  2.79%   90.935     10 Template:Ship
-  2.77%   90.223      1 Template:Dead_link
+100.00% 2873.229      1 -total
+ 56.94% 1636.126      1 Template:Reflist
+ 26.43%  759.437    116 Template:Cite_web
+ 13.50%  387.809     58 Template:Cite_news
+  9.51%  273.316      1 Template:Infobox_person
+  7.78%  223.520      1 Template:Infobox
+  5.94%  170.619      9 Template:Navbox
+  4.80%  137.781      5 Template:Br_separated_entries
+  3.69%  106.051      1 Template:Birth_date
+  3.13%   89.821      1 Template:Short_description
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:23347-0!canonical and timestamp 20210220182541 and revision id 1007723428. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23347-0!canonical and timestamp 20210222004358 and revision id 1007723428. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Paul_Allen&amp;oldid=1007723428">https://en.wikipedia.org/w/index.php?title=Paul_Allen&amp;oldid=1007723428</a>"</div></div>
@@ -1474,7 +1474,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.816","walltime":"3.706","ppvisitednodes":{"value":14395,"limit":1000000},"postexpandincludesize":{"value":509004,"limit":2097152},"templateargumentsize":{"value":9222,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":644310,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 3258.328      1 -total"," 52.43% 1708.475      1 Template:Reflist"," 25.59%  833.852    116 Template:Cite_web"," 12.05%  392.576      1 Template:Infobox_person"," 11.20%  364.918     58 Template:Cite_news","  9.86%  321.352      1 Template:Infobox","  5.93%  193.273      9 Template:Navbox","  4.12%  134.148      5 Template:Br_separated_entries","  2.79%   90.935     10 Template:Ship","  2.77%   90.223      1 Template:Dead_link"]},"scribunto":{"limitreport-timeusage":{"value":"1.470","limit":"10.000"},"limitreport-memusage":{"value":13986237,"limit":52428800},"limitreport-profile":[["?","340","20.7"],["Scribunto_LuaSandboxCallback::match","300","18.3"],["Scribunto_LuaSandboxCallback::callParserFunction","120","7.3"],["dataWrapper \u003Cmw.lua:661\u003E","100","6.1"],["Scribunto_LuaSandboxCallback::getAllExpandedArguments","80","4.9"],["recursiveClone \u003CmwInit.lua:41\u003E","80","4.9"],["gsub","60","3.7"],["Scribunto_LuaSandboxCallback::gsub","60","3.7"],["Scribunto_LuaSandboxCallback::getExpandedArgument","60","3.7"],["Scribunto_LuaSandboxCallback::getEntityStatements","40","2.4"],["[others]","400","24.4"]]},"cachereport":{"origin":"mw1384","timestamp":"20210220182545","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.749","walltime":"3.325","ppvisitednodes":{"value":14395,"limit":1000000},"postexpandincludesize":{"value":509004,"limit":2097152},"templateargumentsize":{"value":9222,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":644310,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2873.229      1 -total"," 56.94% 1636.126      1 Template:Reflist"," 26.43%  759.437    116 Template:Cite_web"," 13.50%  387.809     58 Template:Cite_news","  9.51%  273.316      1 Template:Infobox_person","  7.78%  223.520      1 Template:Infobox","  5.94%  170.619      9 Template:Navbox","  4.80%  137.781      5 Template:Br_separated_entries","  3.69%  106.051      1 Template:Birth_date","  3.13%   89.821      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"1.461","limit":"10.000"},"limitreport-memusage":{"value":13689905,"limit":52428800},"limitreport-profile":[["?","300","19.2"],["Scribunto_LuaSandboxCallback::getExpandedArgument","140","9.0"],["Scribunto_LuaSandboxCallback::match","120","7.7"],["Scribunto_LuaSandboxCallback::getAllExpandedArguments","120","7.7"],["recursiveClone \u003CmwInit.lua:41\u003E","120","7.7"],["Scribunto_LuaSandboxCallback::find","100","6.4"],["Scribunto_LuaSandboxCallback::callParserFunction","100","6.4"],["dataWrapper \u003Cmw.lua:661\u003E","80","5.1"],["\u003Cmw.lua:683\u003E","60","3.8"],["Scribunto_LuaSandboxCallback::setTTL","40","2.6"],["[others]","380","24.4"]]},"cachereport":{"origin":"mw1384","timestamp":"20210222004401","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Paul Allen","url":"https:\/\/en.wikipedia.org\/wiki\/Paul_Allen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q162005","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q162005","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-22T11:00:07Z","dateModified":"2021-02-19T16:19:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a2\/Paul_G._Allen_%28cropped%29.jpg","headline":"American inventor, investor and philanthropist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":195,"wgHostname":"mw1387"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":342,"wgHostname":"mw1369"});});</script>
 </body></html>

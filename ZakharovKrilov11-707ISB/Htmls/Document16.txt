@@ -3,17 +3,17 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Kent Beck - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YCqjACV-56cqelQRzbjvMQAAABY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kent_Beck","wgTitle":"Kent Beck","wgCurRevisionId":943764211,"wgRevisionId":943764211,"wgArticleId":16708,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Pages using infobox scientist with unknown parameters","Commons category link from Wikidata","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers",
-"Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with Semantic Scholar author identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Extreme programming","American technology writers","University of Oregon College of Arts and Sciences alumni","1961 births","Living people","American software engineers","Facebook employees","Software testing people","Tektronix people","Engineers from Oregon","Agile software development"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kent_Beck","wgRelevantArticleId":16708,
-"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92738"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
-"jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDQhkd4lxL8JerQflxVxtgAAAEs","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kent_Beck","wgTitle":"Kent Beck","wgCurRevisionId":1008349137,"wgRevisionId":1008349137,"wgArticleId":16708,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Commons category link from Wikidata","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers",
+"Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLK identifiers","Wikipedia articles with NLP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with PLWABN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with Semantic Scholar author identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","Extreme programming","American technology writers","University of Oregon College of Arts and Sciences alumni","1961 births","Living people","American software engineers","Facebook employees","Software testing people","Tektronix people","Engineers from Oregon","Agile software development"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Kent_Beck","wgRelevantArticleId":16708,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92738"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.27"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -38,7 +38,7 @@
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">Kent Beck</h1>
+	<h1 id="firstHeading" class="firstHeading" >Kent Beck</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
 		<div id="contentSub"></div>
@@ -70,7 +70,7 @@
 
 <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kent_Beck&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>Beck attended the <a href="/wiki/University_of_Oregon" title="University of Oregon">University of Oregon</a> between 1979 and 1987, receiving <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">B.S.</a> and <a href="/wiki/Master_of_Science" title="Master of Science">M.S.</a> degrees in <a href="/wiki/University_of_Oregon_Department_of_Computer_and_Information_Science" class="mw-redirect" title="University of Oregon Department of Computer and Information Science">computer and information science</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</p><p>In 1996 Beck was hired to work on the <a href="/wiki/Chrysler_Comprehensive_Compensation_System" title="Chrysler Comprehensive Compensation System">Chrysler Comprehensive Compensation System</a>. Beck in turn brought in <a href="/wiki/Ron_Jeffries" title="Ron Jeffries">Ron Jeffries</a>. In March 1996 the development team estimated the system would be ready to go into production around one year later.  In 1997 the development team adopted a way of working which is now formalized as <a href="/wiki/Extreme_programming" title="Extreme programming">extreme programming</a>.<sup class="reference plainlinks nourlexpansion" id="ref_dateOfXpAdoption"><a class="external autonumber" href="https://en.wikipedia.org/wiki/Kent_Beck#endnote_dateOfXpAdoption">[1]</a></sup> The one-year delivery target was nearly achieved, with actual delivery being only a couple of months late.
+</p><p>In 1996 Beck was hired to work on the <a href="/wiki/Chrysler_Comprehensive_Compensation_System" title="Chrysler Comprehensive Compensation System">Chrysler Comprehensive Compensation System</a>. Beck in turn brought in <a href="/wiki/Ron_Jeffries" title="Ron Jeffries">Ron Jeffries</a>. In March 1996 the development team estimated the system would be ready to go into production around one year later.  In 1997 the development team adopted a way of working which is now formalized as <a href="/wiki/Extreme_programming" title="Extreme programming">extreme programming</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The one-year delivery target was nearly achieved, with actual delivery being only a couple of months late.
 </p>
 <h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kent_Beck&amp;action=edit&amp;section=2" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kent_Beck&amp;action=edit&amp;section=3" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
@@ -102,6 +102,8 @@
 <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.linkedin.com/in/kentbeck/">"Kent Beck | LinkedIn"</a></span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBeck,_Kent" class="citation web cs1">Beck, Kent. <a rel="nofollow" class="external text" href="http://www.linkedin.com/in/kentbeck">"Kent Beck"</a>. LinkedIn<span class="reference-accessdate">. Retrieved <span class="nowrap">March 5,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kent+Beck&amp;rft.pub=LinkedIn&amp;rft.au=Beck%2C+Kent&amp;rft_id=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fkentbeck&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKent+Beck" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHighsmith" class="citation book cs1"><a href="/wiki/Jim_Highsmith" title="Jim Highsmith">Highsmith, Jim</a> (ed.). <i><a href="/w/index.php?title=Agile_Software_Development_Ecosystems&amp;action=edit&amp;redlink=1" class="new" title="Agile Software Development Ecosystems (page does not exist)">Agile Software Development Ecosystems</a></i>. p.&#160;298. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-76043-6" title="Special:BookSources/0-201-76043-6"><bdi>0-201-76043-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Agile+Software+Development+Ecosystems&amp;rft.pages=298&amp;rft.isbn=0-201-76043-6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKent+Beck" class="Z3988"></span></span>
 </li>
 </ol></div></div>
 <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kent_Beck&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -250,43 +252,43 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1319
-Cached time: 20210215163618
+Parsed by mw1288
+Cached time: 20210222212623
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.689 seconds
-Real time usage: 1.635 seconds
-Preprocessor visited node count: 4281/1000000
-Post‐expand include size: 56510/2097152 bytes
-Template argument size: 6399/2097152 bytes
+CPU time usage: 0.641 seconds
+Real time usage: 0.916 seconds
+Preprocessor visited node count: 4292/1000000
+Post‐expand include size: 57157/2097152 bytes
+Template argument size: 6367/2097152 bytes
 Highest expansion depth: 16/40
 Expensive parser function count: 17/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 23235/5000000 bytes
-Lua time usage: 0.288/10.000 seconds
-Lua memory usage: 4916930/52428800 bytes
+Unstrip post‐expand size: 26030/5000000 bytes
+Lua time usage: 0.283/10.000 seconds
+Lua memory usage: 5247133/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1455.131      1 -total
- 31.69%  461.100      1 Template:Infobox_scientist
- 30.71%  446.941      1 Template:Infobox_person
- 24.87%  361.848      2 Template:Infobox
- 18.86%  274.468      9 Template:ISBN
- 13.95%  203.012      5 Template:Br_separated_entries
- 12.56%  182.807      1 Template:Authority_control
- 11.86%  172.510      1 Template:Commons_category
- 10.86%  157.964      2 Template:Sister_project
- 10.65%  154.911      1 Template:Software_engineering
+100.00%  813.922      1 -total
+ 33.54%  272.984      1 Template:Infobox_scientist
+ 31.88%  259.480      1 Template:Infobox_person
+ 29.28%  238.330      2 Template:Infobox
+ 25.28%  205.794      9 Template:ISBN
+ 14.91%  121.367      5 Template:Br_separated_entries
+ 14.00%  113.932      1 Template:Reflist
+ 12.55%  102.170      9 Template:Catalog_lookup_link
+ 11.58%   94.247      1 Template:Birth_year_and_age
+ 11.28%   91.851      1 Template:Cite_web
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:16708-0!canonical and timestamp 20210215163616 and revision id 943764211. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16708-0!canonical and timestamp 20210222212628 and revision id 1008349137. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kent_Beck&amp;oldid=943764211">https://en.wikipedia.org/w/index.php?title=Kent_Beck&amp;oldid=943764211</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Extreme_programming" title="Category:Extreme programming">Extreme programming</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:University_of_Oregon_College_of_Arts_and_Sciences_alumni" title="Category:University of Oregon College of Arts and Sciences alumni">University of Oregon College of Arts and Sciences alumni</a></li><li><a href="/wiki/Category:1961_births" title="Category:1961 births">1961 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_software_engineers" title="Category:American software engineers">American software engineers</a></li><li><a href="/wiki/Category:Facebook_employees" title="Category:Facebook employees">Facebook employees</a></li><li><a href="/wiki/Category:Software_testing_people" title="Category:Software testing people">Software testing people</a></li><li><a href="/wiki/Category:Tektronix_people" title="Category:Tektronix people">Tektronix people</a></li><li><a href="/wiki/Category:Engineers_from_Oregon" title="Category:Engineers from Oregon">Engineers from Oregon</a></li><li><a href="/wiki/Category:Agile_software_development" title="Category:Agile software development">Agile software development</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Pages_using_infobox_scientist_with_unknown_parameters" title="Category:Pages using infobox scientist with unknown parameters">Pages using infobox scientist with unknown parameters</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLK_identifiers" title="Category:Wikipedia articles with NLK identifiers">Wikipedia articles with NLK identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLP_identifiers" title="Category:Wikipedia articles with NLP identifiers">Wikipedia articles with NLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PLWABN_identifiers" title="Category:Wikipedia articles with PLWABN identifiers">Wikipedia articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_Semantic_Scholar_author_identifiers" title="Category:Wikipedia articles with Semantic Scholar author identifiers">Wikipedia articles with Semantic Scholar author identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kent_Beck&amp;oldid=1008349137">https://en.wikipedia.org/w/index.php?title=Kent_Beck&amp;oldid=1008349137</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Extreme_programming" title="Category:Extreme programming">Extreme programming</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:University_of_Oregon_College_of_Arts_and_Sciences_alumni" title="Category:University of Oregon College of Arts and Sciences alumni">University of Oregon College of Arts and Sciences alumni</a></li><li><a href="/wiki/Category:1961_births" title="Category:1961 births">1961 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_software_engineers" title="Category:American software engineers">American software engineers</a></li><li><a href="/wiki/Category:Facebook_employees" title="Category:Facebook employees">Facebook employees</a></li><li><a href="/wiki/Category:Software_testing_people" title="Category:Software testing people">Software testing people</a></li><li><a href="/wiki/Category:Tektronix_people" title="Category:Tektronix people">Tektronix people</a></li><li><a href="/wiki/Category:Engineers_from_Oregon" title="Category:Engineers from Oregon">Engineers from Oregon</a></li><li><a href="/wiki/Category:Agile_software_development" title="Category:Agile software development">Agile software development</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLK_identifiers" title="Category:Wikipedia articles with NLK identifiers">Wikipedia articles with NLK identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLP_identifiers" title="Category:Wikipedia articles with NLP identifiers">Wikipedia articles with NLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_PLWABN_identifiers" title="Category:Wikipedia articles with PLWABN identifiers">Wikipedia articles with PLWABN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_Semantic_Scholar_author_identifiers" title="Category:Wikipedia articles with Semantic Scholar author identifiers">Wikipedia articles with Semantic Scholar author identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -299,7 +301,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
-	<h3 id="p-personal-label">
+	<h3 id="p-personal-label" class="vector-menu-heading">
 		<span>Personal tools</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -312,7 +314,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
-	<h3 id="p-namespaces-label">
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
 		<span>Namespaces</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -325,7 +327,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
-	<h3 id="p-variants-label">
+	<h3 id="p-variants-label" class="vector-menu-heading">
 		<span>Variants</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -339,7 +341,7 @@ Transclusion expansion time report (%,ms,calls,template)
 			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
-	<h3 id="p-views-label">
+	<h3 id="p-views-label" class="vector-menu-heading">
 		<span>Views</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -352,7 +354,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
-	<h3 id="p-cactions-label">
+	<h3 id="p-cactions-label" class="vector-menu-heading">
 		<span>More</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -361,14 +363,14 @@ Transclusion expansion time report (%,ms,calls,template)
 	</div>
 </nav>
 
-			<div id="p-search" role="search">
+			<div id="p-search" role="search" >
 	<h3 >
 		<label for="searchInput">Search</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
 			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search">
+			<input type="hidden" name="title" value="Special:Search"/>
 			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
 			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
@@ -386,7 +388,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
-	<h3 id="p-navigation-label">
+	<h3 id="p-navigation-label" class="vector-menu-heading">
 		<span>Navigation</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -398,7 +400,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label">
+	<h3 id="p-interaction-label" class="vector-menu-heading">
 		<span>Contribute</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -409,18 +411,18 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
-	<h3 id="p-tb-label">
+	<h3 id="p-tb-label" class="vector-menu-heading">
 		<span>Tools</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kent_Beck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kent_Beck" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kent_Beck&amp;oldid=943764211" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kent_Beck&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kent_Beck&amp;id=943764211&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92738" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kent_Beck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kent_Beck" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kent_Beck&amp;oldid=1008349137" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kent_Beck&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kent_Beck&amp;id=1008349137&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92738" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
 		
 	</div>
 </nav>
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
-	<h3 id="p-coll-print_export-label">
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
 		<span>Print/export</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -431,7 +433,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
 	 >
-	<h3 id="p-wikibase-otherprojects-label">
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
 		<span>In other projects</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -443,7 +445,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
-	<h3 id="p-lang-label">
+	<h3 id="p-lang-label" class="vector-menu-heading">
 		<span>Languages</span>
 	</h3>
 	<div class="vector-menu-content">
@@ -457,7 +459,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> This page was last edited on 3 March 2020, at 20:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-lastmod"> This page was last edited on 22 February 2021, at 21:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
 	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>
@@ -482,7 +484,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.689","walltime":"1.635","ppvisitednodes":{"value":4281,"limit":1000000},"postexpandincludesize":{"value":56510,"limit":2097152},"templateargumentsize":{"value":6399,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23235,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1455.131      1 -total"," 31.69%  461.100      1 Template:Infobox_scientist"," 30.71%  446.941      1 Template:Infobox_person"," 24.87%  361.848      2 Template:Infobox"," 18.86%  274.468      9 Template:ISBN"," 13.95%  203.012      5 Template:Br_separated_entries"," 12.56%  182.807      1 Template:Authority_control"," 11.86%  172.510      1 Template:Commons_category"," 10.86%  157.964      2 Template:Sister_project"," 10.65%  154.911      1 Template:Software_engineering"]},"scribunto":{"limitreport-timeusage":{"value":"0.288","limit":"10.000"},"limitreport-memusage":{"value":4916930,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20210215163618","ttl":86400,"transientcontent":true}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kent Beck","url":"https:\/\/en.wikipedia.org\/wiki\/Kent_Beck","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92738","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92738","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-16T20:50:57Z","dateModified":"2020-03-03T20:13:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/55\/Kent_Beck_no_Workshop_Mapping_XP.jpg","headline":"American software engineer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2003,"wgHostname":"mw1319"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.641","walltime":"0.916","ppvisitednodes":{"value":4292,"limit":1000000},"postexpandincludesize":{"value":57157,"limit":2097152},"templateargumentsize":{"value":6367,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26030,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  813.922      1 -total"," 33.54%  272.984      1 Template:Infobox_scientist"," 31.88%  259.480      1 Template:Infobox_person"," 29.28%  238.330      2 Template:Infobox"," 25.28%  205.794      9 Template:ISBN"," 14.91%  121.367      5 Template:Br_separated_entries"," 14.00%  113.932      1 Template:Reflist"," 12.55%  102.170      9 Template:Catalog_lookup_link"," 11.58%   94.247      1 Template:Birth_year_and_age"," 11.28%   91.851      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.283","limit":"10.000"},"limitreport-memusage":{"value":5247133,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20210222212623","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kent Beck","url":"https:\/\/en.wikipedia.org\/wiki\/Kent_Beck","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92738","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92738","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-05-16T20:50:57Z","dateModified":"2021-02-22T21:26:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/55\/Kent_Beck_no_Workshop_Mapping_XP.jpg","headline":"American software engineer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":192,"wgHostname":"mw1353"});});</script>
 </body></html>

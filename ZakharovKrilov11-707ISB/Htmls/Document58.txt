@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Ryan Dahl - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDAnwwYf6owS7FBN0b@bcQAAANc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ryan_Dahl","wgTitle":"Ryan Dahl","wgCurRevisionId":1007735035,"wgRevisionId":1007735035,"wgArticleId":35063158,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","AC with 0 elements","Year of birth missing (living people)","All stub articles","Living people","American software engineers","21st-century American inventors","Engineer stubs"],"wgPageContentLanguage":"en",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDRT-VoEVnaAuTOcKh41xQAAAJc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ryan_Dahl","wgTitle":"Ryan Dahl","wgCurRevisionId":1007735035,"wgRevisionId":1007735035,"wgArticleId":35063158,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with hCards","AC with 0 elements","Year of birth missing (living people)","All stub articles","Living people","American software engineers","21st-century American inventors","Engineer stubs"],"wgPageContentLanguage":"en",
 "wgPageContentModel":"wikitext","wgRelevantPageName":"Ryan_Dahl","wgRelevantArticleId":35063158,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q42211199"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
 "user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -95,13 +95,13 @@
 
 <!-- 
 NewPP limit report
-Parsed by mw1402
-Cached time: 20210219173255
+Parsed by mw1353
+Cached time: 20210222195012
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.356 seconds
-Real time usage: 0.508 seconds
+CPU time usage: 0.425 seconds
+Real time usage: 1.073 seconds
 Preprocessor visited node count: 1525/1000000
 Post‐expand include size: 18575/2097152 bytes
 Template argument size: 1420/2097152 bytes
@@ -109,25 +109,25 @@ Highest expansion depth: 14/40
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 22371/5000000 bytes
-Lua time usage: 0.196/10.000 seconds
-Lua memory usage: 4942614/52428800 bytes
+Lua time usage: 0.241/10.000 seconds
+Lua memory usage: 4942372/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  470.985      1 -total
- 38.89%  183.158      1 Template:Infobox_person
- 28.93%  136.266      1 Template:Reflist
- 24.62%  115.940      6 Template:Cite_web
- 22.06%  103.886      1 Template:Infobox
- 11.61%   54.689      1 Template:Short_description
- 11.60%   54.630      5 Template:Br_separated_entries
- 10.69%   50.356      1 Template:Wikidata_image
-  7.66%   36.096      1 Template:Birth_year_and_age
-  7.24%   34.102      1 Template:Engineer-stub
+100.00% 1017.588      1 -total
+ 28.36%  288.550      1 Template:Reflist
+ 26.66%  271.327      1 Template:Infobox_person
+ 23.56%  239.745      6 Template:Cite_web
+ 20.58%  209.396      1 Template:Short_description
+ 19.37%  197.073      1 Template:Infobox
+ 12.65%  128.772      5 Template:Br_separated_entries
+ 10.01%  101.849      1 Template:Pagetype
+  8.89%   90.487      1 Template:Engineer-stub
+  7.04%   71.655     10 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:35063158-0!canonical and timestamp 20210219173337 and revision id 1007735035. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:35063158-0!canonical and timestamp 20210222195010 and revision id 1007735035. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ryan_Dahl&amp;oldid=1007735035">https://en.wikipedia.org/w/index.php?title=Ryan_Dahl&amp;oldid=1007735035</a>"</div></div>
@@ -327,7 +327,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.508","ppvisitednodes":{"value":1525,"limit":1000000},"postexpandincludesize":{"value":18575,"limit":2097152},"templateargumentsize":{"value":1420,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22371,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  470.985      1 -total"," 38.89%  183.158      1 Template:Infobox_person"," 28.93%  136.266      1 Template:Reflist"," 24.62%  115.940      6 Template:Cite_web"," 22.06%  103.886      1 Template:Infobox"," 11.61%   54.689      1 Template:Short_description"," 11.60%   54.630      5 Template:Br_separated_entries"," 10.69%   50.356      1 Template:Wikidata_image","  7.66%   36.096      1 Template:Birth_year_and_age","  7.24%   34.102      1 Template:Engineer-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.196","limit":"10.000"},"limitreport-memusage":{"value":4942614,"limit":52428800}},"cachereport":{"origin":"mw1402","timestamp":"20210219173255","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.425","walltime":"1.073","ppvisitednodes":{"value":1525,"limit":1000000},"postexpandincludesize":{"value":18575,"limit":2097152},"templateargumentsize":{"value":1420,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22371,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1017.588      1 -total"," 28.36%  288.550      1 Template:Reflist"," 26.66%  271.327      1 Template:Infobox_person"," 23.56%  239.745      6 Template:Cite_web"," 20.58%  209.396      1 Template:Short_description"," 19.37%  197.073      1 Template:Infobox"," 12.65%  128.772      5 Template:Br_separated_entries"," 10.01%  101.849      1 Template:Pagetype","  8.89%   90.487      1 Template:Engineer-stub","  7.04%   71.655     10 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.241","limit":"10.000"},"limitreport-memusage":{"value":4942372,"limit":52428800}},"cachereport":{"origin":"mw1353","timestamp":"20210222195012","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ryan Dahl","url":"https:\/\/en.wikipedia.org\/wiki\/Ryan_Dahl","sameAs":"http:\/\/www.wikidata.org\/entity\/Q42211199","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q42211199","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-03-14T02:54:39Z","dateModified":"2021-02-19T17:33:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b2\/Ryan_Dahl.jpg","headline":"Software engineer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":200,"wgHostname":"mw1364"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":145,"wgHostname":"mw1268"});});</script>
 </body></html>

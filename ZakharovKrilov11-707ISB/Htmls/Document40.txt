@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Danielle Bunten Berry - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDBRAWKHLMN5kwt7HdzGgwAAANQ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Danielle_Bunten_Berry","wgTitle":"Danielle Bunten Berry","wgCurRevisionId":1003107560,"wgRevisionId":1003107560,"wgArticleId":294341,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: bot: original URL status unknown","Articles with short description","Short description matches Wikidata","Articles with hCards","Webarchive template wayback links","AC with 0 elements","1949 births","1998 deaths",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDM9dJ7HAHu@fGwmLPZ2uQAAAEg","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Danielle_Bunten_Berry","wgTitle":"Danielle Bunten Berry","wgCurRevisionId":1003107560,"wgRevisionId":1003107560,"wgArticleId":294341,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: bot: original URL status unknown","Articles with short description","Short description matches Wikidata","Articles with hCards","Webarchive template wayback links","AC with 0 elements","1949 births","1998 deaths",
 "Academy of Interactive Arts \u0026 Sciences Hall of Fame inductees","American video game designers","Artists from Little Rock, Arkansas","Deaths from cancer in Arkansas","Deaths from lung cancer","LGBT people from Arkansas","LGBT people from Missouri","MicroProse people","People from St. Louis","Transgender and transsexual computer programmers","Transgender and transsexual women","Video game programmers","Women video game programmers","Women video game designers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Danielle_Bunten_Berry","wgRelevantArticleId":294341,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":
 "en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q11440"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert",
 "ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -206,13 +206,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1409
-Cached time: 20210219182402
+Parsed by mw1371
+Cached time: 20210221192807
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.504 seconds
-Real time usage: 0.701 seconds
+CPU time usage: 0.573 seconds
+Real time usage: 1.152 seconds
 Preprocessor visited node count: 2086/1000000
 Post‐expand include size: 32480/2097152 bytes
 Template argument size: 1590/2097152 bytes
@@ -220,25 +220,25 @@ Highest expansion depth: 18/40
 Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 47234/5000000 bytes
-Lua time usage: 0.279/10.000 seconds
-Lua memory usage: 7963679/52428800 bytes
+Lua time usage: 0.290/10.000 seconds
+Lua memory usage: 7965470/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  645.747      1 -total
- 37.06%  239.291      1 Template:Reflist
- 27.31%  176.368      9 Template:Cite_web
- 24.04%  155.264      1 Template:Infobox_person
- 17.92%  115.690      1 Template:Infobox
- 11.42%   73.733      5 Template:Br_separated_entries
- 10.67%   68.924      1 Template:Short_description
-  7.40%   47.758      1 Template:Birth_date
-  7.13%   46.057      1 Template:Portal
-  6.19%   39.979      1 Template:Pagetype
+100.00% 1054.443      1 -total
+ 31.28%  329.790      1 Template:Infobox_person
+ 22.07%  232.758      1 Template:Reflist
+ 21.27%  224.264      1 Template:Infobox
+ 15.22%  160.482      9 Template:Cite_web
+ 14.76%  155.587      1 Template:Short_description
+ 12.89%  135.872      5 Template:Br_separated_entries
+ 11.13%  117.377      1 Template:Portal
+  9.69%  102.226      1 Template:Pagetype
+  7.02%   74.000      1 Template:Birth_date
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:294341-0!canonical and timestamp 20210219182401 and revision id 1003107560. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:294341-0!canonical and timestamp 20210221192806 and revision id 1003107560. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Danielle_Bunten_Berry&amp;oldid=1003107560">https://en.wikipedia.org/w/index.php?title=Danielle_Bunten_Berry&amp;oldid=1003107560</a>"</div></div>
@@ -427,7 +427,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.701","ppvisitednodes":{"value":2086,"limit":1000000},"postexpandincludesize":{"value":32480,"limit":2097152},"templateargumentsize":{"value":1590,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47234,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  645.747      1 -total"," 37.06%  239.291      1 Template:Reflist"," 27.31%  176.368      9 Template:Cite_web"," 24.04%  155.264      1 Template:Infobox_person"," 17.92%  115.690      1 Template:Infobox"," 11.42%   73.733      5 Template:Br_separated_entries"," 10.67%   68.924      1 Template:Short_description","  7.40%   47.758      1 Template:Birth_date","  7.13%   46.057      1 Template:Portal","  6.19%   39.979      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.279","limit":"10.000"},"limitreport-memusage":{"value":7963679,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20210219182402","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.573","walltime":"1.152","ppvisitednodes":{"value":2086,"limit":1000000},"postexpandincludesize":{"value":32480,"limit":2097152},"templateargumentsize":{"value":1590,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47234,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1054.443      1 -total"," 31.28%  329.790      1 Template:Infobox_person"," 22.07%  232.758      1 Template:Reflist"," 21.27%  224.264      1 Template:Infobox"," 15.22%  160.482      9 Template:Cite_web"," 14.76%  155.587      1 Template:Short_description"," 12.89%  135.872      5 Template:Br_separated_entries"," 11.13%  117.377      1 Template:Portal","  9.69%  102.226      1 Template:Pagetype","  7.02%   74.000      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"0.290","limit":"10.000"},"limitreport-memusage":{"value":7965470,"limit":52428800}},"cachereport":{"origin":"mw1371","timestamp":"20210221192807","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Danielle Bunten Berry","url":"https:\/\/en.wikipedia.org\/wiki\/Danielle_Bunten_Berry","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11440","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11440","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-11T23:12:20Z","dateModified":"2021-01-27T12:59:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f4\/DaniBuntenBerryGameDesigner.PNG","headline":"American game designer and programmer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1331"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":178,"wgHostname":"mw1273"});});</script>
 </body></html>

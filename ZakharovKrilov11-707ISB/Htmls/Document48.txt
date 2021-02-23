@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Alain Colmerauer - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDFxisqr0mqKpIzgQERXbAAAAMA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Alain_Colmerauer","wgTitle":"Alain Colmerauer","wgCurRevisionId":995870039,"wgRevisionId":995870039,"wgArticleId":371762,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra text: authors list","Articles with short description","Short description matches Wikidata","Use dmy dates from October 2020","Articles with hCards","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDPQcOYzrIS9PWwDNFyJ1AAAAJY","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Alain_Colmerauer","wgTitle":"Alain Colmerauer","wgCurRevisionId":995870039,"wgRevisionId":995870039,"wgArticleId":371762,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra text: authors list","Articles with short description","Short description matches Wikidata","Use dmy dates from October 2020","Articles with hCards","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers",
 "Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","All stub articles","French computer scientists","Programming language designers","1941 births","2017 deaths","Members of the French Academy of Sciences","Chevaliers of the Légion d'honneur","Université de Montréal faculty","Aix-Marseille University faculty","Grenoble Institute of Technology alumni","People from Carcassonne","20th-century French scientists","21st-century French scientists","20th-century French engineers","21st-century French engineers","European computer specialist stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alain_Colmerauer","wgRelevantArticleId":371762,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
 "wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q93072"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};
 RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -118,13 +118,13 @@ RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawi
 <table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr class="noresize"><td><a href="/wiki/File:Fr_Computer.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fr_Computer.svg/35px-Fr_Computer.svg.png" decoding="async" width="35" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fr_Computer.svg/53px-Fr_Computer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fr_Computer.svg/70px-Fr_Computer.svg.png 2x" data-file-width="119" data-file-height="123" /></a></td><td><i>This article about a French computer specialist is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Alain_Colmerauer&amp;action=edit">expanding it</a>.</i><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:France-compu-bio-stub" title="Template:France-compu-bio-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:France-compu-bio-stub" title="Template talk:France-compu-bio-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:France-compu-bio-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1395
-Cached time: 20210219224758
+Parsed by mw1320
+Cached time: 20210222150604
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.412 seconds
-Real time usage: 0.578 seconds
+CPU time usage: 0.621 seconds
+Real time usage: 1.199 seconds
 Preprocessor visited node count: 2268/1000000
 Post‐expand include size: 32422/2097152 bytes
 Template argument size: 2387/2097152 bytes
@@ -132,25 +132,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 31263/5000000 bytes
-Lua time usage: 0.216/10.000 seconds
+Lua time usage: 0.344/10.000 seconds
 Lua memory usage: 7326665/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  542.261      1 -total
- 38.70%  209.853      1 Template:Infobox_scientist
- 36.52%  198.021      1 Template:Infobox_person
- 31.31%  169.790      2 Template:Infobox
- 27.82%  150.870      1 Template:Reflist
- 23.19%  125.739      7 Template:Cite_web
- 16.86%   91.406      5 Template:Br_separated_entries
- 12.28%   66.604      1 Template:Short_description
-  9.94%   53.894      1 Template:Birth_date
-  6.72%   36.447      1 Template:Pagetype
+100.00% 1140.638      1 -total
+ 40.08%  457.176      1 Template:Infobox_scientist
+ 38.79%  442.479      1 Template:Infobox_person
+ 30.46%  347.489      2 Template:Infobox
+ 25.74%  293.564      1 Template:Reflist
+ 18.42%  210.069      7 Template:Cite_web
+ 16.77%  191.321      5 Template:Br_separated_entries
+  9.86%  112.436      1 Template:Authority_control
+  9.22%  105.136      1 Template:Birth_date
+  8.89%  101.394      1 Template:Short_description
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:371762-0!canonical and timestamp 20210219224758 and revision id 995870039. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:371762-0!canonical and timestamp 20210222150603 and revision id 995870039. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alain_Colmerauer&amp;oldid=995870039">https://en.wikipedia.org/w/index.php?title=Alain_Colmerauer&amp;oldid=995870039</a>"</div></div>
@@ -350,7 +350,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"0.578","ppvisitednodes":{"value":2268,"limit":1000000},"postexpandincludesize":{"value":32422,"limit":2097152},"templateargumentsize":{"value":2387,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31263,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  542.261      1 -total"," 38.70%  209.853      1 Template:Infobox_scientist"," 36.52%  198.021      1 Template:Infobox_person"," 31.31%  169.790      2 Template:Infobox"," 27.82%  150.870      1 Template:Reflist"," 23.19%  125.739      7 Template:Cite_web"," 16.86%   91.406      5 Template:Br_separated_entries"," 12.28%   66.604      1 Template:Short_description","  9.94%   53.894      1 Template:Birth_date","  6.72%   36.447      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.216","limit":"10.000"},"limitreport-memusage":{"value":7326665,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20210219224758","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.621","walltime":"1.199","ppvisitednodes":{"value":2268,"limit":1000000},"postexpandincludesize":{"value":32422,"limit":2097152},"templateargumentsize":{"value":2387,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31263,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1140.638      1 -total"," 40.08%  457.176      1 Template:Infobox_scientist"," 38.79%  442.479      1 Template:Infobox_person"," 30.46%  347.489      2 Template:Infobox"," 25.74%  293.564      1 Template:Reflist"," 18.42%  210.069      7 Template:Cite_web"," 16.77%  191.321      5 Template:Br_separated_entries","  9.86%  112.436      1 Template:Authority_control","  9.22%  105.136      1 Template:Birth_date","  8.89%  101.394      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.344","limit":"10.000"},"limitreport-memusage":{"value":7326665,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20210222150604","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alain Colmerauer","url":"https:\/\/en.wikipedia.org\/wiki\/Alain_Colmerauer","sameAs":"http:\/\/www.wikidata.org\/entity\/Q93072","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q93072","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-19T01:27:09Z","dateModified":"2020-12-23T09:12:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/A-Colmerauer_web-800x423.jpg","headline":"French computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":214,"wgHostname":"mw1328"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":261,"wgHostname":"mw1372"});});</script>
 </body></html>

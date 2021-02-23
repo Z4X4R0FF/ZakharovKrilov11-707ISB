@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Andrew Fluegelman - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJImXrgStTYDeRCm7sfLwAAAQA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrew_Fluegelman","wgTitle":"Andrew Fluegelman","wgCurRevisionId":1001283072,"wgRevisionId":1001283072,"wgArticleId":801015,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2020","Articles with hCards","Wikipedia articles with BNF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDPFMIKb7@WKjC9My35TDwAAAEI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrew_Fluegelman","wgTitle":"Andrew Fluegelman","wgCurRevisionId":1001283072,"wgRevisionId":1001283072,"wgArticleId":801015,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from April 2020","Articles with hCards","Wikipedia articles with BNF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers",
 "Wikipedia articles with NKC identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1943 births","1985 suicides","American computer programmers","American publishers (people)","Book packagers","California lawyers","Freeware","Missing people","Missing person cases in California","Writers from California","20th-century American lawyers","20th-century American businesspeople","1980s missing person cases","People from Tiburon, California","20th-century American inventors"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andrew_Fluegelman","wgRelevantArticleId":801015,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,
 "wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1135961"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js",
 "ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -189,13 +189,13 @@ The Doubleday Publishing Group (1978)
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1263
-Cached time: 20210220225604
+Parsed by mw1261
+Cached time: 20210222020336
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.608 seconds
-Real time usage: 0.857 seconds
+CPU time usage: 0.613 seconds
+Real time usage: 1.174 seconds
 Preprocessor visited node count: 4345/1000000
 Post‐expand include size: 29848/2097152 bytes
 Template argument size: 6594/2097152 bytes
@@ -203,25 +203,25 @@ Highest expansion depth: 18/40
 Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 33746/5000000 bytes
-Lua time usage: 0.237/10.000 seconds
-Lua memory usage: 5712001/52428800 bytes
+Lua time usage: 0.248/10.000 seconds
+Lua memory usage: 5712041/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  799.489      1 -total
- 29.31%  234.308     10 Template:ISBN
- 24.38%  194.914      1 Template:Infobox_person
- 20.51%  163.987      1 Template:Infobox
- 15.80%  126.351     10 Template:Catalog_lookup_link
- 14.83%  118.580      1 Template:Reflist
- 13.01%  104.020      5 Template:Br_separated_entries
- 13.01%  104.015      1 Template:Authority_control
- 11.49%   91.879      1 Template:Short_description
-  9.67%   77.339      1 Template:Cite_news
+100.00% 1118.216      1 -total
+ 32.12%  359.142      1 Template:Short_description
+ 28.31%  316.547      1 Template:Pagetype
+ 23.45%  262.174      1 Template:Infobox_person
+ 21.36%  238.899     10 Template:ISBN
+ 19.44%  217.373      1 Template:Infobox
+ 14.24%  159.287      5 Template:Br_separated_entries
+ 10.93%  122.239     10 Template:Catalog_lookup_link
+  9.75%  109.004      1 Template:Reflist
+  7.63%   85.351      1 Template:Birth_date
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:801015-0!canonical and timestamp 20210220225603 and revision id 1001283072. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:801015-0!canonical and timestamp 20210222020334 and revision id 1001283072. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrew_Fluegelman&amp;oldid=1001283072">https://en.wikipedia.org/w/index.php?title=Andrew_Fluegelman&amp;oldid=1001283072</a>"</div></div>
@@ -410,7 +410,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.857","ppvisitednodes":{"value":4345,"limit":1000000},"postexpandincludesize":{"value":29848,"limit":2097152},"templateargumentsize":{"value":6594,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33746,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  799.489      1 -total"," 29.31%  234.308     10 Template:ISBN"," 24.38%  194.914      1 Template:Infobox_person"," 20.51%  163.987      1 Template:Infobox"," 15.80%  126.351     10 Template:Catalog_lookup_link"," 14.83%  118.580      1 Template:Reflist"," 13.01%  104.020      5 Template:Br_separated_entries"," 13.01%  104.015      1 Template:Authority_control"," 11.49%   91.879      1 Template:Short_description","  9.67%   77.339      1 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":5712001,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20210220225604","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.613","walltime":"1.174","ppvisitednodes":{"value":4345,"limit":1000000},"postexpandincludesize":{"value":29848,"limit":2097152},"templateargumentsize":{"value":6594,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33746,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1118.216      1 -total"," 32.12%  359.142      1 Template:Short_description"," 28.31%  316.547      1 Template:Pagetype"," 23.45%  262.174      1 Template:Infobox_person"," 21.36%  238.899     10 Template:ISBN"," 19.44%  217.373      1 Template:Infobox"," 14.24%  159.287      5 Template:Br_separated_entries"," 10.93%  122.239     10 Template:Catalog_lookup_link","  9.75%  109.004      1 Template:Reflist","  7.63%   85.351      1 Template:Birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"0.248","limit":"10.000"},"limitreport-memusage":{"value":5712041,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20210222020336","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrew Fluegelman","url":"https:\/\/en.wikipedia.org\/wiki\/Andrew_Fluegelman","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1135961","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1135961","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-09T19:34:56Z","dateModified":"2021-01-19T00:57:16Z","headline":"American publisher"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173,"wgHostname":"mw1331"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1385"});});</script>
 </body></html>

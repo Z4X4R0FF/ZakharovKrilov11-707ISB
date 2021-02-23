@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Ole-Johan Dahl - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDJIj6Shl-KWBK-H4QPPKAAAABU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ole-Johan_Dahl","wgTitle":"Ole-Johan Dahl","wgCurRevisionId":994132703,"wgRevisionId":994132703,"wgArticleId":64188,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: unfit URL","Use dmy dates from April 2018","Articles with hCards","CS1 location test","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDPl9i5yQH8Jdwtbf6DVRAAAABc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ole-Johan_Dahl","wgTitle":"Ole-Johan Dahl","wgCurRevisionId":994132703,"wgRevisionId":994132703,"wgArticleId":64188,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: unfit URL","Use dmy dates from April 2018","Articles with hCards","CS1 location test","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers",
 "Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1931 births","2002 deaths","People from Mandal, Norway","University of Oslo alumni","University of Oslo faculty","Norwegian computer scientists","Programming language designers","Turing Award laureates","Formal methods people"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ole-Johan_Dahl","wgRelevantArticleId":64188,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":
 !1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92745"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=[
 "ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -489,13 +489,13 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1352
-Cached time: 20210221015016
+Parsed by mw1401
+Cached time: 20210222031446
 Cache expiry: 86400
 Dynamic content: true
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.693 seconds
-Real time usage: 0.940 seconds
+CPU time usage: 0.698 seconds
+Real time usage: 0.876 seconds
 Preprocessor visited node count: 3121/1000000
 Post‐expand include size: 152151/2097152 bytes
 Template argument size: 2654/2097152 bytes
@@ -503,25 +503,25 @@ Highest expansion depth: 20/40
 Expensive parser function count: 15/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 48208/5000000 bytes
-Lua time usage: 0.347/10.000 seconds
-Lua memory usage: 8130004/52428800 bytes
+Lua time usage: 0.343/10.000 seconds
+Lua memory usage: 8136153/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  778.036      1 -total
- 34.48%  268.254      1 Template:Infobox_scientist
- 31.88%  248.031      1 Template:Infobox_person
- 28.66%  223.024      2 Template:Infobox
- 22.64%  176.165     10 Template:Cite_book
- 15.84%  123.251      5 Template:Br_separated_entries
- 14.90%  115.935     10 Template:Navbox
-  9.06%   70.499      1 Template:Birth_date
-  8.25%   64.196      1 Template:ALGOL_programming
-  7.53%   58.562      1 Template:Authority_control
+100.00%  723.679      1 -total
+ 32.85%  237.725      1 Template:Infobox_scientist
+ 29.71%  215.013      1 Template:Infobox_person
+ 25.89%  187.367      2 Template:Infobox
+ 20.17%  145.947     10 Template:Cite_book
+ 14.18%  102.630      5 Template:Br_separated_entries
+ 12.70%   91.899     10 Template:Navbox
+  9.72%   70.365      1 Template:Birth_date
+  8.22%   59.487      1 Template:Authority_control
+  7.74%   55.986      1 Template:ALGOL_programming
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:64188-0!canonical and timestamp 20210221015015 and revision id 994132703. Serialized with JSON.
+<!-- Saved in parser cache with key enwiki:pcache:idhash:64188-0!canonical and timestamp 20210222031445 and revision id 994132703. Serialized with JSON.
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ole-Johan_Dahl&amp;oldid=994132703">https://en.wikipedia.org/w/index.php?title=Ole-Johan_Dahl&amp;oldid=994132703</a>"</div></div>
@@ -710,7 +710,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.693","walltime":"0.940","ppvisitednodes":{"value":3121,"limit":1000000},"postexpandincludesize":{"value":152151,"limit":2097152},"templateargumentsize":{"value":2654,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48208,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  778.036      1 -total"," 34.48%  268.254      1 Template:Infobox_scientist"," 31.88%  248.031      1 Template:Infobox_person"," 28.66%  223.024      2 Template:Infobox"," 22.64%  176.165     10 Template:Cite_book"," 15.84%  123.251      5 Template:Br_separated_entries"," 14.90%  115.935     10 Template:Navbox","  9.06%   70.499      1 Template:Birth_date","  8.25%   64.196      1 Template:ALGOL_programming","  7.53%   58.562      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.347","limit":"10.000"},"limitreport-memusage":{"value":8130004,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20210221015016","ttl":86400,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.698","walltime":"0.876","ppvisitednodes":{"value":3121,"limit":1000000},"postexpandincludesize":{"value":152151,"limit":2097152},"templateargumentsize":{"value":2654,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48208,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  723.679      1 -total"," 32.85%  237.725      1 Template:Infobox_scientist"," 29.71%  215.013      1 Template:Infobox_person"," 25.89%  187.367      2 Template:Infobox"," 20.17%  145.947     10 Template:Cite_book"," 14.18%  102.630      5 Template:Br_separated_entries"," 12.70%   91.899     10 Template:Navbox","  9.72%   70.365      1 Template:Birth_date","  8.22%   59.487      1 Template:Authority_control","  7.74%   55.986      1 Template:ALGOL_programming"]},"scribunto":{"limitreport-timeusage":{"value":"0.343","limit":"10.000"},"limitreport-memusage":{"value":8136153,"limit":52428800}},"cachereport":{"origin":"mw1401","timestamp":"20210222031446","ttl":86400,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ole-Johan Dahl","url":"https:\/\/en.wikipedia.org\/wiki\/Ole-Johan_Dahl","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92745","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92745","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-07-25T02:35:39Z","dateModified":"2020-12-14T06:25:32Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/7a\/Ole-Johan_Dahl.jpg","headline":"computer scientist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1407"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":216,"wgHostname":"mw1354"});});</script>
 </body></html>

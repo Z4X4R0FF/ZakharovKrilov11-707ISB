@@ -21,13 +21,16 @@ namespace ZakharovKrilov11_707ISB.Controllers
 
         public IActionResult Index()
         {
-            const string url = "https://en.wikipedia.org/wiki/List_of_programmers";
+            /*const string url = "https://en.wikipedia.org/wiki/List_of_programmers";
             var response = Scraper.CallUrl(url).Result;
             var linkList = Scraper.GetLinksFromHtml(Scraper.ParseHtml(response)).Take(100).ToList();
             Scraper.WriteLinksToTxt(linkList);
             var htmlDocList = linkList.Select(link => Scraper.CallUrl(link).Result)
                 .Select(Scraper.ParseHtml).ToList();
             Scraper.WriteHtmlsToTxt(htmlDocList);
+            */
+            var tokens = Tokenizer.TokenizeDocumentsInFolder("Htmls", " ");
+            Tokenizer.WriteTokensToTxt(tokens);
             return View();
         }
 

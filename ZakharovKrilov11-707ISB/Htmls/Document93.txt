@@ -1,228 +1,237 @@
 <!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
+<html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Andrew Gower - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDPLkgnszBrY4jAIiiyjRwAAAAw","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrew_Gower","wgTitle":"Andrew Gower","wgCurRevisionId":996923190,"wgRevisionId":996923190,"wgArticleId":1160777,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from April 2013","Articles with hCards","1978 births","Alumni of Fitzwilliam College, Cambridge","British computer programmers","British technology chief executives","British technology company founders","British video game designers","Jagex","Living people",
-"MUD developers","British video game programmers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Andrew_Gower","wgRelevantArticleId":1160777,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2451677"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":
-"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+<title>Портал:Анархизм — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEZmOlcpzMsXMB3oxIVuOAAAAMM","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Анархизм","wgTitle":"Анархизм","wgCurRevisionId":104742847,"wgRevisionId":104742847,"wgArticleId":1429257,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Портал:Политика"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Анархизм",
+"wgRelevantArticleId":1429257,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":104742847,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,
+"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q8519616"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.33"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:title" content="Портал:Анархизм"/>
+<meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Andrew_Gower"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andrew_Gower&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Andrew_Gower&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Andrew_Gower"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andrew_Gower rootpage-Andrew_Gower skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Анархизм rootpage-Портал_Анархизм skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Andrew Gower</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Анархизм</h1>
 	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
 		<div id="contentSub"></div>
 		<div id="contentSub2"></div>
 		
 		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the British game developer. For the British actor, see <a href="/wiki/Andrew_Gower_(actor)" title="Andrew Gower (actor)">Andrew Gower (actor)</a>.</div>
-<p class="mw-empty-elt">
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="browsebar" style="margin:-3px auto 0.2em; text-align: center; font-size: 98%;">
+<p><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Все порталы</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a>&#160;• 
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a>&#160;•
+<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a>
 </p>
-<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Andrew Gower</div></th></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1978-12-02</span>) </span>2 December 1978<span class="noprint ForceAgeToShow"> (age&#160;42)</span><br /><div style="display:inline" class="birthplace">Nottingham, England</div></td></tr><tr><th scope="row">Nationality</th><td class="category"><a href="/wiki/British_people" title="British people">British</a></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a><sup id="cite_ref-cambridge_1-0" class="reference"><a href="#cite_note-cambridge-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Occupation</th><td class="role">Founder of <a href="/w/index.php?title=Fen_Research&amp;action=edit&amp;redlink=1" class="new" title="Fen Research (page does not exist)">Fen Research</a></td></tr><tr><th scope="row">Known&#160;for</th><td>Co-founder of <a href="/wiki/Jagex" title="Jagex">Jagex</a></td></tr><tr><th scope="row">Net&#160;worth</th><td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /><a href="/wiki/Pound_sterling" title="Pound sterling">GBP£</a> 138 <a href="/wiki/Million" class="mw-redirect" title="Million">million</a> with Paul Gower (2011)<sup id="cite_ref-The_Sunday_Times_2-0" class="reference"><a href="#cite_note-The_Sunday_Times-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
-<p><b>Andrew Christopher Gower</b> (born c. 1978) is a <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> computer programmer and businessman. He is the co-founder of <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>-based <a href="/wiki/Jagex" title="Jagex">Jagex</a>, the company he founded with his brothers Paul and Ian Gower and with Constant Tedder. He created the <a href="/wiki/MMORPG" class="mw-redirect" title="MMORPG">MMORPG</a> <i><a href="/wiki/RuneScape" title="RuneScape">RuneScape</a></i> with the assistance of his two brothers, Ian and Paul Gower.<sup id="cite_ref-guardian_3-0" class="reference"><a href="#cite_note-guardian-3">&#91;3&#93;</a></sup> In December 2010 he left the Jagex board of directors.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> He no longer has holdings in the company.<sup id="cite_ref-SDCP_5-0" class="reference"><a href="#cite_note-SDCP-5">&#91;5&#93;</a></sup> As of November 2011, he is listed under the credits for <i>RuneScape</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Since leaving Jagex, Gower has founded a new gaming development and consulting company, <a href="/w/index.php?title=Fen_Research&amp;action=edit&amp;redlink=1" class="new" title="Fen Research (page does not exist)">Fen Research</a>, of which he holds 90% of the shares.<sup id="cite_ref-SDCP_5-1" class="reference"><a href="#cite_note-SDCP-5">&#91;5&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Currently, he is developing a futuristic sci-fi strategy game named <i>Solstrike</i>.  Gower has designed a <a href="/wiki/Type_system#Static_type_checking" title="Type system">statically-typed</a> <a href="/wiki/Programming_language" title="Programming language">programming language</a> to aid in the project's development.
+</div>
+<table width="100%" style="border-top:3px solid #000000; ; border-bottom:5px solid #000000; ; background-color:#fff; text-align:center; padding:0.5em;">
+<tbody><tr><td>
+<div style="padding: 2px; font-family:Eurostile, &#39;Gill Sans&#39;, sans-serif; font-size:130%;"><a class="mw-selflink selflink">Портал</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Обсуждение портала:Анархизм">Обсуждение портала</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Проект:Анархизм">Проект</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" title="Проект:Анархизм/Участники">Участники</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8_%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B" title="Проект:Анархизм/Книги и материалы">Книги и материалы</a></div>
+</td></tr>
+</tbody></table>
+<table cellspacing="6">
+<tbody><tr>
+<td width="75%" style="border-top:4px solid #FFF; border-bottom:7px solid #FFF; background-color:#fff; padding:0.5em;" valign="top"><div style="margin-bottom:1em">
+<div style="font-variant:small-caps; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:220%; font-weight:bold; padding-bottom:0.1em">ПОРТАЛ:АНАРХИЗМ</div>
+<hr />
+</div>
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Anarchy-symbol.svg" class="image"><img alt="Anarchy-symbol.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anarchy-symbol.svg/80px-Anarchy-symbol.svg.png" decoding="async" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anarchy-symbol.svg/120px-Anarchy-symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anarchy-symbol.svg/160px-Anarchy-symbol.svg.png 2x" data-file-width="562" data-file-height="562" /></a></div>
+<p><b><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Анархизм">Анархи́зм</a></b>&#160;(от&#160;ἀν&#160;— «без» и&#160;ἄρχή&#160;— «власть»)&#160;— свободное мышление, заключающее в себе&#160;<a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F" title="Теория">теории</a>&#160;и взгляды, которые выступают за ликвидацию любого принудительного управления и власти человека над человеком.
+Анархизм&#160;—&#160;<a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Политическая философия">политическая философия</a>, основывающаяся на&#160;<a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0" title="Свобода">свободе</a>&#160;и имеющая своей целью уничтожение всех типов принуждения и&#160;<a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D1%8F_(%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Эксплуатация (экономика)">эксплуатации</a>&#160;человека человеком. Анархизм предлагает заменить сотрудничеством индивидов власть, существующую за счёт подавления одних людей другими и благодаря&#160;<a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B2%D0%B8%D0%BB%D0%B5%D0%B3%D0%B8%D1%8F_(%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B5%D1%80%D0%B0%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE)" title="Привилегия (социальное неравенство)">привилегиям</a>&#160;одних по отношению к другим. Это означает, что, по мнению анархистов, общественные отношения и&#160;<a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" title="Социальный институт">институты</a>&#160;должны основываться на личной заинтересованности, взаимопомощи, добровольном согласии и ответственности (исходящей из личной заинтересованности) каждого участника, а все виды&#160;<a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Власть">власти</a>&#160;(то есть принуждения и эксплуатации) должны быть ликвидированы.
 </p>
-<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Gower&amp;action=edit&amp;section=1" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Gower was born in <a href="/wiki/Nottingham,_England" class="mw-redirect" title="Nottingham, England">Nottingham, England</a>. He said in the <i>Runescape Documentary</i> (2017) that he first got into programming when he was seven years old.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> He attended <a href="/wiki/The_Becket_School" title="The Becket School">The Becket School</a> and went on to study at <a href="/wiki/Fitzwilliam_College,_Cambridge" title="Fitzwilliam College, Cambridge">Fitzwilliam College, Cambridge</a>.<sup id="cite_ref-cambridge_1-1" class="reference"><a href="#cite_note-cambridge-1">&#91;1&#93;</a></sup>
-</p><p>The <a href="/wiki/Sunday_Times_Rich_List_2007" title="Sunday Times Rich List 2007">2007 Sunday Times Rich List</a> listed Andrew and Paul Gower as the 654th richest entrepreneurs in the UK, worth £113 million.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-RetireAt21_10-0" class="reference"><a href="#cite_note-RetireAt21-10">&#91;10&#93;</a></sup> In 2009, the <i>Sunday Times</i> <a href="/wiki/Sunday_Times_Rich_List_2009" title="Sunday Times Rich List 2009">listed</a> them as the 566th richest men, worth an estimated £99 million.<sup id="cite_ref-The_Sunday_Times_2-1" class="reference"><a href="#cite_note-The_Sunday_Times-2">&#91;2&#93;</a></sup> <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i> also listed Andrew and Paul Gower as the 11th richest young <a href="/wiki/Entrepreneur" class="mw-redirect" title="Entrepreneur">entrepreneurs</a> in the <a href="/wiki/UK" class="mw-redirect" title="UK">UK</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td>
+<td rowspan="6" width="25%" style="border: 2px solid #FFF; border-bottom: 4px solid #FFF; background-color:#F6F6F6; padding:0em;" valign="top">
+<table cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="border:0; border-top:2px solid #F6F6F6; background:; background:transparent; padding:0.5em 0.5em 0;" valign="middle" align="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikipedia-logo_A_pt.svg" class="image"><img alt="Wikipedia-logo A pt.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wikipedia-logo_A_pt.svg/180px-Wikipedia-logo_A_pt.svg.png" decoding="async" width="180" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wikipedia-logo_A_pt.svg/270px-Wikipedia-logo_A_pt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wikipedia-logo_A_pt.svg/360px-Wikipedia-logo_A_pt.svg.png 2x" data-file-width="1062" data-file-height="1062" /></a></div>
+</td></tr>
+
+
+<tr>
+<td style="border:0; border-bottom:2px solid #F6F6F6; background:; background:transparent; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Ключевые статьи</div>
+<hr />
+<ul><li><b>Анархисты</b>: <a href="/wiki/%D0%A8%D1%82%D0%B8%D1%80%D0%BD%D0%B5%D1%80,_%D0%9C%D0%B0%D0%BA%D1%81" title="Штирнер, Макс">Штирнер, Макс</a> — <a href="/wiki/%D0%A5%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B2,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA" title="Ходоров, Фрэнк">Ходоров, Фрэнк</a> — <a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Кропоткин, Пётр Алексеевич">Кропоткин, Пётр Алексеевич</a> — <a href="/wiki/%D0%91%D0%B0%D0%BA%D1%83%D0%BD%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бакунин, Михаил Александрович">Бакунин, Михаил Александрович</a></li>
+<li><b>Направления</b>: <b><a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Социальный анархизм">Социальный анархизм</a></b> (<a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%BC" title="Анархо-коммунизм">Анархо-коммунизм</a> — <a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC" class="mw-redirect" title="Анархо-коллективизм">Анархо-коллективизм</a> — <a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D1%84%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC" title="Анархо-феминизм">Анархо-феминизм</a> — <a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Зелёный анархизм">Зелёный анархизм</a>) — <b><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" class="mw-redirect" title="Анархо-индивидуализм">Анархо-индивидуализм</a></b> (<a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Анархо-капитализм">Анархо-капитализм</a> — <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC" title="Индивидуалистический феминизм">Индивидуалистический феминизм</a> — <a href="/w/index.php?title=%D0%AD%D0%B3%D0%BE%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Эгоистический анархизм (страница отсутствует)">Эгоистический анархизм</a><span style="font-style:normal; font-weight:normal;"><sup class="noprint"><a href="https://en.wikipedia.org/wiki/Egoist_anarchism" class="extiw" title="en:Egoist anarchism"><span title="Egoist anarchism — версия статьи «Эгоистический анархизм» на английском языке">[en]</span></a></sup></span> — <a href="/w/index.php?title=%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%BE%D0%B5_%D0%BB%D0%B8%D0%B1%D0%B5%D1%80%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Зелёное либертарианство (страница отсутствует)">Зелёное либертарианство</a><span style="font-style:normal; font-weight:normal;"><sup class="noprint"><a href="https://en.wikipedia.org/wiki/Green_libertarianism" class="extiw" title="en:Green libertarianism"><span title="Green libertarianism — версия статьи «Зелёное либертарианство» на английском языке">[en]</span></a></sup></span> — <a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%BF%D0%B0%D1%86%D0%B8%D1%84%D0%B8%D0%B7%D0%BC" title="Анархо-пацифизм">Анархо-пацифизм</a></li></ul>
+<div align="right">
+<p><small><span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit">править</a>]</span></small>
 </p>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Gower&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="column-width: 35em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-cambridge-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-cambridge_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cambridge_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFCambridge_University_Reporter2000" class="citation web cs1">Cambridge University Reporter (12 July 2000). <a rel="nofollow" class="external text" href="http://www.admin.cam.ac.uk/reporter/1999-2000/weekly/5816/25.html">"Congregations of the Regent House on 29 June, 30 June, and 1 July 2000"</a>. University of Cambridge. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071031051209/http://www.admin.cam.ac.uk/reporter/1999-2000/weekly/5816/25.html">Archived</a> from the original on 31 October 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Congregations+of+the+Regent+House+on+29+June%2C+30+June%2C+and+1+July+2000&amp;rft.pub=University+of+Cambridge&amp;rft.date=2000-07-12&amp;rft.au=Cambridge+University+Reporter&amp;rft_id=http%3A%2F%2Fwww.admin.cam.ac.uk%2Freporter%2F1999-2000%2Fweekly%2F5816%2F25.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-The_Sunday_Times-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Sunday_Times_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Sunday_Times_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100704175930/http://www.develop-online.net/news/34613/Jagex-duo-ascend-UK-rich-list-with-138m-fortune">"Jagex duo climb rich list with £138m fortune"</a>. London: Develop Online. 2010. Archived from <a rel="nofollow" class="external text" href="http://www.develop-online.net/news/34613/Jagex-duo-ascend-UK-rich-list-with-138m-fortune">the original</a> on 4 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jagex+duo+climb+rich+list+with+%C2%A3138m+fortune&amp;rft.place=London&amp;rft.pub=Develop+Online&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwww.develop-online.net%2Fnews%2F34613%2FJagex-duo-ascend-UK-rich-list-with-138m-fortune&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-guardian-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-guardian_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDodson2003" class="citation news cs1">Dodson, Sean (11 December 2003). <a rel="nofollow" class="external text" href="http://technology.guardian.co.uk/online/story/0,3605,1103882,00.html">"Rune to move"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>. London: <a href="/wiki/Guardian_Unlimited" class="mw-redirect" title="Guardian Unlimited">Guardian Unlimited</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070310141636/http://technology.guardian.co.uk/online/story/0%2C3605%2C1103882%2C00.html">Archived</a> from the original on 10 March 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Rune+to+move&amp;rft.date=2003-12-11&amp;rft.aulast=Dodson&amp;rft.aufirst=Sean&amp;rft_id=http%3A%2F%2Ftechnology.guardian.co.uk%2Fonline%2Fstory%2F0%2C3605%2C1103882%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stellardawnmedia.com/10939.png">Termination of appointment of director</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110716134323/http://www.stellardawnmedia.com/10939.png">Archived</a> 16 July 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (PNG image). OYEZ (10 December 2010) stellardawnmedia.com</span>
-</li>
-<li id="cite_note-SDCP-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-SDCP_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SDCP_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://investing.businessweek.com/research/stocks/private/board.asp?privcapId=24438225">"Jagex: Board of Directors – Businessweek"</a>. Investing.businessweek.com<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jagex%3A+Board+of+Directors+%E2%80%93+Businessweek&amp;rft.pub=Investing.businessweek.com&amp;rft_id=http%3A%2F%2Finvesting.businessweek.com%2Fresearch%2Fstocks%2Fprivate%2Fboard.asp%3FprivcapId%3D24438225&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100820074351/http://www.jagex.com/kbase/guid/full_credits_list">The full Jagex credits list</a>. Jagex.com</span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130617113937/http://www.coderstack.co.uk/jobs/321-fen-research-software-games-developer">"Fen Research: Software/Games Developer – &#91;Java, C++, Gaming, Startup&#93; – Cambridge"</a>. CoderStack. Archived from <a rel="nofollow" class="external text" href="http://www.coderstack.co.uk/jobs/321-fen-research-software-games-developer">the original</a> on 17 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">17 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fen+Research%3A+Software%2FGames+Developer+%E2%80%93+%5BJava%2C+C%2B%2B%2C+Gaming%2C+Startup%26%2393%3B+%E2%80%93+Cambridge&amp;rft.pub=CoderStack&amp;rft_id=http%3A%2F%2Fwww.coderstack.co.uk%2Fjobs%2F321-fen-research-software-games-developer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=7RNK0YBdwko">5:36</a> Runescape Documentary</span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/richlist/person/0,,47604,00.html">"2007 Sunday Times Rich List: Andrew and Paul Gower"</a>. London: <a href="/wiki/The_Sunday_Times" title="The Sunday Times">The Sunday Times</a>. 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">27 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=2007+Sunday+Times+Rich+List%3A+Andrew+and+Paul+Gower&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Frichlist%2Fperson%2F0%2C%2C47604%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-RetireAt21-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-RetireAt21_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080120010113/http://www.retireat21.com/top-young-entrepreneurs/">"Top 20 websites run by people under 30"</a>. RetireAt21. Archived from <a rel="nofollow" class="external text" href="http://www.retireat21.com/top-young-entrepreneurs/">the original</a> on 20 January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Top+20+websites+run+by+people+under+30&amp;rft.pub=RetireAt21&amp;rft_id=http%3A%2F%2Fwww.retireat21.com%2Ftop-young-entrepreneurs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFTomkinson2008" class="citation news cs1">Tomkinson, Martin (February 2008). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/finance/2954734/The-UKs-richest-young-entrepreneurs-30-11.html">"The UK's richest young entrepreneurs"</a>. London: telegraph.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+UK%27s+richest+young+entrepreneurs.&amp;rft.date=2008-02&amp;rft.aulast=Tomkinson&amp;rft.aufirst=Martin&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Ffinance%2F2954734%2FThe-UKs-richest-young-entrepreneurs-30-11.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Gower" class="Z3988"></span></span>
-</li>
-</ol></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Gower&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://www.jagex.com">Jagex</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.runescape.com">RuneScape</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.fenresearch.com">Fen Research</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Jagex" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Jagex" title="Template:Jagex"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Jagex" title="Template talk:Jagex"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Jagex&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Jagex" style="font-size:114%;margin:0 4em"><a href="/wiki/Jagex" title="Jagex">Jagex</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Games developed</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/RuneScape" title="RuneScape">RuneScape</a></i></li>
-<li><i><a href="/wiki/Old_School_RuneScape" title="Old School RuneScape">Old School RuneScape</a></i></li>
-<li><i><a href="/wiki/Block_N_Load" title="Block N Load">Block N Load</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Games published</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/Planetarion" title="Planetarion">Planetarion</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Games closed</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/8Realms" title="8Realms">8Realms</a></i></li>
-<li><i><a href="/wiki/Transformers_Universe_(video_game)" title="Transformers Universe (video game)">Transformers Universe</a></i></li>
-<li><i><a href="/wiki/Stellar_Dawn" title="Stellar Dawn">Stellar Dawn</a></i></li>
-<li><i><a href="/wiki/War_of_Legends" title="War of Legends">War of Legends</a></i></li>
-<li><i><a href="/wiki/Ace_of_Spades_(video_game)" title="Ace of Spades (video game)">Ace of Spades</a></i></li>
-<li><i><a href="/wiki/Herotopia" title="Herotopia">Herotopia</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a class="mw-selflink selflink">Andrew Gower</a></li>
-<li><a href="/wiki/FunOrb" title="FunOrb">FunOrb</a></li></ul>
-</div></td></tr></tbody></table></div> 
-<div role="navigation" class="navbox" aria-labelledby="MUDs" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:MUDs" title="Template:MUDs"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MUDs" title="Template talk:MUDs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:MUDs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="MUDs" style="font-size:114%;margin:0 4em"><a href="/wiki/MUD" title="MUD">MUDs</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="List_of_MUDs"><a href="/wiki/List_of_MUDs" title="List of MUDs">List of MUDs</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major branches</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/AberMUD" title="AberMUD">AberMUD</a></li>
-<li><a href="/wiki/DikuMUD" title="DikuMUD">DikuMUD</a></li>
-<li><a href="/wiki/LPMud" title="LPMud">LPMud</a>
-<ul><li><a href="/wiki/LPC_(programming_language)" class="mw-redirect" title="LPC (programming language)">LPC</a></li></ul></li>
-<li><a href="/wiki/MU*" title="MU*">MU*</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Minor branches,<br />codebases, libraries</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Dworkin%27s_Game_Driver" title="Dworkin&#39;s Game Driver">DGD</a></li>
-<li><a href="/wiki/GodWars" title="GodWars">GodWars</a></li>
-<li><a href="/wiki/Merc_(MUD)" class="mw-redirect" title="Merc (MUD)">Merc</a></li>
-<li><a href="/wiki/MOO" title="MOO">MOO</a></li>
-<li><a href="/wiki/MudOS" title="MudOS">MudOS</a></li>
-<li><a href="/wiki/MUSH" title="MUSH">MUSH</a></li>
-<li><a href="/wiki/Talker" title="Talker">Talker</a></li>
-<li><a href="/wiki/TinyMUD" class="mw-redirect" title="TinyMUD">TinyMUD</a></li>
-<li><a href="/wiki/TinyMUCK" title="TinyMUCK">TinyMUCK</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts,<br />terminology</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Alternate_character" title="Alternate character">Alternate character</a></li>
-<li><a href="/wiki/Avatar_(computing)" title="Avatar (computing)">Avatar</a></li>
-<li><a href="/wiki/Customization_of_avatars" class="mw-redirect" title="Customization of avatars">Avatar customization</a></li>
-<li><a href="/wiki/Bartle_taxonomy_of_player_types" title="Bartle taxonomy of player types">Bartle taxonomy of player types</a></li>
-<li><a href="/wiki/Buff_(video_gaming)" class="mw-redirect" title="Buff (video gaming)">Buff</a></li>
-<li><a href="/wiki/Camping_(video_gaming)" class="mw-redirect" title="Camping (video gaming)">Camping</a></li>
-<li><a href="/wiki/Computer_game_bot" class="mw-redirect" title="Computer game bot">Computer game bot</a></li>
-<li><a href="/wiki/Consider_(MUD)" title="Consider (MUD)">Consider</a></li>
-<li><a href="/wiki/Cybersex" title="Cybersex">Cybersex</a></li>
-<li><a href="/wiki/God_(MUD)" title="God (MUD)">God</a></li>
-<li><a href="/wiki/Gold_farming" title="Gold farming">Gold farming</a></li>
-<li><a href="/wiki/Gold_sink" title="Gold sink">Gold sink</a></li>
-<li><a href="/wiki/Griefer" title="Griefer">Griefer</a></li>
-<li><a href="/wiki/Grinding_(video_gaming)" class="mw-redirect" title="Grinding (video gaming)">Grinding</a></li>
-<li><a href="/wiki/Hack_and_slash" title="Hack and slash">Hack and slash</a></li>
-<li><a href="/wiki/Immortal_(MUD)" title="Immortal (MUD)">Immortal</a></li>
-<li><a href="/wiki/Implementer_(video_games)" title="Implementer (video games)">Implementer</a></li>
-<li><a href="/wiki/Kill_stealing" title="Kill stealing">Kill stealing</a></li>
-<li><a href="/wiki/Lag_(online_gaming)" class="mw-redirect" title="Lag (online gaming)">Lag</a></li>
-<li><a href="/wiki/Looting_(gaming)" class="mw-redirect" title="Looting (gaming)">Looting</a></li>
-<li><a href="/wiki/Mob_(gaming)" class="mw-redirect" title="Mob (gaming)">Mob / Monster</a></li>
-<li><a href="/wiki/MUD_client" title="MUD client">MUD client</a></li>
-<li><a href="/wiki/MUD_trees" title="MUD trees">MUD trees</a></li>
-<li><a href="/wiki/Mudflation" class="mw-redirect" title="Mudflation">Mudflation</a></li>
-<li><a href="/wiki/Nerfing_(gaming)" class="mw-redirect" title="Nerfing (gaming)">Nerf</a></li>
-<li><a href="/wiki/Non-player_character" title="Non-player character">Non-player character</a></li>
-<li><a href="/wiki/Online_creation" title="Online creation">Online creation</a></li>
-<li><a href="/wiki/Online_wedding" title="Online wedding">Online wedding</a></li>
-<li><a href="/wiki/Persistent_world" title="Persistent world">Persistent world</a></li>
-<li><a href="/wiki/Player_character" title="Player character">Player character</a></li>
-<li><a href="/wiki/Player_versus_environment" title="Player versus environment">Player versus environment</a></li>
-<li><a href="/wiki/Player_versus_player" title="Player versus player">Player versus player / Playerkilling</a></li>
-<li><a href="/wiki/Powerleveling" class="mw-redirect" title="Powerleveling">Powerleveling</a></li>
-<li><a href="/wiki/Quest_(gaming)" class="mw-redirect" title="Quest (gaming)">Quest</a></li>
-<li><a href="/wiki/Remort" class="mw-redirect" title="Remort">Remort</a></li>
-<li><a href="/wiki/Rent_(MUD)" title="Rent (MUD)">Rent</a></li>
-<li><a href="/wiki/Spam_(gaming)" class="mw-redirect" title="Spam (gaming)">Spam</a></li>
-<li><a href="/wiki/Spawning_(gaming)" class="mw-redirect" title="Spawning (gaming)">Spawning</a></li>
-<li><a href="https://en.wiktionary.org/wiki/spod" class="extiw" title="wikt:spod">spod</a></li>
-<li><a href="/wiki/Syntax_guessing" title="Syntax guessing">Syntax guessing</a></li>
-<li><a href="/wiki/Tank_(gaming)" class="mw-redirect" title="Tank (gaming)">Tank</a></li>
-<li><a href="/wiki/Twinking" title="Twinking">Twinking</a></li>
-<li><a href="/wiki/Virtual_goods" title="Virtual goods">Virtual goods</a></li>
-<li><a href="/wiki/Wizard_(MUD)" title="Wizard (MUD)">Wizard</a></li>
-<li><a href="/wiki/Zone_(video_games)" title="Zone (video games)">Zone / Area</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/Designing_Virtual_Worlds" title="Designing Virtual Worlds">Designing Virtual Worlds</a></i></li>
-<li><i><a href="/wiki/Imaginary_Realities" title="Imaginary Realities">Imaginary Realities</a></i></li>
-<li><i><a href="/wiki/Life_on_the_Screen" class="mw-redirect" title="Life on the Screen">Life on the Screen</a></i></li>
-<li>"<a href="/wiki/A_Rape_in_Cyberspace" title="A Rape in Cyberspace">A Rape in Cyberspace</a>"</li>
-<li>"<a href="/wiki/A_Story_About_a_Tree" class="mw-redirect" title="A Story About a Tree">A Story About a Tree</a>"</li>
-<li><i><a href="/wiki/Terra_Nova_(blog)" title="Terra Nova (blog)">Terra Nova</a></i></li>
-<li><i><a href="/wiki/A_Theory_of_Fun_for_Game_Design" class="mw-redirect" title="A Theory of Fun for Game Design">A Theory of Fun for Game Design</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Companies,<br />organizations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Areae" title="Areae">Areae</a></li>
-<li><a href="/wiki/Iron_Realms_Entertainment" title="Iron Realms Entertainment">Iron Realms Entertainment</a></li>
-<li><a href="/wiki/Jagex" title="Jagex">Jagex</a></li>
-<li><a href="/wiki/Lysator" title="Lysator">Lysator</a></li>
-<li><a href="/wiki/Kesmai" title="Kesmai">Kesmai</a></li>
-<li><a href="/wiki/The_Mud_Connector" title="The Mud Connector">The Mud Connector</a></li>
-<li><a href="/wiki/Mythic_Entertainment" title="Mythic Entertainment">Mythic Entertainment</a></li>
-<li><a href="/wiki/Plaintext_Players" title="Plaintext Players">Plaintext Players</a></li>
-<li><a href="/wiki/Simutronics" title="Simutronics">Simutronics</a></li>
-<li><a href="/wiki/XYZZY_Awards" title="XYZZY Awards">XYZZY Awards</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:MUDs" title="Category:MUDs">Category:MUDs</a></div></td></tr></tbody></table></div>
+</div>
+</td></tr>
+
+
+<tr>
+<td style="border:0; border-bottom:2px solid #F6F6F6; background:; background:transparent; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Родственные порталы</div>
+<hr />
+<ul><li><b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Политика">Политика</a></b>: <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Портал:Капитализм">Капитализм</a> — <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%BC" title="Портал:Коммунизм">Коммунизм</a> — <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Портал:Либерализм">Либерализм</a> — <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B0%D1%88%D0%B8%D0%B7%D0%BC" title="Портал:Фашизм">Фашизм</a> — <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC" title="Портал:Феминизм">Феминизм</a></li>
+<li><b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B0%D0%B2%D0%BE" title="Портал:Право">Право</a></b>: <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" title="Портал:Права человека">Права человека</a></li>
+<li><b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Социология">Социология</a></b></li>
+<li><b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a></b></li></ul>
+<div align="right">
+<p><small><span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B&amp;action=edit">править</a>]</span></small>
+</p>
+</div>
+</td></tr>
+
+
+<tr>
+<td style="border:0; border-bottom:2px solid #F6F6F6; background:; background:transparent; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Как я могу помочь</div>
+<hr />
+<p>Если вы хотите помочь в улучшении Википедии по соответствующей тематике, добро пожаловать в <b><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Проект:Анархизм">Проект:Анархизм</a></b>!
+</p>
+<div align="right">
+<p><small><span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%A7%D0%B5%D0%BC_%D1%8F_%D0%BC%D0%BE%D0%B3%D1%83_%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C&amp;action=edit">править</a>]</span></small>
+</p>
+</div>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr valign="top">
+<td width="70%" style="border-bottom:4px solid #FFF; background-color:#FFF;">
+<table width="100%">
+
+<tbody><tr>
+<td style="vertical-align:top; width:70%; background:#F6F6F6; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Статья месяца</div>
+<hr />
+<div style="padding:0; background:transparent;">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Max_stirner.jpg" class="image" title="Макс Штирнер"><img alt="Макс Штирнер" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Max_stirner.jpg/180px-Max_stirner.jpg" decoding="async" width="180" height="213" srcset="//upload.wikimedia.org/wikipedia/commons/b/b5/Max_stirner.jpg 1.5x" data-file-width="200" data-file-height="237" /></a></div>
+<p><b><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" class="mw-redirect" title="Анархо-индивидуализм">Анархо-индивидуализм</a></b> (от греч. <i>αναρχία</i>&#160;— безвластие; лат. <i>individuum</i>&#160;— неделимое)&#160;— это одно из направлений <a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Анархизм">анархизма</a>, целью которого является установление <a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Анархия">анархии</a>, то есть безвластного общества, в котором отсутствуют иерархия и принуждение. Базовый принцип традиции индивидуалистического анархизма&#160;— право свободно распоряжаться собой, которое присуще любому человеку от рождения.
+</p><p>Индивидуалистический анархизм является традицией мысли в рамках анархического движения, которая подчеркивает, что <a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA" title="Человек">человек</a> и его <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8F" class="mw-disambig" title="Воля">воля</a> приоритетны перед любыми видами внешних обуславливающих факторов, таких как <a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2" title="Коллектив">коллективы</a>, <a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Общество">общества</a>, <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D1%8F" title="Традиция">традиции</a> и <a href="/wiki/%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Идеология">идеологические системы</a>.
+</p><p><i><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%B8%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" class="mw-redirect" title="Анархо-индивидуализм">Читать далее...</a></i>
+</p>
+<div style="font-size:smaller; text-align:right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Анархизм/Статья месяца/Архив">Архив</a>&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0&amp;action=edit">править</a>]</span></div>
+</div>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align:top; width:70%; background:#FFF; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Избранная личность</div>
+<hr />
+<div style="padding:0; background:transparent;">
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kropotkin1.jpg" class="image" title="Пётр Кропоткин"><img alt="Пётр Кропоткин" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kropotkin1.jpg/120px-Kropotkin1.jpg" decoding="async" width="120" height="161" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kropotkin1.jpg/180px-Kropotkin1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kropotkin1.jpg/240px-Kropotkin1.jpg 2x" data-file-width="960" data-file-height="1284" /></a></div>
+<p><a href="/wiki/%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C" title="Князь">Князь</a> <b><a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Кропоткин, Пётр Алексеевич">Пётр Алексе́евич Кропо́ткин</a></b> (<a href="/wiki/9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="9 декабря">9 декабря</a> <a href="/wiki/1842" class="mw-redirect" title="1842">1842</a>, <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>&#160;— <a href="/wiki/8_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="8 февраля">8 февраля</a> <a href="/wiki/1921" class="mw-redirect" title="1921">1921</a>, <a href="/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2" title="Дмитров">Дмитров</a>)&#160;— <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">русский</a> <a href="/wiki/%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80" class="mw-redirect" title="Революционер">революционер</a>-<a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Анархизм">анархист</a>, учёный <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="География">географ</a> и <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Геоморфология">геоморфолог</a>. Исследователь <a href="/wiki/%D0%A2%D0%B5%D0%BA%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0" title="Тектоника">тектонического</a> строения Сибири и Средней Азии и <a href="/wiki/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" title="Ледниковый период">ледникового периода</a>. Известный историк, философ и публицист, создатель идеологии <a href="/wiki/%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%BC" title="Анархо-коммунизм">анархо-коммунизма</a> и один из самых влиятельных теоретиков анархизма. Из рода <a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%8B" title="Кропоткины">Кропоткиных</a>.
+</p><p><i><a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Кропоткин, Пётр Алексеевич">Читать далее...</a></i>
+</p>
+<div style="font-size:smaller; text-align:right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Анархизм/Избранная личность/Архив">Архив</a>&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit">править</a>]</span></div>
+</div>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align:top; width:70%; background:#F6F6F6; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Знаете ли вы?</div>
+<hr />
+<div style="padding:0; background:transparent;">
+<ul><li><b><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB_(%D0%B3%D0%B8%D0%BC%D0%BD)" title="Интернационал (гимн)">Песню</a></b>, ставшую международным пролетарским гимном, написал <b><a href="/wiki/%D0%9F%D0%BE%D1%82%D1%8C%D0%B5,_%D0%AD%D0%B6%D0%B5%D0%BD" title="Потье, Эжен">французский анархист</a></b>.</li></ul>
+<div style="font-size:smaller; text-align:right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Анархизм/Знаете ли вы/Архив">Архив</a>&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit">править</a>]</span></div>
+</div>
+</td></tr>
+
+
+<tr>
+<td style="vertical-align:top; width:70%; background:#FFF; padding:0.5em;" valign="top">
+<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Книга месяца</div>
+<hr />
+<div style="padding:0; background:transparent;">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_(%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD).pdf" class="image"><img alt="Хлеб и воля (Кропоткин).pdf" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_%28%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%29.pdf/page1-110px-%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_%28%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%29.pdf.jpg" decoding="async" width="110" height="163" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_%28%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%29.pdf/page1-165px-%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_%28%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%29.pdf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_%28%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%29.pdf/page1-220px-%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%B2%D0%BE%D0%BB%D1%8F_%28%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%29.pdf.jpg 2x" data-file-width="828" data-file-height="1227" /></a></div>
+<p><b>«<a href="/wiki/%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%92%D0%BE%D0%BB%D1%8F_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)" class="mw-redirect" title="Хлеб и Воля (книга)">Хлеб и Воля</a>»</b> — книга <a href="/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Кропоткин, Пётр Алексеевич">П.&#160;А.&#160;Кропоткина</a>.
+</p><p>Основу книги составляют статьи, написанные Кропоткиным для французских газет «Le Révolté» («Бунтовщик») и «La Révolte» («Бунт»). Впервые книга была опубликована во Франции в 1892 году под заголовком «Завоевание Хлеба».
+</p><p>Впервые была опубликована в 1892 году с предисловием <a href="/wiki/%D0%A0%D0%B5%D0%BA%D0%BB%D1%8E,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B5" title="Реклю, Элизе">Элизе Реклю</a>, первый русский перевод был выполнен в 1902 году.
+</p><p><i><a href="/wiki/%D0%A5%D0%BB%D0%B5%D0%B1_%D0%B8_%D0%92%D0%BE%D0%BB%D1%8F_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)" class="mw-redirect" title="Хлеб и Воля (книга)">Читать далее...</a></i>
+</p>
+<div style="font-size:smaller; text-align:right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Анархизм/Книга месяца/Архив">Архив</a>&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0&amp;action=edit">править</a>]</span></div>
+</div>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table width="100%" style="border-top:3px solid #000000; ; border-bottom:5px solid #000000; ; background-color:#fff; text-align:center; padding:0.5em;">
+<tbody><tr><td>
+<div style="padding: 2px; font-family:Eurostile, &#39;Gill Sans&#39;, sans-serif; font-size:130%;"><a class="mw-selflink selflink">Портал</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Обсуждение портала:Анархизм">Обсуждение портала</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Проект:Анархизм">Проект</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" title="Проект:Анархизм/Участники">Участники</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8_%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B" title="Проект:Анархизм/Книги и материалы">Книги и материалы</a></div>
+</td></tr>
+</tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1354
-Cached time: 20210210101859
+Parsed by mw1275
+Cached time: 20210303202916
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.432 seconds
-Real time usage: 0.572 seconds
-Preprocessor visited node count: 1683/1000000
-Post‐expand include size: 40680/2097152 bytes
-Template argument size: 1457/2097152 bytes
-Highest expansion depth: 14/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 29463/5000000 bytes
-Lua time usage: 0.206/10.000 seconds
-Lua memory usage: 5695385/52428800 bytes
-Number of Wikibase entities loaded: 1/400
+Complications: []
+CPU time usage: 0.165 seconds
+Real time usage: 0.302 seconds
+Preprocessor visited node count: 833/1000000
+Post‐expand include size: 48059/2097152 bytes
+Template argument size: 14526/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 14/5000000 bytes
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 964183/52428800 bytes
+Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  504.485      1 -total
- 35.76%  180.425      1 Template:Infobox_person
- 34.35%  173.309      1 Template:Reflist
- 27.46%  138.536      1 Template:Infobox
- 24.57%  123.953      5 Template:Cite_web
- 14.53%   73.286      5 Template:Br_separated_entries
- 10.59%   53.435      2 Template:Navbox
- 10.57%   53.329      1 Template:Birth_date_and_age
-  8.79%   44.335      1 Template:About
-  7.37%   37.165      1 Template:MUDs
+100.00%  241.302      1 -total
+100.00%  241.302      1 Шаблон:Разметка_портала
+ 50.87%  122.751      3 Шаблон:Правый_блок_портала
+ 24.41%   58.902      1 Портал:Анархизм/Ключевые_статьи
+ 22.26%   53.710      2 Шаблон:Нп5
+ 19.00%   45.841      4 Шаблон:Левый_блок_портала
+ 12.51%   30.176      1 Портал:Анархизм/Чем_я_могу_помочь
+ 11.53%   27.818      7 Шаблон:Editme
+ 11.17%   26.954      1 Портал:Анархизм/Введение
+  7.97%   19.232      2 Портал:Анархизм/Таб
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1160777-0!canonical and timestamp 20210210101858 and revision id 996923190. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1429257-0!canonical and timestamp 20210303202916 and revision id 104742847. Serialized with JSON.
  -->
-</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrew_Gower&amp;oldid=996923190">https://en.wikipedia.org/w/index.php?title=Andrew_Gower&amp;oldid=996923190</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1978_births" title="Category:1978 births">1978 births</a></li><li><a href="/wiki/Category:Alumni_of_Fitzwilliam_College,_Cambridge" title="Category:Alumni of Fitzwilliam College, Cambridge">Alumni of Fitzwilliam College, Cambridge</a></li><li><a href="/wiki/Category:British_computer_programmers" title="Category:British computer programmers">British computer programmers</a></li><li><a href="/wiki/Category:British_technology_chief_executives" title="Category:British technology chief executives">British technology chief executives</a></li><li><a href="/wiki/Category:British_technology_company_founders" title="Category:British technology company founders">British technology company founders</a></li><li><a href="/wiki/Category:British_video_game_designers" title="Category:British video game designers">British video game designers</a></li><li><a href="/wiki/Category:Jagex" title="Category:Jagex">Jagex</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:MUD_developers" title="Category:MUD developers">MUD developers</a></li><li><a href="/wiki/Category:British_video_game_programmers" title="Category:British video game programmers">British video game programmers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2013" title="Category:Use dmy dates from April 2013">Use dmy dates from April 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li></ul></div></div>
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Анархизм&amp;oldid=104742847">https://ru.wikipedia.org/w/index.php?title=Портал:Анархизм&amp;oldid=104742847</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Портал:Политика">Портал:Политика</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -230,16 +239,16 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 
 <div id="mw-navigation">
-	<h2>Navigation menu</h2>
+	<h2>Навигация</h2>
 	<div id="mw-head">
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
 	<h3 id="p-personal-label" class="vector-menu-heading">
-		<span>Personal tools</span>
+		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andrew+Gower" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andrew+Gower" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -249,10 +258,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
 	<h3 id="p-namespaces-label" class="vector-menu-heading">
-		<span>Namespaces</span>
+		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Andrew_Gower" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Andrew_Gower" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC">Портал</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -262,7 +271,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
 	<h3 id="p-variants-label" class="vector-menu-heading">
-		<span>Variants</span>
+		<span>Варианты</span>
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
@@ -276,10 +285,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
 	<h3 id="p-views-label" class="vector-menu-heading">
-		<span>Views</span>
+		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Andrew_Gower">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Andrew_Gower&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Andrew_Gower&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -289,7 +298,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
 	<h3 id="p-cactions-label" class="vector-menu-heading">
-		<span>More</span>
+		<span>Ещё</span>
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
@@ -299,14 +308,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div id="p-search" role="search" >
 	<h3 >
-		<label for="searchInput">Search</label>
+		<label for="searchInput">Поиск</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
-			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search"/>
-			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
-			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			<input type="search" name="search" placeholder="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Служебная:Поиск"/>
+			<input type="submit" name="fulltext" value="Найти" title="Найти страницы, содержащие указанный текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Перейти" title="Перейти к странице, имеющей в точности такое название" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
@@ -316,29 +325,29 @@ Transclusion expansion time report (%,ms,calls,template)
 	
 <div id="mw-panel">
 	<div id="p-logo" role="banner">
-		<a class="mw-wiki-logo" href="/wiki/Main_Page"
-			title="Visit the main page"></a>
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
 	</div>
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
 	<h3 id="p-navigation-label" class="vector-menu-heading">
-		<span>Navigation</span>
+		<span>Навигация</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z">Заглавная страница</a></li><li id="n-browse"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%BF%D0%BE_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%D0%BC" title="Поиск по категориям">Рубрикация</a></li><li id="n-index"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Поиск по двум первым буквам">Указатель А — Я</a></li><li id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта">Избранные статьи</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x">Случайная страница</a></li><li id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире">Текущие события</a></li></ul>
 		
 	</div>
 </nav>
 
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
-<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label" class="vector-menu-heading">
-		<span>Contribute</span>
+	<h3 id="p-participation-label" class="vector-menu-heading">
+		<span>Участие</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье">Сообщить об ошибке</a></li><li id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится">Сообщество</a></li><li id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии">Форум</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r">Свежие правки</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц">Новые страницы</a></li><li id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место, где можно получить справку">Справка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас">Пожертвовать</a></li></ul>
 		
 	</div>
 </nav>
@@ -346,10 +355,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
 	<h3 id="p-tb-label" class="vector-menu-heading">
-		<span>Tools</span>
+		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andrew_Gower" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andrew_Gower" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andrew_Gower&amp;oldid=996923190" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andrew_Gower&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andrew_Gower&amp;id=996923190&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2451677" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;oldid=104742847" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8519616" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
 		
 	</div>
 </nav>
@@ -357,10 +366,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
 	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
-		<span>Print/export</span>
+		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Andrew_Gower&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Andrew_Gower&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
 		
 	</div>
 </nav>
@@ -369,11 +378,11 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
 	<h3 id="p-lang-label" class="vector-menu-heading">
-		<span>Languages</span>
+		<span>На других языках</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Andrew_Gower" title="Andrew Gower – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2451677#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%84%D8%A7%D8%B3%D9%84%D8%B7%D9%88%D9%8A%D8%A9" title="بوابة:لاسلطوية — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-avk"><a href="https://avk.wikipedia.org/wiki/Tuveli:Arotieva" title="Tuveli:Arotieva — Kotava" lang="avk" hreflang="avk" class="interlanguage-link-target">Kotava</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Portal:Anarxizm" title="Portal:Anarxizm — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Portal:Anarquisme" title="Portal:Anarquisme — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://de.wikipedia.org/wiki/Portal:Anarchismus" title="Portal:Anarchismus — немецкий" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Portal:Anarchism" title="Portal:Anarchism — английский" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Anarquismo" title="Portal:Anarquismo — испанский" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Anarchisme" title="Portail:Anarchisme — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Portale:Anarchia" title="Portale:Anarchia — итальянский" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%B0%D0%BC" title="Портал:Анархизам — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Portaal:Anarchisme" title="Portaal:Anarchisme — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Portal:Anarchizm" title="Portal:Anarchizm — польский" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Anarquia" title="Portal:Anarquia — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Portal:Anarkism" title="Portal:Anarkism — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D1%96%D0%B7%D0%BC" title="Портал:Анархізм — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Portal:%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89" title="Portal:无政府主义 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8519616#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -382,20 +391,21 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> This page was last edited on 29 December 2020, at 05:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
-	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 25 января 2020 в 00:10.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
 </ul>
 
 	<ul id="footer-places" >
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andrew_Gower&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
 </ul>
 
 	<ul id="footer-icons" class="noprint">
@@ -407,7 +417,5 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.432","walltime":"0.572","ppvisitednodes":{"value":1683,"limit":1000000},"postexpandincludesize":{"value":40680,"limit":2097152},"templateargumentsize":{"value":1457,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29463,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  504.485      1 -total"," 35.76%  180.425      1 Template:Infobox_person"," 34.35%  173.309      1 Template:Reflist"," 27.46%  138.536      1 Template:Infobox"," 24.57%  123.953      5 Template:Cite_web"," 14.53%   73.286      5 Template:Br_separated_entries"," 10.59%   53.435      2 Template:Navbox"," 10.57%   53.329      1 Template:Birth_date_and_age","  8.79%   44.335      1 Template:About","  7.37%   37.165      1 Template:MUDs"]},"scribunto":{"limitreport-timeusage":{"value":"0.206","limit":"10.000"},"limitreport-memusage":{"value":5695385,"limit":52428800}},"cachereport":{"origin":"mw1354","timestamp":"20210210101859","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrew Gower","url":"https:\/\/en.wikipedia.org\/wiki\/Andrew_Gower","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2451677","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2451677","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-12T08:23:32Z","dateModified":"2020-12-29T05:34:12Z","headline":"Co-founder, largest Shareholder and Lead developer of Jagex Games Studio"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":187,"wgHostname":"mw1271"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.165","walltime":"0.302","ppvisitednodes":{"value":833,"limit":1000000},"postexpandincludesize":{"value":48059,"limit":2097152},"templateargumentsize":{"value":14526,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  241.302      1 -total","100.00%  241.302      1 Шаблон:Разметка_портала"," 50.87%  122.751      3 Шаблон:Правый_блок_портала"," 24.41%   58.902      1 Портал:Анархизм/Ключевые_статьи"," 22.26%   53.710      2 Шаблон:Нп5"," 19.00%   45.841      4 Шаблон:Левый_блок_портала"," 12.51%   30.176      1 Портал:Анархизм/Чем_я_могу_помочь"," 11.53%   27.818      7 Шаблон:Editme"," 11.17%   26.954      1 Портал:Анархизм/Введение","  7.97%   19.232      2 Портал:Анархизм/Таб"]},"scribunto":{"limitreport-timeusage":{"value":"0.021","limit":"10.000"},"limitreport-memusage":{"value":964183,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20210303202916","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1409"});});</script>
 </body></html>

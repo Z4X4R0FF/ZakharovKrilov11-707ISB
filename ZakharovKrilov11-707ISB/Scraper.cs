@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using HtmlAgilityPack;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -12,13 +13,12 @@ namespace ZakharovKrilov11_707ISB
 {
     public static class Scraper
     {
-        public static async Task<string> CallUrl(string fullUrl)
+        public static Task<string> CallUrl(string fullUrl)
         {
             var client = new HttpClient();
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls13;
             client.DefaultRequestHeaders.Accept.Clear();
-            var response = client.GetStringAsync(fullUrl);
-            return await response;
+            return client.GetStringAsync(fullUrl);
         }
 
         public static IEnumerable<string> GetLinksFromHtml(HtmlDocument htmlDoc)
@@ -27,7 +27,7 @@ namespace ZakharovKrilov11_707ISB
                 .Where(node => !node.GetAttributeValue("class", "").Contains("tocsection")).ToList();
 
             return programmerLinks.Where(r => r.FirstChild.Attributes.Count > 0)
-                .Select(r => "https://en.wikipedia.org/" + r.FirstChild.Attributes[0].Value).ToList();
+                .Select(r => "https://ru.wikipedia.org/" + r.FirstChild.Attributes[0].Value).ToList();
         }
 
         public static HtmlDocument ParseHtml(string html)
@@ -52,7 +52,7 @@ namespace ZakharovKrilov11_707ISB
         {
             for (var i = 0; i < htmlDocuments.Count; i++)
             {
-                File.WriteAllText($"Htmls/Document{i}.txt", htmlDocuments[i].Text);
+                File.WriteAllText($"Htmls/Document{i}.txt", htmlDocuments[i].ParsedText);
             }
         }
     }

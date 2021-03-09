@@ -1,561 +1,355 @@
 <!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
+<html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Alan Cox - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDEESQpvwq53iqvqb1wPXQAAAJA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Alan_Cox","wgTitle":"Alan Cox","wgCurRevisionId":1005765556,"wgRevisionId":1005765556,"wgArticleId":18951013,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Welsh-language sources (cy)","Articles with short description","Articles with short description added by PearBOT 5","Short description matches Wikidata","Use dmy dates from February 2020","Use British English from July 2012","Articles with hCards","All articles with specifically marked weasel-worded phrases",
-"Articles with specifically marked weasel-worded phrases from December 2013","Commons link is on Wikidata","AC with 0 elements","1968 births","Alumni of Aberystwyth University","Alumni of Swansea University","British bloggers","British computer programmers","Linux kernel programmers","MUD developers","Living people","People from Solihull","People from Swansea"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alan_Cox","wgRelevantArticleId":18951013,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
-"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q55123"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
-"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+<title>Портал:Англиканство — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEeJR926bQuXtRZz2qcgiwAAAFM","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Англиканство","wgTitle":"Англиканство","wgCurRevisionId":84753039,"wgRevisionId":84753039,"wgArticleId":2122025,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Портал:Религия","Англиканство"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Портал:Англиканство","wgRelevantArticleId":2122025,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":84753039,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":
+!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q8207996"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs",
+"ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.33"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Alan_Cox_at_FOSS_2007.jpg"/>
+<meta property="og:title" content="Портал:Англиканство"/>
+<meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Alan_Cox"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alan_Cox&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Alan_Cox&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Alan_Cox"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Alan_Cox rootpage-Alan_Cox skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Англиканство rootpage-Портал_Англиканство skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Alan Cox</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Англиканство</h1>
 	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"></div>
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;stable=1">Стабильная версия</a> была <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">проверена</a> <i>9 апреля 2017</i>. Имеются непроверенные <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;oldid=84753039&amp;diff=cur&amp;diffonly=0">изменения в шаблонах или файлах</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span aria-disabled='false' title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' aria-disabled='false' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;stable=1">Стабильная версия</a> была <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">проверена</a> <i>9 апреля 2017</i>. Имеются непроверенные <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;oldid=84753039&amp;diff=cur&amp;diffonly=0">изменения в шаблонах или файлах</a>.</div>
+</div>
+</div>
+</div>
 		<div id="contentSub2"></div>
 		
 		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">British computer programmer</div>
-<div role="note" class="hatnote navigation-not-searchable">For other people named Alan Cox, see <a href="/wiki/Alan_Cox_(disambiguation)" class="mw-disambig" title="Alan Cox (disambiguation)">Alan Cox (disambiguation)</a>.</div>
-<p class="mw-empty-elt">
-
-</p>
-<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Alan Cox</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Alan_Cox_at_FOSS_2007.jpg" class="image"><img alt="Alan Cox at FOSS 2007.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alan_Cox_at_FOSS_2007.jpg/220px-Alan_Cox_at_FOSS_2007.jpg" decoding="async" width="220" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alan_Cox_at_FOSS_2007.jpg/330px-Alan_Cox_at_FOSS_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alan_Cox_at_FOSS_2007.jpg/440px-Alan_Cox_at_FOSS_2007.jpg 2x" data-file-width="800" data-file-height="532" /></a><div>Alan Cox at <a href="/wiki/FOSS.IN" title="FOSS.IN">FOSS.IN</a>/2005</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1968-07-22</span>) </span>22 July 1968<span class="noprint ForceAgeToShow"> (age&#160;52)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Solihull" title="Solihull">Solihull</a>, <a href="/wiki/England" title="England">England</a></div></td></tr><tr><th scope="row">Nationality</th><td class="category">British</td></tr><tr><th scope="row">Other&#160;names</th><td class="nickname">ac</td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/Swansea_University" title="Swansea University">Swansea University</a></td></tr><tr><th scope="row">Occupation</th><td class="role"><a href="/wiki/Programmer" title="Programmer">Programmer</a></td></tr><tr><th scope="row"><span class="nowrap">Spouse(s)</span></th><td>Telsa Gwynne (d. 2015)<sup id="cite_ref-jonas-2015_1-0" class="reference"><a href="#cite_note-jonas-2015-1">&#91;1&#93;</a></sup><sup id="cite_ref-gardiner-2015_2-0" class="reference"><a href="#cite_note-gardiner-2015-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row"><span class="nowrap">Partner(s)</span></th><td>Tara Neale<sup id="cite_ref-neale-2019_3-0" class="reference"><a href="#cite_note-neale-2019-3">&#91;3&#93;</a></sup></td></tr></tbody></table>
-<p><b>Alan Cox</b> (born 22 July 1968) is a <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="/wiki/Programmer" title="Programmer">computer programmer</a> who has been a key figure in the development of <a href="/wiki/Linux" title="Linux">Linux</a>. He maintained the 2.2 branch of the <a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a> and continues to be heavily involved in the development of the Linux kernel, an association that dates back to 1991. He lives in <a href="/wiki/Swansea" title="Swansea">Swansea</a>, <a href="/wiki/Wales" title="Wales">Wales</a>, where he lived with his wife Telsa Gwynne, who died in 2015<sup id="cite_ref-jonas-2015_1-1" class="reference"><a href="#cite_note-jonas-2015-1">&#91;1&#93;</a></sup><sup id="cite_ref-gardiner-2015_2-1" class="reference"><a href="#cite_note-gardiner-2015-2">&#91;2&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and now lives with author Tara Neale,<sup id="cite_ref-neale-2019_3-1" class="reference"><a href="#cite_note-neale-2019-3">&#91;3&#93;</a></sup> who he married in 2020.<sup id="cite_ref-neale-2020_6-0" class="reference"><a href="#cite_note-neale-2020-6">&#91;6&#93;</a></sup> He graduated with a <a href="/wiki/BSc" class="mw-redirect" title="BSc">BSc</a> in <a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a> from <a href="/wiki/Swansea_University" title="Swansea University">Swansea University</a> in 1991 and received an <a href="/wiki/MBA" class="mw-redirect" title="MBA">MBA</a> from the same university in 2005.<sup id="cite_ref-SwanseaHD_7-0" class="reference"><a href="#cite_note-SwanseaHD-7">&#91;7&#93;</a></sup>
-</p>
-<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Involvement_in_the_Linux_kernel"><span class="tocnumber">1</span> <span class="toctext">Involvement in the Linux kernel</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Fuzix:_because_small_is_beautiful"><span class="tocnumber">2</span> <span class="toctext">Fuzix: because small is beautiful</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Model_trains"><span class="tocnumber">3</span> <span class="toctext">Model trains</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Activism"><span class="tocnumber">4</span> <span class="toctext">Activism</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Awards"><span class="tocnumber">5</span> <span class="toctext">Awards</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
-</ul>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="position:relative; height:250px; overflow:hidden; border:1px solid #999999; padding:0; background:#BC50A5;height:152px">
+<div style="width:100%; overflow:hidden; padding-bottom:0.5em;">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Compassrose_Flag.svg" class="image"><img alt="Compassrose Flag.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Compassrose_Flag.svg/250px-Compassrose_Flag.svg.png" decoding="async" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Compassrose_Flag.svg/375px-Compassrose_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Compassrose_Flag.svg/500px-Compassrose_Flag.svg.png 2x" data-file-width="1726" data-file-height="1151" /></a></div><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cath%C3%A9drale_St-Paul_-_coupole.jpg" class="image"><img alt="Cathédrale St-Paul - coupole.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cath%C3%A9drale_St-Paul_-_coupole.jpg/250px-Cath%C3%A9drale_St-Paul_-_coupole.jpg" decoding="async" width="250" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cath%C3%A9drale_St-Paul_-_coupole.jpg/375px-Cath%C3%A9drale_St-Paul_-_coupole.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cath%C3%A9drale_St-Paul_-_coupole.jpg/500px-Cath%C3%A9drale_St-Paul_-_coupole.jpg 2x" data-file-width="2046" data-file-height="1839" /></a>
 </div>
+<div style="position: absolute;font-size:300%;right:380px;top:15px; float:left; height:100px"><span style="letter-spacing:.25em; font-family:Impact;"><span style="color:#F0FFFF"><small>портал</small></span><span style="color:#00008B"></span>АНГЛИКАНСТВО</span></div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#FFF8DC; border:1px solid &#123;&#123;&#123;yttre_kantlinje_färg&#125;&#125;&#125;; font-size:95%;">
 
-<h2><span class="mw-headline" id="Involvement_in_the_Linux_kernel">Involvement in the Linux kernel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=1" title="Edit section: Involvement in the Linux kernel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:With-alan-cox.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/With-alan-cox.jpg/220px-With-alan-cox.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/With-alan-cox.jpg/330px-With-alan-cox.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/With-alan-cox.jpg/440px-With-alan-cox.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:With-alan-cox.jpg" class="internal" title="Enlarge"></a></div>Alan Cox at the LinuxWorldExpo</div></div></div>
-<p>While employed on the campus of <a href="/wiki/Swansea_University" title="Swansea University">Swansea University</a>, Cox installed a very early version of Linux on one of the machines belonging to the university computer society. <sup id="cite_ref-sucs-2014_8-0" class="reference"><a href="#cite_note-sucs-2014-8">&#91;8&#93;</a></sup> This was one of the first Linux installations on a busy <a href="/wiki/Computer_network" title="Computer network">network</a> and revealed many bugs in the networking code. Cox fixed many of these bugs and went on to rewrite much of the networking subsystem. He then became one of the main developers and maintainers of the whole kernel.
-</p><p>He maintained the 2.2 branch, and his own versions of the 2.4 branch (signified by an "ac" in the version, for example 2.4.13-ac1). This branch was very stable and contained bugfixes that went directly into the vendor kernels.
-</p><p>Cox was once commonly regarded as being the "second in command" after <a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a> himself, before reducing his involvement with Linux to study for an <a href="/wiki/Master_of_Business_Administration" title="Master of Business Administration">MBA</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
-</p><p>On 28 July 2009, Cox quit his role as the <a href="/wiki/Tty_(Unix)" class="mw-redirect" title="Tty (Unix)">TTY</a> layer maintainer, after disagreement with Torvalds about the scope of work required to fix an error in that subsystem.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
-</p><p>Alan was employed by the Linux distributor <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a> during 1999–2009.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Starting from 2011 he was employed by <a href="/wiki/Intel" title="Intel">Intel Corporation</a> but left both Intel and Linux kernel development in January 2013 to care full-time for his wife during a critical period of medical treatment, and returned to both later that year,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> until taking early retirement at the end of 2019.
-</p><p>He has also been involved in the <a href="/wiki/GNOME" title="GNOME">GNOME</a> and <a href="/wiki/X.Org_Server" title="X.Org Server">X.Org</a> projects, and was the main developer of <a href="/wiki/AberMUD" title="AberMUD">AberMUD</a>, which he wrote whilst a student at the <a href="/wiki/Aberystwyth_University" title="Aberystwyth University">University of Wales, Aberystwyth</a>.
-</p>
-<h2><span class="mw-headline" id="Fuzix:_because_small_is_beautiful">Fuzix: because small is beautiful</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=2" title="Edit section: Fuzix: because small is beautiful">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>On 31 Oct 2014, Alan Cox announced Fuzix OS, a tiny system V kernel, initially for Z80 on Google+:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
-</p>
-<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><div class="poem">
-<p>Fed up of SystemD?<br />
-Kdbus the final straw?<br />
-Linux community too large and noisy?<br />
-Yearn for the good old days when you knew every contributor by name and the source code fitted on a single floppy disc?
-</p>
-</div></blockquote>
-<h2><span class="mw-headline" id="Model_trains">Model trains</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=3" title="Edit section: Model trains">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Alan Cox runs Etched Pixels, a model train company producing <a href="/wiki/N_gauge" class="mw-redirect" title="N gauge">N gauge</a> kits.<sup id="cite_ref-urlEtched_Pixels:_N_scale_etched_models_and_details_14-0" class="reference"><a href="#cite_note-urlEtched_Pixels:_N_scale_etched_models_and_details-14">&#91;14&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Activism">Activism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=4" title="Edit section: Activism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Cox is an ardent supporter of programming freedom, and an outspoken opponent of <a href="/wiki/Software_patent" title="Software patent">software patents</a>, the <a href="/wiki/Digital_Millennium_Copyright_Act" title="Digital Millennium Copyright Act">DMCA</a> and the <a href="/wiki/Consumer_Broadband_and_Digital_Television_Promotion_Act" title="Consumer Broadband and Digital Television Promotion Act">CBDTPA</a>. He resigned from a subgroup of <a href="/wiki/Usenix" class="mw-redirect" title="Usenix">Usenix</a> in protest, and said he would not visit the <a href="/wiki/United_States" title="United States">United States</a> for fear of being imprisoned after the arrest of <a href="/wiki/United_States_v._Elcom_Ltd." title="United States v. Elcom Ltd.">Dmitry Sklyarov</a> for <a href="/wiki/Digital_Millennium_Copyright_Act" title="Digital Millennium Copyright Act">DMCA</a> violations.
-</p><p>In January 2007, he applied for a series of patents on "RMS", or "rights management systems".<sup id="cite_ref-Patents_15-0" class="reference"><a href="#cite_note-Patents-15">&#91;15&#93;</a></sup> It is said<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (December 2013)">according to whom?</span></a></i>&#93;</sup> that he has filed a patent for <a href="/wiki/Digital_rights_management" title="Digital rights management">digital rights management</a>. Red Hat Inc., Cox's former employer, has stated (in a document drafted by <a href="/wiki/Mark_Webbink" title="Mark Webbink">Mark Webbink</a> and Cox himself)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> that it will not use patents against <a href="/wiki/Free_software" title="Free software">free software</a> projects.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
-</p><p>Cox is also an adviser to the <a href="/wiki/Foundation_for_Information_Policy_Research" title="Foundation for Information Policy Research">Foundation for Information Policy Research</a> and the <a href="/wiki/Open_Rights_Group" title="Open Rights Group">Open Rights Group</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=5" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Cox was the recipient of the <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a>'s 2003 <a href="/wiki/Award_for_the_Advancement_of_Free_Software" class="mw-redirect" title="Award for the Advancement of Free Software">Award for the Advancement of Free Software</a> at the <a href="/wiki/FOSDEM" title="FOSDEM">FOSDEM</a> conference in <a href="/wiki/Brussels" title="Brussels">Brussels</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
-</p><p>On 5 October 2005, Cox received a lifetime achievement award at the <a href="/wiki/LinuxWorld_Conference_and_Expo" title="LinuxWorld Conference and Expo">LinuxWorld</a> awards in London.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
-</p><p>The <a href="/wiki/University_of_Wales_Trinity_Saint_David" title="University of Wales Trinity Saint David">University of Wales Trinity Saint David</a> Awarded Cox an Honorary Fellowship on 18 July 2013.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
-</p><p>He received an honorary doctorate from the Swansea University, his alma mater, on 20 July 2016.<sup id="cite_ref-SwanseaHD_7-1" class="reference"><a href="#cite_note-SwanseaHD-7">&#91;7&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright">
-<ul>
-<li><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span><a href="/wiki/Portal:Free_and_open-source_software" title="Portal:Free and open-source software">Free and open-source software portal</a></span></li></ul></div>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-jonas-2015-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-jonas-2015_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jonas-2015_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFÖberg2015" class="citation web cs1"><a href="/wiki/Jonas_%C3%96berg" title="Jonas Öberg">Öberg, Jonas</a> (3 November 2015). <a rel="nofollow" class="external text" href="http://blog.jonasoberg.net/in-memory-of-telsa-gwynne/">"In Memory of Telsa Gwynne"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=In+Memory+of+Telsa+Gwynne&amp;rft.date=2015-11-03&amp;rft.aulast=%C3%96berg&amp;rft.aufirst=Jonas&amp;rft_id=http%3A%2F%2Fblog.jonasoberg.net%2Fin-memory-of-telsa-gwynne%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-gardiner-2015-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-gardiner-2015_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gardiner-2015_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGardiner2015" class="citation web cs1"><a href="/wiki/Mary_Gardiner" title="Mary Gardiner">Gardiner, Mary Elizebeth</a> (4 November 2015). <a rel="nofollow" class="external text" href="http://puzzling.org/life/2015/11/remembering-telsa-gwynne/">"Remembering Telsa Gwynne"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Remembering+Telsa+Gwynne&amp;rft.date=2015-11-04&amp;rft.aulast=Gardiner&amp;rft.aufirst=Mary+Elizebeth&amp;rft_id=http%3A%2F%2Fpuzzling.org%2Flife%2F2015%2F11%2Fremembering-telsa-gwynne%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-neale-2019-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-neale-2019_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-neale-2019_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://homecrazzyhome.wordpress.com/2019/05/01/my-hero/">"My Hero"</a>. 1 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=My+Hero&amp;rft.date=2019-05-01&amp;rft_id=https%3A%2F%2Fhomecrazzyhome.wordpress.com%2F2019%2F05%2F01%2Fmy-hero%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gnome.org/news/2015/11/in-memory-of-telsa-gwynne/">"In Memory of Telsa Gwynne"</a>. <i>GNOME website</i>. 6 November 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2015</span>. <q>after living with cancer for a while she passed away this last Tuesday, 3 November 2015</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GNOME+website&amp;rft.atitle=In+Memory+of+Telsa+Gwynne&amp;rft.date=2015-11-06&amp;rft_id=https%3A%2F%2Fwww.gnome.org%2Fnews%2F2015%2F11%2Fin-memory-of-telsa-gwynne%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOwen2015" class="citation web cs1">Owen, Huw Dylan (4 November 2015). <a rel="nofollow" class="external text" href="https://sesiwn.wordpress.com/2015/11/04/telsa-gwynne-1969-2015/">"Telsa Gwynne (1969 – 2015)"</a> <span class="cs1-format">(Blog y Sesiwn)</span>. <i>Sesiwn yng Nghymru</i> (in Welsh)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sesiwn+yng+Nghymru&amp;rft.atitle=Telsa+Gwynne+%281969+%E2%80%93+2015%29&amp;rft.date=2015-11-04&amp;rft.aulast=Owen&amp;rft.aufirst=Huw+Dylan&amp;rft_id=https%3A%2F%2Fsesiwn.wordpress.com%2F2015%2F11%2F04%2Ftelsa-gwynne-1969-2015%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span> (English translation in comments.)</span>
-</li>
-<li id="cite_note-neale-2020-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-neale-2020_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://homecrazzyhome.wordpress.com/2020/05/01/my-wedding-day/">"My Wedding Day"</a>. 1 May 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">17 July</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=My+Wedding+Day&amp;rft.date=2020-05-01&amp;rft_id=https%3A%2F%2Fhomecrazzyhome.wordpress.com%2F2020%2F05%2F01%2Fmy-wedding-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-SwanseaHD-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-SwanseaHD_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SwanseaHD_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.swansea.ac.uk/graduation/honoraryawards/honoraryawardsarchive/honoraryawards2016/alancox/">"Swansea University honours world class Linux computer programmer"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Swansea+University+honours+world+class+Linux+computer+programmer&amp;rft_id=http%3A%2F%2Fwww.swansea.ac.uk%2Fgraduation%2Fhonoraryawards%2Fhonoraryawardsarchive%2Fhonoraryawards2016%2Falancox%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-sucs-2014-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-sucs-2014_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://history.sucs.org/History/Hardware">"SUCS - History - Hardware"</a>. 1 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">17 July</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SUCS+-+History+-+Hardware&amp;rft.date=2014-12-01&amp;rft_id=http%3A%2F%2Fhistory.sucs.org%2FHistory%2FHardware&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130130111247/http://kerneltrap.org/node/759">Linux: Alan Cox To Take One Year Sabbatical</a>.</span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://linux.slashdot.org/story/09/07/29/1925224/Alan-Cox-Quits-As-Linux-TTY-Maintainer-mdash-Ive-Had-Enough">Linux: Alan Cox Quits As Linux TTY Maintainer — "I've Had Enough"</a></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lxer.com/module/newswire/view/114064/">Alan Cox: Moving on from Red Hat</a></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFCox" class="citation web cs1">Cox, Alan. <a rel="nofollow" class="external text" href="https://plus.google.com/u/0/111104121194250082892/posts/KW3TdRYwjr9">"I'm leaving the Linux world and Intel for a bit for family reasons"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I%27m+leaving+the+Linux+world+and+Intel+for+a+bit+for+family+reasons&amp;rft.aulast=Cox&amp;rft.aufirst=Alan&amp;rft_id=https%3A%2F%2Fplus.google.com%2Fu%2F0%2F111104121194250082892%2Fposts%2FKW3TdRYwjr9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://seeseekey.net/wp-content/uploads/2014/11/alan.png">https://seeseekey.net/wp-content/uploads/2014/11/alan.png</a></span>
-</li>
-<li id="cite_note-urlEtched_Pixels:_N_scale_etched_models_and_details-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlEtched_Pixels:_N_scale_etched_models_and_details_14-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.etchedpixels.co.uk/">"Etched Pixels: N scale etched models and details"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Etched+Pixels%3A+N+scale+etched+models+and+details&amp;rft_id=http%3A%2F%2Fwww.etchedpixels.co.uk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-Patents-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Patents_15-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.freshpatents.com/Alan-Cox-Swansea-invdirc.php">List of Alan Cox patents</a></span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation audio-visual cs1">Webbink, Mark (Interviewee) (8 November 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080111155645/http://truthhappens.redhatmagazine.com/2007/11/08/mark-webbink-on-the-patent-promise-2/"><i>Mark Webbink On: The Patent Promise</i></a>. Red Hat Magazine. Archived from <a rel="nofollow" class="external text" href="http://truthhappens.redhatmagazine.com/2007/11/08/mark-webbink-on-the-patent-promise-2/">the original</a> <span class="cs1-format">(Ogg Theora)</span> on 11 January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mark+Webbink+On%3A+The+Patent+Promise&amp;rft.pub=Red+Hat+Magazine&amp;rft.date=2007-11-08&amp;rft_id=http%3A%2F%2Ftruthhappens.redhatmagazine.com%2F2007%2F11%2F08%2Fmark-webbink-on-the-patent-promise-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070818144523/http://www.redhat.com/legal/patent_policy.html">"Statement of Position and Our Promise on Software Patents"</a>. Red Hat. Archived from <a rel="nofollow" class="external text" href="http://www.redhat.com/legal/patent_policy.html">the original</a> on 18 August 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">23 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statement+of+Position+and+Our+Promise+on+Software+Patents&amp;rft.pub=Red+Hat&amp;rft_id=http%3A%2F%2Fwww.redhat.com%2Flegal%2Fpatent_policy.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080603040946/http://www.openrightsgroup.org/about-org/#Advisory">"Board and Advisory Council"</a>. Open Rights Group. Archived from <a rel="nofollow" class="external text" href="http://www.openrightsgroup.org/about-org/#Advisory">the original</a> on 3 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">23 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Board+and+Advisory+Council&amp;rft.pub=Open+Rights+Group&amp;rft_id=http%3A%2F%2Fwww.openrightsgroup.org%2Fabout-org%2F%23Advisory&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gnu.org/award/2003/2003.html">"2003 Award For the Advancement of Free Software"</a>. Free Software Foundation. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070819232212/https://www.gnu.org/award/2003/2003.html">Archived</a> from the original on 19 August 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">23 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2003+Award+For+the+Advancement+of+Free+Software&amp;rft.pub=Free+Software+Foundation&amp;rft_id=https%3A%2F%2Fwww.gnu.org%2Faward%2F2003%2F2003.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMatt_Loney2005" class="citation news cs1">Matt Loney (6 October 2005). <a rel="nofollow" class="external text" href="http://news.zdnet.co.uk/software/0,1000000121,39226539,00.htm">"Linux pioneer wins lifetime achievement award"</a>. <a href="/wiki/ZDNet" title="ZDNet">ZDNet</a> UK.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Linux+pioneer+wins+lifetime+achievement+award&amp;rft.date=2005-10-06&amp;rft.au=Matt+Loney&amp;rft_id=http%3A%2F%2Fnews.zdnet.co.uk%2Fsoftware%2F0%2C1000000121%2C39226539%2C00.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://plus.google.com/u/0/111104121194250082892/posts/CdzAqZEspbs">"Google Plus post"</a>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">18 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+Plus+post&amp;rft.pub=Google&amp;rft_id=https%3A%2F%2Fplus.google.com%2Fu%2F0%2F111104121194250082892%2Fposts%2FCdzAqZEspbs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlan+Cox" class="Z3988"></span></span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alan_Cox&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
 <tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Alan_Cox" class="extiw" title="commons:Alan Cox">Alan Cox</a></b></i>.</td></tr>
-</tbody></table>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<td colspan="2">
+</td></tr>
+<tr>
+<td colspan="2" height="15px">
+</td></tr>
+<tr>
+<td width="65%" valign="top" style="background:&#123;&#123;&#123;bakgrund_färg&#125;&#125;&#125;; padding-left:10px; padding-bottom:2em; padding-right:20px; padding-top:1em;"><b><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Англиканство">Англиканство</a></b> — одно из направлений <a href="/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Христианство">Христианства</a>. Англиканские <a href="/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Христианская церковь">церкви</a> либо имеют особую историческую связь с <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церковью Англии</a>, либо объединены с ней общими <a href="/wiki/%D0%A2%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" class="mw-redirect" title="Теология">теологией</a>, <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Богослужение">богослужением</a> и церковной структурой. Термин «Англиканство» восходит к латинской фразе «ecclesia anglicana», первое упоминание которой относится к 1246 году и означает в дословном переводе на русский язык «Английская Церковь». Последователи Англиканства именуются англиканами, а также епископалианами.
+<p>Абсолютное большинство англикан принадлежат к церквям, входящим в <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Англиканское Сообщество">Англиканское Сообщество</a>, которое носит международный характер, представляет собой ассоциацию этих церквей, состоящих в полном каноническом общении с <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF_%D0%9A%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9" title="Архиепископ Кентерберийский">Архиепископом Кентерберийским</a> и насчитывает около 77 миллионов последователей. Англиканское Сообщество занимает третье место по численности среди направлений Христианства после Римско-католической церкви и Вселенского Православия. Англиканское вероучение основывается на <a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Священные писания">Писаниях</a>, традициях Апостольской церкви и учении ранних Отцов церкви.
+<br clear="all" />
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Англиканство">Читать дальше…</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
 <tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
-<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Alan_Cox" class="extiw" title="q:Special:Search/Alan Cox">Alan Cox</a></b></i></td></tr>
+<td style="border-bottom:2px solid &#123;&#123;&#123;inre_kantlinje_färg&#125;&#125;&#125;; font-size:120%; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Избранная статья</b>
+</td></tr>
+<tr>
+<td style="padding-top:1em;">
+<p><b><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Англиканское Сообщество">Англиканское Сообщество</a></b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Anglican Communion</span>) — всемирное объединение поместных (национальных) <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Англиканство">англиканских</a> <a href="/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Христианская церковь">церквей</a>. Не существует единой «Англиканской Церкви», обладающей общей юрисдикцией, так как каждая национальная англиканская Церковь — административно независима и находятся в полном каноническом единстве с <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церковью Англии</a>, которая рассматривается как «Материнская Церковь» Сообщества по всему миру, с её главным <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D1%81" title="Примас">примасом</a> <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF_%D0%9A%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9" title="Архиепископ Кентерберийский">Архиепископом Кентерберийским</a>. Статус полного канонического единства означает, что между этими Церквями существует взаимное согласие по важнейшим доктринам и <a href="/wiki/%D0%95%D0%B2%D1%85%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%8F" title="Евхаристия">Причастие</a> в каждой поместной Церкви возможно для каждого англиканина.
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Избранная_статья&amp;action=edit">править</a></p>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:2px solid &#123;&#123;&#123;inre_kantlinje_färg&#125;&#125;&#125;; font-size:120%; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Избранная личность</b>
+</td></tr>
+<tr>
+<td style="padding-top:1em;">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hugh_Latimer_from_NPG.jpg" class="image"><img alt="Hugh Latimer from NPG.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hugh_Latimer_from_NPG.jpg/140px-Hugh_Latimer_from_NPG.jpg" decoding="async" width="140" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hugh_Latimer_from_NPG.jpg/210px-Hugh_Latimer_from_NPG.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hugh_Latimer_from_NPG.jpg/280px-Hugh_Latimer_from_NPG.jpg 2x" data-file-width="2400" data-file-height="3234" /></a></div><b><a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BC%D0%B5%D1%80,_%D0%A5%D1%8C%D1%8E" title="Латимер, Хью">Хью Латимер</a></b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Hugh Latimer</span>; около <a href="/wiki/1485" class="mw-redirect" title="1485">1485</a>, <a href="/w/index.php?title=%D0%A2%D1%91%D1%80%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Тёркастон (страница отсутствует)">Тёркастон</a>, <a href="/wiki/%D0%9B%D0%B5%D1%81%D1%82%D0%B5%D1%80%D1%88%D0%B8%D1%80" title="Лестершир">Лестершир</a>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англия</a>&#160;— <a href="/wiki/16_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="16 октября">16 октября</a> <a href="/wiki/1555" class="mw-redirect" title="1555">1555</a>, <a href="/wiki/%D0%9E%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4" title="Оксфорд">Оксфорд</a>, Англия)&#160;— известный деятель английской <a href="/wiki/%D0%A0%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Реформация">Реформации</a>. Один из трёх <a href="/w/index.php?title=%D0%9E%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Оксфордские мученики (страница отсутствует)">Оксфордских мучеников</a> <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церкви Англии</a>.
+<p>По завершении обучения в <a href="/wiki/%D0%9A%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%B4%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Кембриджский университет">Кембриджском университете</a> получил степени магистра гуманитарных наук и бакалавра богословия. Тогда же был рукоположен в священники <a href="/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE-%D0%BA%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" class="mw-redirect" title="Римско-католическая церковь">Римско-Католической церкви</a>. Под влиянием бесед со священником <a href="/w/index.php?title=%D0%91%D0%B8%D0%BB%D0%BD%D0%B8,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Билни, Томас (страница отсутствует)">Томасом Билни</a> присоединился к группе реформаторов в Кембридже, собиравшихся в таверне «Белая лошадь». Его лекции о протестантизме носили эмоциональный, живой и общедоступный характер. Особенно настаивал на предоставлении прав свободного чтения <a href="/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F" title="Библия">Библии</a> на английском языке. 
+</p><p>Король <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_VIII" title="Генрих VIII">Генрих VIII</a> назначил его епископом Вустерским, однако из-за отказа признать «Шесть статей» он был смещён с кафедры и заключен в <a href="/wiki/%D0%A2%D0%B0%D1%83%D1%8D%D1%80" title="Тауэр">Тауэр</a>. При следующем короле <a href="/wiki/%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_VI" title="Эдуард VI">Эдуарде VI</a> был освобожден из заключения и назначен придворным проповедником. Но уже во времена правления королевы <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_I_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8)" title="Мария I (королева Англии)">Марии I</a> и попытки реставрации католицизма в Англии, Хью Латимер был сожжён на костре как <a href="/wiki/%D0%95%D1%80%D0%B5%D1%81%D1%8C" title="Ересь">еретик</a>.
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Избранная_личность&amp;action=edit">править</a> </p>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:2px solid &#123;&#123;&#123;inre_kantlinje_färg&#125;&#125;&#125;; font-size:120%; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Избранное место</b>
+</td></tr>
+<tr>
+<td style="padding-top:1em;">
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Voznesensky_8-5_May_2009_cropped.jpeg" class="image"><img alt="Voznesensky 8-5 May 2009 cropped.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Voznesensky_8-5_May_2009_cropped.jpeg/150px-Voznesensky_8-5_May_2009_cropped.jpeg" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Voznesensky_8-5_May_2009_cropped.jpeg/225px-Voznesensky_8-5_May_2009_cropped.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Voznesensky_8-5_May_2009_cropped.jpeg/300px-Voznesensky_8-5_May_2009_cropped.jpeg 2x" data-file-width="1176" data-file-height="1175" /></a></div><b><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%8F_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Англиканская церковь Святого Андрея (Москва)">Церковь Свято́го Андре́я в Москве́</a></b>&#160;— единственная англиканская церковь в <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москве</a>, центр Московского дьяконства, к которому принадлежат капелланства в <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a> и <a href="/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Владивосток">Владивостоке</a>. Является частью Восточного Архидиаконства в <a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%93%D0%B8%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80%D0%B0_%D0%B2_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5" title="Диоцез Гибралтара в Европе">Диоцезе Гибралтара в Европе</a>, который, в свою очередь является частью <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F_%D0%9A%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B8" title="Провинция Кентербери">Провинции Кентербери</a> <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церкви Англии</a>.
+<p>Храм построен по проекту архитектора Ричарда Нила Фримана в 1882—1884 годах в стиле викторианской готики. 13 января 1885 года епископ Джонатан Холт Титкомб освятил церковь в честь святого апостола Андрея, святого покровителя Шотландии, так как шотландцы были наиболее уважаемыми членами британской общины в Москве. Позднее по проекту архитектора Бориса Викторовича Фрейденберга был построен двухэтажный дом для священника.
+<br clear="all" />
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Избранное_место&amp;action=edit">править</a></p>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:2px solid &#123;&#123;&#123;inre_kantlinje_färg&#125;&#125;&#125;; font-size:120%; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Библия</b>
+</td></tr>
+<tr>
+<td style="padding-top:1em;">
+<p><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Портал:Англиканство/Библия (страница отсутствует)">Портал:Англиканство/Библия</a>
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Библия&amp;action=edit">править</a> </p>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:2px solid &#123;&#123;&#123;inre_kantlinje_färg&#125;&#125;&#125;; font-size:120%; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Знаете ли вы</b>
+</td></tr>
+<tr>
+<td style="padding-top:1em;">
+<ul><li><a href="/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A0%D0%BE%D1%83%D1%8D%D0%BD_%D0%94%D1%83%D0%B3%D0%BB%D0%B0%D1%81" title="Уильямс, Роуэн Дуглас">Роуэн Уильямс</a>, <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF_%D0%9A%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9" title="Архиепископ Кентерберийский">архиепископ Кентерберийский</a> на покое,  владеет русским языком и является автором работ о религиозной философии <a href="/wiki/%D0%9B%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Лосский, Владимир Николаевич">В.Н. Лосского</a> и <a href="/wiki/%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Достоевский, Фёдор Михайлович">Ф.М. Достоевского</a>.</li></ul>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Знаете_ли_вы&amp;action=edit">править</a></p>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:2px solid &#123;&#123;&#123;inre_kantlinje_färg&#125;&#125;&#125;; font-size:120%; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Новые статьи</b>
+</td></tr>
+<tr>
+<td style="padding-top:1em;">
+<div style="font-size:90%">Добавляйте <b>сверху</b> написанные Вами статьи, чтобы другие участники могли их проверить, дополнить и исправить, если потребуется. Добавляйте не только новые статьи, но и серьёзно переработанные.</div>
+<ul><li><a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD_(%D0%BF%D0%B0%D1%81%D1%82%D0%BE%D1%80)" title="Робинсон, Джон (пастор)">Робинсон, Джон (пастор)</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BB_(%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8)" title="Кардинал (Церковь Англии)">Кардинал (Церковь Англии)</a></li>
+<li><a href="/wiki/%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Шотландская епископальная церковь">Шотландская епископальная церковь</a></li>
+<li><a href="/wiki/%D0%95%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Епископальная церковь">Епископальная церковь</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%95%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%A1%D0%A8%D0%90" class="mw-redirect" title="Генеральная конвенция Епископальной церкви США">Генеральная конвенция Епископальной церкви США</a></li>
+<li><a href="/wiki/%D0%94%D0%B6%D0%B5%D1%84%D1%84%D0%B5%D1%80%D1%82%D1%81_%D0%A8%D0%BE%D1%80%D0%B8,_%D0%9A%D1%8D%D1%82%D1%80%D0%B8%D0%BD" title="Джеффертс Шори, Кэтрин">Джеффертс Шори, Кэтрин</a></li>
+<li><a href="/wiki/%D0%A3%D0%B5%D0%BC%D0%B0%D1%86%D1%83,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB%D1%8C_%D0%9C%D0%B0%D0%BA%D0%BE%D1%82%D0%BE" class="mw-redirect" title="Уемацу, Натаниель Макото">Уемацу, Натаниель Макото</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B4%D0%B8%D0%BE%D1%86%D0%B5%D0%B7%D0%BE%D0%B2_%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8_%D0%B8_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Список англиканских диоцезов в Великобритании и Ирландии">Список англиканских диоцезов в Великобритании и Ирландии</a></li>
+<li><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Провинция Англиканской Церкви Конго (страница отсутствует)">Провинция Англиканской Церкви Конго</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE" title="Диоцез Хоккайдо">Диоцез Хоккайдо</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE" title="Диоцез Токио">Диоцез Токио</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%9E%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4%D0%B0" title="Диоцез Оксфорда">Диоцез Оксфорда</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%9B%D0%B8%D0%BD%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0" title="Диоцез Линкольна">Диоцез Линкольна</a></li>
+<li><a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%9A%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B8" title="Диоцез Кентербери">Диоцез Кентербери</a></li></ul>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Новые_статьи&amp;action=edit">править</a></p>
+</td></tr></tbody></table>
+</td>
+<td width="35%" valign="top" style="border-left:1px dotted #696969; padding-top:0em; padding-left:20px; padding-right:10px;">
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Новости</b>
+</td></tr></tbody></table>
+<ul><li><b><a href="/wiki/6_%D0%BC%D0%B0%D1%8F" title="6 мая">6 мая</a> <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014 года</a></b>&#160;— новым епископом <a href="/wiki/%D0%94%D0%B8%D0%BE%D1%86%D0%B5%D0%B7_%D0%93%D0%B8%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80%D0%B0_%D0%B2_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5" title="Диоцез Гибралтара в Европе">епархии Гибралтара в Европе</a> назначен доктор <a href="/w/index.php?title=%D0%98%D0%BD%D0%BD%D0%B5%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Иннес, Роберт (страница отсутствует)">Роберт Иннес</a> <a rel="nofollow" class="external autonumber" href="http://www.anglicannews.org/news/2014/05/canon-dr-robert-innes-to-be-next-bishop-of-gibraltar-in-europe.aspx">[1]</a>.</li></ul>
+<ul><li><b><a href="/wiki/4_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="4 апреля">4 апреля</a> <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014 года</a></b>&#160;— архиепископ Кейптаунский <a href="/wiki/%D0%A2%D1%83%D1%82%D1%83,_%D0%94%D0%B5%D1%81%D0%BC%D0%BE%D0%BD%D0%B4" title="Туту, Десмонд">Десмонд Туту</a> обратился к <a href="/wiki/%D0%9E%D0%B1%D0%B0%D0%BC%D0%B0,_%D0%91%D0%B0%D1%80%D0%B0%D0%BA" title="Обама, Барак">президенту США</a> с просьбой извиниться за войну в <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BA" title="Ирак">Ираке</a> <a rel="nofollow" class="external autonumber" href="http://russian.rt.com/article/26436#ixzz2xuskj2t3">[2]</a>.</li></ul>
+<ul><li><b><a href="/wiki/14_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="14 марта">14 марта</a> <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014 года</a></b>&#160;— <a href="/w/index.php?title=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%B2_%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Церковь в Нигерии (страница отсутствует)">Церковь в Нигерии</a> ввела клятву против гомосексуализма для кандидатов в диаконы и священники <a rel="nofollow" class="external autonumber" href="http://www.cnlnews.tv/2014/03/14/oath/">[3]</a>.</li></ul>
+<ul><li><b><a href="/wiki/16_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="16 февраля">16 февраля</a> <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014 года</a></b>&#160;— в <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церкви Англии</a> и <a href="/w/index.php?title=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A3%D1%8D%D0%BB%D1%8C%D1%81%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Церковь Уэльса (страница отсутствует)">Церкви Уэльса</a> запретили духовенству вступать в однополые браки <a rel="nofollow" class="external autonumber" href="http://ria.ru/world/20140216/995198369.html#ixzz2tXVpTtU8">[4]</a> и благословлять однополые браки мирян <a rel="nofollow" class="external autonumber" href="http://podrobnosti.ua/society/2014/02/19/959686.html">[5]</a>.</li></ul>
+<ul><li><b><a href="/wiki/22_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="22 января">22 января</a> <a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014 года</a></b>&#160;— в <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церкви Англии</a> и <a href="/w/index.php?title=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A3%D1%8D%D0%BB%D1%8C%D1%81%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Церковь Уэльса (страница отсутствует)">Церкви Уэльса</a> появились правила поведения для духовенства в социальных сетях <a rel="nofollow" class="external autonumber" href="http://lenta.ru/news/2014/01/22/churchofengland/">[6]</a>.</li></ul>
+<center>
+<table class="sisterproject" style="background:transparent; margin:0 auto">
+<tbody><tr>
+<td><a href="https://ru.wikinews.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Логотип «Викиновостей»"><img alt="Логотип «Викиновостей»" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/46px-Notification-icon-Wikinews-logo.svg.png" decoding="async" width="46" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/69px-Notification-icon-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/92px-Notification-icon-Wikinews-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></a>
+</td>
+<td>События <b><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:9_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2021" class="extiw" title="n:Категория:9 марта 2021">9 марта 2021 года</a></b> в&#160;<a href="https://ru.wikinews.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="extiw" title="n:Заглавная страница">Викиновостях</a>
+</td></tr></tbody></table></center>
+<p align="right" class="plainlinks" style="font-size:8pt;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Англиканство/Новости/Архив (страница отсутствует)">Архив</a> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Новости&amp;action=edit">править</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Цитата</b>
+</td></tr></tbody></table>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Florence_Nightingale.png" class="image"><img alt="Florence Nightingale.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Florence_Nightingale.png/70px-Florence_Nightingale.png" decoding="async" width="70" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Florence_Nightingale.png/105px-Florence_Nightingale.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Florence_Nightingale.png/140px-Florence_Nightingale.png 2x" data-file-width="382" data-file-height="480" /></a></div>
+<style data-mw-deduplicate="TemplateStyles:r104610251">.mw-parser-output .ts-Цитата-container{margin:auto;border-collapse:collapse;display:flex;justify-content:center}.mw-parser-output .ts-Цитата-quote{font-style:italic}.mw-parser-output .ts-Цитата-container cite{display:block;float:right;font-style:normal}.mw-parser-output .ts-Цитата-leftQuote,.mw-parser-output .ts-Цитата-rightQuote{width:30px;padding-right:10px}.mw-parser-output .ts-Цитата-leftQuote{vertical-align:top}.mw-parser-output .ts-Цитата-rightQuote{vertical-align:bottom}.mw-parser-output .ts-Цитата-container .ts-oq .NavFrame{padding:0.25em 0 0}</style><table class="ts-Цитата-container"><tbody><tr><td class="ts-Цитата-leftQuote"><img alt="«" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aquote1.png/30px-Aquote1.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/4/44/Aquote1.png 1.5x" data-file-width="40" data-file-height="30" /></td><td class="ts-Цитата-quote">Я никогда не упускаю возможности поддержать практическое начинание, даже самое маленькое, ибо зачастую в горчичном зерне скрывается и коренится чудо.</td><td class="ts-Цитата-rightQuote"><img alt="»" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aquote2.png/30px-Aquote2.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/4/49/Aquote2.png 1.5x" data-file-width="40" data-file-height="30" /></td></tr></tbody></table>
+<p><br />
+</p>
+<sup><center><a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%81_%D0%9D%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%D0%B9%D0%BB" class="mw-redirect" title="Флоренс Найтингейл">Флоренс Найтингейл</a></center></sup>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Цитата&amp;action=edit">править</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Избранное изображение</b>
+</td></tr></tbody></table>
+<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Clonfert_Cathedral_Mermaid_2009_09_17.jpg" class="image"><img alt="Clonfert Cathedral Mermaid 2009 09 17.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Clonfert_Cathedral_Mermaid_2009_09_17.jpg/300px-Clonfert_Cathedral_Mermaid_2009_09_17.jpg" decoding="async" width="300" height="352" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Clonfert_Cathedral_Mermaid_2009_09_17.jpg/450px-Clonfert_Cathedral_Mermaid_2009_09_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Clonfert_Cathedral_Mermaid_2009_09_17.jpg/600px-Clonfert_Cathedral_Mermaid_2009_09_17.jpg 2x" data-file-width="1776" data-file-height="2082" /></a></div></div>
+<center>«Русалка», деталь барельефа <a href="/w/index.php?title=%D0%9A%D0%BB%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Клонфертский собор (страница отсутствует)">Клонфертского собора</a></center>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Избранное_изображение&amp;action=edit">править</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Англиканский календарь — сегодня 9 марта</b>
+</td></tr></tbody></table>
+<p><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C/%D0%BC%D0%B0%D1%80%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Портал:Англиканство/Календарь/март (страница отсутствует)">Портал:Англиканство/Календарь/март</a>
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/Arkiv&amp;action=edit&amp;redlink=1" class="new" title="Портал:Англиканство/Arkiv (страница отсутствует)">Другие даты</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Молитва</b>
+</td></tr></tbody></table>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Animation_candle_flame.gif" class="image"><img alt="Animation candle flame.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Animation_candle_flame.gif/60px-Animation_candle_flame.gif" decoding="async" width="60" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Animation_candle_flame.gif/90px-Animation_candle_flame.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Animation_candle_flame.gif/120px-Animation_candle_flame.gif 2x" data-file-width="640" data-file-height="480" /></a></div><b>Коллекта на Благовещение Пресвятой Девы Марии</b> <br />
+<p><i>Молим Тебя, Господи, исполняй благодатью Твоею  сердца наши, что бы, как узнали мы о воплощении Сына Твоего Иисуса Христа через  послание Ангела благословенной Деве, так смогли бы мы Крестом и Страстями Его прийти к славе воскресения Его; через тот же Иисуса Христа Господа нашего, аминь.</i>
+</p>
+<p align="right" class="plainlinks" style="font-size:8pt;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Молитва&amp;action=edit">править</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Категории</b>
+</td></tr></tbody></table>
+<div style="font-size:85%">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Англиканство" data-ct-loaded="1" data-ct-state="expanded">▼</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Категория:Англиканство">Англиканство</a></div><div class="CategoryTreeChildren" style="display:block"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Англиканство_по_странам" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Категория:Англиканство по странам">Англиканство по странам</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Англиканские_епархии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8" title="Категория:Англиканские епархии">Англиканские епархии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Категория:Англиканское богослужение">Англиканское богослужение</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B6%D0%B5%D0%BD%D1%82%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D1%8B_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D1%8B" title="Категория:Джентльмены Королевской капеллы">Джентльмены Королевской капеллы</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="История_англиканства" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0" title="Категория:История англиканства">История англиканства</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Персоналии:Англиканство" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Категория:Персоналии:Англиканство">Персоналии:Англиканство</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Англиканские_храмы" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D1%80%D0%B0%D0%BC%D1%8B" title="Категория:Англиканские храмы">Англиканские храмы</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div></div></div></div>
+<p align="right" class="plainlinks" style="font-size:8pt;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство/Категории&amp;action=edit">править</a></p>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="border-bottom:1px dotted #696969; color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;"><b>Проекты</b>
+</td></tr></tbody></table>
+<table style="width:100%; text-align:center; background:transparent;">
+
+<tbody><tr>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Commons-logo.svg" class="image"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" decoding="async" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <b><a href="https://commons.wikimedia.org/wiki/Category:Anglican" class="extiw" title="commons:Category:Anglican">Викисклад</a></b>
+</td>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wiktionary-logo-ru.png" class="image"><img alt="Wiktionary-logo-ru.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/25px-Wiktionary-logo-ru.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/38px-Wiktionary-logo-ru.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/50px-Wiktionary-logo-ru.png 2x" data-file-width="135" data-file-height="135" /></a> <b><a href="https://en.wiktionary.org/wiki/ru:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" class="extiw" title="wiktionary:ru:Англиканство">Викисловарь</a></b>
+</td></tr>
 </tbody></table>
-<ul><li><a rel="nofollow" class="external text" href="http://www.softpanorama.org/People/Cox/index.shtml">Alan Cox: The maintainer of production version of the Linux kernel</a>. Ch. 5 of ebook <i>Open Source Pioneers</i>, includes a lot of difficult to find interviews.</li>
-<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050213233608/http://www.redhat.com/advice/ask_alancox.html">Interview on his biography</a></li>
-<li><a rel="nofollow" class="external text" href="https://lwn.net/1999/features/ACInterview/">LWN interviews Alan Cox</a></li>
-<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050114142428/http://kerneltrap.org/node/9">Interview with Alan Cox – 15 January 2002</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.lugradio.org/episodes/24">LugRadio interview</a></li>
-<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081229064859/http://www.linuxformat.co.uk/modules.php?op=modload&amp;name=Sections&amp;file=index&amp;req=viewarticle&amp;artid=15">Linux Format interview – August 2005</a></li>
-<li><a rel="nofollow" class="external text" href="http://slashdot.org/features/98/10/13/1423253.shtml">Cathedrals, Bazaars and the Town Council – 1998-10-13</a></li>
-<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070813234720/http://bigbro.skynet.ie/resources/ogg/AlanCox_UL_20060513.ogg">Ogg audio recording of a talk in Limerick, Ireland 2006-05-13</a>, and a <a rel="nofollow" class="external text" href="http://blogs.fsfe.org/ciaran/?p=44">transcript of an excerpt, about GPLv3</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.linux-magazin.de/news/video_alan_cox_ueber_proprietaere_treiber_tainted_kernel_und_gplv3">Video interview with Alan Cox at Hannover Industry Trade Fair, Germany, May 2008</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="MUDs" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:MUDs" title="Template:MUDs"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MUDs" title="Template talk:MUDs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:MUDs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="MUDs" style="font-size:114%;margin:0 4em"><a href="/wiki/MUD" title="MUD">MUDs</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="List_of_MUDs"><a href="/wiki/List_of_MUDs" title="List of MUDs">List of MUDs</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major branches</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/AberMUD" title="AberMUD">AberMUD</a></li>
-<li><a href="/wiki/DikuMUD" title="DikuMUD">DikuMUD</a></li>
-<li><a href="/wiki/LPMud" title="LPMud">LPMud</a>
-<ul><li><a href="/wiki/LPC_(programming_language)" class="mw-redirect" title="LPC (programming language)">LPC</a></li></ul></li>
-<li><a href="/wiki/MU*" title="MU*">MU*</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Minor branches,<br />codebases, libraries</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Dworkin%27s_Game_Driver" title="Dworkin&#39;s Game Driver">DGD</a></li>
-<li><a href="/wiki/GodWars" title="GodWars">GodWars</a></li>
-<li><a href="/wiki/Merc_(MUD)" class="mw-redirect" title="Merc (MUD)">Merc</a></li>
-<li><a href="/wiki/MOO" title="MOO">MOO</a></li>
-<li><a href="/wiki/MudOS" title="MudOS">MudOS</a></li>
-<li><a href="/wiki/MUSH" title="MUSH">MUSH</a></li>
-<li><a href="/wiki/Talker" title="Talker">Talker</a></li>
-<li><a href="/wiki/TinyMUD" class="mw-redirect" title="TinyMUD">TinyMUD</a></li>
-<li><a href="/wiki/TinyMUCK" title="TinyMUCK">TinyMUCK</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts,<br />terminology</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Alternate_character" title="Alternate character">Alternate character</a></li>
-<li><a href="/wiki/Avatar_(computing)" title="Avatar (computing)">Avatar</a></li>
-<li><a href="/wiki/Customization_of_avatars" class="mw-redirect" title="Customization of avatars">Avatar customization</a></li>
-<li><a href="/wiki/Bartle_taxonomy_of_player_types" title="Bartle taxonomy of player types">Bartle taxonomy of player types</a></li>
-<li><a href="/wiki/Buff_(video_gaming)" class="mw-redirect" title="Buff (video gaming)">Buff</a></li>
-<li><a href="/wiki/Camping_(video_gaming)" class="mw-redirect" title="Camping (video gaming)">Camping</a></li>
-<li><a href="/wiki/Computer_game_bot" class="mw-redirect" title="Computer game bot">Computer game bot</a></li>
-<li><a href="/wiki/Consider_(MUD)" title="Consider (MUD)">Consider</a></li>
-<li><a href="/wiki/Cybersex" title="Cybersex">Cybersex</a></li>
-<li><a href="/wiki/God_(MUD)" title="God (MUD)">God</a></li>
-<li><a href="/wiki/Gold_farming" title="Gold farming">Gold farming</a></li>
-<li><a href="/wiki/Gold_sink" title="Gold sink">Gold sink</a></li>
-<li><a href="/wiki/Griefer" title="Griefer">Griefer</a></li>
-<li><a href="/wiki/Grinding_(video_gaming)" class="mw-redirect" title="Grinding (video gaming)">Grinding</a></li>
-<li><a href="/wiki/Hack_and_slash" title="Hack and slash">Hack and slash</a></li>
-<li><a href="/wiki/Immortal_(MUD)" title="Immortal (MUD)">Immortal</a></li>
-<li><a href="/wiki/Implementer_(video_games)" title="Implementer (video games)">Implementer</a></li>
-<li><a href="/wiki/Kill_stealing" title="Kill stealing">Kill stealing</a></li>
-<li><a href="/wiki/Lag_(online_gaming)" class="mw-redirect" title="Lag (online gaming)">Lag</a></li>
-<li><a href="/wiki/Looting_(gaming)" class="mw-redirect" title="Looting (gaming)">Looting</a></li>
-<li><a href="/wiki/Mob_(gaming)" class="mw-redirect" title="Mob (gaming)">Mob / Monster</a></li>
-<li><a href="/wiki/MUD_client" title="MUD client">MUD client</a></li>
-<li><a href="/wiki/MUD_trees" title="MUD trees">MUD trees</a></li>
-<li><a href="/wiki/Mudflation" class="mw-redirect" title="Mudflation">Mudflation</a></li>
-<li><a href="/wiki/Nerfing_(gaming)" class="mw-redirect" title="Nerfing (gaming)">Nerf</a></li>
-<li><a href="/wiki/Non-player_character" title="Non-player character">Non-player character</a></li>
-<li><a href="/wiki/Online_creation" title="Online creation">Online creation</a></li>
-<li><a href="/wiki/Online_wedding" title="Online wedding">Online wedding</a></li>
-<li><a href="/wiki/Persistent_world" title="Persistent world">Persistent world</a></li>
-<li><a href="/wiki/Player_character" title="Player character">Player character</a></li>
-<li><a href="/wiki/Player_versus_environment" title="Player versus environment">Player versus environment</a></li>
-<li><a href="/wiki/Player_versus_player" title="Player versus player">Player versus player / Playerkilling</a></li>
-<li><a href="/wiki/Powerleveling" class="mw-redirect" title="Powerleveling">Powerleveling</a></li>
-<li><a href="/wiki/Quest_(gaming)" class="mw-redirect" title="Quest (gaming)">Quest</a></li>
-<li><a href="/wiki/Remort" class="mw-redirect" title="Remort">Remort</a></li>
-<li><a href="/wiki/Rent_(MUD)" title="Rent (MUD)">Rent</a></li>
-<li><a href="/wiki/Spam_(gaming)" class="mw-redirect" title="Spam (gaming)">Spam</a></li>
-<li><a href="/wiki/Spawning_(gaming)" class="mw-redirect" title="Spawning (gaming)">Spawning</a></li>
-<li><a href="https://en.wiktionary.org/wiki/spod" class="extiw" title="wikt:spod">spod</a></li>
-<li><a href="/wiki/Syntax_guessing" title="Syntax guessing">Syntax guessing</a></li>
-<li><a href="/wiki/Tank_(gaming)" class="mw-redirect" title="Tank (gaming)">Tank</a></li>
-<li><a href="/wiki/Twinking" title="Twinking">Twinking</a></li>
-<li><a href="/wiki/Virtual_goods" title="Virtual goods">Virtual goods</a></li>
-<li><a href="/wiki/Wizard_(MUD)" title="Wizard (MUD)">Wizard</a></li>
-<li><a href="/wiki/Zone_(video_games)" title="Zone (video games)">Zone / Area</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/Designing_Virtual_Worlds" title="Designing Virtual Worlds">Designing Virtual Worlds</a></i></li>
-<li><i><a href="/wiki/Imaginary_Realities" title="Imaginary Realities">Imaginary Realities</a></i></li>
-<li><i><a href="/wiki/Life_on_the_Screen" class="mw-redirect" title="Life on the Screen">Life on the Screen</a></i></li>
-<li>"<a href="/wiki/A_Rape_in_Cyberspace" title="A Rape in Cyberspace">A Rape in Cyberspace</a>"</li>
-<li>"<a href="/wiki/A_Story_About_a_Tree" class="mw-redirect" title="A Story About a Tree">A Story About a Tree</a>"</li>
-<li><i><a href="/wiki/Terra_Nova_(blog)" title="Terra Nova (blog)">Terra Nova</a></i></li>
-<li><i><a href="/wiki/A_Theory_of_Fun_for_Game_Design" class="mw-redirect" title="A Theory of Fun for Game Design">A Theory of Fun for Game Design</a></i></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Companies,<br />organizations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Areae" title="Areae">Areae</a></li>
-<li><a href="/wiki/Iron_Realms_Entertainment" title="Iron Realms Entertainment">Iron Realms Entertainment</a></li>
-<li><a href="/wiki/Jagex" title="Jagex">Jagex</a></li>
-<li><a href="/wiki/Lysator" title="Lysator">Lysator</a></li>
-<li><a href="/wiki/Kesmai" title="Kesmai">Kesmai</a></li>
-<li><a href="/wiki/The_Mud_Connector" title="The Mud Connector">The Mud Connector</a></li>
-<li><a href="/wiki/Mythic_Entertainment" title="Mythic Entertainment">Mythic Entertainment</a></li>
-<li><a href="/wiki/Plaintext_Players" title="Plaintext Players">Plaintext Players</a></li>
-<li><a href="/wiki/Simutronics" title="Simutronics">Simutronics</a></li>
-<li><a href="/wiki/XYZZY_Awards" title="XYZZY Awards">XYZZY Awards</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Category:MUDs" title="Category:MUDs">Category:MUDs</a></div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="Contributors_to_the_Linux_operating_system" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Linux_people" title="Template:Linux people"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Linux_people" title="Template talk:Linux people"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Linux_people&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Contributors_to_the_Linux_operating_system" style="font-size:114%;margin:0 4em">Contributors to the <a href="/wiki/Linux" title="Linux">Linux operating system</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_kernel" title="Linux kernel">Kernel</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Hans_Peter_Anvin" title="Hans Peter Anvin">H. Peter Anvin</a></li>
-<li><a href="/wiki/Jens_Axboe" title="Jens Axboe">Jens Axboe</a></li>
-<li><a href="/wiki/Andries_Brouwer" title="Andries Brouwer">Andries Brouwer</a></li>
-<li><a href="/wiki/R%C3%A9my_Card" title="Rémy Card">Rémy Card</a></li>
-<li><a href="/w/index.php?title=Arnaldo_Carvalho_de_Melo&amp;action=edit&amp;redlink=1" class="new" title="Arnaldo Carvalho de Melo (page does not exist)">Arnaldo Carvalho de Melo</a></li>
-<li><a class="mw-selflink selflink">Alan Cox</a></li>
-<li><a href="/wiki/Matthew_Garrett" title="Matthew Garrett">Matthew Garrett</a></li>
-<li><a href="/wiki/Michael_Kerrisk" title="Michael Kerrisk">Michael Kerrisk</a></li>
-<li><a href="/wiki/Con_Kolivas" title="Con Kolivas">Con Kolivas</a></li>
-<li><a href="/wiki/Greg_Kroah-Hartman" title="Greg Kroah-Hartman">Greg Kroah-Hartman</a></li>
-<li><a href="/wiki/Robert_Love" title="Robert Love">Robert Love</a></li>
-<li><a href="/wiki/David_S._Miller" title="David S. Miller">David S. Miller</a></li>
-<li><a href="/wiki/Ingo_Moln%C3%A1r" title="Ingo Molnár">Ingo Molnár</a></li>
-<li><a href="/wiki/Andrew_Morton_(computer_programmer)" title="Andrew Morton (computer programmer)">Andrew Morton</a></li>
-<li><a href="/wiki/Keith_Packard" title="Keith Packard">Keith Packard</a></li>
-<li><a href="/wiki/Hans_Reiser" title="Hans Reiser">Hans Reiser</a></li>
-<li><a href="/wiki/Rusty_Russell" title="Rusty Russell">Rusty Russell</a></li>
-<li><a href="/wiki/Sage_Sharp" title="Sage Sharp">Sage Sharp</a></li>
-<li><a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a></li>
-<li><a href="/wiki/Theodore_Ts%27o" title="Theodore Ts&#39;o">Theodore Ts'o</a></li>
-<li><a href="/wiki/Stephen_Tweedie" title="Stephen Tweedie">Stephen Tweedie</a></li>
-<li><a href="/wiki/Sage_Weil" title="Sage Weil">Sage Weil</a></li>
-<li><a href="/wiki/Harald_Welte" title="Harald Welte">Harald Welte</a></li>
-<li><a href="/wiki/Chris_Wright_(programmer)" title="Chris Wright (programmer)">Chris Wright</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/GNU" title="GNU">GNU</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Lo%C3%AFc_Dachary" title="Loïc Dachary">Loïc Dachary</a></li>
-<li><a href="/wiki/Alexandre_Oliva" title="Alexandre Oliva">Alexandre Oliva</a></li>
-<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li>
-<li><a href="/wiki/Michael_Tiemann" title="Michael Tiemann">Michael Tiemann</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_distribution" title="Linux distribution">Distributions</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Solar_Designer" title="Solar Designer">Solar Designer</a></li>
-<li><a href="/wiki/Ga%C3%ABl_Duval" title="Gaël Duval">Gaël Duval</a></li>
-<li><a href="/wiki/Marc_Ewing" title="Marc Ewing">Marc Ewing</a></li>
-<li><a href="/wiki/Benjamin_Mako_Hill" title="Benjamin Mako Hill">Benjamin Mako Hill</a></li>
-<li><a href="/wiki/Peter_MacDonald_(computer_programmer)" title="Peter MacDonald (computer programmer)">Peter MacDonald</a></li>
-<li><a href="/wiki/Ian_Murdock" title="Ian Murdock">Ian Murdock</a></li>
-<li><a href="/wiki/Daniel_Robbins_(computer_programmer)" title="Daniel Robbins (computer programmer)">Daniel Robbins</a></li>
-<li><a href="/wiki/Jane_Silber" title="Jane Silber">Jane Silber</a></li>
-<li><a href="/wiki/Mark_Shuttleworth" title="Mark Shuttleworth">Mark Shuttleworth</a></li>
-<li><a href="/wiki/Patrick_Volkerding" title="Patrick Volkerding">Patrick Volkerding</a></li>
-<li><a href="/wiki/Bob_Young_(businessman)" title="Bob Young (businessman)">Bob Young</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other developers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Timothee_Besset" title="Timothee Besset">Timothee Besset</a></li>
-<li><a href="/wiki/Matthias_Ettrich" title="Matthias Ettrich">Matthias Ettrich</a></li>
-<li><a href="/wiki/Olivier_Fourdan" title="Olivier Fourdan">Olivier Fourdan</a></li>
-<li><a href="/wiki/Mark_Galassi" title="Mark Galassi">Mark Galassi</a></li>
-<li><a href="/wiki/Jim_Gettys" title="Jim Gettys">Jim Gettys</a></li>
-<li><a href="/wiki/Ryan_C._Gordon" title="Ryan C. Gordon">Ryan C. Gordon</a></li>
-<li><a href="/wiki/Harald_Hoyer" title="Harald Hoyer">Harald Hoyer</a></li>
-<li><a href="/wiki/Miguel_de_Icaza" title="Miguel de Icaza">Miguel de Icaza</a></li>
-<li><a href="/wiki/Havoc_Pennington" title="Havoc Pennington">Havoc Pennington</a></li>
-<li><a href="/wiki/Lennart_Poettering" title="Lennart Poettering">Lennart Poettering</a></li>
-<li><a href="/wiki/Michael_Simms_(software_developer)" title="Michael Simms (software developer)">Michael Simms</a></li>
-<li><a href="/wiki/Kay_Sievers" title="Kay Sievers">Kay Sievers</a></li>
-<li><a href="/wiki/Dave_Taylor_(game_programmer)" title="Dave Taylor (game programmer)">Dave Taylor</a></li>
-<li><a href="/wiki/Jeff_Waugh" title="Jeff Waugh">Jeff Waugh</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Advocates</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Valerie_Aurora" title="Valerie Aurora">Valerie Aurora</a></li>
-<li><a href="/wiki/Donna_Benjamin" title="Donna Benjamin">Donna Benjamin</a></li>
-<li><a href="/wiki/Ken_Coar" title="Ken Coar">Ken Coar</a></li>
-<li><a href="/wiki/Mary_Gardiner" title="Mary Gardiner">Mary Gardiner</a></li>
-<li><a href="/wiki/Jon_Hall_(programmer)" title="Jon Hall (programmer)">Jon Hall</a></li>
-<li><a href="/wiki/Federico_Heinz" title="Federico Heinz">Federico Heinz</a></li>
-<li><a href="/wiki/Bradley_M._Kuhn" title="Bradley M. Kuhn">Bradley M. Kuhn</a></li>
-<li><a href="/wiki/Bruce_Perens" title="Bruce Perens">Bruce Perens</a></li>
-<li><a href="/wiki/Eric_S._Raymond" title="Eric S. Raymond">Eric S. Raymond</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Pia_Andrews" title="Pia Andrews">Pia Andrews</a></li>
-<li><a href="/wiki/Jono_Bacon" title="Jono Bacon">Jono Bacon</a></li>
-<li><a href="/wiki/Keith_Bergelt" title="Keith Bergelt">Keith Bergelt</a></li>
-<li><a href="/wiki/Pamela_Jones" title="Pamela Jones">Pamela Jones</a></li>
-<li><a href="/wiki/Allison_Randal" title="Allison Randal">Allison Randal</a></li>
-<li><a href="/wiki/Karen_Sandler" title="Karen Sandler">Karen Sandler</a></li>
-<li><a href="/wiki/Dave_Sifry" title="Dave Sifry">Dave Sifry</a></li>
-<li><a href="/wiki/Luis_Villa" title="Luis Villa">Luis Villa</a></li></ul>
-</div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="Linux_kernel" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Linux_kernel" title="Template:Linux kernel"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Linux_kernel" title="Template talk:Linux kernel"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Linux_kernel&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Linux_kernel" style="font-size:114%;margin:0 4em"><a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organization</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Kernel" scope="row" class="navbox-group" style="width:1%">Kernel</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Linux_Foundation" title="Linux Foundation">Linux Foundation</a></li>
-<li><a href="/wiki/Linux_Mark_Institute" title="Linux Mark Institute">Linux Mark Institute</a></li>
-<li><a href="/wiki/Linus%27s_law" title="Linus&#39;s law">Linus's law</a></li>
-<li><a href="/wiki/Tanenbaum%E2%80%93Torvalds_debate" title="Tanenbaum–Torvalds debate">Tanenbaum–Torvalds debate</a></li>
-<li><a href="/wiki/Tux_(mascot)" title="Tux (mascot)">Tux</a></li>
-<li><a href="/wiki/SCO%E2%80%93Linux_disputes" title="SCO–Linux disputes">SCO disputes</a></li>
-<li><a href="/wiki/Linaro" title="Linaro">Linaro</a></li>
-<li><a href="/wiki/GNU_General_Public_License#Version_2" title="GNU General Public License">GNU GPL v2</a></li>
-<li><a href="/wiki/Menuconfig" title="Menuconfig">menuconfig</a></li>
-<li><a href="/wiki/List_of_Linux-supported_computer_architectures" title="List of Linux-supported computer architectures">Supported computer architectures</a></li>
-<li><a href="/wiki/List_of_Linux_kernel_names" class="mw-redirect" title="List of Linux kernel names">Kernel names</a></li>
-<li><a href="/wiki/Criticism_of_Linux" title="Criticism of Linux">Criticism</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Support</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li>Developers
-<ul><li><i><a href="/wiki/The_Linux_Programming_Interface" title="The Linux Programming Interface">The Linux Programming Interface</a></i></li>
-<li><a href="/wiki/Kernel.org" title="Kernel.org">kernel.org</a></li>
-<li><a href="/wiki/Linux_kernel_mailing_list" title="Linux kernel mailing list">LKML</a></li>
-<li><a href="/wiki/Linux_conference" class="mw-redirect" title="Linux conference">Linux conferences</a></li></ul></li>
-<li>Users
-<ul><li><a href="/wiki/Linux_user_group" title="Linux user group">Linux User Group (LUG)</a></li></ul></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Debugging</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/CRIU" title="CRIU">CRIU</a></li>
-<li><a href="/wiki/Ftrace" title="Ftrace">ftrace</a></li>
-<li><a href="/wiki/Kdump_(Linux)" title="Kdump (Linux)">kdump</a></li>
-<li><a href="/wiki/Linux_kernel_oops" title="Linux kernel oops">Linux kernel oops</a></li>
-<li><a href="/wiki/SystemTap" title="SystemTap">SystemTap</a></li>
-<li><a href="/wiki/Berkeley_Packet_Filter" title="Berkeley Packet Filter">BPF</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_startup_process" title="Linux startup process">Startup</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Vmlinux" title="Vmlinux">vmlinux</a></li>
-<li><a href="/wiki/System.map" title="System.map">System.map</a></li>
-<li><a href="/wiki/Dracut_(software)" title="Dracut (software)">dracut</a></li>
-<li><a href="/wiki/Initrd" class="mw-redirect" title="Initrd">initrd</a></li>
-<li><a href="/wiki/Initramfs" class="mw-redirect" title="Initramfs">initramfs</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_kernel_interfaces" title="Linux kernel interfaces">ABIs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Linux_Standard_Base" title="Linux Standard Base">Linux Standard Base</a></li>
-<li><a href="/wiki/X32_ABI" title="X32 ABI">x32 ABI</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_kernel_interfaces" title="Linux kernel interfaces">APIs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Kernel</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_kernel_interfaces#SCI" title="Linux kernel interfaces">System Call<br />Interface</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/POSIX" title="POSIX">POSIX</a>
-<ul><li><a href="/wiki/Ioctl" title="Ioctl">ioctl</a></li>
-<li><a href="/wiki/Select_(Unix)" title="Select (Unix)">select</a></li>
-<li><a href="/wiki/Open_(system_call)" title="Open (system call)">open</a></li>
-<li><a href="/wiki/Read_(system_call)" title="Read (system call)">read</a></li>
-<li><a href="/wiki/Close_(system_call)" title="Close (system call)">close</a></li>
-<li><a href="/wiki/Sync_(Unix)" title="Sync (Unix)">sync</a></li>
-<li>…</li></ul></li>
-<li><a href="/wiki/Linux_kernel_interfaces#Additions_to_POSIX" title="Linux kernel interfaces">Linux-only</a>
-<ul><li><a href="/wiki/Futex" title="Futex">futex</a></li>
-<li><a href="/wiki/Epoll" title="Epoll">epoll</a></li>
-<li><a href="/wiki/Splice_(system_call)" title="Splice (system call)">splice</a></li>
-<li><a href="/wiki/Dnotify" title="Dnotify">dnotify</a></li>
-<li><a href="/wiki/Inotify" title="Inotify">inotify</a></li>
-<li><a href="/wiki/Readahead" title="Readahead">readahead</a></li>
-<li>…</li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_kernel_interfaces#In–kernel_APIs" title="Linux kernel interfaces">In-kernel</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Advanced_Linux_Sound_Architecture" title="Advanced Linux Sound Architecture">ALSA</a></li>
-<li><a href="/wiki/Crypto_API_(Linux)" title="Crypto API (Linux)">Crypto API</a></li>
-<li><a href="/wiki/Direct_Rendering_Manager" title="Direct Rendering Manager">DRM</a></li>
-<li><a href="/wiki/Kernfs_(Linux)" title="Kernfs (Linux)">kernfs</a></li>
-<li><a href="/wiki/Memory_barrier" title="Memory barrier">Memory barrier</a></li>
-<li><a href="/wiki/New_API" title="New API">New API</a></li>
-<li><a href="/wiki/Read-copy-update" title="Read-copy-update">RCU</a></li>
-<li><a href="/wiki/Video4Linux" title="Video4Linux">Video4Linux</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/User_space" title="User space">Userspace</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Daemon_(computing)" title="Daemon (computing)">Daemons</a>,<br /><a href="/wiki/Virtual_file_system" title="Virtual file system">File systems</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Devfs" class="mw-redirect" title="Devfs">devfs</a></li>
-<li><a href="/wiki/Devpts" title="Devpts">devpts</a></li>
-<li><a href="/wiki/Debugfs" title="Debugfs">debugfs</a></li>
-<li><a href="/wiki/Filesystem_in_userspace" class="mw-redirect" title="Filesystem in userspace">FUSE</a></li>
-<li><a href="/wiki/Procfs" title="Procfs">procfs</a></li>
-<li><a href="/wiki/Sysfs" title="Sysfs">sysfs</a></li>
-<li><a href="/wiki/Systemd" title="Systemd">systemd</a>
-<ul><li><a href="/wiki/Udev" title="Udev">udev</a></li></ul></li>
-<li><a href="/wiki/Kmscon" title="Kmscon">Kmscon</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wrapper_library" title="Wrapper library">Wrapper<br />libraries</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/C_standard_library" title="C standard library">C standard library</a>
-<ul><li><a href="/wiki/GNU_C_Library" title="GNU C Library">glibc</a></li>
-<li><a href="/wiki/UClibc" title="UClibc">uClibc</a></li>
-<li><a href="/wiki/Bionic_(software)" title="Bionic (software)">Bionic</a>
-<ul><li><a href="/wiki/Hybris_(software)" title="Hybris (software)">libhybris</a></li></ul></li>
-<li><a href="/wiki/Dietlibc" title="Dietlibc">dietlibc</a></li>
-<li><a href="/wiki/Embedded_GLIBC" title="Embedded GLIBC">EGLIBC</a></li>
-<li><a href="/wiki/Klibc" title="Klibc">klibc</a></li>
-<li><a href="/wiki/Musl" title="Musl">musl</a></li>
-<li><a href="/wiki/Newlib" title="Newlib">Newlib</a></li></ul></li>
-<li><a href="/wiki/Cgroups" title="Cgroups">libcgroup</a></li>
-<li><a href="/wiki/Direct_Rendering_Manager" title="Direct Rendering Manager">libdrm</a></li>
-<li><a href="/wiki/Advanced_Linux_Sound_Architecture" title="Advanced Linux Sound Architecture">libalsa</a></li>
-<li><a href="/wiki/Evdev" title="Evdev">libevdev</a></li>
-<li><a href="/wiki/Libusb" title="Libusb">libusb</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Components</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Loadable_kernel_module" title="Loadable kernel module">Kernel modules</a></li>
-<li><a href="/wiki/BlueZ" class="mw-redirect" title="BlueZ">BlueZ</a></li>
-<li><a href="/wiki/Cgroups" title="Cgroups">cgroups</a></li>
-<li><a href="/wiki/Linux_console" title="Linux console">Console</a></li>
-<li><a href="/wiki/Bcache" title="Bcache">bcache</a></li>
-<li><a href="/wiki/Device_mapper" title="Device mapper">Device mapper</a></li>
-<li><a href="/wiki/Dm-cache" title="Dm-cache">dm-cache</a></li>
-<li><a href="/wiki/Dm-crypt" title="Dm-crypt">dm-crypt</a></li>
-<li><a href="/wiki/Direct_Rendering_Manager" title="Direct Rendering Manager">DRM</a></li>
-<li><a href="/wiki/EDAC_(Linux)" class="mw-redirect" title="EDAC (Linux)">EDAC</a></li>
-<li><a href="/wiki/Evdev" title="Evdev">evdev</a></li>
-<li><a href="/wiki/Kernel_same-page_merging" title="Kernel same-page merging">Kernel same-page merging</a> (KSM)</li>
-<li><a href="/wiki/LIO_(SCSI_target)" title="LIO (SCSI target)">LIO</a></li>
-<li><a href="/wiki/Linux_framebuffer" title="Linux framebuffer">Framebuffer</a></li>
-<li><a href="/wiki/Logical_Volume_Manager_(Linux)" title="Logical Volume Manager (Linux)">LVM</a></li>
-<li><a href="/wiki/KMS_driver" class="mw-redirect" title="KMS driver">KMS driver</a></li>
-<li><a href="/wiki/Netfilter" title="Netfilter">Netfilter</a></li>
-<li><a href="/wiki/Netlink" title="Netlink">Netlink</a></li>
-<li><a href="/wiki/Nftables" title="Nftables">nftables</a></li>
-<li><a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a></li>
-<li><a href="/wiki/Perf_(Linux)" title="Perf (Linux)">perf</a></li>
-<li><a href="/wiki/SLUB_(software)" title="SLUB (software)">SLUB</a></li>
-<li><a href="/wiki/Zram" title="Zram">zram</a></li>
-<li><a href="/wiki/Zswap" title="Zswap">zswap</a></li></ul>
-<ul><li><a href="/wiki/Scheduling_(computing)#Linux" title="Scheduling (computing)">Process and I/O schedulers</a>:</li>
-<li><a href="/wiki/O(n)_scheduler" title="O(n) scheduler">O(n) scheduler</a></li>
-<li><a href="/wiki/O(1)_scheduler" title="O(1) scheduler">O(1) scheduler</a></li>
-<li><a href="/wiki/Completely_Fair_Scheduler" title="Completely Fair Scheduler">Completely Fair Scheduler</a> (CFQ)</li>
-<li><a href="/wiki/Brain_Fuck_Scheduler" title="Brain Fuck Scheduler">Brain Fuck Scheduler</a></li>
-<li><a href="/wiki/Noop_scheduler" title="Noop scheduler">Noop scheduler</a></li>
-<li><a href="/wiki/SCHED_DEADLINE" title="SCHED DEADLINE">SCHED_DEADLINE</a></li></ul>
-<ul><li><a href="/wiki/Linux_Security_Modules" title="Linux Security Modules">Security Modules</a>: <a href="/wiki/AppArmor" title="AppArmor">AppArmor</a></li>
-<li><a href="/wiki/Exec_Shield" title="Exec Shield">Exec Shield</a>
-<ul><li><a href="/wiki/PaX" title="PaX">PaX</a></li></ul></li>
-<li><a href="/wiki/Seccomp" title="Seccomp">seccomp</a></li>
-<li><a href="/wiki/Security-Enhanced_Linux" title="Security-Enhanced Linux">SELinux</a></li>
-<li><a href="/wiki/Smack_(software)" title="Smack (software)">Smack</a></li>
-<li><a href="/wiki/Tomoyo_Linux" title="Tomoyo Linux">Tomoyo Linux</a></li>
-<li><a href="/wiki/Linux_PAM" title="Linux PAM">Linux PAM</a></li></ul>
-<ul><li><a href="/wiki/Device_driver" title="Device driver">Device drivers</a>
-<ul><li><a href="/wiki/Comparison_of_open-source_wireless_drivers" title="Comparison of open-source wireless drivers">802.11</a></li>
-<li><a href="/wiki/Free_and_open-source_graphics_device_driver" title="Free and open-source graphics device driver">graphics</a></li></ul></li>
-<li><a href="/wiki/Raw_device" title="Raw device">Raw device</a></li></ul>
-<ul><li><a href="/wiki/Initramfs" class="mw-redirect" title="Initramfs">initramfs</a></li>
-<li><a href="/wiki/KernelCare" title="KernelCare">KernelCare</a></li>
-<li><a href="/wiki/Kexec" title="Kexec">kexec</a></li>
-<li><a href="/wiki/KGraft" title="KGraft">kGraft</a></li>
-<li><a href="/wiki/Kpatch" title="Kpatch">kpatch</a></li>
-<li><a href="/wiki/Ksplice" title="Ksplice">Ksplice</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Variants</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Linux_kernel_mainline" class="mw-redirect" title="Linux kernel mainline">Mainline</a>
-<ul><li><a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a></li>
-<li><a href="/wiki/Linux-libre" title="Linux-libre">Linux-libre</a></li></ul></li>
-<li><a href="/wiki/High-performance_computing" class="mw-redirect" title="High-performance computing">High-performance computing</a>
-<ul><li><a href="/wiki/INK_(operating_system)" title="INK (operating system)">INK</a></li>
-<li><a href="/wiki/Compute_Node_Linux" title="Compute Node Linux">Compute Node Linux</a></li>
-<li><a href="/wiki/Slurm_Workload_Manager" title="Slurm Workload Manager">SLURM</a></li></ul></li>
-<li><a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a>
-<ul><li><a href="/wiki/RTLinux" title="RTLinux">RTLinux</a></li>
-<li><a href="/wiki/RTAI" title="RTAI">RTAI</a></li>
-<li><a href="/wiki/Xenomai" title="Xenomai">Xenomai</a></li>
-<li><a href="/wiki/Carrier_Grade_Linux" title="Carrier Grade Linux">Carrier Grade Linux</a></li></ul></li>
-<li><a href="/wiki/Memory_management_unit" title="Memory management unit">MMU</a>-less
-<ul><li><a href="/wiki/%CE%9CClinux" title="ΜClinux">μClinux</a></li>
-<li><a href="/wiki/PSXLinux" title="PSXLinux">PSXLinux</a></li></ul></li></ul>
- </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Virtualization" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Virtualization" title="Virtualization">Virtualization</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Hypervisor" title="Hypervisor">Hypervisor</a>
-<ul><li><a href="/wiki/Kernel-based_Virtual_Machine" title="Kernel-based Virtual Machine">KVM</a></li>
-<li><a href="/wiki/Xen" title="Xen">Xen</a></li></ul></li>
-<li><a href="/wiki/OS-level_virtualization" title="OS-level virtualization">OS-level virtualization</a>
-<ul><li><a href="/wiki/Linux-VServer" title="Linux-VServer">Linux-VServer</a></li>
-<li><a href="/wiki/Lguest" title="Lguest">Lguest</a></li>
-<li><a href="/wiki/LXC" title="LXC">LXC</a></li>
-<li><a href="/wiki/OpenVZ" title="OpenVZ">OpenVZ</a></li></ul></li>
-<li>Other
-<ul><li><a href="/wiki/L4Linux" title="L4Linux">L4Linux</a></li>
-<li><a href="/wiki/ELinOS" title="ELinOS">ELinOS</a></li>
-<li><a href="/wiki/User-mode_Linux" title="User-mode Linux">User-mode Linux</a></li>
-<li><a href="/wiki/MkLinux" title="MkLinux">MkLinux</a></li>
-<li><a href="/wiki/Cooperative_Linux" title="Cooperative Linux">coLinux</a></li></ul></li></ul>
-</div></td></tr></tbody></table><div>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_adoption" title="Linux adoption">Adoption</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Rangeof_use" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linux_range_of_use" title="Linux range of use">Range<br />of use</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Linux_desktop_environments" class="mw-redirect" title="Linux desktop environments">Desktop</a></li>
-<li><a href="/wiki/Linux_on_embedded_systems" title="Linux on embedded systems">Embedded</a></li>
-<li><a href="/wiki/Linux_gaming" title="Linux gaming">Gaming</a></li>
-<li>Thin client:
-<ul><li><a href="/wiki/Linux_Terminal_Server_Project" title="Linux Terminal Server Project">LTSP</a></li>
-<li><a href="/wiki/Thinstation" title="Thinstation">Thinstation</a></li></ul></li>
-<li>Server:
-<ul><li><a href="/wiki/LAMP_(software_bundle)" title="LAMP (software bundle)">LAMP</a></li>
-<li><a href="/wiki/LYME_(software_bundle)" title="LYME (software bundle)">LYME-LYCE</a></li></ul></li>
-<li><a href="/wiki/Linux-powered_device" title="Linux-powered device">Devices</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Adopters</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/List_of_Linux_adopters" title="List of Linux adopters">List of Linux adopters</a></li>
-<li><a href="/wiki/GENIVI_Alliance" title="GENIVI Alliance">GENIVI Alliance</a></li>
-<li><a href="/wiki/List_of_proprietary_software_for_Linux" title="List of proprietary software for Linux">Proprietary software for Linux</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
-<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Linux_kernel" title="Category:Linux kernel">Category</a></b></li></ul>
-</div></td></tr></tbody></table></div>
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#FFF8DC; border:1px solid &#123;&#123;&#123;yttre_kantlinje_färg&#125;&#125;&#125;; font-size:95%;">
+
+<tbody><tr>
+<td colspan="2" height="15px" style="text-indent:1em; background:#BC50A5;">
+</td></tr>
+<tr>
+<td>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;&quot;"><center><b>Ключевые статьи</b></center>
+</td></tr></tbody></table>
+<ul><li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Англиканство">Англиканство</a></li>
+<li><a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Церковь Англии">Церковь Англии</a></li></ul>
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#FFF8DC; border:1px solid &#123;&#123;&#123;yttre_kantlinje_färg&#125;&#125;&#125;; font-size:95%;">
+
+<tbody><tr>
+<td colspan="2" height="15px" style="text-indent:1em; background:#BC50A5;">
+</td></tr>
+<tr>
+<td>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;&quot;"><center><b>Ссылки</b></center>
+</td></tr></tbody></table>
+<table style="border-collapse:collapse; text-align:center; background:#FFF8DC; width:100%; border:0;">
+<tbody><tr>
+<th style="width:9%;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Logo_of_the_Church_of_England.svg" class="image"><img alt="Logo of the Church of England.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_of_the_Church_of_England.svg/45px-Logo_of_the_Church_of_England.svg.png" decoding="async" width="45" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_of_the_Church_of_England.svg/68px-Logo_of_the_Church_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_of_the_Church_of_England.svg/90px-Logo_of_the_Church_of_England.svg.png 2x" data-file-width="700" data-file-height="500" /></a>
+</th>
+<th style="width:9%;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cantercross.svg" class="image"><img alt="Cantercross.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cantercross.svg/30px-Cantercross.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cantercross.svg/45px-Cantercross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cantercross.svg/60px-Cantercross.svg.png 2x" data-file-width="606" data-file-height="606" /></a>
+</th></tr>
+<tr>
+<th><a rel="nofollow" class="external text" href="http://www.churchofengland.org/">Сайт Церкви в Англии</a>
+</th>
+<th><a rel="nofollow" class="external text" href="http://www.europe.anglican.org/">Сайт Диоцеза в Европе</a>
+</th></tr></tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#FFF8DC; border:1px solid &#123;&#123;&#123;yttre_kantlinje_färg&#125;&#125;&#125;; font-size:95%;">
+
+<tbody><tr>
+<td colspan="2" height="15px" style="text-indent:1em; background:#BC50A5;">
+</td></tr>
+<tr>
+<td>
+<table width="100%" cellpadding="2" cellspacing="0" style="background:none; margin-bottom:.5em; margin-top:.5em;">
+
+<tbody><tr>
+<td style="color:&#123;&#123;&#123;underrubrik2_färg&#125;&#125;&#125;;&quot;"><center><b>Родственные порталы</b></center>
+</td></tr></tbody></table>
+<table style="width:100%; border:0; background:#FFF8DC; text-align:center; padding:0; padding-top:1em;" cellspacing="0">
+<tbody><tr>
+<td style="width:20%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/65px-P_religion_world.svg.png" decoding="async" width="65" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/98px-P_religion_world.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/P_religion_world.svg/130px-P_religion_world.svg.png 2x" data-file-width="400" data-file-height="360" /></a>
+</td>
+<td style="width:20%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Портал:Великобритания"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/65px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="65" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/98px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/130px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
+</td>
+<td style="width:20%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Христианство"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/46px-Christian_cross.svg.png" decoding="async" width="46" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/70px-Christian_cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/93px-Christian_cross.svg.png 2x" data-file-width="404" data-file-height="564" /></a>
+</td>
+<td style="width:20%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F" title="Портал:Библия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/The10Commandments.png/65px-The10Commandments.png" decoding="async" width="65" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/The10Commandments.png/98px-The10Commandments.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/The10Commandments.png/130px-The10Commandments.png 2x" data-file-width="816" data-file-height="678" /></a>
+</td>
+<td style="width:20%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D1%8E%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Лютеранство"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/65px-Lutherrose.svg.png" decoding="async" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/98px-Lutherrose.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/130px-Lutherrose.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+</td></tr>
+<tr>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Портал:Великобритания">Великобритания</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Христианство">Христианство</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F" title="Портал:Библия">Библия</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D1%8E%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Лютеранство">Лютеранство</a>
+</th></tr></tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; background:#FFF8DC; border:1px solid &#123;&#123;&#123;yttre_kantlinje_färg&#125;&#125;&#125;; font-size:95%;">
+
+<tbody><tr>
+<td colspan="2" height="15px" style="text-indent:1em; background:#BC50A5;">
+</td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1413
-Cached time: 20210215185444
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.696 seconds
-Real time usage: 0.921 seconds
-Preprocessor visited node count: 2892/1000000
-Post‐expand include size: 130610/2097152 bytes
-Template argument size: 3104/2097152 bytes
-Highest expansion depth: 14/40
+Parsed by mw1368
+Cached time: 20210309144216
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.181 seconds
+Real time usage: 0.564 seconds
+Preprocessor visited node count: 690/1000000
+Post‐expand include size: 49485/2097152 bytes
+Template argument size: 3457/2097152 bytes
+Highest expansion depth: 13/40
 Expensive parser function count: 5/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 55496/5000000 bytes
-Lua time usage: 0.325/10.000 seconds
-Lua memory usage: 7469392/52428800 bytes
-Number of Wikibase entities loaded: 1/400
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5613/5000000 bytes
+Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  786.639      1 -total
- 26.70%  210.061      1 Template:Reflist
- 21.32%  167.680     14 Template:Cite_web
- 19.76%  155.448      1 Template:Infobox_person
- 15.20%  119.571      1 Template:Infobox
- 11.08%   87.168     10 Template:Navbox
- 10.25%   80.643      1 Template:Short_description
-  8.80%   69.255      5 Template:Br_separated_entries
-  7.00%   55.066      1 Template:MUDs
-  6.74%   53.017      1 Template:Birth_date_and_age
+100.00%  435.734      1 -total
+100.00%  435.734      1 Портал:Англиканство/Скелет
+ 24.01%  104.616      1 Портал:Англиканство/Родственные_порталы
+ 17.08%   74.435      5 Шаблон:РисПортала
+ 10.50%   45.765      1 Портал:Англиканство/Ключевые_статьи
+ 10.47%   45.608      1 Портал:Англиканство/Избранная_личность
+  9.27%   40.385      1 Портал:Англиканство/Избранное_место
+  7.38%   32.164      1 Портал:Англиканство/Категории
+  5.38%   23.430      1 Портал:Англиканство/Избранная_статья
+  4.65%   20.274      1 Шаблон:РисПортала/Религия
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:18951013-0!canonical and timestamp 20210215185443 and revision id 1005765556. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:2122025-0!canonical and timestamp 20210309144216 and revision id 84753039. Serialized with JSON.
  -->
-</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alan_Cox&amp;oldid=1005765556">https://en.wikipedia.org/w/index.php?title=Alan_Cox&amp;oldid=1005765556</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/wiki/Category:Alumni_of_Aberystwyth_University" title="Category:Alumni of Aberystwyth University">Alumni of Aberystwyth University</a></li><li><a href="/wiki/Category:Alumni_of_Swansea_University" title="Category:Alumni of Swansea University">Alumni of Swansea University</a></li><li><a href="/wiki/Category:British_bloggers" title="Category:British bloggers">British bloggers</a></li><li><a href="/wiki/Category:British_computer_programmers" title="Category:British computer programmers">British computer programmers</a></li><li><a href="/wiki/Category:Linux_kernel_programmers" title="Category:Linux kernel programmers">Linux kernel programmers</a></li><li><a href="/wiki/Category:MUD_developers" title="Category:MUD developers">MUD developers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Solihull" title="Category:People from Solihull">People from Solihull</a></li><li><a href="/wiki/Category:People_from_Swansea" title="Category:People from Swansea">People from Swansea</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Welsh-language_sources_(cy)" title="Category:CS1 Welsh-language sources (cy)">CS1 Welsh-language sources (cy)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_short_description_added_by_PearBOT_5" title="Category:Articles with short description added by PearBOT 5">Articles with short description added by PearBOT 5</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2020" title="Category:Use dmy dates from February 2020">Use dmy dates from February 2020</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2012" title="Category:Use British English from July 2012">Use British English from July 2012</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_December_2013" title="Category:Articles with specifically marked weasel-worded phrases from December 2013">Articles with specifically marked weasel-worded phrases from December 2013</a></li><li><a href="/wiki/Category:Commons_link_is_on_Wikidata" title="Category:Commons link is on Wikidata">Commons link is on Wikidata</a></li><li><a href="/wiki/Category:AC_with_0_elements" title="Category:AC with 0 elements">AC with 0 elements</a></li></ul></div></div>
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство&amp;oldid=84753039">https://ru.wikipedia.org/w/index.php?title=Портал:Англиканство&amp;oldid=84753039</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Категория:Портал:Религия">Портал:Религия</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Категория:Англиканство">Англиканство</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -563,16 +357,16 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 
 <div id="mw-navigation">
-	<h2>Navigation menu</h2>
+	<h2>Навигация</h2>
 	<div id="mw-head">
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
 	<h3 id="p-personal-label" class="vector-menu-heading">
-		<span>Personal tools</span>
+		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alan+Cox" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alan+Cox" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -582,10 +376,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
 	<h3 id="p-namespaces-label" class="vector-menu-heading">
-		<span>Namespaces</span>
+		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Alan_Cox" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Alan_Cox" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">Портал</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -595,7 +389,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
 	<h3 id="p-variants-label" class="vector-menu-heading">
-		<span>Variants</span>
+		<span>Варианты</span>
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
@@ -609,10 +403,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
 	<h3 id="p-views-label" class="vector-menu-heading">
-		<span>Views</span>
+		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Alan_Cox">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Alan_Cox&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Alan_Cox&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;stable=1">Читать</a></li><li id="ca-current" class="collapsible selected"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v">Текущая версия</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -622,7 +416,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
 	<h3 id="p-cactions-label" class="vector-menu-heading">
-		<span>More</span>
+		<span>Ещё</span>
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
@@ -632,14 +426,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div id="p-search" role="search" >
 	<h3 >
-		<label for="searchInput">Search</label>
+		<label for="searchInput">Поиск</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
-			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search"/>
-			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
-			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			<input type="search" name="search" placeholder="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Служебная:Поиск"/>
+			<input type="submit" name="fulltext" value="Найти" title="Найти страницы, содержащие указанный текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Перейти" title="Перейти к странице, имеющей в точности такое название" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
@@ -649,29 +443,29 @@ Transclusion expansion time report (%,ms,calls,template)
 	
 <div id="mw-panel">
 	<div id="p-logo" role="banner">
-		<a class="mw-wiki-logo" href="/wiki/Main_Page"
-			title="Visit the main page"></a>
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
 	</div>
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
 	<h3 id="p-navigation-label" class="vector-menu-heading">
-		<span>Navigation</span>
+		<span>Навигация</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z">Заглавная страница</a></li><li id="n-browse"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%BF%D0%BE_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%D0%BC" title="Поиск по категориям">Рубрикация</a></li><li id="n-index"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Поиск по двум первым буквам">Указатель А — Я</a></li><li id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта">Избранные статьи</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x">Случайная страница</a></li><li id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире">Текущие события</a></li></ul>
 		
 	</div>
 </nav>
 
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
-<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label" class="vector-menu-heading">
-		<span>Contribute</span>
+	<h3 id="p-participation-label" class="vector-menu-heading">
+		<span>Участие</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье">Сообщить об ошибке</a></li><li id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится">Сообщество</a></li><li id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии">Форум</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r">Свежие правки</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц">Новые страницы</a></li><li id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место, где можно получить справку">Справка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас">Пожертвовать</a></li></ul>
 		
 	</div>
 </nav>
@@ -679,10 +473,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
 	<h3 id="p-tb-label" class="vector-menu-heading">
-		<span>Tools</span>
+		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alan_Cox" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alan_Cox" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alan_Cox&amp;oldid=1005765556" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alan_Cox&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alan_Cox&amp;id=1005765556&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55123" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;oldid=84753039" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8207996" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
 		
 	</div>
 </nav>
@@ -690,21 +484,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
 	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
-		<span>Print/export</span>
+		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Alan_Cox&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alan_Cox&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
-		
-	</div>
-</nav>
-<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
-<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
-	 >
-	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
-		<span>In other projects</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Alan_Cox" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Alan_Cox" hreflang="en">Wikiquote</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
 		
 	</div>
 </nav>
@@ -713,11 +496,11 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
 	<h3 id="p-lang-label" class="vector-menu-heading">
-		<span>Languages</span>
+		<span>На других языках</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%84%D8%A7%D9%86_%D9%83%D9%88%D9%83%D8%B3" title="آلان كوكس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BA%D1%81" title="Алан Кокс – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%86_%DA%A9%D9%88%DA%A9%D8%B3" title="آلن کوکس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%A8%EB%9F%B0_%EC%BD%95%EC%8A%A4" title="앨런 콕스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B2%E0%B5%BB_%E0%B4%95%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D" title="അലൻ കോക്സ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9" title="アラン・コックス – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Alan_Cox_(informatyk)" title="Alan Cox (informatyk) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D1%81,_%D0%90%D0%BB%D0%B0%D0%BD" title="Кокс, Алан – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Alan_Cox" title="Alan Cox – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BA%D1%81" title="Алан Кокс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%89%BE%E5%80%AB%C2%B7%E8%80%83%E5%85%8B%E6%96%AF" title="艾倫·考克斯 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55123#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Anglicanisme" title="Portail:Anglicanisme — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Igreja_Anglicana" title="Portal:Igreja Anglicana — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8207996#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -726,20 +509,21 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> This page was last edited on 9 February 2021, at 09:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
-	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 9 апреля 2017 в 07:14.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
 </ul>
 
 	<ul id="footer-places" >
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alan_Cox&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
 </ul>
 
 	<ul id="footer-icons" class="noprint">
@@ -751,7 +535,5 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.696","walltime":"0.921","ppvisitednodes":{"value":2892,"limit":1000000},"postexpandincludesize":{"value":130610,"limit":2097152},"templateargumentsize":{"value":3104,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55496,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  786.639      1 -total"," 26.70%  210.061      1 Template:Reflist"," 21.32%  167.680     14 Template:Cite_web"," 19.76%  155.448      1 Template:Infobox_person"," 15.20%  119.571      1 Template:Infobox"," 11.08%   87.168     10 Template:Navbox"," 10.25%   80.643      1 Template:Short_description","  8.80%   69.255      5 Template:Br_separated_entries","  7.00%   55.066      1 Template:MUDs","  6.74%   53.017      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.325","limit":"10.000"},"limitreport-memusage":{"value":7469392,"limit":52428800}},"cachereport":{"origin":"mw1413","timestamp":"20210215185444","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alan Cox","url":"https:\/\/en.wikipedia.org\/wiki\/Alan_Cox","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55123","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55123","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-10-27T07:00:16Z","dateModified":"2021-02-09T09:13:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e2\/Alan_Cox_at_FOSS_2007.jpg","headline":"British computer programmer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1385"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.181","walltime":"0.564","ppvisitednodes":{"value":690,"limit":1000000},"postexpandincludesize":{"value":49485,"limit":2097152},"templateargumentsize":{"value":3457,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5613,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  435.734      1 -total","100.00%  435.734      1 Портал:Англиканство/Скелет"," 24.01%  104.616      1 Портал:Англиканство/Родственные_порталы"," 17.08%   74.435      5 Шаблон:РисПортала"," 10.50%   45.765      1 Портал:Англиканство/Ключевые_статьи"," 10.47%   45.608      1 Портал:Англиканство/Избранная_личность","  9.27%   40.385      1 Портал:Англиканство/Избранное_место","  7.38%   32.164      1 Портал:Англиканство/Категории","  5.38%   23.430      1 Портал:Англиканство/Избранная_статья","  4.65%   20.274      1 Шаблон:РисПортала/Религия"]},"cachereport":{"origin":"mw1368","timestamp":"20210309144216","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":779,"wgHostname":"mw1368"});});</script>
 </body></html>

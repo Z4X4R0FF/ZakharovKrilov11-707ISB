@@ -1,376 +1,405 @@
 <!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
+<html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Neil J. Gunther - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YDSynwpAEKcAA1M0fHAAAACJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Neil_J._Gunther","wgTitle":"Neil J. Gunther","wgCurRevisionId":984072974,"wgRevisionId":984072974,"wgArticleId":12829834,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles that are excessively detailed from August 2020","All articles that are excessively detailed","Wikipedia articles with style issues from August 2020","All articles with style issues","Use dmy dates from March 2013","Articles with hCards",
-"Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WORLDCATID identifiers","1950 births","Living people","Australian computer scientists","Australian expatriates in the United States","Australian guitarists","Australian physicists","American computer scientists","21st-century American physicists","American technology writers","American textbook writers","American male non-fiction writers","Scientists from Melbourne","Computer science educators","Information systems researchers","Perl writers","Scientists at PARC (company)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Neil_J._Gunther","wgRelevantArticleId":12829834,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0
-,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q92902"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
-"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+<title>Портал:Абхазия — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEesSpRaSKGT2KMJvMBP1wAAAIM","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Абхазия","wgTitle":"Абхазия","wgCurRevisionId":104389537,"wgRevisionId":104389537,"wgArticleId":1547426,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Портал:Абхазия","Абхазия"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Абхазия",
+"wgRelevantArticleId":1547426,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":104389537,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,
+"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q11151582"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.31"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.33"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/61/NJG_BletchleyPk.jpg"/>
+<meta property="og:title" content="Портал:Абхазия"/>
+<meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Neil_J._Gunther"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Neil_J._Gunther&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Neil_J._Gunther&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Neil_J._Gunther"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Neil_J_Gunther rootpage-Neil_J_Gunther skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Абхазия rootpage-Портал_Абхазия skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Neil J. Gunther</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Абхазия</h1>
 	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
 		<div id="contentSub"></div>
 		<div id="contentSub2"></div>
 		
 		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Overly_detailed plainlinks metadata ambox ambox-style ambox-overly_detailed" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may contain an excessive amount of intricate detail that may interest only a particular audience</b>.<span class="hide-when-compact"> Please help by <a href="/wiki/Wikipedia:Content_forking#Article_spinoffs:_.22Summary_style.22_meta-articles_and_summary_sections" title="Wikipedia:Content forking">spinning off</a> or <a href="/wiki/Wikipedia:Handling_trivia#Recommendations_for_handling_trivia" title="Wikipedia:Handling trivia">relocating</a> any relevant information, and removing excessive detail that may be against <a href="/wiki/Wikipedia:What_Wikipedia_is_not" title="Wikipedia:What Wikipedia is not">Wikipedia's inclusion policy</a>.</span>  <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<p class="mw-empty-elt">
-</p>
-<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Neil James Gunther</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:NJG_BletchleyPk.jpg" class="image"><img alt="NJG BletchleyPk.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/NJG_BletchleyPk.jpg/203px-NJG_BletchleyPk.jpg" decoding="async" width="203" height="269" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/NJG_BletchleyPk.jpg/305px-NJG_BletchleyPk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/NJG_BletchleyPk.jpg/406px-NJG_BletchleyPk.jpg 2x" data-file-width="889" data-file-height="1180" /></a><div>Neil Gunther at <a href="/wiki/Bletchley_Park" title="Bletchley Park">Bletchley Park</a> 2002 <br /> "A quantum leap is neither"</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1950-08-15</span>) </span>15 August 1950<span class="noprint ForceAgeToShow"> (age&#160;70)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Preston,_Victoria" title="Preston, Victoria">Preston</a>, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a>, Australia</div></td></tr><tr><th scope="row">Nationality</th><td class="category"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/La_Trobe_University" title="La Trobe University">La Trobe University</a><br /> <a href="/wiki/University_of_Southampton" title="University of Southampton">University of Southampton</a></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">Performance analysis</a><br /> <a href="/wiki/Capacity_planning" title="Capacity planning">Capacity planning</a> tools<br /> <a href="/wiki/Large_deviations" class="mw-redirect" title="Large deviations">Theory of large transients</a><br /> <a href="/wiki/Scalability" title="Scalability">Universal scalability law</a></td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category">Computational information systems (<a href="/wiki/Classical_mathematics" title="Classical mathematics">classical</a> and <a href="/wiki/Quantum" title="Quantum">quantum</a>)</td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/San_Jose_State_University" title="San Jose State University">San Jose State University</a><br /> Syncal Corporation<br /> <a href="/wiki/Xerox_PARC" class="mw-redirect" title="Xerox PARC">Xerox Palo Alto Research Center</a><br /> <a href="/w/index.php?title=Performance_Dynamics_Company&amp;action=edit&amp;redlink=1" class="new" title="Performance Dynamics Company (page does not exist)">Performance Dynamics Company</a> (Founder)<br /> <a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">École Polytechnique Fédérale de Lausanne</a> (EPFL)</td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th><td>Tomas M. Kalotas (Honors)<br /><a href="/wiki/Christie_Jayaratnam_Eliezer" class="mw-redirect" title="Christie Jayaratnam Eliezer">Christie J. Eliezer</a> (Masters)<br /><a href="/wiki/David_Wallace_(physicist)" title="David Wallace (physicist)">David J. Wallace</a> (Doctorate)</td></tr><tr style="display:none"><td colspan="2">
-</td></tr></tbody></table>
-<p><b>Neil Gunther</b> (born 15 August 1950) is a <a href="/wiki/Computer" title="Computer">computer</a> <a href="/wiki/Information_systems" class="mw-redirect" title="Information systems">information systems</a> <a href="/wiki/Researcher" class="mw-redirect" title="Researcher">researcher</a> best known internationally for developing the <a href="/wiki/Open-source_license" title="Open-source license">open-source</a> <a href="/wiki/Performance_modeling" class="mw-redirect" title="Performance modeling">performance modeling</a> software <i><a href="/w/index.php?title=Pretty_Damn_Quick&amp;action=edit&amp;redlink=1" class="new" title="Pretty Damn Quick (page does not exist)">Pretty Damn Quick</a></i> and developing the <a rel="nofollow" class="external text" href="http://www.perfdynamics.com/iBook/gcap.html">Guerrilla approach</a> to computer capacity planning and performance analysis. He has also been cited for his contributions to the theory of large <a href="/wiki/Transient_(computer_programming)" title="Transient (computer programming)">transients</a> in <a href="/wiki/Computer_systems" class="mw-redirect" title="Computer systems">computer systems</a> and <a href="/wiki/Packet_network" class="mw-redirect" title="Packet network">packet networks</a>, and his <a rel="nofollow" class="external text" href="http://www.perfdynamics.com/Manifesto/USLscalability.html">universal law</a> of computational <a href="/wiki/Scalability" title="Scalability">scalability</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
-</p><p>Gunther is a Senior Member of both the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM) and the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> (IEEE), as well as a member of the  <a href="/wiki/American_Mathematical_Society" title="American Mathematical Society">American Mathematical Society</a> (AMS), <a href="/wiki/American_Physical_Society" title="American Physical Society">American Physical Society</a> (APS), <a href="/wiki/Computer_Measurement_Group" title="Computer Measurement Group">Computer Measurement Group</a> (CMG) and ACM <a href="/wiki/SIGMETRICS" title="SIGMETRICS">SIGMETRICS</a>.
-</p><p>He is currently focused on developing <a href="/wiki/Quantum_information" title="Quantum information">quantum information</a> system technologies.<sup id="cite_ref-njp_7-0" class="reference"><a href="#cite_note-njp-7">&#91;7&#93;</a></sup>
-</p>
-<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Post-Doc_years"><span class="tocnumber">1.1</span> <span class="toctext">Post-Doc years</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Xerox_years"><span class="tocnumber">1.2</span> <span class="toctext">Xerox years</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Pyramid_years"><span class="tocnumber">1.3</span> <span class="toctext">Pyramid years</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Consulting_practice"><span class="tocnumber">1.4</span> <span class="toctext">Consulting practice</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-6"><a href="#Current_research_interests"><span class="tocnumber">2</span> <span class="toctext">Current research interests</span></a>
-<ul>
-<li class="toclevel-2 tocsection-7"><a href="#Quantum_information_systems"><span class="tocnumber">2.1</span> <span class="toctext">Quantum information systems</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Performance_visualization"><span class="tocnumber">2.2</span> <span class="toctext">Performance visualization</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Universal_Law_of_Computational_Scalability"><span class="tocnumber">2.3</span> <span class="toctext">Universal Law of Computational Scalability</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-10"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#Quotes"><span class="tocnumber">4</span> <span class="toctext">Quotes</span></a></li>
-<li class="toclevel-1 tocsection-12"><a href="#Selected_bibliography"><span class="tocnumber">5</span> <span class="toctext">Selected bibliography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-13"><a href="#Theses"><span class="tocnumber">5.1</span> <span class="toctext">Theses</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#Books"><span class="tocnumber">5.2</span> <span class="toctext">Books</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Invited_presentations"><span class="tocnumber">5.3</span> <span class="toctext">Invited presentations</span></a></li>
-<li class="toclevel-2 tocsection-16"><a href="#Papers"><span class="tocnumber">5.4</span> <span class="toctext">Papers</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
-</ul>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="margin:0; border:1px solid:#a7cee2; background-color:#bbd7e5;"><div>
+<div style="position:absolute; float:none; z-index:0"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wiki-abh_Background.png" class="image" title="Абхазия"><img alt="Абхазия" src="//upload.wikimedia.org/wikipedia/ru/d/d4/Wiki-abh_Background.png" decoding="async" width="613" height="259" data-file-width="613" data-file-height="259" /></a></div>
+<div style="padding: 10px; position:relative; z-index:1">
+<div><div style="background:#bbd7e5; border:1px solid #bbd7e5; margin-bottom:1em; padding:0.4em 0 0; text-align:center;"><table width="100%" style="text-align:center; background-color:transparent; margin-top:-3px;"><tbody><tr><td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Помощь начинающим">Начинающим</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Википедия:Страницы сообщества">Сообщество</a> · <span style="border-style:solid; border-color: #bbd7e5 #bbd7e5 #bbd7e5; border-width:1px; padding:3px 5px 4px; position:relative; bottom:3px;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Порталы</a></span> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Избранное содержание">Избранное</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">Проекты</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Запросы">Запросы</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Оценивание">Оценивание</a>
+<div style="border:1px solid #bbd7e5; padding:3px 2px;"><p style="clear:both; margin-top:0.2em; margin-bottom:0.2em; font-variant:small-caps; font-size:100%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a></p></div></td></tr></tbody></table></div></div>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Portal-%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F.png" class="image" title="Портал:Абхазия"><img alt="Портал:Абхазия" src="//upload.wikimedia.org/wikipedia/ru/thumb/6/6c/Portal-%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F.png/470px-Portal-%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F.png" decoding="async" width="470" height="142" srcset="//upload.wikimedia.org/wikipedia/ru/6/6c/Portal-%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F.png 1.5x" data-file-width="634" data-file-height="192" /></a></div><br /><br /><br />
+<div style="clear:both;"></div>
+<div style="text-align:left; text-color:white;">
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id=""><span style="color:#688583"></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<table width="95%" id="cpwarn" style="clear:both; padding:0px; margin:0 0 0 20px; background-color:#F9F9FF;">
+ <tbody><tr>
+  <td style="text-align:center"><a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Герб Абхазии"><img alt="Coat of arms of Abkhazia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Abkhazia.svg/80px-Coat_of_arms_of_Abkhazia.svg.png" decoding="async" width="80" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Abkhazia.svg/120px-Coat_of_arms_of_Abkhazia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Abkhazia.svg/160px-Coat_of_arms_of_Abkhazia.svg.png 2x" data-file-width="706" data-file-height="883" /></a></td>
+  <td>
+<dl><dd><b><a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Абхазия">Абха́зия</a></b> (<a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Абхазский язык">абх.</a>&#160;<span lang="ab" style="font-style:italic;">Аҧсны</span>, апсны, <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Грузинский язык">груз.</a> <span lang="ka">აფხაზეთი</span>, апхазе́ти) — регион в западной части <a href="/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7" class="mw-redirect" title="Южный Кавказ">Закавказья</a>, на юго-восточном побережье <a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Чёрное море">Чёрного моря</a>. Фактически контролируется <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Частично признанное государство">частично признанным государством</a> <b><a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Республика Абхазия">Респу́блика Абха́зия</a></b> (<a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Абхазский язык">абх.</a>&#160;<span lang="ab" style="font-style:italic;">Аҧсны Аҳәынҭқарра</span>), согласно <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Конституция Грузии">конституции Грузии</a> является частью <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">Грузии</a> — <b><a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Абхазская Автономная Республика">Абха́зской Автоно́мной Респу́бликой</a></b> (<a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Грузинский язык">груз.</a> <span lang="ka">აფხაზეთის ავტონომიური რესპუბლიკა</span>)).</dd></dl>
+  </td>
+ </tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
 </div>
+<div style="width:56%; display:block; float:left; align:left;"> 
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_2"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_statia.png" class="image" title="Избранная статья"><img alt="Избранная статья" src="//upload.wikimedia.org/wikipedia/ru/thumb/d/d2/Abxazia_statia.png/150px-Abxazia_statia.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/d/d2/Abxazia_statia.png/225px-Abxazia_statia.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/d/d2/Abxazia_statia.png/300px-Abxazia_statia.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Building_of_the_City_Council.jpg" class="image" title="Здание городской администрации"><img alt="Здание городской администрации" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Building_of_the_City_Council.jpg/190px-Building_of_the_City_Council.jpg" decoding="async" width="190" height="253" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Building_of_the_City_Council.jpg/285px-Building_of_the_City_Council.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Building_of_the_City_Council.jpg/380px-Building_of_the_City_Council.jpg 2x" data-file-width="1944" data-file-height="2592" /></a></div>
+<b>Суху́м</b> (<a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Абхазский язык">абх.</a>&#160;<span lang="ab" style="font-style:italic;">Аҟəа</span> <i>«а́куа»</i>) / <b>Суху́ми</b> (<a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Грузинский язык">груз.</a> <span lang="ka">სოხუმი</span> <i>«соху́ми»</i>) — столица <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Республика Абхазия">Республики Абхазии</a> и <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" class="mw-redirect" title="Автономная Республика Абхазия">одноимённой автономной республики</a> в составе <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">Грузии</a>. Статус <a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4" title="Город">города</a> — с 1848 года. Расположен в центральной части <a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Абхазия">Абхазии</a>, в 107 км от границы с <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россией</a>, на берегу <a href="/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D1%83%D1%85%D1%82%D0%B0" title="Сухумская бухта">Сухумской бухты</a> <a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Чёрное море">Чёрного моря</a>. Через город протекают реки <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D0%BB%D0%B0_(%D1%80%D0%B5%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Басла (река) (страница отсутствует)">Басла</a> (Беслетка) и Сухумка (Хакипсы), с юга его ограничивает река <a href="/wiki/%D0%9A%D1%8F%D0%BB%D0%B0%D1%81%D1%83%D1%80_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Кяласур (река)">Кяласур</a>. Население — 64 441 человек (2015).<br /><center><i><a href="/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC" title="Сухум">Далее…</a></i></center>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_3"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazias_bio.png" class="image" title="Избранная личность"><img alt="Избранная личность" src="//upload.wikimedia.org/wikipedia/ru/thumb/7/74/Abxazias_bio.png/150px-Abxazias_bio.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/7/74/Abxazias_bio.png/225px-Abxazias_bio.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/7/74/Abxazias_bio.png/300px-Abxazias_bio.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<p><b>Дми́трий Ио́сифович Гу́лиа</b> (<a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Абхазский язык">абх.</a>&#160;<span lang="ab" style="font-style:italic;">Дырмит Иасыф-иҧа Гәлиа или Гач Урыс-иҧа Гәлиа</span>) (<a href="/wiki/21_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="21 февраля">9 (21) февраля</a> <a href="/wiki/1874_%D0%B3%D0%BE%D0%B4" title="1874 год">1874 года</a>, село Уарча Гумистинского участка, ныне <a href="/wiki/%D0%93%D1%83%D0%BB%D1%8C%D1%80%D0%B8%D0%BF%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD" class="mw-redirect" title="Гульрипшский район">Гульрипшский район</a>, <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Республика Абхазия">Республика Абхазия</a>, — <a href="/wiki/7_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="7 апреля">7 апреля</a> <a href="/wiki/1960_%D0%B3%D0%BE%D0%B4" title="1960 год">1960 года</a>, село Агудзера, Абхазская АССР) — абхазский писатель, народный поэт Абхазии (1937). Основоположник <a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Абхазская литература">абхазской письменной литературы</a>. Родился в бедной крестьянской семье. При рождении был назван Гач, позже после принятия православия его семьёй изменил имя на Дмитрий. Вместе с семьёй в раннем детстве, как и большинство гумских абхазов, был выселен в Турцию, однако его отцу удалось вернуть семью на родину. Учился в учительской семинарии в <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B8" title="Гори">Гори</a>. Был учителем. В <a href="/wiki/1892" class="mw-redirect" title="1892">1892</a> вместе с К. Д. Мачавариани составил абхазскую <a href="/wiki/%D0%90%D0%B7%D0%B1%D1%83%D0%BA%D0%B0" class="mw-disambig" title="Азбука">азбуку</a>. В первом сборнике стихов (<a href="/wiki/1912" class="mw-redirect" title="1912">1912</a>) поэт выражал ненависть абхазского народа к угнетателям, его мечты о светлом будущем. В <a href="/wiki/1921" class="mw-redirect" title="1921">1921</a> организовал и возглавил первую абхазскую театральную труппу. Был редактором первой абхазской газеты <a href="/w/index.php?title=%C2%AB%D0%90%D0%BF%D1%81%D0%BD%D1%8B%C2%BB&amp;action=edit&amp;redlink=1" class="new" title="«Апсны» (страница отсутствует)">«Апсны»</a> («Абхазия»). Лирика Гулиа проникнута пафосом дружбы и единства народов (поэмы «Песнь об Абхазии», 1940, «Осень в селе», 1946, и др.). <a href="/wiki/%D0%A7%D0%B0%D1%87%D1%85%D0%B0%D0%BB%D0%B8%D0%B0,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%9A%D0%B8%D1%80%D1%88%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Чачхалиа, Денис Киршалович">Гулиа</a> написал первую абхазскую новеллу «Под чужим небом» (<a href="/wiki/1919" class="mw-redirect" title="1919">1919</a>). В романе «Камачич» (<a href="/wiki/1940" class="mw-redirect" title="1940">1940</a>) показаны жизнь угнетённых абхазцев при царизме, безрадостная судьба женщины. Роль Гулиа в развитии абхазской культуры очень велика. Ему принадлежат труды по языку, истории, этнографии абхазцев, хрестоматии и учебники. Могила Гулиа находится в центре г. Сухум, во дворе его Дома-музея.
+</p>
+<br /><center><i><a href="/wiki/%D0%93%D1%83%D0%BB%D0%B8%D0%B0,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87" title="Гулиа, Дмитрий Иосифович">Далее…</a></i></center>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_4"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_znaete.png" class="image" title="Знаете ли вы"><img alt="Знаете ли вы" src="//upload.wikimedia.org/wikipedia/ru/thumb/b/b2/Abxazia_znaete.png/150px-Abxazia_znaete.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/b/b2/Abxazia_znaete.png/225px-Abxazia_znaete.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/b/b2/Abxazia_znaete.png/300px-Abxazia_znaete.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<ul><li>...Для <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B0%D1%84%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0" title="Новоафонская пещерная железная дорога">пещерной железной дороги</a> построили <b><a href="/wiki/%D0%AD%D0%BF-563" title="Эп-563">новый поезд</a></b> в одном экземпляре вместо <b><a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4_%C2%AB%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%C2%BB" class="mw-redirect" title="Электропоезд «Турист»">старого</a></b>, построенного в двух.</li>
+<li>...В Абхазии есть <b><a href="/wiki/%D0%90%D0%B3%D1%83%D0%B4%D0%B7%D0%B5%D1%80%D0%B0" title="Агудзера">посёлок</a></b>, где жили <a href="/wiki/%D0%93%D0%B5%D1%80%D1%86,_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3" title="Герц, Густав Людвиг">нобелевский лауреат</a>, <a href="/wiki/%D0%A2%D0%B8%D1%81%D1%81%D0%B5%D0%BD,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80" title="Тиссен, Петер">советник Гитлера</a>, <a href="/wiki/%D0%95%D0%B2%D1%82%D1%83%D1%88%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Евтушенко, Евгений Александрович">поэт</a> и <a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Симонов, Константин Михайлович">писатель</a>.</li>
+<li>...В различных диалектах <b><a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Абхазский язык">абхазского языка</a></b> от 58 до 67 <a href="/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Согласные">согласных</a> <a href="/wiki/%D0%A4%D0%BE%D0%BD%D0%B5%D0%BC%D0%B0" title="Фонема">фонем</a> и всего лишь три <a href="/wiki/%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D1%8B%D0%B5" title="Гласные">гласные</a>.</li>
+<li>...Несмотря на более чем вековую историю <a href="/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB" title="Футбол">футбола</a> в Абхазии, в 2012 году в ней проходит лишь <b><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Чемпионат Абхазии по футболу 2012">девятнадцатый</a></b> <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Абхазии по футболу">чемпионат по футболу</a>.</li>
+<li>...На <b><a href="/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" title="Сухумский физико-технический институт">абхазских курортах</a></b> <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Германская Демократическая Республика">немецкие</a> <a href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA" title="Физик">физики</a> <a href="/wiki/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D0%BE%D0%B9_%D0%B1%D0%BE%D0%BC%D0%B1%D1%8B" title="Создание советской атомной бомбы">создавали атомную бомбу для СССР</a>.</li>
+<li>...<a href="/wiki/%D0%A2%D1%83%D0%B2%D0%B0%D0%BB%D1%83" title="Тувалу">Одно из государств</a>, <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8_%D0%B8_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D0%B8" title="Международно-правовой статус Абхазии и Южной Осетии">признавших независимость</a> Абхазии, с большой вероятностью <b><a href="/wiki/%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F_%D0%BC%D0%BE%D1%80%D1%8F" title="Повышение уровня моря">будет уничтожено</a></b>.</li>
+<li>...Абхазия – один из четырех уделов <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Богородица">Богоматери</a> во всем мире...</li>
+<li>...Абхазы участвовали в строительстве Киевского храма <a href="/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B8%D0%B5%D0%B2)" title="Софийский собор (Киев)">Святой Софии</a>...</li>
+<li>...<a href="/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9A%D1%80%D1%83%D0%B1%D0%B5%D1%80%D0%B0-%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%8C%D1%8F" class="mw-redirect" title="Пещера Крубера-Воронья">Круберская пещера</a>, расположенная в <a href="/wiki/%D0%93%D0%B0%D0%B3%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82" title="Гагрский хребет">Гагрском хребте</a>, самая глубокая в мире...</li>
+<li>...В деревне <a href="/wiki/%D0%90%D0%B4%D0%B7%D1%8E%D0%B1%D0%B6%D0%B0" title="Адзюбжа">Адзюбжа</a> живут <a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B5%D0%B3%D1%80%D1%8B" title="Абхазские негры">чернокожие абхазы</a>...</li>
+<li>...К концу XVIII века абхазский князь <a href="/wiki/%D0%A8%D0%B5%D1%80%D0%B2%D0%B0%D1%88%D0%B8%D0%B4%D0%B7%D0%B5,_%D0%9A%D0%B5%D0%BB%D0%B5%D1%88_%D0%90%D1%85%D0%BC%D0%B0%D1%82-%D0%B1%D0%B5%D0%B9" class="mw-redirect" title="Шервашидзе, Келеш Ахмат-бей">Чачба Келешбей</a> владел четвертой частью побережья <a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" class="mw-redirect" title="Черное море">Черного моря</a></li>
+<li>...Учебник по "Истории России для учащихся" в 1885 году издал <a href="/wiki/%D0%90%D0%B1%D0%B0%D0%B7%D0%B0,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Абаза, Виктор Афанасьевич">потомок правителя Боснии абхазского происхождения</a></li></ul>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_5"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_novstatii.png" class="image" title="Новые статьи"><img alt="Новые статьи" src="//upload.wikimedia.org/wikipedia/ru/thumb/b/b1/Abxazia_novstatii.png/150px-Abxazia_novstatii.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/b/b1/Abxazia_novstatii.png/225px-Abxazia_novstatii.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/b/b1/Abxazia_novstatii.png/300px-Abxazia_novstatii.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<ul><li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%B3%D1%83%D0%B0,_%D0%A8%D0%B0%D0%B1%D0%B0%D1%82_%D0%94%D0%B0%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Логуа, Шабат Даурович">Логуа, Шабат Даурович</a><small> — начато 8 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Mark_Ekimov" title="Участник:Mark Ekimov">Mark Ekimov</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_I_(%D1%86%D0%B0%D1%80%D1%8C_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8)" title="Георгий I (царь Абхазии)">Георгий I (царь Абхазии)</a><small> — начато 6 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%90%D0%B6%D0%B8%D1%80%D0%BD%D1%8B%D1%85%D0%B2%D0%B0" title="Ажирныхва">Ажирныхва</a><small> — начато 27 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:DrHolsow" title="Участник:DrHolsow">DrHolsow</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A0%D1%83%D1%80%D1%83%D0%B0,_%D0%9D%D0%B8%D0%BA%D0%B0" title="Руруа, Ника">Руруа, Ника</a><small> — начато 15 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Sentinel_R" title="Участник:Sentinel R">Sentinel R</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BA%D0%B0%D0%B4%D0%B7%D0%B5,_%D0%A8%D0%B0%D0%BB%D0%B2%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Мелкадзе, Шалва Иванович">Мелкадзе, Шалва Иванович</a><small> — начато 12 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Allpeop" title="Участник:Allpeop">Allpeop</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%B8%D1%81%D1%8F%D0%B3%D0%B0_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Присяга Президента Абхазии">Присяга Президента Абхазии</a><small> — начато 9 февраля 2021</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Genioh_07" title="Обсуждение участника:Genioh 07">Genioh 07</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%BD%D0%B5%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Раннехристианские культовые сооружения Абхазии">Раннехристианские культовые сооружения Абхазии</a><small> — начато 24 января 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Skklm15" title="Участник:Skklm15">Skklm15</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%9A%D0%BE%D0%B1%D0%B0_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Давиташвили, Коба Романович">Давиташвили, Коба Романович</a><small> — начато 23 января 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Bogdanov-62" title="Участник:Bogdanov-62">Bogdanov-62</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D0%BE%D0%BD" title="Себастополисский октогон">Себастополисский октогон</a><small> — начато 23 января 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Skklm15" title="Участник:Skklm15">Skklm15</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D1%83%D0%B7%D0%BB%D0%B0,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Мехузла, Николай Аполлонович">Мехузла, Николай Аполлонович</a><small> — начато 9 января 2021</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:79.111.223.77" title="Обсуждение участника:79.111.223.77">79.111.223.77</a></small></li></ul>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div> 
+</div> 
+<div style="width:43.5%; display:block; float:right; align:right;"> 
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_6"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_temy.png" class="image" title="Темы"><img alt="Темы" src="//upload.wikimedia.org/wikipedia/ru/thumb/0/0a/Abxazia_temy.png/150px-Abxazia_temy.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/0/0a/Abxazia_temy.png/225px-Abxazia_temy.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/0/0a/Abxazia_temy.png/300px-Abxazia_temy.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<ul><li><small><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Политика Республики Абхазия"><b>Политика</b></a>:</b> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Политики Республики Абхазия">Политики</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Административное деление Республики Абхазия">Административное деление</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B5_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Выборы в Республике Абхазия">Выборы</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Государственные символы Абхазии">Государственные символы</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Органы государственной власти Республики Абхазия">Органы государственной власти</a></small></li>
+<li><small><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:География Абхазии"><b>География</b></a>:</b> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Реки Абхазии">Реки</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Население Абхазии">Население</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Города Абхазии">Города</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Реки Абхазии">Реки</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B7%D1%91%D1%80%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Озёра Абхазии">Озёра</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%80%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Горы Абхазии">Горы</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Водопады Абхазии">Водопады</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Пещеры Абхазии">Пещеры</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%89%D0%B5%D0%BB%D1%8C%D1%8F_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Ущелья Абхазии">Ущелья</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%83%D1%80%D0%BE%D1%80%D1%82%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Курорты Абхазии">Курорты</a></small></li>
+<li><small><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Персоналии:Абхазия"><b>Персоналии</b></a>:</b> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Писатели Абхазии">Писатели</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Политики Республики Абхазия">Политики</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Поэты Абхазии">Поэты</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8B_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Генералы Республики Абхазия">Генералы</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D1%8B_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Лингвисты Абхазии">Лингвисты</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%8B_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Президенты Республики Абхазия">Президенты</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D1%8B_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Премьер-министры Республики Абхазия">Премьер-министры</a><b></b></small></li>
+<li><small><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Культура Абхазии"><b>Культура</b></a>:</b> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Категория:Абхазский язык">Язык</a>&#160;— <a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%B2_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Категория:Литература в Абхазии (страница отсутствует)">Литература</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:История Абхазии">История</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F_%D0%B2_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Религия в Абхазии">Религия</a>&#160;— <a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%B7%D0%B5%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Категория:Музеи Абхазии (страница отсутствует)">Музеи</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Театр Абхазии">Театр</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Спорт в Абхазии">Спорт</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%BC%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Средства массовой информации Абхазии">СМИ</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B2_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D0%B8" title="Категория:Наука в Абхазии">Наука</a><b></b></small></li></ul>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_7"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_Novost.png" class="image" title="Новости"><img alt="Новости" src="//upload.wikimedia.org/wikipedia/ru/thumb/4/4e/Abxazia_Novost.png/150px-Abxazia_Novost.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/4/4e/Abxazia_Novost.png/225px-Abxazia_Novost.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/4/4e/Abxazia_Novost.png/300px-Abxazia_Novost.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<div style="font-size:85%; line-height:100%">
+<dl><dt>2016</dt></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:112px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Fazil_Iskander_in_2010.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fazil_Iskander_in_2010.jpg/110px-Fazil_Iskander_in_2010.jpg" decoding="async" width="110" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fazil_Iskander_in_2010.jpg/165px-Fazil_Iskander_in_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fazil_Iskander_in_2010.jpg/220px-Fazil_Iskander_in_2010.jpg 2x" data-file-width="260" data-file-height="324" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Fazil_Iskander_in_2010.jpg" class="internal" title="Увеличить"></a></div><a href="/wiki/%D0%A4%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C_%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80" class="mw-redirect" title="Фазиль Искандер">Фазиль Искандер</a></div></div></div>
+<ul><li>31 июля. На 88-м году жизни скончался известный абхазский писатель <b><a href="/wiki/%D0%A4%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C_%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80" class="mw-redirect" title="Фазиль Искандер">Фазиль Искандер</a></b>.</li>
+<li>10 июля. В Абхазии прошёл <a href="/wiki/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D0%B4%D1%83%D0%BC_%D0%BE_%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%D1%85_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F_(2016)" class="mw-redirect" title="Референдум о досрочных выборах Президента Республики Абхазия (2016)"><b>референдум о досрочных президентских выборах</b></a>, который из-за рекородно низкой явки избирателей был признан несостоявшимся.</li>
+<li>24 мая. Приказом министра культуры Абхазии <a href="/wiki/%D0%90%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D1%8F,_%D0%AD%D0%BB%D1%8C%D0%B2%D0%B8%D1%80%D0%B0_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Арсалия, Эльвира Анатольевна">Эльвиры Арсалия</a>, помощник <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Президент Республики Абхазия">президента Абхазии</a> <a href="/wiki/%D0%A5%D0%B8%D0%BD%D1%82%D0%B1%D0%B0,_%D0%98%D1%80%D0%B0%D0%BA%D0%BB%D0%B8%D0%B9_%D0%A0%D0%B5%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D0%B8%D1%87" title="Хинтба, Ираклий Ревазович">Ираклий Хинтба</a> назначен генеральным директором <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D1%8B_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" class="mw-redirect" title="Русский театр драмы Республики Абхазия"><b>Государственного русского театра драмы</b></a> .</li></ul>
+<dl><dt>2015</dt></dl>
+<ul><li>26 мая. В Сухуме открылась выставка художника <a href="/wiki/%D0%A8%D0%B5%D0%BC%D1%8F%D0%BA%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Шемякин, Михаил Михайлович">Михаила Шемякина</a> «Рисунки в стиле Дзен», которую представила <a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B8_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8B_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Министерство культуры и охраны историко-культурного наследия Республики Абхазия">министр культуры Абхазии</a> <a href="/wiki/%D0%90%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D1%8F,_%D0%AD%D0%BB%D1%8C%D0%B2%D0%B8%D1%80%D0%B0_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Арсалия, Эльвира Анатольевна"><b>Эльвира Арсалия</b></a></li></ul>
+<dl><dt>2014</dt></dl>
+<ul><li>2—7 ноября. В <a href="/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC" title="Сухум">Сухуме</a> проходил VIII Открытый фестиваль документального кино и телевизионных программ Северного Кавказа «<a href="/w/index.php?title=%D0%9A%D1%83%D0%BD%D0%B0%D0%BA%D0%B8_(%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C)&amp;action=edit&amp;redlink=1" class="new" title="Кунаки (фестиваль) (страница отсутствует)">Кунаки</a>».</li>
+<li>24 августа. В Абхазии состоялись внеочередные <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B5_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F_(2014)" class="mw-redirect" title="Президентские выборы в Республике Абхазия (2014)">президентские выборы</a> на которых победу одержал <b><a href="/wiki/%D0%A0%D0%B0%D1%83%D0%BB%D1%8C_%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8%D0%BC%D0%B1%D0%B0" class="mw-redirect" title="Рауль Хаджимба">Рауль Хаджимба</a></b>.</li></ul>
+<ul><li>11 июля. И.&#160;о. президента <a href="/wiki/%D0%91%D0%B3%D0%B0%D0%BD%D0%B1%D0%B0,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%A0%D0%B0%D0%BC%D1%88%D1%83%D1%85%D0%BE%D0%B2%D0%B8%D1%87" title="Бганба, Валерий Рамшухович"><b>Валерий Бганба</b></a> освободил <a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B4%D0%B7%D0%B1%D0%B0,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%94%D0%B6%D0%B0%D0%BC%D0%B0%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Авидзба, Владимир Джамалович"><b>Владимира Авидзба</b></a> от должности полномочного представителя Республики Абхазия в Турецкой Республике и назначил на эту должность <a href="/wiki/%D0%93%D0%B8%D1%86%D0%B1%D0%B0,_%D0%98%D0%BD%D0%B0%D1%80_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Гицба, Инар Альбертович"><b>Инара Гицбу</b></a>.</li>
+<li>6 марта. Известный абхазский писатель <a href="/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80,_%D0%A4%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C_%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Искандер, Фазиль Абдулович">Фазиль Искандер</a> отметил своё 85-летие.</li></ul>
+<p><br />
+</p>
+</div></td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_8"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_mesiac.png" class="image" title="Этот месяц в истории Абхазии"><img alt="Этот месяц в истории Абхазии" src="//upload.wikimedia.org/wikipedia/ru/thumb/e/e5/Abxazia_mesiac.png/150px-Abxazia_mesiac.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/e/e5/Abxazia_mesiac.png/225px-Abxazia_mesiac.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/e/e5/Abxazia_mesiac.png/300px-Abxazia_mesiac.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<p><small>
+</small></p><small>
+<div class="thumb tright"><div class="thumbinner" style="width:112px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg/110px-Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg" decoding="async" width="110" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg/165px-Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg/220px-Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg 2x" data-file-width="900" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abkhazia_10_apsar_Ag_2008_Ardzinba_b.jpg" class="internal" title="Увеличить"></a></div><a href="/wiki/%D0%90%D1%80%D0%B4%D0%B7%D0%B8%D0%BD%D0%B1%D0%B0,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Ардзинба, Владислав Григорьевич">Владислав Ардзинба</a> <br />на монете <a href="/wiki/%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BF%D1%81%D0%B0%D1%80" title="Абхазский апсар">10 апсар</a></div></div></div>
+<ul><li><b>4 марта 1949 года</b> родился бывший <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Президент Республики Абхазия">президент Абхазии</a> <a href="/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%BF%D1%88,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Багапш, Сергей Васильевич"><b>Сергей Багапш</b></a></li>
+<li><b>4 марта 2010 года</b> скончался первый <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Президент Республики Абхазия">президент Абхазии</a> <a href="/wiki/%D0%90%D1%80%D0%B4%D0%B7%D0%B8%D0%BD%D0%B1%D0%B0,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Ардзинба, Владислав Григорьевич"><b>Владислав Ардзинба</b></a></li>
+<li><b>6 марта 1929 года</b> в <a href="/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC" title="Сухум">Сухуме</a> родился прозаик и поэт <a href="/wiki/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80,_%D0%A4%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C_%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Искандер, Фазиль Абдулович"><b>Фазиль Искандер</b></a></li>
+<li><b>15 марта 1932 года</b> родился абхазский писатель-прозаик <a href="/wiki/%D0%93%D0%BE%D0%B3%D1%83%D0%B0,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9D%D0%BE%D1%87%D0%B5%D0%B2%D0%B8%D1%87" title="Гогуа, Алексей Ночевич"><b>Алексей Гогуа</b></a></li>
+<li><b>21 марта 1958 года</b> родился действующий президент Абхазии <a href="/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8%D0%BC%D0%B1%D0%B0,_%D0%A0%D0%B0%D1%83%D0%BB%D1%8C_%D0%94%D0%B6%D1%83%D0%BC%D0%BA%D0%BE%D0%B2%D0%B8%D1%87" title="Хаджимба, Рауль Джумкович"><b>Рауль Хаджимба</b></a></li>
+<li><b>24 марта 2012 года</b> в <a href="/wiki/%D0%A1%D1%83%D1%85%D1%83%D0%BC" title="Сухум">Сухуме</a> прошли <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B5_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F_(2012)" title="Парламентские выборы в Республике Абхазия (2012)"><b>выборы</b></a> в <a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Народное собрание Республики Абхазия"><b>Парламент Абхазии</b></a></li></ul>
+</small><p><small></small>
+</p>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%BC%D0%B0%D1%80%D1%82&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_9"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_foto.png" class="image" title="Избранное изображение"><img alt="Избранное изображение" src="//upload.wikimedia.org/wikipedia/ru/thumb/3/3d/Abxazia_foto.png/150px-Abxazia_foto.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/3/3d/Abxazia_foto.png/225px-Abxazia_foto.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/3/3d/Abxazia_foto.png/300px-Abxazia_foto.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<div style="width: 100%; overflow: auto; overflow-y:hidden;">
+<div style="border:1px solid silver; background-color: white; width: 300px; margin:0 auto; padding: 3px;">
+<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lake_Ritsa.JPG" class="image" title="Рица"><img alt="Рица" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lake_Ritsa.JPG/300px-Lake_Ritsa.JPG" decoding="async" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lake_Ritsa.JPG/450px-Lake_Ritsa.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lake_Ritsa.JPG/600px-Lake_Ritsa.JPG 2x" data-file-width="3072" data-file-height="2304" /></a></div></div> </div></div>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tbody><tr>
+<td width="33%">
+</td></tr></tbody></table>
+<div style="text-align:center;"><a href="/wiki/%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0" title="Радуга">Радуга</a> на озере <a href="/wiki/%D0%A0%D0%B8%D1%86%D0%B0" title="Рица">Рица</a>.</div>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+ </div><table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
 
-<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Gunther is an <a href="/wiki/Australian" class="mw-redirect" title="Australian">Australian</a> of <a href="/wiki/Germans" title="Germans">German</a> and Scots ancestry, born in <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a> on 15 August 1950. He attended <a href="/w/index.php?title=Preston_East_Primary_School&amp;action=edit&amp;redlink=1" class="new" title="Preston East Primary School (page does not exist)">Preston East Primary School</a> from 1955 to 1956, and <a href="/w/index.php?title=Balwyn_North_Primary_School&amp;action=edit&amp;redlink=1" class="new" title="Balwyn North Primary School (page does not exist)">Balwyn North Primary School</a> from 1956 until 1962. For his tenth birthday, Gunther received a copy of the now famous book entitled <i><a href="/wiki/The_Golden_Book_of_Chemistry_Experiments" title="The Golden Book of Chemistry Experiments">The Golden Book of Chemistry Experiments</a></i> from an older cousin. Inspired by the book, he started working on various experiments, making use of various chemicals that could be found around in his house. After he spilled some <a href="/wiki/Potassium_permanganate" title="Potassium permanganate">potassium permanganate</a> solution on his bedroom carpet his mother confined him to an alcove in the garage which he turned into a small <a href="/wiki/Laboratory" title="Laboratory">laboratory</a>, replete with <a href="/wiki/Industrial_chemical" class="mw-redirect" title="Industrial chemical">industrial chemicals</a> and second-hand <a href="/wiki/Laboratory_glassware" title="Laboratory glassware">laboratory glassware</a>. Gunther was interested in finding out how things like <a href="/wiki/Detergents" class="mw-redirect" title="Detergents">detergents</a> and <a href="/wiki/Oils" class="mw-redirect" title="Oils">oils</a> were composed by <i><a href="/wiki/Cracking_(chemistry)" title="Cracking (chemistry)">cracking</a></i> them in his <a href="/wiki/Fractionating_column" title="Fractionating column">fractionating column</a>. He took particular interest in mixing paints for his art classes, as well as his chemistry classes in <a href="/wiki/Balwyn_High_School" title="Balwyn High School">Balwyn High School</a>. His father, being the Superintendent of Melbourne's <a href="/wiki/Electrical_power_station" class="mw-redirect" title="Electrical power station">electrical power station</a>, borrowed an organic chemistry text from the chemists in the quality control laboratory. This ultimately led to an intense interest in synthesizing <a href="/wiki/Azo_compound" title="Azo compound">Azo dyes</a>. At around age 14, Gunther attempted to predict the color of azo dyes based on the <a href="/wiki/Chromophore" title="Chromophore">chromophore</a>-<a href="/wiki/Auxochrome" title="Auxochrome">auxochrome</a> combination. Apart from drawing up empirical tables, this effort was largely unsuccessful due to his lack of knowledge of <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum theory</a>.
+<tbody><tr><td></td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
+</div> 
+<p><br clear="all" /> 
 </p>
-<h3><span class="mw-headline" id="Post-Doc_years">Post-Doc years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=2" title="Edit section: Post-Doc years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Gunther taught physics at <a href="/wiki/San_Jose_State_University" title="San Jose State University">San Jose State University</a> from 1980–1981.  He then joined <a href="/w/index.php?title=Syncal_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Syncal Corporation (page does not exist)">Syncal Corporation</a>, a small company contracted by <a href="/wiki/NASA" title="NASA">NASA</a> and <a href="/wiki/JPL" class="mw-redirect" title="JPL">JPL</a> to develop thermoelectric materials for their deep-space missions. Gunther was asked to analyze the <a href="/wiki/Thermal_stability" title="Thermal stability">thermal stability</a> test data from the <a href="/wiki/Voyager_program" title="Voyager program">Voyager</a> <a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">RTGs</a>. He discovered that the stability of the <a href="/wiki/Silicon" title="Silicon">silicon</a>-<a href="/wiki/Germanium" title="Germanium">germanium</a> (Si-Ge) <a href="/w/index.php?title=Thermoelectric_alloy&amp;action=edit&amp;redlink=1" class="new" title="Thermoelectric alloy (page does not exist)">thermoelectric alloy</a> was controlled by a <a href="/wiki/Soliton" title="Soliton">soliton</a>-based precipitation mechanism.<sup id="cite_ref-SiGe_8-0" class="reference"><a href="#cite_note-SiGe-8">&#91;8&#93;</a></sup> JPL used his work to  select the next generation of RTG materials for the <a href="/wiki/Galileo_(spacecraft)" title="Galileo (spacecraft)">Galileo mission</a> launched in 1989.
+<div>
+<table width="100%" cellspacing="1" style="border:1px solid #E42217; border-top:2px solid #E42217; margin-bottom:1ex;">
+<tbody><tr>
+<td>
+<table width="100%" style="border:2px solid #4AA02C; border-top:7px solid #4AA02C; background-color:#F9F9FF; padding-left:1.5ex; padding-right:1.5ex;">
+<tbody><tr>
+<td valign="top">
+<h4><span class="mw-headline" id="_10"><span style="color:#688583"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abxazia_pobratimi.png" class="image" title="Порталы побратимы"><img alt="Порталы побратимы" src="//upload.wikimedia.org/wikipedia/ru/thumb/b/be/Abxazia_pobratimi.png/150px-Abxazia_pobratimi.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/b/be/Abxazia_pobratimi.png/225px-Abxazia_pobratimi.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/b/be/Abxazia_pobratimi.png/300px-Abxazia_pobratimi.png 2x" data-file-width="386" data-file-height="89" /></a></div></span></span></h4>
+</td></tr>
+<tr>
+<td>
+<table style="width:100%; border:0; background-color:transparent; padding:0; padding-top:1em; text-align:center;" cellspacing="0">
+<tbody><tr>
+<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Портал:Грузия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/P_Georgia2.png/50px-P_Georgia2.png" decoding="async" width="50" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/P_Georgia2.png/75px-P_Georgia2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/P_Georgia2.png/100px-P_Georgia2.png 2x" data-file-width="200" data-file-height="183" /></a>
+</td>
+<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D1%8F" title="Портал:Южная Осетия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Coat_of_arms_of_South_Ossetia.svg/50px-Coat_of_arms_of_South_Ossetia.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Coat_of_arms_of_South_Ossetia.svg/75px-Coat_of_arms_of_South_Ossetia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Coat_of_arms_of_South_Ossetia.svg/100px-Coat_of_arms_of_South_Ossetia.svg.png 2x" data-file-width="500" data-file-height="500" /></a>
+</td>
+<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B8%D0%B4%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Портал:Приднестровская Молдавская Республика"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Transnistria.svg/46px-Coat_of_arms_of_Transnistria.svg.png" decoding="async" width="46" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Transnistria.svg/70px-Coat_of_arms_of_Transnistria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Transnistria.svg/93px-Coat_of_arms_of_Transnistria.svg.png 2x" data-file-width="383" data-file-height="413" /></a>
+</td></tr>
+<tr style="padding:0;">
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Портал:Грузия"><span class="nowrap">Грузия</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D1%8F" title="Портал:Южная Осетия"><span class="nowrap">Южная Осетия</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B8%D0%B4%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Портал:Приднестровская Молдавская Республика"><span class="nowrap">Приднестровская Молдавская Республика</span></a>
+</th></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="class:portailLienEdition;" align="right"><span class="plainlinks" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B&amp;action=edit"><span style="color:blue">Править</span></a>&#160;</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div> 
+</div>
+<div style="display:block; float:left; width:100%;">
+</div>
+<p><span class="noprint" style="float:right;"><small><i><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=purge">Очистить кеш сервера</a></i></small></span>
 </p>
-<h3><span class="mw-headline" id="Xerox_years">Xerox years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=3" title="Edit section: Xerox years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In 1982, Gunther joined <a href="/wiki/Xerox_PARC" class="mw-redirect" title="Xerox PARC">Xerox PARC</a> to develop parametric and functional test software for PARC's small-scale <a href="/wiki/VLSI" class="mw-redirect" title="VLSI">VLSI</a> design fabrication line. Ultimately, he was recruited onto the <i>Dragon</i> multiprocessor workstation project where he also developed the <i><a href="/w/index.php?title=PARCbench&amp;action=edit&amp;redlink=1" class="new" title="PARCbench (page does not exist)">PARCbench</a></i> multiprocessor benchmark. This was his first fore into computer performance analysis.
-</p><p>1989, he developed a <a href="/wiki/Wick_rotation" title="Wick rotation">Wick-rotated</a> version of <a href="/wiki/Richard_Feynman" title="Richard Feynman">Richard Feynman</a>'s <a href="/wiki/Path_integral_formulation" title="Path integral formulation">quantum path integral formalism</a> for analyzing performance degradation in large-scale computer systems and packet networks.<sup id="cite_ref-LrgTrans_9-0" class="reference"><a href="#cite_note-LrgTrans-9">&#91;9&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Pyramid_years">Pyramid years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=4" title="Edit section: Pyramid years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In 1990 Gunther joined <a href="/wiki/Pyramid_Technology" title="Pyramid Technology">Pyramid Technology</a> (now part of Fujitsu Siemens Computers) where he held positions as Senior Scientist and Manager of the Performance Analysis Group that was responsible for attaining industry-high <a href="/wiki/Transaction_Processing_Performance_Council" class="mw-redirect" title="Transaction Processing Performance Council">TPC</a> benchmarks on their <a href="/wiki/Unix" title="Unix">Unix</a> multiprocessors. He also performed simulations for the design of the <i>Reliant RM1000</i> parallel database server.
-</p>
-<h3><span class="mw-headline" id="Consulting_practice">Consulting practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=5" title="Edit section: Consulting practice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Gunther founded <a href="/w/index.php?title=Performance_Dynamics_Company&amp;action=edit&amp;redlink=1" class="new" title="Performance Dynamics Company (page does not exist)">Performance Dynamics Company</a> as a sole proprietorship, registered in <a href="/wiki/California" title="California">California</a> in 1994, to provide consulting and educational services for the management of high performance computer systems with an emphasis on <a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">performance analysis</a> and enterprise-wide <a href="/wiki/Capacity_planning" title="Capacity planning">capacity planning</a>. He went on to release and develop his own <a href="/wiki/Open-source_license" title="Open-source license">open-source</a> <a href="/wiki/Profiling_(computer_programming)" title="Profiling (computer programming)">performance modeling</a> <a href="/wiki/Software" title="Software">software</a> called "PDQ (Pretty Damn Quick)" around 1998. That software also accompanied his first textbook on performance analysis entitled <i>The Practical Performance Analyst</i>. Several other books have followed since then.
-</p>
-<h2><span class="mw-headline" id="Current_research_interests">Current research interests</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=6" title="Edit section: Current research interests">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Quantum_information_systems">Quantum information systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=7" title="Edit section: Quantum information systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In 2004, Gunther has embarked on joint research into quantum information systems based on <a href="/wiki/Photonics" title="Photonics">photonics</a>.<sup id="cite_ref-njp_7-1" class="reference"><a href="#cite_note-njp-7">&#91;7&#93;</a></sup> During the course of his research in this area, he has developed a theory of <i><a href="/w/index.php?title=Photon_bifurcation&amp;action=edit&amp;redlink=1" class="new" title="Photon bifurcation (page does not exist)">photon bifurcation</a></i> that is currently being tested experimentally at <a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">École Polytechnique Fédérale de Lausanne</a>.<sup id="cite_ref-spie_10-0" class="reference"><a href="#cite_note-spie-10">&#91;10&#93;</a></sup> This represents yet another application of <a href="/wiki/Path_integral_formulation" title="Path integral formulation">path integral formulation</a> to circumvent the <a href="/wiki/Wave-particle_duality" class="mw-redirect" title="Wave-particle duality">wave-particle duality</a> of light.
-</p><p>In its simplest rendition, this theory can be considered as providing the <a href="/wiki/Quantum" title="Quantum">quantum</a> corrections to the <a href="/wiki/Ernst_Karl_Abbe" class="mw-redirect" title="Ernst Karl Abbe">Abbe</a>-<a href="/wiki/John_William_Strutt,_3rd_Baron_Rayleigh" title="John William Strutt, 3rd Baron Rayleigh">Rayleigh</a> <a href="/wiki/Diffraction" title="Diffraction">diffraction</a> theory of imaging and the <a href="/wiki/Fourier_optics" title="Fourier optics">Fourier theory</a> of <a href="/wiki/Fourier_transforms" class="mw-redirect" title="Fourier transforms">optical information processing</a>.<sup id="cite_ref-FOptics_11-0" class="reference"><a href="#cite_note-FOptics-11">&#91;11&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Performance_visualization">Performance visualization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=8" title="Edit section: Performance visualization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Inspired by the work of <a href="/wiki/Tukey" class="mw-redirect" title="Tukey">Tukey</a>, Gunther explored ways to help systems analyst visualize performance in a manner similar to that already available in <a href="/wiki/Scientific_visualization" title="Scientific visualization">scientific visualization</a> and <a href="/wiki/Information_visualization" title="Information visualization">information visualization</a>. In 1991, he developed a tool called <i>Barry</i>, which employs <a href="/wiki/Barycentric_coordinates_(mathematics)" class="mw-redirect" title="Barycentric coordinates (mathematics)">barycentric coordinates</a> to visualize sampled <a href="/wiki/CPU_usage" class="mw-redirect" title="CPU usage">CPU usage</a> data on large-scale <a href="/wiki/Multiprocessor" class="mw-redirect" title="Multiprocessor">multiprocessor</a> systems.<sup id="cite_ref-Barry_12-0" class="reference"><a href="#cite_note-Barry-12">&#91;12&#93;</a></sup> More recently, he has applied the same 2-<a href="/wiki/Simplex" title="Simplex">simplex</a> barycentric coordinates to visualizing the <a href="/wiki/Apdex" title="Apdex">Apdex</a> application performance metric, which is based on <a href="/w/index.php?title=Categorical_response_time&amp;action=edit&amp;redlink=1" class="new" title="Categorical response time (page does not exist)">categorical response time</a> data. A barycentric 3-simplex (a <a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedron</a>), that can be swivelled on the computer screen using a <a href="/wiki/Mouse_(computing)" class="mw-redirect" title="Mouse (computing)">mouse</a>, has been found useful for visualizing <a href="/wiki/Packet_network" class="mw-redirect" title="Packet network">packet network</a> performance data. In 2008, he co-founded the <a rel="nofollow" class="external text" href="https://groups.google.com/group/perfviz?hl=en">PerfViz</a> <a href="/wiki/Google_group" class="mw-redirect" title="Google group">google group</a>.
-</p>
-<h3><span class="mw-headline" id="Universal_Law_of_Computational_Scalability">Universal Law of Computational Scalability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=9" title="Edit section: Universal Law of Computational Scalability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>The throughput capacity X(N) of a computational platform is given by:
-</p>
-<dl><dd><center><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X(N)={\frac {\gamma N}{1+\alpha (N-1)+\beta N(N-1)}}}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>X</mi>
-        <mo stretchy="false">(</mo>
-        <mi>N</mi>
-        <mo stretchy="false">)</mo>
-        <mo>=</mo>
-        <mrow class="MJX-TeXAtom-ORD">
-          <mfrac>
-            <mrow>
-              <mi>&#x03B3;<!-- γ --></mi>
-              <mi>N</mi>
-            </mrow>
-            <mrow>
-              <mn>1</mn>
-              <mo>+</mo>
-              <mi>&#x03B1;<!-- α --></mi>
-              <mo stretchy="false">(</mo>
-              <mi>N</mi>
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>1</mn>
-              <mo stretchy="false">)</mo>
-              <mo>+</mo>
-              <mi>&#x03B2;<!-- β --></mi>
-              <mi>N</mi>
-              <mo stretchy="false">(</mo>
-              <mi>N</mi>
-              <mo>&#x2212;<!-- − --></mo>
-              <mn>1</mn>
-              <mo stretchy="false">)</mo>
-            </mrow>
-          </mfrac>
-        </mrow>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle X(N)={\frac {\gamma N}{1+\alpha (N-1)+\beta N(N-1)}}}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a3472467e927fd6e338703dc4ec357f1ca9646b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:37.266ex; height:6.176ex;" alt="{\displaystyle X(N)={\frac {\gamma N}{1+\alpha (N-1)+\beta N(N-1)}}}"/></span></center></dd></dl>
-<p>where N represents either the number of physical processors in the <a href="/wiki/Computer_hardware" title="Computer hardware">hardware</a> configuration or the number of users driving the <a href="/wiki/Software" title="Software">software</a> application. The parameters <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha }">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>&#x03B1;<!-- α --></mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \alpha }</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;" alt="\alpha "/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta }">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>&#x03B2;<!-- β --></mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \beta }</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.332ex; height:2.509ex;" alt="\beta "/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \gamma }">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>&#x03B3;<!-- γ --></mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \gamma }</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a223c880b0ce3da8f64ee33c4f0010beee400b1a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:1.262ex; height:2.176ex;" alt="\gamma "/></span> respectively represent the levels of <i>contention</i> (e.g., queueing for shared resources),  <i>coherency</i> delay (i.e., latency for data to become consistent) and <i>concurrency</i> (or effective parallelism) in the system. The <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta }">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>&#x03B2;<!-- β --></mi>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \beta }</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.332ex; height:2.509ex;" alt="\beta "/></span> parameter also quantifies the retrograde throughput seen in many stress tests but not accounted for in either <a href="/wiki/Amdahl%27s_law" title="Amdahl&#39;s law">Amdahl's law</a> or <a href="/wiki/Discrete_event_simulation" class="mw-redirect" title="Discrete event simulation">event-based simulations</a>.
-This scalability law was originally developed by Gunther in 1993 while he was employed at <a href="/wiki/Pyramid_Technology" title="Pyramid Technology">Pyramid Technology</a>.<sup id="cite_ref-UniScaling_13-0" class="reference"><a href="#cite_note-UniScaling-13">&#91;13&#93;</a></sup> Since there are no <a href="/wiki/Topological" class="mw-redirect" title="Topological">topological</a> dependencies, C(N) can model <a href="/wiki/Symmetric_multiprocessing" title="Symmetric multiprocessing">symmetric multiprocessors</a>, <a href="/wiki/Multi-core_(computing)" class="mw-redirect" title="Multi-core (computing)">multicores</a>, <a href="/wiki/Cluster_(computing)" class="mw-redirect" title="Cluster (computing)">clusters</a>, and <a href="/wiki/Grid_computing" title="Grid computing">GRID</a> architectures. Also, because each of the three terms has a definite physical meaning, they can be employed as a <a href="/wiki/Heuristic" title="Heuristic">heuristic</a> to determine where to make performance improvements in hardware platforms or software applications.
-</p><p>At a more fundamental level, the above equation can be derived<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> from the <a href="/w/index.php?title=Machine_Repairman&amp;action=edit&amp;redlink=1" class="new" title="Machine Repairman (page does not exist)">Machine Repairman</a> queueing model:<sup id="cite_ref-Gross_15-0" class="reference"><a href="#cite_note-Gross-15">&#91;15&#93;</a></sup>
-</p>
-<blockquote>
-<p><b>Theorem (Gunther 2008):</b> The universal scalability law is equivalent to the synchronous queueing bound on throughput in a modified Machine Repairman with state-dependent service times.
-</p>
-</blockquote>
-<p>The following corollary (Gunther 2008 with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta =0}">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>&#x03B2;<!-- β --></mi>
-        <mo>=</mo>
-        <mn>0</mn>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \beta =0}</annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/60b5e78663eba7ba08e0dd4915251e6261f4f35c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.593ex; height:2.509ex;" alt="\beta =0"/></span>) corresponds to  Amdahl's law:<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
-</p>
-<blockquote>
-<p><b>Theorem (Gunther 2002):</b> Amdahl's law for parallel speedup is equivalent to the synchronous queueing bound on throughput in a Machine Repairman model of a multiprocessor.
-</p>
-</blockquote>
-<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=10" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Senior Member ACM (elected April 2009).</li>
-<li>Senior Member IEEE (elected February 2009).</li>
-<li>Recipient of the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081228120202/http://www.cmg.org/national/michelson-nominations.html">A. A. Michelson Award</a>, December 2008.</li>
-<li>Summer Research Institute visitor, <a href="/wiki/EPFL" class="mw-redirect" title="EPFL">EPFL</a> 2006 and 2007.</li>
-<li>Lecturer, Western Institute of Computer Science,  <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, 1997–2000.</li>
-<li>Best paper award, <a href="/wiki/Computer_Measurement_Group" title="Computer Measurement Group">CMG</a> conference 1996.</li>
-<li>Visiting Scholar in Materials Science, Stanford University, 1981–1982.</li>
-<li>Science Research Council Studentship, U.K. 1976–1980.</li>
-<li>Commonwealth Postgraduate Scholarship, Australia 1975–1976.</li></ul>
-<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=11" title="Edit section: Quotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><i>As a consultant, I offer more harangue for the buck.</i></li>
-<li><i>Lately, I've been solicited to give so many talks  I feel like <a href="/wiki/Mr._Ed" class="mw-redirect" title="Mr. Ed">Mister Ed</a> The Talking Whore.</i></li>
-<li><i>It's better to have wrong expectations, than no expectations.</i><sup id="cite_ref-Guerrilla_Manifesto_17-0" class="reference"><a href="#cite_note-Guerrilla_Manifesto-17">&#91;17&#93;</a></sup></li>
-<li><i>Best Practices are an admission of failure.</i><sup id="cite_ref-Guerrilla_Manifesto_17-1" class="reference"><a href="#cite_note-Guerrilla_Manifesto-17">&#91;17&#93;</a></sup></li>
-<li><i>A <a href="/wiki/Queueing_theory" title="Queueing theory">queue</a> is a line of customers waiting to be severed.</i></li>
-<li><i>The only dumb question is the one never asked.</i></li>
-<li><i>A quantum leap is neither.</i></li>
-<li><i>Art irritates life.</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></li>
-<li><i>If you want to be more productive, go to sleep.</i></li>
-<li><i>All meaning has a pattern, but not all patterns have a meaning.</i></li></ul>
-<h2><span class="mw-headline" id="Selected_bibliography">Selected bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=12" title="Edit section: Selected bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Theses">Theses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=13" title="Edit section: Theses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i>The Feynman Path Integral in Non-Relativistic Quantum Mechanics and Quantum Electrodynamics,</i> La Trobe University (AUS),</li></ul>
-<p>B.Sc. Honors dissertation, Department of Physics, Oct. (1974)
-</p>
-<ul><li><i>Dynamical Symmetry Groups: The Study and Interpretation of Certain Invariants as Group Generators in Quantum Mechanics, La Trobe</i></li></ul>
-<p>University (AUS), M.Sc. dissertation, Department of Applied Mathematics, Nov. (1976)
-</p>
-<ul><li><i>Broken Dynamical Symmetries in Quantum Field Theory and Phase Transition Phenomena,</i> University of Southampton (U.K.), Ph.D.</li></ul>
-<p>dissertation, Department of Physics, Dec. (1979)
-</p>
-<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=14" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i>The Practical Performance Analyst, </i> <a href="/wiki/McGraw-Hill" class="mw-redirect" title="McGraw-Hill">McGraw-Hill</a>, New York, New York 1998, <style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-912946-3" title="Special:BookSources/0-07-912946-3">0-07-912946-3</a> (Out of print)</li>
-<li><i>The Practical Performance Analyst, </i>  iUniverse.com Press, Lincoln, Nebraska 2000, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-595-12674-X" title="Special:BookSources/0-595-12674-X">0-595-12674-X</a> (Reprint edition)</li>
-<li><i>Performance Engineering: State of the Art and Current Trends,</i> Lecture Notes in Computer Science, <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer-Verlag</a></li></ul>
-<p>Heidelberg, Germany, October 2001,  <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-42145-9" title="Special:BookSources/3-540-42145-9">3-540-42145-9</a> (<a rel="nofollow" class="external text" href="https://archive.today/20130203032248/http://www.springerlink.com/content/v7glxbdwgf26krlu/?p=8678066742ba45ce8901c431ec7769e6&amp;pi=16">Contributed chapter</a>)
-</p>
-<ul><li><i>Analyzing Computer System Performance with Perl::PDQ,</i> Springer, Heidelberg 2005,  <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-20865-8" title="Special:BookSources/3-540-20865-8">3-540-20865-8</a></li>
-<li><i>Guerrilla Capacity Planning,</i> Springer, Heidelberg 2007, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-26138-9" title="Special:BookSources/3-540-26138-9">3-540-26138-9</a></li></ul>
-<h3><span class="mw-headline" id="Invited_presentations">Invited presentations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=15" title="Edit section: Invited presentations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i>Goldstone Modes in First-order Phase Transitions,</i> Sixth West Coast Conference on Statistical Mechanics, IBM Research Laboratories, San Jose, June (1980)</li>
-<li><i>Instanton Techniques for Queueing Models of Large Computer Systems: Getting a Piece of the Action,</i> SIAM Conference on Applied Probability in Science and Engineering, New Orleans, Louisiana, March (1990)</li>
-<li><i>(Numerical) Investigations into Physical Power-law Models of Internet Traffic Using the Renormalization Group,</i> IFORS Conference of Operations Research Societies, Honolulu, Hawaii, 11–15 July (2005)</li></ul>
-<h3><span class="mw-headline" id="Papers">Papers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=16" title="Edit section: Papers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i>Goldstone Modes in Vacuum Decay and First-order Phase Transitions,</i> Journal of Physics, A, 13, 1755-1767 (1980)</li>
-<li><a rel="nofollow" class="external text" href="http://www.hpl.hp.com/techreports/2000/HPL-2000-162.html?jumpid=reg_R1002_USEN"><i>A Benchmark for Image Retrieval using Distributed Systems over the Internet</i></a> (2000 with G. Beretta)</li>
-<li><a rel="nofollow" class="external text" href="https://arxiv.org/abs/cs/0012022"><i>Performance and Scalability Models for a Hypergrowth e-Commerce Web Site</i></a> (2000)</li>
-<li><a rel="nofollow" class="external text" href="https://arxiv.org/abs/cs.NI/0403029"><i>Characterization of the Burst Stabilization Protocol for the RR/CICQ Switch</i></a> (2003 with K. J. Christensen and K. Yoshigoe)</li>
-<li><a rel="nofollow" class="external text" href="http://www.actapress.com/PaperInfo.aspx?PaperID=22360"><i>Unification of Amdahl's Law, LogP and Other Performance Models for Message-Passing Architectures</i></a> (2005)</li>
-<li><a rel="nofollow" class="external text" href="http://www.hpl.hp.com/techreports/2005/HPL-2005-129.html"><i>Towards Practical Design Rules for Quantum Communications and Quantum Imaging Devices</i></a> (2005 with G. Beretta)</li>
-<li><i>The Virtualization Spectrum from Hyperthreads to GRIDs,</i>  Proc. CMG Conf., Reno, Nevada, Dec. (2006)</li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Microsoft developer blog comparing
-<a rel="nofollow" class="external text" href="http://blogs.msdn.com/ddperf/archive/2009/04/29/parallel-scalability-isn-t-child-s-play-part-2-amdahl-s-law-vs-gunther-s-law.aspx#9576239">Amdahl's law with Gunther's law</a> (2009)</span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Computer Measurement Group <a rel="nofollow" class="external text" href="http://cmg.org/measureit/issues/mit58/m_58_8.html">Interview part 1</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110722152531/http://cmg.org/measureit/issues/mit58/m_58_8.html">Archived</a> 22 July 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <a rel="nofollow" class="external text" href="http://www.cmg.org/measureit/issues/mit59/m_59_16.html">and part 2</a>  (2009)</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Springer <a rel="nofollow" class="external text" href="https://www.springer.com/computer/communications/book/978-3-540-26138-4?detailsPage=aboutTheAuthor">author biography</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Oracle <a rel="nofollow" class="external text" href="http://www.hotsos.com/sym_speakers_gunther.html">performance experts</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">La Trobe University <a rel="nofollow" class="external text" href="http://www.latrobe.edu.au/alumni/profiles/full-profile?queries_name_query=Gunther&amp;search_page_22160_submit_button=Submit&amp;current_result_page=0&amp;results_per_page=0&amp;submitted_search_category=&amp;mode=results">alumnus profile</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110607095311/http://www.latrobe.edu.au/alumni/profiles/full-profile?queries_name_query=Gunther&amp;search_page_22160_submit_button=Submit&amp;current_result_page=0&amp;results_per_page=0&amp;submitted_search_category=&amp;mode=results">Archived</a> 7 June 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.neilgunther.com/jcdnjg.pdf">Interview</a> with <a href="/wiki/John_C._Dvorak" title="John C. Dvorak">John C. Dvorak</a> (1998)</span>
-</li>
-<li id="cite_note-njp-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-njp_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-njp_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFD._L._BoikoNeil_J._GuntherN._BrauerM._Sergio2009" class="citation web cs1">D. L. Boiko; Neil J. Gunther; N. Brauer; M. Sergio; C. Niclass; G. Beretta.; E. Charbon (2009). <a rel="nofollow" class="external text" href="http://www.iop.org/EJ/journal/-page=forthart/1367-2630">"A Quantum Imager for Intensity Correlated Photons"</a>. New Journal of Physics.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Quantum+Imager+for+Intensity+Correlated+Photons&amp;rft.pub=New+Journal+of+Physics&amp;rft.date=2009&amp;rft.au=D.+L.+Boiko&amp;rft.au=Neil+J.+Gunther&amp;rft.au=N.+Brauer&amp;rft.au=M.+Sergio&amp;rft.au=C.+Niclass&amp;rft.au=G.+Beretta.&amp;rft.au=E.+Charbon&amp;rft_id=http%3A%2F%2Fwww.iop.org%2FEJ%2Fjournal%2F-page%3Dforthart%2F1367-2630&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-SiGe-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-SiGe_8-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGunther,_Neil_J.1982" class="citation web cs1">Gunther, Neil J. (1982). <a rel="nofollow" class="external text" href="http://www.neilgunther.com/DeepSpace/thermo82.pdf">"<span class="cs1-kern-left">"</span>Solitons and Their Role in the Degradation of Modified Silicon-Germanium Alloys" in <i>Proc. IEEE Fourth Int. Conf. on Thermoelectric Energy Conversion</i>"</a> <span class="cs1-format">(PDF)</span>. IEEE, Volume 82CH1763-2, Pages 89–95.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Solitons+and+Their+Role+in+the+Degradation+of+Modified+Silicon-Germanium+Alloys%22+in+Proc.+IEEE+Fourth+Int.+Conf.+on+Thermoelectric+Energy+Conversion.&amp;rft.pub=IEEE%2C+Volume+82CH1763-2%2C+Pages+89%E2%80%9395&amp;rft.date=1982&amp;rft.au=Gunther%2C+Neil+J.&amp;rft_id=http%3A%2F%2Fwww.neilgunther.com%2FDeepSpace%2Fthermo82.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-LrgTrans-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-LrgTrans_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGunther,_Neil_J.1989" class="citation journal cs1">Gunther, Neil J. (1989). <a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/rec/bibtex/journals/ipl/Gunther89">"Path Integral Methods for Computer Performance Analysis"</a>. <i>Information Processing Letters</i>. <b>32</b>: 7–13. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0020-0190%2889%2990061-6">10.1016/0020-0190(89)90061-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+Processing+Letters&amp;rft.atitle=Path+Integral+Methods+for+Computer+Performance+Analysis&amp;rft.volume=32&amp;rft.pages=7-13&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1016%2F0020-0190%2889%2990061-6&amp;rft.au=Gunther%2C+Neil+J.&amp;rft_id=http%3A%2F%2Fdblp.uni-trier.de%2Frec%2Fbibtex%2Fjournals%2Fipl%2FGunther89&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-spie-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-spie_10-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGunther,_Neil_J.Charbon,_E.Boiko,_D._L.Beretta,_G.2006" class="citation web cs1">Gunther, Neil J.; Charbon, E.; Boiko, D. L.; Beretta, G. (2006). <a rel="nofollow" class="external text" href="http://spie.org/x8567.xml?pf=true&amp;highlight=x2410">"Photonic Information Processing Needs Quantum Design Rules"</a>. SPIE Online.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Photonic+Information+Processing+Needs+Quantum+Design+Rules&amp;rft.pub=SPIE+Online&amp;rft.date=2006&amp;rft.au=Gunther%2C+Neil+J.&amp;rft.au=Charbon%2C+E.&amp;rft.au=Boiko%2C+D.+L.&amp;rft.au=Beretta%2C+G.&amp;rft_id=http%3A%2F%2Fspie.org%2Fx8567.xml%3Fpf%3Dtrue%26highlight%3Dx2410&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-FOptics-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOptics_11-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFE._G._Steward2004" class="citation book cs1">E. G. Steward (2004). <i>Fourier Optics: An Introduction</i>. Dover. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-486-43504-6" title="Special:BookSources/978-0-486-43504-6"><bdi>978-0-486-43504-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fourier+Optics%3A+An+Introduction&amp;rft.pub=Dover&amp;rft.date=2004&amp;rft.isbn=978-0-486-43504-6&amp;rft.au=E.+G.+Steward&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-Barry-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Barry_12-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGunther,_Neil_J.1992" class="citation book cs1">Gunther, Neil J. (1992). <i>"On the Application of Barycentric Coordinates to the Prompt and Visually Efficient Display of Multiprocessor Performance Data" in Proc. VI International Conf. on Modelling Techniques and Tools for Computer Performance Evaluation, Edinburgh, Scotland</i>. Antony Rowe Ltd., Wiltshire, U.K., Pages 67–80. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7486-0425-8" title="Special:BookSources/978-0-7486-0425-8"><bdi>978-0-7486-0425-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%22On+the+Application+of+Barycentric+Coordinates+to+the+Prompt+and+Visually+Efficient+Display+of+Multiprocessor+Performance+Data%22+in+Proc.+VI+International+Conf.+on+Modelling+Techniques+and+Tools+for+Computer+Performance+Evaluation%2C+Edinburgh%2C+Scotland&amp;rft.pub=Antony+Rowe+Ltd.%2C+Wiltshire%2C+U.K.%2C+Pages+67%E2%80%9380&amp;rft.date=1992&amp;rft.isbn=978-0-7486-0425-8&amp;rft.au=Gunther%2C+Neil+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-UniScaling-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-UniScaling_13-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGunther,_Neil_J.1993" class="citation web cs1">Gunther, Neil J. (1993). <a rel="nofollow" class="external text" href="http://www.perfdynamics.com/Papers/njgCMG93.pdf">"<span class="cs1-kern-left">"</span>A Simple Capacity Model for Massively Parallel Transaction Systems" in Proc. CMG Conf., San Diego, California"</a> <span class="cs1-format">(PDF)</span>. CMG, Pages 1035–1044.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22A+Simple+Capacity+Model+for+Massively+Parallel+Transaction+Systems%22+in+Proc.+CMG+Conf.%2C+San+Diego%2C+California&amp;rft.pub=CMG%2C+Pages+1035%E2%80%931044&amp;rft.date=1993&amp;rft.au=Gunther%2C+Neil+J.&amp;rft_id=http%3A%2F%2Fwww.perfdynamics.com%2FPapers%2FnjgCMG93.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFNeil_J._Gunther2008" class="citation arxiv cs1">Neil J. Gunther (2008). "A General Theory of Computational Scalability Based on Rational Functions". <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/0808.1431v2">0808.1431v2</a></span> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/cs.PF">cs.PF</a>].</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=A+General+Theory+of+Computational+Scalability+Based+on+Rational+Functions&amp;rft.date=2008&amp;rft_id=info%3Aarxiv%2F0808.1431v2&amp;rft.au=Neil+J.+Gunther&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-Gross-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gross_15-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFD._GrossC._M._Harris1998" class="citation book cs1">D. Gross &amp; C. M. Harris (1998). <i>Fundamentals of Queueing Theory</i>. Wiley-Interscience. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-471-17083-9" title="Special:BookSources/978-0-471-17083-9"><bdi>978-0-471-17083-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Queueing+Theory&amp;rft.pub=Wiley-Interscience&amp;rft.date=1998&amp;rft.isbn=978-0-471-17083-9&amp;rft.au=D.+Gross&amp;rft.au=C.+M.+Harris&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGunther2002" class="citation arxiv cs1">Gunther, Neil J. (2002). "A New Interpretation of Amdahl's Law and Geometric Scalability". <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/cs/0210017">cs/0210017</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=A+New+Interpretation+of+Amdahl%27s+Law+and+Geometric+Scalability&amp;rft.date=2002&amp;rft_id=info%3Aarxiv%2Fcs%2F0210017&amp;rft.aulast=Gunther&amp;rft.aufirst=Neil+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-Guerrilla_Manifesto-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Guerrilla_Manifesto_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Guerrilla_Manifesto_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.perfdynamics.com/Manifesto/gcaprules.html">"Guerrilla Mantras Online"</a>. <i>perfdynamics.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=perfdynamics.com&amp;rft.atitle=Guerrilla+Mantras+Online&amp;rft_id=http%3A%2F%2Fwww.perfdynamics.com%2FManifesto%2Fgcaprules.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeil+J.+Gunther" class="Z3988"></span></span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Perversion of a <a href="/wiki/Life_imitating_art" title="Life imitating art">quote</a> from Oscar Wilde.</span>
-</li>
-</ol></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://www.perfdynamics.com/">Performance Dynamics Company(SM)</a></li>
-<li><a rel="nofollow" class="external text" href="https://perfdynamics.blogspot.com">Performance Dynamics</a> on <a href="/wiki/Blogger_(service)" title="Blogger (service)">Blogger</a></li>
-<li><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/html/id.phtml?id=96149">The Mathematics Genealogy Project</a></li>
-<li><abbr title="On-Line Encyclopedia of Integer Sequences">OEIS</abbr> <a rel="nofollow" class="external text" href="https://oeis.org/A007814">sequence&#x20;A007814&#x20;(Exponent of highest power of 2 dividing n, a.k.a. the binary carry sequence, the ruler sequence, or the 2-adic valuation of n)</a></li>
-<li><a rel="nofollow" class="external text" href="http://catalogue.nla.gov.au/Record/2818802?lookfor=title:(Dynamical%20Symmetry%20Groups)&amp;offset=1&amp;max=2=2">M.Sc. Thesis at National Library of Australia</a></li>
-<li><a rel="nofollow" class="external text" href="https://arxiv.org/find/grp_cs,hep-th/1/au:+Gunther_Neil_J/0/1/0/all/0/1">List of papers on arXiv</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.perfdynamics.com/Bio/Biblio.html">List of papers on computer performance analysis</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.neilgunther.com/Dirac/dirac.html">Dirac Number 2</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.perfdynamics.com/Manifesto/gcaprules.html">Guerrilla Manifesto</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.perfdynamics.com/Tools/PDQcode.html">PDQ performance modeling software</a></li>
-<li><a rel="nofollow" class="external text" href="https://groups.google.com/group/perfviz?hl=en">Performance Visualization</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.linkedin.com/in/neilgunther">Neil J. Gunther</a> on <a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a></li></ul>
-<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92902#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92902#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q92902#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><span class="nowrap"><a href="/wiki/DBLP_(identifier)" class="mw-redirect" title="DBLP (identifier)">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/88/3839">88/3839</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/GND_(identifier)" class="mw-redirect" title="GND (identifier)">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/173080030">173080030</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/ISNI_(identifier)" class="mw-redirect" title="ISNI (identifier)">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000082052867">0000 0000 8205 2867</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n97071552">n97071552</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/MGP_(identifier)" class="mw-redirect" title="MGP (identifier)">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=96149">96149</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/NKC_(identifier)" class="mw-redirect" title="NKC (identifier)">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=utb2011672602&amp;CON_LNG=ENG">utb2011672602</a></span></span></li>
-<li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/20772804">20772804</a></span></span></li>
-<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n97071552">lccn-n97071552</a></span></li></ul>
-</div></td></tr></tbody></table></div>
+</div></div>
+<div style="display:block; float:left; width:100%;">
+</div></div>
 <!-- 
 NewPP limit report
-Parsed by mw1394
-Cached time: 20210216030547
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.694 seconds
-Real time usage: 0.968 seconds
-Preprocessor visited node count: 3936/1000000
-Post‐expand include size: 53159/2097152 bytes
-Template argument size: 7800/2097152 bytes
-Highest expansion depth: 16/40
-Expensive parser function count: 11/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 48349/5000000 bytes
-Lua time usage: 0.290/10.000 seconds
-Lua memory usage: 6363166/52428800 bytes
-Number of Wikibase entities loaded: 1/400
+Parsed by mw1334
+Cached time: 20210308233034
+Cache expiry: 86400
+Dynamic content: true
+Complications: []
+CPU time usage: 0.216 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 1337/1000000
+Post‐expand include size: 72306/2097152 bytes
+Template argument size: 5446/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  845.262      1 -total
- 28.88%  244.153      1 Template:Infobox_scientist
- 27.40%  231.584      1 Template:Infobox_person
- 25.97%  219.529      1 Template:Reflist
- 24.90%  210.451      2 Template:Infobox
- 16.42%  138.756      5 Template:ISBN
- 13.92%  117.698      5 Template:Br_separated_entries
- 13.66%  115.445      1 Template:Overly_detailed
- 12.84%  108.518      5 Template:Cite_web
- 11.70%   98.893      1 Template:Birth_date_and_age
+100.00%  166.339      1 -total
+ 83.26%  138.487     10 Портал:Абхазия/Секция
+ 26.16%   43.509      1 Портал:Абхазия/Новые_статьи
+ 22.42%   37.293     10 Шаблон:Новая_статья
+ 16.42%   27.309      1 Портал:Абхазия/Порталы
+ 12.00%   19.959      1 Шаблон:Порталы
+ 10.87%   18.082      3 Шаблон:РисПортала
+ 10.07%   16.750      1 Шаблон:Index_box
+  9.69%   16.118      1 Портал:Абхазия/Введение
+  8.02%   13.345      1 Шаблон:Индекс
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:12829834-0!canonical!math=5 and timestamp 20210216030546 and revision id 984072974. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1547426-0!canonical and timestamp 20210308233034 and revision id 104389537. Serialized with JSON.
  -->
-</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Neil_J._Gunther&amp;oldid=984072974">https://en.wikipedia.org/w/index.php?title=Neil_J._Gunther&amp;oldid=984072974</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1950_births" title="Category:1950 births">1950 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Australian_computer_scientists" title="Category:Australian computer scientists">Australian computer scientists</a></li><li><a href="/wiki/Category:Australian_expatriates_in_the_United_States" title="Category:Australian expatriates in the United States">Australian expatriates in the United States</a></li><li><a href="/wiki/Category:Australian_guitarists" title="Category:Australian guitarists">Australian guitarists</a></li><li><a href="/wiki/Category:Australian_physicists" title="Category:Australian physicists">Australian physicists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:21st-century_American_physicists" title="Category:21st-century American physicists">21st-century American physicists</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:American_textbook_writers" title="Category:American textbook writers">American textbook writers</a></li><li><a href="/wiki/Category:American_male_non-fiction_writers" title="Category:American male non-fiction writers">American male non-fiction writers</a></li><li><a href="/wiki/Category:Scientists_from_Melbourne" title="Category:Scientists from Melbourne">Scientists from Melbourne</a></li><li><a href="/wiki/Category:Computer_science_educators" title="Category:Computer science educators">Computer science educators</a></li><li><a href="/wiki/Category:Information_systems_researchers" title="Category:Information systems researchers">Information systems researchers</a></li><li><a href="/wiki/Category:Perl_writers" title="Category:Perl writers">Perl writers</a></li><li><a href="/wiki/Category:Scientists_at_PARC_(company)" title="Category:Scientists at PARC (company)">Scientists at PARC (company)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_excessively_detailed_from_August_2020" title="Category:Wikipedia articles that are excessively detailed from August 2020">Wikipedia articles that are excessively detailed from August 2020</a></li><li><a href="/wiki/Category:All_articles_that_are_excessively_detailed" title="Category:All articles that are excessively detailed">All articles that are excessively detailed</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_August_2020" title="Category:Wikipedia articles with style issues from August 2020">Wikipedia articles with style issues from August 2020</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2013" title="Category:Use dmy dates from March 2013">Use dmy dates from March 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WORLDCATID_identifiers" title="Category:Wikipedia articles with WORLDCATID identifiers">Wikipedia articles with WORLDCATID identifiers</a></li></ul></div></div>
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Абхазия&amp;oldid=104389537">https://ru.wikipedia.org/w/index.php?title=Портал:Абхазия&amp;oldid=104389537</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Портал:Абхазия">Портал:Абхазия</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Категория:Абхазия">Абхазия</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -378,16 +407,16 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 
 <div id="mw-navigation">
-	<h2>Navigation menu</h2>
+	<h2>Навигация</h2>
 	<div id="mw-head">
 		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
 	 >
 	<h3 id="p-personal-label" class="vector-menu-heading">
-		<span>Personal tools</span>
+		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Neil+J.+Gunther" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Neil+J.+Gunther" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -397,10 +426,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
 	 >
 	<h3 id="p-namespaces-label" class="vector-menu-heading">
-		<span>Namespaces</span>
+		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Neil_J._Gunther" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Neil_J._Gunther" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F">Портал</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -410,7 +439,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
 	<h3 id="p-variants-label" class="vector-menu-heading">
-		<span>Variants</span>
+		<span>Варианты</span>
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
@@ -424,10 +453,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
 	 >
 	<h3 id="p-views-label" class="vector-menu-heading">
-		<span>Views</span>
+		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Neil_J._Gunther">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Neil_J._Gunther&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Neil_J._Gunther&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -437,7 +466,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	 >
 	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
 	<h3 id="p-cactions-label" class="vector-menu-heading">
-		<span>More</span>
+		<span>Ещё</span>
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
@@ -447,14 +476,14 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div id="p-search" role="search" >
 	<h3 >
-		<label for="searchInput">Search</label>
+		<label for="searchInput">Поиск</label>
 	</h3>
 	<form action="/w/index.php" id="searchform">
 		<div id="simpleSearch" data-search-loc="header-navigation">
-			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
-			<input type="hidden" name="title" value="Special:Search"/>
-			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
-			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			<input type="search" name="search" placeholder="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Служебная:Поиск"/>
+			<input type="submit" name="fulltext" value="Найти" title="Найти страницы, содержащие указанный текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Перейти" title="Перейти к странице, имеющей в точности такое название" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
@@ -464,29 +493,29 @@ Transclusion expansion time report (%,ms,calls,template)
 	
 <div id="mw-panel">
 	<div id="p-logo" role="banner">
-		<a class="mw-wiki-logo" href="/wiki/Main_Page"
-			title="Visit the main page"></a>
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
 	</div>
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
 <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
 	 >
 	<h3 id="p-navigation-label" class="vector-menu-heading">
-		<span>Navigation</span>
+		<span>Навигация</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z">Заглавная страница</a></li><li id="n-browse"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%BF%D0%BE_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%D0%BC" title="Поиск по категориям">Рубрикация</a></li><li id="n-index"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Поиск по двум первым буквам">Указатель А — Я</a></li><li id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта">Избранные статьи</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x">Случайная страница</a></li><li id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире">Текущие события</a></li></ul>
 		
 	</div>
 </nav>
 
 	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
-<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation" 
 	 >
-	<h3 id="p-interaction-label" class="vector-menu-heading">
-		<span>Contribute</span>
+	<h3 id="p-participation-label" class="vector-menu-heading">
+		<span>Участие</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье">Сообщить об ошибке</a></li><li id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится">Сообщество</a></li><li id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии">Форум</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r">Свежие правки</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц">Новые страницы</a></li><li id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место, где можно получить справку">Справка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас">Пожертвовать</a></li></ul>
 		
 	</div>
 </nav>
@@ -494,10 +523,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
 	 >
 	<h3 id="p-tb-label" class="vector-menu-heading">
-		<span>Tools</span>
+		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Neil_J._Gunther" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Neil_J._Gunther" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Neil_J._Gunther&amp;oldid=984072974" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Neil_J._Gunther&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Neil_J._Gunther&amp;id=984072974&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92902" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;oldid=104389537" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11151582" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
 		
 	</div>
 </nav>
@@ -505,21 +534,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
 	 >
 	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
-		<span>Print/export</span>
+		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Neil_J._Gunther&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Neil_J._Gunther&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
-		
-	</div>
-</nav>
-<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
-<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
-	 >
-	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
-		<span>In other projects</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Neil_Gunther" hreflang="en">Wikimedia Commons</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
 		
 	</div>
 </nav>
@@ -528,11 +546,11 @@ Transclusion expansion time report (%,ms,calls,template)
 <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
 	 >
 	<h3 id="p-lang-label" class="vector-menu-heading">
-		<span>Languages</span>
+		<span>На других языках</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D9%84_%D8%AC%D9%8A%D9%87._%D8%BA%D8%A7%D9%86%D8%AB%D8%B1" title="نيل جيه. غانثر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%86%DB%8C%D9%84_%D8%AC%DB%8C_%D9%82%D8%A7%D9%86%D8%AA%D8%B1" title="نیل جی قانتر – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Neil_J._Gunther" title="Neil J. Gunther – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%84_%D8%AC%DB%8C_%DA%AF%D8%A7%D9%86%D8%AA%D8%B1" title="نیل جی گانتر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%86%D9%8A%D9%84_%D8%AC%D9%8A%D9%87._%D8%AC%D8%A7%D9%86%D8%AB%D8%B1" title="نيل جيه. جانثر – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92902#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%A8%D8%AE%D8%A7%D8%B2%D9%8A%D8%A7" title="بوابة:أبخازيا — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Portal:Abkhazia" title="Portal:Abkhazia — английский" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Abjasia" title="Portal:Abjasia — испанский" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Abkhazie" title="Portail:Abkhazie — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98:%E1%83%90%E1%83%A4%E1%83%AE%E1%83%90%E1%83%96%E1%83%94%E1%83%97%E1%83%98" title="პორტალი:აფხაზეთი — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Abec%C3%A1sia" title="Portal:Abecásia — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8:%D8%A7%D8%A8%D8%AE%D8%A7%D8%B2%D9%8A%D8%A7" title="باب:ابخازيا — урду" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11151582#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -541,20 +559,21 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> This page was last edited on 18 October 2020, at 00:37<span class="anonymous-show">&#160;(UTC)</span>.</li>
-	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 6 января 2020 в 06:01.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
 </ul>
 
 	<ul id="footer-places" >
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Neil_J._Gunther&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
 </ul>
 
 	<ul id="footer-icons" class="noprint">
@@ -566,7 +585,5 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.694","walltime":"0.968","ppvisitednodes":{"value":3936,"limit":1000000},"postexpandincludesize":{"value":53159,"limit":2097152},"templateargumentsize":{"value":7800,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48349,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  845.262      1 -total"," 28.88%  244.153      1 Template:Infobox_scientist"," 27.40%  231.584      1 Template:Infobox_person"," 25.97%  219.529      1 Template:Reflist"," 24.90%  210.451      2 Template:Infobox"," 16.42%  138.756      5 Template:ISBN"," 13.92%  117.698      5 Template:Br_separated_entries"," 13.66%  115.445      1 Template:Overly_detailed"," 12.84%  108.518      5 Template:Cite_web"," 11.70%   98.893      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.290","limit":"10.000"},"limitreport-memusage":{"value":6363166,"limit":52428800}},"cachereport":{"origin":"mw1394","timestamp":"20210216030547","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Neil J. Gunther","url":"https:\/\/en.wikipedia.org\/wiki\/Neil_J._Gunther","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92902","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92902","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-18T21:33:45Z","dateModified":"2020-10-18T00:37:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/61\/NJG_BletchleyPk.jpg","headline":"physicist, author"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":133,"wgHostname":"mw1403"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.326","ppvisitednodes":{"value":1337,"limit":1000000},"postexpandincludesize":{"value":72306,"limit":2097152},"templateargumentsize":{"value":5446,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  166.339      1 -total"," 83.26%  138.487     10 Портал:Абхазия/Секция"," 26.16%   43.509      1 Портал:Абхазия/Новые_статьи"," 22.42%   37.293     10 Шаблон:Новая_статья"," 16.42%   27.309      1 Портал:Абхазия/Порталы"," 12.00%   19.959      1 Шаблон:Порталы"," 10.87%   18.082      3 Шаблон:РисПортала"," 10.07%   16.750      1 Шаблон:Index_box","  9.69%   16.118      1 Портал:Абхазия/Введение","  8.02%   13.345      1 Шаблон:Индекс"]},"cachereport":{"origin":"mw1334","timestamp":"20210308233034","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":230,"wgHostname":"mw1393"});});</script>
 </body></html>

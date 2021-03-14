@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Портал:Архитектура — Википедия</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YE3ybtg3QuxLqMcGJP@NKAAAAIg","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Архитектура","wgTitle":"Архитектура","wgCurRevisionId":80684606,"wgRevisionId":80684606,"wgArticleId":2106265,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Архитектура"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Архитектура",
-"wgRelevantArticleId":2106265,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":80684606,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,
-"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q3248428"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation",
-"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>Портал:Англия — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YE3ybaHWfTS2BTRq7kGv7gAAAMw","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Англия","wgTitle":"Англия","wgCurRevisionId":108238161,"wgRevisionId":108238161,"wgArticleId":3164953,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Англия","Портал:Великобритания"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Англия",
+"wgRelevantArticleId":3164953,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":108238161,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,
+"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q12816963"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated",
+"ext.gadget.navboxNavigation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -18,809 +18,284 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:title" content="Портал:Архитектура"/>
+<meta property="og:title" content="Портал:Англия"/>
 <meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0"/>
-<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;action=edit"/>
-<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Архитектура rootpage-Портал_Архитектура skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Англия rootpage-Портал_Англия skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Портал:Архитектура</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Англия</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
-		<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint"><div class="flaggedrevs_short_basic"><span aria-disabled='false' title='Правки этой страницы требуют проверки.' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span aria-disabled='false' title='Это отпатрулированная версия страницы' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' aria-disabled='false' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
-<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0">отпатрулированная</a> <i>7 сентября 2016</i>.<p><table id="mw-fr-revisionratings-box" style="margin: auto;" class="flaggedrevs-color-1" cellpadding="0"><tr><td class='fr-text' style='vertical-align: middle;'>Состояние</td><td class='fr-value40' style='vertical-align: middle;'>отпатрулирована</td></tr>
-</table></p></div>
-</div>
-</div>
-</div>
+		<div id="contentSub"></div>
 		<div id="contentSub2"></div>
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
 		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
-		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="position:relative; height:150px; overflow:hidden; border:1px solid #696969; padding:0; background:#EEEEDD;height:152px">
-<div style="width:100%; overflow:hidden; padding-bottom:0.5em;"><div align="left"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dresden-nightpanorama-dri.jpg" class="image" title="Портал:Архитектура"><img alt="Портал:Архитектура" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg" decoding="async" width="1200" height="301" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1800px-Dresden-nightpanorama-dri.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/2400px-Dresden-nightpanorama-dri.jpg 2x" data-file-width="6132" data-file-height="1540" /></a></div></div>
-<div style="position: absolute;font-size:400%;left:20px;top:20px; float:left; height:100px"><span style="letter-spacing:.25em; font-family:Impact;"><span style="color:#7564DC">П</span>ОРТАЛ:<span style="color:#7564DC">А</span>РХИТЕКТУРА</span></div>
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="background:white; border:1px solid #a2a9b1; margin-bottom:1em; padding:0.4em 0 0; text-align:center;"><table width="100%" style="text-align:center; background-color:transparent; margin-top:-3px;"><tbody><tr><td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Помощь начинающим">Начинающим</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Википедия:Страницы сообщества">Сообщество</a> · <span style="border-style:solid; border-color: #a2a9b1 #a2a9b1 white; border-width:1px; padding:3px 5px 4px; position:relative; bottom:3px;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Порталы</a></span> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Избранное содержание">Избранное</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">Проекты</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Запросы">Запросы</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Оценивание">Оценивание</a>
+<div style="border:1px solid #a2a9b1; padding:3px 2px;"><p style="clear:both; margin-top:0.2em; margin-bottom:0.2em; font-variant:small-caps; font-size:100%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a></p></div></td></tr></tbody></table></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.90.D0.BD.D0.B3.D0.BB.D0.B8.D1.8F"></span><span class="mw-headline" id="Англия">Англия</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<table border="0" cellpadding="2" cellspacing="1" align="left" style="margin-right: 1em">
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_England.svg" class="image" title="Flag of England"><img alt="Flag of England" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/80px-Flag_of_England.svg.png" decoding="async" width="80" height="48" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/120px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/160px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Royal_Banner_of_England.svg" class="image" title="Royal Standard of England"><img alt="Royal Standard of England" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Royal_Banner_of_England.svg/80px-Royal_Banner_of_England.svg.png" decoding="async" width="80" height="48" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Royal_Banner_of_England.svg/120px-Royal_Banner_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Royal_Banner_of_England.svg/160px-Royal_Banner_of_England.svg.png 2x" data-file-width="1436" data-file-height="861" /></a></div></div>
+</td></tr>
+<tr>
+<td colspan="2" align="center"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Uk_map_england.png" class="image" title="Location of England within the United Kingdom."><img alt="Location of England within the United Kingdom." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Uk_map_england.png/160px-Uk_map_england.png" decoding="async" width="160" height="267" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Uk_map_england.png/240px-Uk_map_england.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Uk_map_england.png/320px-Uk_map_england.png 2x" data-file-width="643" data-file-height="1075" /></a>
+</td></tr></tbody></table>
+<table border="0" cellpadding="2" cellspacing="2" style="float; margin:.7em" align="right">
+<tbody><tr><td></td></tr></tbody></table>
+<p><b><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англия</a></b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">England</span> <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ˈɪŋɡlənd]</a></span>)&#160;— наиболее крупная историческая и административная часть <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Соединённого Королевства Великобритании и Северной Ирландии</a>, страна (country) в его составе, занимающая юго-восточную часть большого <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)" title="Великобритания (остров)">острова Великобритания</a>, известного как <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">mainland</span>. Население Англии составляет 83&#160;% от общего числа населения Великобритании.
+</p><p>Англия стала объединением некогда враждующих <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D1%81%D1%82%D0%B2%D0%BE" title="Графство">графств</a> в 927 году и берёт своё название от <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D1%8B" title="Англы">англов</a>, одного из германских племён, которые обосновались там в 5-м и 6-м столетиях. Столица Англии&#160;— <a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">Лондон</a>, самый большой город в Великобритании и <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Европейский союз">Европейском союзе</a>.
+</p><p>Англия&#160;— место происхождения <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">английского языка</a> и <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" class="mw-redirect" title="Англиканская церковь">Англиканской церкви</a>, а английское законодательство формирует основу юридических систем многих стран; кроме того, Лондон был центром Британской империи, а страна&#160;— местом рождения <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F" title="Промышленная революция">Промышленной революции</a>. Англия была первой промышленно развитой страной в мире, а также страной с парламентской демократией, конституционные, правительственные и юридические новшества которой были переняты другими нациями и странами.
+</p><p>Королевство Англия, включая княжество <a href="/wiki/%D0%A3%D1%8D%D0%BB%D1%8C%D1%81" title="Уэльс">Уэльс</a>, являлось отдельным государством до <a href="/wiki/1_%D0%BC%D0%B0%D1%8F" title="1 мая">1 мая</a> <a href="/wiki/1707" class="mw-redirect" title="1707">1707</a>, когда объединилось с <a href="/wiki/%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Шотландия">Шотландией</a> в <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Королевство Великобритания">Королевство Великобритания</a>.
+</p>
+<div style="clear:both;"></div></div>
+<div style="float:left; width:50%;">
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D1.8F"></span><span class="mw-headline" id="Избранная_статья">Избранная статья</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<p><b>Англи́йский бульдо́г</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">bulldog</span>, дословно: «бычья собака») — короткошёрстная <a href="/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA" class="mw-redirect" title="Порода собак">порода собак</a> 2-й группы <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Международная кинологическая федерация">МКФ</a>, подгруппа <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%81%D1%81%D1%8B_(%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8)" title="Молоссы (собаки)">молоссов</a> и <a href="/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B8%D1%84" class="mw-redirect" title="Мастиф">мастифов</a>. По типу использования стандарт относит породу к собакам-телохранителям и компаньонам. Современные английские бульдоги выведены во второй половине XIX века, в основе породы — <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B3" title="Староанглийский бульдог">староанглийский бульдог</a>, <a href="/wiki/%D0%91%D1%83%D0%BB%D1%8C-%D0%B1%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3" class="mw-redirect" title="Буль-бейтинг">травильная</a> порода собак, ныне вымершая. Английский бульдог обладает ярко выраженной индивидуальностью и считается национальной собакой <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англии</a>, воплощая черты, часто приписываемые «истинному <a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BD%D1%82%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD" title="Джентльмен">джентльмену</a>»: основательность, невозмутимость, консервативность, некоторую флегматичность, с одной стороны, и аристократизм, респектабельность в сочетании с импозантностью и грубоватой элегантностью, с другой. Содержание бульдогов требует большой ответственности, так как порода в процессе развития, превратившись из бойцовой в декоративную, потеряла свои рабочие качества и стала весьма уязвимой. Этот факт часто отмечается критиками породы, предпринимаются попытки воссоздать оригинального староанглийского бульдога, однако признания со стороны <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Международная кинологическая федерация">Международной кинологической федерации</a> эти опыты пока не получили.
+</p><p><i>(<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B3" title="Английский бульдог">далее…</a>)</i>
+</p>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" title="Портал:Англия/Избранная статья/Текущая подборка">Текущая подборка</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.BE.D0.B5_.D0.B8.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Избранное_изображение">Избранное изображение</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Keswick_Panorama_-_Oct_2009.jpg" class="image"><img alt="Keswick Panorama - Oct 2009.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Keswick_Panorama_-_Oct_2009.jpg/300px-Keswick_Panorama_-_Oct_2009.jpg" decoding="async" width="300" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Keswick_Panorama_-_Oct_2009.jpg/450px-Keswick_Panorama_-_Oct_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Keswick_Panorama_-_Oct_2009.jpg/600px-Keswick_Panorama_-_Oct_2009.jpg 2x" data-file-width="10814" data-file-height="3822" /></a></div></div> <center> Панорамный вид на <a href="/w/index.php?title=%D0%9A%D0%B5%D1%81%D1%83%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Кесуик (страница отсутствует)">Кесуик</a> в <a href="/wiki/%D0%9E%D0%B7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F)" class="mw-redirect" title="Озёрный край (Великобритания)">Озёрном крае</a> с вершины горы <a href="/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B0-%D0%9A%D1%80%D1%8D%D0%B3" title="Уолла-Крэг">Уолла-Крэг</a> </center>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" title="Портал:Англия/Избранное изображение/Текущая подборка">Текущая подборка</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.BE.D0.B5_.D0.BC.D0.B5.D1.81.D1.82.D0.BE"></span><span class="mw-headline" id="Избранное_место">Избранное место</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tattershall_Castle.jpg" class="image" title="Замок Таттершел"><img alt="Замок Таттершел" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tattershall_Castle.jpg/150px-Tattershall_Castle.jpg" decoding="async" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tattershall_Castle.jpg/225px-Tattershall_Castle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tattershall_Castle.jpg/300px-Tattershall_Castle.jpg 2x" data-file-width="480" data-file-height="640" /></a></div>
+<p><b>Замок Таттершел</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Tattershall Castle</span>) — строение периода позднего средневековья, находится в графстве <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%88%D0%B8%D1%80" title="Линкольншир">Линкольншир</a> в <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англии</a>.
+</p><p>Ранее на месте замка стояла каменная крепость, воздвигнутая в <a href="/wiki/XIII_%D0%B2%D0%B5%D0%BA" title="XIII век">XIII</a> веке Робертом де Таттершелом по разрешению короны от <a href="/wiki/21_%D0%BC%D0%B0%D1%8F" title="21 мая">21 мая</a> <a href="/wiki/1231" class="mw-redirect" title="1231">1231</a> года. От этого старинного укрепления сохранилась лишь часть стены, а замок в том виде, в котором он сохранился до нашего времени, был построен между <a href="/wiki/1434" class="mw-redirect" title="1434">1434</a> и <a href="/wiki/1446" class="mw-redirect" title="1446">1446</a> годами Ральфом, 1-м лордом Кромвелем, к которому перешло право владения этими землями. Лорд Кромвель был влиятельным дворянином своего времени, служил советником короля <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_V_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8)" title="Генрих V (король Англии)">Генриха V</a> и был <a href="/wiki/%D0%9B%D0%BE%D1%80%D0%B4-%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9" title="Лорд-казначей">лордом-казначеем</a> его преемника, короля <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_VI_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8)" title="Генрих VI (король Англии)">Генриха VI</a>.
+</p><p>После его смерти Таттершел отошёл короне, а затем графам Линкольнам, потомки которых жили в замке до <a href="/wiki/1693" class="mw-redirect" title="1693">1693</a> года. Затем он был заброшен и сильно обветшал. В <a href="/wiki/1911" class="mw-redirect" title="1911">1911</a> году замок приобрёл лорд Керзон и под руководством архитектора Уильяма Вейра занялся его восстановлением. В <a href="/wiki/1926" class="mw-redirect" title="1926">1926</a> году лорд Керзон передал замок под опеку государства.
+</p><p>(<a href="/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A2%D0%B0%D1%82%D1%82%D0%B5%D1%80%D1%88%D0%B5%D0%BB" class="mw-redirect" title="Замок Таттершел">далее…</a>)
+</p>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Портал:Англия/Избранное место/Текущая подборка (страница отсутствует)">Текущая подборка</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A1.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Статьи">Статьи</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англия</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">Лондон</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">Английский язык</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Герб Англии">Герб Англии</a></li>
+<li><a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Флаг Англии">Флаг Англии</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BC%D0%BD_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" class="mw-redirect" title="Гимн Англии">Гимн Англии</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BC%D0%B8%D0%BD%D1%81%D1%82%D0%B5%D1%80" title="Вестминстер">Вестминстер</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%87%D0%B0%D0%BD%D0%B5" title="Англичане">Англичане</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B4%D1%81" title="Лидс">Лидс</a></li>
+<li><a href="/wiki/%D0%99%D0%BE%D1%80%D0%BA" title="Йорк">Йорк</a></li></ul>
+<div style="clear:both;"></div></div>
 </div>
-<table border="0" cellspacing="0" cellpadding="0" style="width:100%; border:1px solid #696969;">
-
-<tbody><tr>
-<td width="67%">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="40px" width="2%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="25px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td>
-<td width="33%">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="40px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="25px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-<td valign="top" style="background:#f9f9f9; padding-left:8px; padding-bottom:.5em; padding-right:20px; padding-top:.5em; font-size:95%;">
-<table width="100%" cellpadding="0" cellspacing="0" align="center" style="background:none; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="letter-spacing:.15em; font-size:120%; font-family:Impact;"><span style="color:#5E4EBC"><b>&gt;</b></span> <span style="color:#7564DC">П</span><span style="color:#000000">ОРТАЛ</span><span style="color:#7564DC"><b>&gt;</b></span><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Портал:Архитектура/Лучшие статьи"><span style="color:#7564DC">Л</span><span style="color:#000000">УЧШИЕ СТАТЬИ</span></a><span style="color:#5E4EBC"><b>&gt;</b></span> <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Проект:Архитектура"><span style="color:#7564DC">П</span><span style="color:#000000">РОЕКТ</span></a><span style="color:#5E4EBC"><b>&gt;</b></span> <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Обсуждение проекта:Архитектура"><span style="color:#7564DC">О</span><span style="color:#000000">БСУЖДЕНИЕ ПРОЕКТА</span></a><span style="color:#5E4EBC"><b>&gt;</b></span> <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0" class="mw-redirect" title="Проект:Архитектура/Участники проекта"><span style="color:#7564DC">У</span><span style="color:#000000">ЧАСТНИКИ</span></a>
-</span></p>
-<table width="100%" cellpadding="0" cellspacing="0" style="border-top:1px dotted #9c9c9c; background:none; padding-top:2em; margin-bottom:.5em;">
-
-<tbody><tr>
-<td>
-<p><b>Архитекту́ра</b> или <b>зо́дчество</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">architectura</span> от <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">αρχι</span></span>&#160;— <i>старший</i>, <i>главный</i> и <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">τέκτων</span></span>&#160;— <i>строитель</i>, <i>плотник</i>)&#160;— <a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Искусство">искусство</a> <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Архитектурно-строительное проектирование">проектировать</a>, <a href="/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Строительство">строить</a> <a href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5" title="Здание">здания</a> и <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Архитектурное сооружение">сооружения</a> (также их <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C" title="Архитектурный ансамбль">комплексы</a>). Архитектура непременно создает материально организованную среду, необходимую <a href="/wiki/%D0%9B%D1%8E%D0%B4%D0%B8" class="mw-redirect" title="Люди">людям</a> для их жизни и деятельности, в соответствии с современными <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Техника">техническими</a> возможностями и <a href="/wiki/%D0%AD%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Эстетика">эстетическими</a> воззрениями общества.
-</p><p>Архитектурные работы часто воспринимаются как культурные или политические символы, как произведения искусства. Исторические цивилизации характеризуются своими архитектурными достижениями. Архитектура позволяет выполняться жизненным функциям общества, в то же время направляет жизненные процессы. Однако архитектура создается в соответствии с возможностями и потребностями людей.
-</p><p>Предметом работы с пространством является и организация <a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82" title="Населённый пункт">населенного места</a> в целом. Это выделилось в отдельное направление&#160;— <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Градостроительство">градостроительство</a>, которое охватывает комплекс общественно-экономических, строительно-технических, архитектурно-художественных, санитарно-гигиенических проблем. По этой же причине трудно дать правильную оценку архитектурному сооружению, не зная градостроительства. Почти все известные градостроители имели архитектурное образование.
+<div style="float:right; width:49%">
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BB.D0.B8.D1.87.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Избранная_личность">Избранная личность</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Marshall_Lambert.jpg" class="image" title="Бенджамин Маршалл. Портрет Дэниела Ламберта. Около 1806."><img alt="Бенджамин Маршалл. Портрет Дэниела Ламберта. Около 1806." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Marshall_Lambert.jpg/150px-Marshall_Lambert.jpg" decoding="async" width="150" height="183" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Marshall_Lambert.jpg/225px-Marshall_Lambert.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/77/Marshall_Lambert.jpg 2x" data-file-width="300" data-file-height="366" /></a></div>
+<p><b>Дэниел Ламберт</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Daniel Lambert</span>; <a href="/wiki/13_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="13 марта">13 марта</a> <a href="/wiki/1770_%D0%B3%D0%BE%D0%B4" title="1770 год">1770</a>, <a href="/wiki/%D0%9B%D0%B5%D1%81%D1%82%D0%B5%D1%80" title="Лестер">Лестер</a>, <a href="/wiki/%D0%9B%D0%B5%D1%81%D1%82%D0%B5%D1%80%D1%88%D0%B8%D1%80" title="Лестершир">Лестершир</a>, <a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4" title="Восточный Мидленд">Восточный Мидленд</a>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англия</a>, <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Великобритания</a> — <a href="/wiki/21_%D0%B8%D1%8E%D0%BD%D1%8F" title="21 июня">21 июня</a> <a href="/wiki/1809_%D0%B3%D0%BE%D0%B4" title="1809 год">1809</a>, <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D1%84%D0%BE%D1%80%D0%B4_(%D0%9B%D0%B8%D0%BD%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%88%D0%B8%D1%80)" class="mw-redirect" title="Стамфорд (Линкольншир)">Стамфорд</a>, <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%88%D0%B8%D1%80" title="Линкольншир">Линкольншир</a>, Восточный Мидленд, Англия, Великобритания) — смотритель лестерской <a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D1%8B%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Пересыльная тюрьма (страница отсутствует)">пересыльной тюрьмы</a> и&#160;знаток спортивных животных; самый <a href="/wiki/%D0%9E%D0%B6%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" title="Ожирение">тучный</a> человек своего времени. В&#160;апреле <a href="/wiki/1806_%D0%B3%D0%BE%D0%B4" title="1806 год">1806 года</a>, полностью утратив трудоспособность и&#160;не имея иных средств к&#160;существованию, снял жильё в&#160;<a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">Лондоне</a> и&#160;начал брать входную плату с&#160;посетителей, желавших посмотреть на него в&#160;его квартире. В&#160;1806—1809 годах предпринял ещё несколько коммерчески успешных самопоказов в&#160;<a href="/wiki/%D0%91%D0%B8%D1%80%D0%BC%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC" title="Бирмингем">Бирмингеме</a>, <a href="/wiki/%D0%9A%D0%BE%D0%B2%D0%B5%D0%BD%D1%82%D1%80%D0%B8" title="Ковентри">Ковентри</a>, <a href="/wiki/%D0%99%D0%BE%D1%80%D0%BA" title="Йорк">Йорке</a> и&#160;других городах Великобритании, в&#160;свободное от поездок время занимаясь <a href="/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%B0" title="Охота">охотой</a> и&#160;разведением <a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D1%87%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B3%D0%B0" title="Собачьи бега">беговых собак</a>. В&#160;июне 1809 года скоропостижно умер в&#160;Стамфорде. Похоронен на кладбище стамфордской <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_(%D0%A1%D1%82%D0%B0%D0%BC%D1%84%D0%BE%D1%80%D0%B4)" title="Церковь Святого Мартина (Стамфорд)">церкви Святого Мартина</a>. К&#160;моменту смерти вес тела Ламберта составлял 52 <a href="/wiki/%D0%A1%D1%82%D0%BE%D1%83%D0%BD_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-redirect" title="Стоун (единица измерения)">стоуна</a> 11 <a href="/wiki/%D0%A4%D1%83%D0%BD%D1%82_(%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)" title="Фунт (единица измерения)">фунтов</a> (335 <i><a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC" title="Килограмм">кг</a></i>). На изготовление его гроба ушло 112 квадратных <a href="/wiki/%D0%A4%D1%83%D1%82" title="Фут">футов</a> (10,4 <i><a href="/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%82%D1%80" title="Квадратный метр">м²</a></i>) леса.
+</p><p><i>(<a href="/wiki/%D0%9B%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D1%82,_%D0%94%D1%8D%D0%BD%D0%B8%D0%B5%D0%BB" title="Ламберт, Дэниел">далее…</a>)</i>
 </p>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;">
-
-<tbody><tr>
-<td><b>Избранная статья</b>
-</td></tr></tbody></table>
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Urartian_Fresco05.jpg" class="image"><img alt="Urartian Fresco05.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Urartian_Fresco05.jpg/150px-Urartian_Fresco05.jpg" decoding="async" width="150" height="173" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Urartian_Fresco05.jpg/225px-Urartian_Fresco05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Urartian_Fresco05.jpg/300px-Urartian_Fresco05.jpg 2x" data-file-width="1020" data-file-height="1173" /></a></div>
-<p>Искусство государства <a href="/wiki/%D0%A3%D1%80%D0%B0%D1%80%D1%82%D1%83" title="Урарту">Урарту</a> испытало сильное влияние мастеров соседней <a href="/wiki/%D0%90%D1%81%D1%81%D0%B8%D1%80%D0%B8%D1%8F" title="Ассирия">Ассирии</a>, ведущей державы того периода. Расцвет урартского искусства пришёлся на <a href="/wiki/VIII_%D0%B2%D0%B5%D0%BA_%D0%B4%D0%BE_%D0%BD._%D1%8D." title="VIII век до н. э.">VIII век до н. э.</a> в период наибольшего возвышения Урарту. До наших дней дошли <a href="#Бронзовые_статуэтки">бронзовые статуэтки</a>, <a href="#Ювелирные_изделия">ювелирные украшения</a>, <a href="#Оружие">оружие</a> и прочие изделия ремесленников Урарту.
-Особый класс памятников урартского искусства представляют цветные настенные росписи, чудом сохранившиеся в развалинах урартской крепости <a href="/wiki/%D0%AD%D1%80%D0%B5%D0%B1%D1%83%D0%BD%D0%B8" title="Эребуни">Эребуни</a>. Хотя подобные росписи были широко распространены в <a href="/wiki/%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D1%8F" title="Месопотамия">Месопотамии</a> и, несомненно, заимствованы урартами оттуда, именно в Эребуни фрески сохранились лучше, чем в развалинах других древних городов <a href="/wiki/%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Ближний Восток">Ближнего Востока</a>, что делает их уникальным памятником искусства Древнего Востока.
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" title="Портал:Англия/Избранная личность/Текущая подборка">Текущая подборка</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.97.D0.BD.D0.B0.D0.B5.D1.82.D0.B5_.D0.BB.D0.B8_.D0.B2.D1.8B.2C_.D1.87.D1.82.D0.BE.E2.80.A6"></span><span class="mw-headline" id="Знаете_ли_вы,_что…">Знаете ли вы, что…</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Miss_England_06_Hammasa_Kohistani.jpg" class="image" title="Хаммаса Кохистани — Мисс Англия 2005"><img alt="Хаммаса Кохистани — Мисс Англия 2005" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Miss_England_06_Hammasa_Kohistani.jpg/100px-Miss_England_06_Hammasa_Kohistani.jpg" decoding="async" width="100" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Miss_England_06_Hammasa_Kohistani.jpg/150px-Miss_England_06_Hammasa_Kohistani.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Miss_England_06_Hammasa_Kohistani.jpg/200px-Miss_England_06_Hammasa_Kohistani.jpg 2x" data-file-width="400" data-file-height="600" /></a></div>
+<ul><li><b><a href="/wiki/%D0%9A%D0%BE%D1%85%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B8,_%D0%A5%D0%B0%D0%BC%D0%BC%D0%B0%D1%81%D0%B0" title="Кохистани, Хаммаса">Первая Мисс Англия — мусульманка</a></b> (<i>на илл.</i>) родилась в <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a>.</li>
+<li>Британские учёные нашли на <a href="/wiki/%D0%9D%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BA" title="Норфолк">норфолкском</a> пляже <b><a href="/wiki/%D0%9E%D1%82%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B8_%D0%B2_%D0%A5%D0%B5%D0%B9%D1%81%D0%B1%D0%BE%D1%80%D0%BE" title="Отпечатки в Хейсборо">человеческие следы</a></b>, оставленные 800 тысяч лет назад.</li>
+<li><b><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%B5%D1%82" title="Кларет">Вино</a></b>, любимое <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%87%D0%B0%D0%BD%D0%B5" title="Англичане">англичанами</a>, уже не <a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B2%D0%B8%D0%BD%D0%BE" title="Розовое вино">розовое</a>, но ещё не <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D0%B2%D0%B8%D0%BD%D0%BE" title="Красное вино">красное</a>.</li>
+<li>Наследство <b><a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B5%D0%BD%D1%81,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC" title="Дженненс, Уильям">богатейшего англичанина</a></b> его родственники делили сто лет, а досталось оно <a href="/wiki/%D0%AE%D1%80%D0%B8%D1%81%D1%82" title="Юрист">юристам</a>.</li>
+<li><b><a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB_%D1%81_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D1%8B%D0%BC_%D0%BC%D0%B0%D1%82%D1%87%D0%B5%D0%BC_%D0%B2_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8_(1915)" title="Скандал с договорным матчем в Англии (1915)">Скандал Великой пятницы</a></b> привёл к гибели <a href="/wiki/%D0%A2%D0%B5%D1%80%D0%BD%D0%B1%D1%83%D0%BB%D0%BB,_%D0%A1%D1%8D%D0%BD%D0%B4%D0%B8" title="Тернбулл, Сэнди">одного</a>, ранению <a href="/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B8,_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Уолли, Артур">другого</a> и 30-летней дисквалификации <a href="/wiki/%D0%A3%D1%8D%D1%81%D1%82,_%D0%98%D0%BD%D0%BE%D0%BA" title="Уэст, Инок">третьего</a> футболиста.</li></ul>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" title="Портал:Англия/Знаете ли вы/Текущая подборка">Текущая подборка</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9D.D0.BE.D0.B2.D1.8B.D0.B5_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Новые_статьи">Новые статьи</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80-%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%B8%D1%8F" title="Тейлор-Браун, Джорджия">Тейлор-Браун, Джорджия</a><small> — начато 14 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Voltmetro" title="Участник:Voltmetro">Voltmetro</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A5%D0%B8%D0%BB%D1%82%D0%BE%D0%BD,_%D0%9C%D0%B0%D1%80%D0%BA" title="Хилтон, Марк">Хилтон, Марк</a><small> — начато 14 марта 2021</small><small> участником <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/2A00:1370:8131:4DD4:19FC:8569:55C1:B9AE" title="Служебная:Вклад/2A00:1370:8131:4DD4:19FC:8569:55C1:B9AE">2A00:1370:8131:4DD4:19FC:8569:55C1:B9AE</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4%D1%81%D0%BE%D0%BD,_%D0%9C%D0%B0%D1%80%D0%BA" title="Ричардсон, Марк">Ричардсон, Марк</a><small> — начато 14 марта 2021</small><small> участником <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/2A00:1370:8131:4DD4:19FC:8569:55C1:B9AE" title="Служебная:Вклад/2A00:1370:8131:4DD4:19FC:8569:55C1:B9AE">2A00:1370:8131:4DD4:19FC:8569:55C1:B9AE</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D0%BF%D1%81,_%D0%94%D0%B6%D0%B5%D1%81%D1%81" title="Филлипс, Джесс">Филлипс, Джесс</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Участник:Андрей Бондарь">Андрей Бондарь</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4,_%D0%92%D0%B8%D0%BA%D0%B8" title="Холланд, Вики">Холланд, Вики</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Voltmetro" title="Участник:Voltmetro">Voltmetro</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8_(%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B5%D1%81%D1%81%D0%B0)" title="Джонс, Дженни (баронесса)">Джонс, Дженни (баронесса)</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Участник:Андрей Бондарь">Андрей Бондарь</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6_%D0%A5%D0%B0%D1%80%D1%80%D0%B8%D1%81%D0%B0_%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%B0" title="Колледж Харриса Манчестера">Колледж Харриса Манчестера</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D1%87" title="Участник:Арсенич">Арсенич</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8%D0%BA%D0%B0" title="Лермонт, Джессика">Лермонт, Джессика</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Voltmetro" title="Участник:Voltmetro">Voltmetro</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80,_%D0%AD%D0%BC%D0%B8" title="Оливер, Эми">Оливер, Эми</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Voltmetro" title="Участник:Voltmetro">Voltmetro</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%B7,_%D0%AD%D0%BC%D0%BC%D0%B0" title="Хейз, Эмма">Хейз, Эмма</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Участник:Андрей Бондарь">Андрей Бондарь</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%83%D0%BB%D1%87,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D0%B8" title="Баулч, Джейми">Баулч, Джейми</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/2A00:1370:8131:4DD4:5406:8EA8:D5B9:DE78" title="Служебная:Вклад/2A00:1370:8131:4DD4:5406:8EA8:D5B9:DE78">2A00:1370:8131:4DD4:5406:8EA8:D5B9:DE78</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%B0%D0%BA%D1%8F%D0%BD,_%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0_%D0%96%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD" title="Саакян, Барбара Жаклин">Саакян, Барбара Жаклин</a><small> — начато 13 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD" title="Участник:ШаманСемен">ШаманСемен</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A1%D1%8C%D1%8E%D1%8D%D0%BB%D0%BB,_%D0%A2%D0%B5%D1%80%D1%80%D0%B8" title="Сьюэлл, Терри">Сьюэлл, Терри</a><small> — начато 12 марта 2021</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:User38479" title="Обсуждение участника:User38479">User38479</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A5%D0%BE%D1%83,_%D0%9A%D0%B5%D0%B9-%D0%A2%D0%B8" title="Хоу, Кей-Ти">Хоу, Кей-Ти</a><small> — начато 12 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%A8%D0%B0%D0%BC%D0%B0%D0%BD%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD" title="Участник:ШаманСемен">ШаманСемен</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D1%86%D1%86%D0%BE%D1%82%D1%82%D0%BE,_%D0%AD%D0%BD%D1%86%D0%BE" title="Плаццотто, Энцо">Плаццотто, Энцо</a><small> — начато 12 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D1%87" title="Участник:Арсенич">Арсенич</a></small></li></ul>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9A.D0.B0.D1.82.D0.B5.D0.B3.D0.BE.D1.80.D0.B8.D0.B8"></span><span class="mw-headline" id="Категории">Категории</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div style="-moz-column-count:2; column-count:2; font-size:92%">
+<p><span style="float:right;margin-left:0.9em"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Palace.of.westminster.arp.jpg" class="image" title="The Palace of Westminster"><img alt="The Palace of Westminster" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palace.of.westminster.arp.jpg/75px-Palace.of.westminster.arp.jpg" decoding="async" width="75" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palace.of.westminster.arp.jpg/113px-Palace.of.westminster.arp.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palace.of.westminster.arp.jpg/150px-Palace.of.westminster.arp.jpg 2x" data-file-width="750" data-file-height="573" /></a></span>
 </p>
-<a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%A3%D1%80%D0%B0%D1%80%D1%82%D1%83" title="Искусство Урарту"><i>(далее...)</i></a><div style="clear:both"></div>
-<p><br />
-</p>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Архитектура/Избранная статья/Архив">Архив</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Избранная_статья&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;">
-
-<tbody><tr>
-<td><b>Хорошая статья</b>
-</td></tr></tbody></table>
-<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Palermo_BW_2012-10-09_12-04-52.jpg" class="image"><img alt="Palermo BW 2012-10-09 12-04-52.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palermo_BW_2012-10-09_12-04-52.jpg/180px-Palermo_BW_2012-10-09_12-04-52.jpg" decoding="async" width="180" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palermo_BW_2012-10-09_12-04-52.jpg/270px-Palermo_BW_2012-10-09_12-04-52.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palermo_BW_2012-10-09_12-04-52.jpg/360px-Palermo_BW_2012-10-09_12-04-52.jpg 2x" data-file-width="5884" data-file-height="3015" /></a></div>
-<p><b>Собор <a href="/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Успение Пресвятой Богородицы">Успения Пресвятой Богородицы</a></b> (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;">Cattedrale di Vergine Assunta; Madre Chiesa</span>) — кафедральный собор <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%80%D0%BC%D0%BE" title="Палермо">Палермо</a> (<a href="/wiki/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D1%8F" title="Сицилия">Сицилия</a>). Является местом пребывания <a href="/wiki/%D0%9C%D0%BE%D1%89%D0%B8" title="Мощи">мощей</a> покровительницы города святой <a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%B0%D0%BB%D0%B8%D1%8F_(%D1%81%D0%B2%D1%8F%D1%82%D0%B0%D1%8F)" class="mw-redirect" title="Розалия (святая)">Розалии</a>, и центром исключительно сицилийского культа данной святой, известного с <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII века</a>. В течение <a href="/wiki/XII_%D0%B2%D0%B5%D0%BA" title="XII век">XII</a>-<a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII веков</a> неоднократно перестраивался, соединяет в себе черты <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%BE-%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" class="mw-redirect" title="Арабо-норманнский стиль">арабо-норманнской архитектуры</a>, <a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" class="mw-redirect" title="Готический стиль">готического стиля</a> и <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Классицизм">классицизма</a>. Известен уникальными <a href="/wiki/%D0%93%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D1%86%D0%B0" title="Гробница">гробницами</a> сицилийских королей и германских императоров, в правление которых <a href="/wiki/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE" class="mw-redirect" title="Сицилийское королевство">Сицилийское королевство</a> достигло своего расцвета.
-</p>
-<a href="/wiki/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B0%D0%BB%D0%B5%D1%80%D0%BC%D0%BE" title="Кафедральный собор Палермо"><i>(далее...)</i></a><div style="clear:both"></div>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Архитектура/Хорошая статья/Архив">Архив</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Хорошая_статья&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-<table width="100%" cellpadding="0" cellspacing="0" style="background:none; margin-top:1em; margin-bottom:.75em;">
-
-<tbody><tr>
-<td width="50%" valign="top" style="padding-right:10px;">
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em;">
-
-<tbody><tr>
-<td><b>Архитектурный элемент</b>
-</td></tr></tbody></table>
-<p><b>Мансарда</b> — жилое помещение чердачного типа, образуемое на последнем этаже дома с <a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%81%D0%B0%D1%80%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D1%8B%D1%88%D0%B0" title="Мансардная крыша">мансардной крышей</a>. Популярность домам с подобной архитектурой принес француз <a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%81%D0%B0%D1%80,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0" title="Мансар, Франсуа">Франсуа Мансар</a> своей работой в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париже</a> в середине <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII века</a>. С начала <a href="/wiki/XIX_%D0%B2%D0%B5%D0%BA" title="XIX век">XIX века</a>, в связи с <a href="/wiki/%D0%98%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Индустриализация">индустриализацией</a> и <a href="/wiki/%D0%A3%D1%80%D0%B1%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Урбанизация">урбанизацией</a>, в мансардах жили преимущественно бедные люди.
-</p>
-<a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%81%D0%B0%D1%80%D0%B4%D0%B0" title="Мансарда"><i>(далее...)</i></a><div style="clear:both"></div>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"> <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Архитектура/Архитектурный элемент/Архив">Архив</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Архитектурный_элемент&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-</td>
-<td width="50%" valign="top" style="padding-left:10px; padding-right:4px;">
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em;">
-
-<tbody><tr>
-<td><b>Архитектурный стиль</b>
-</td></tr></tbody></table>
-<p><b>Хай-тек</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">hi-tech</span>, от <span lang="en" style="font-style:italic;">high technology</span>&#160;— <a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%B8%D0%B5_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Высокие технологии">высокие технологии</a>)&#160;— стиль в <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Архитектура">архитектуре</a> и <a href="/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD" title="Дизайн">дизайне</a>, зародившийся в недрах <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD" title="Постмодерн">постмодернистской</a> архитектуры в <a href="/wiki/1970-%D0%B5" class="mw-redirect" title="1970-е">1970-х</a> и нашедший широкое применение в <a href="/wiki/1980-%D0%B5" class="mw-redirect" title="1980-е">1980-х</a>. Главные теоретики и практики хай-тека (по большей части практики, в отличие от архитекторов <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC" title="Деконструктивизм">деконструктивизма</a> и постмодернизма) в основном англичане&#160;— <a href="/wiki/%D0%A4%D0%BE%D1%81%D1%82%D0%B5%D1%80,_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD" title="Фостер, Норман">Норман Фостер</a>, <a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80%D1%81,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6" title="Роджерс, Ричард Джордж">Ричард Роджерс</a>, <a href="/wiki/%D0%93%D1%80%D0%B8%D0%BC%D1%88%D0%BE%D1%83,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81" title="Гримшоу, Николас">Николас Гримшоу</a>.
-</p>
-<a href="/wiki/%D0%A5%D0%B0%D0%B9-%D1%82%D0%B5%D0%BA_(%D1%81%D1%82%D0%B8%D0%BB%D1%8C)" title="Хай-тек (стиль)"><i>(далее…)</i></a><div style="clear:both"></div>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Архитектура/Архитектурный стиль/Архив">Архив</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Архитектурный_стиль&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-</td></tr></tbody></table>
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;">
-
-<tbody><tr>
-<td><b>Избранное изображение</b>
-</td></tr></tbody></table>
-<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Brinkhallin_kartano.jpg" class="image"><img alt="Brinkhallin kartano.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Brinkhallin_kartano.jpg/400px-Brinkhallin_kartano.jpg" decoding="async" width="400" height="271" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Brinkhallin_kartano.jpg/600px-Brinkhallin_kartano.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Brinkhallin_kartano.jpg/800px-Brinkhallin_kartano.jpg 2x" data-file-width="3748" data-file-height="2538" /></a></div></div><div align="center"><a href="https://en.wikipedia.org/wiki/Kakskerta" class="extiw" title="en:Kakskerta">Kakskerta</a></div>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" title="Портал:Архитектура/Избранное изображение/Текущая подборка">Текущая подборка</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Избранное_изображение&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;">
-
-<tbody><tr>
-<td><b>Избранная личность</b>
-</td></tr></tbody></table>
-<p><b> Франческо Бартоломео Растре́лли</b> (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;"> Francesco Bartolomeo Rastrelli</span>; <a href="/wiki/1700" class="mw-redirect" title="1700">1700</a>,&#160;<a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париж</a> — <a href="/wiki/1771" class="mw-redirect" title="1771">1771</a>,&#160;<a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a>) — знаменитый <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">русский</a> архитектор <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">итальянского</a> происхождения; граф, кавалер ордена Святой Анны (<a href="/wiki/1762" class="mw-redirect" title="1762">1762</a>), академик архитектуры (<a href="/wiki/1770" class="mw-redirect" title="1770">1770</a>).
-Сын известного скульптора и архитектора <a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE" title="Растрелли, Бартоломео Карло">Бартоломео Карло Растрелли</a> (<a href="/wiki/1675" class="mw-redirect" title="1675">1675</a>—<a href="/wiki/1744" class="mw-redirect" title="1744">1744</a>), обрусевшего итальянца. Наиболее яркий представитель <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Русское барокко">русского барокко</a>. Ф. Б. Растрелли соединил элементы европейского <a href="/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Барокко">барокко</a> с русскими архитектурными традициями.
-</p>
-<a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE" title="Растрелли, Бартоломео Франческо"><i>(далее...)</i></a><div style="clear:both"></div>
-<p><br />
-</p>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Архитектура/Избранная личность/Архив">Архив</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Избранная_личность&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;">
-
-<tbody><tr>
-<td><b>Викисклад</b>
-</td></tr></tbody></table>
-<table style="text-align:center; font-size:8pt; background-color:transparent; width:100%; margin-top:1em;">
-
-<tbody><tr align="center">
-<td style="width:33%;"><a href="https://commons.wikimedia.org/wiki/Category:Architecture" title="commons:Category:Architecture"><img alt="Базилика 1935 года 1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_1935_%D0%B3%D0%BE%D0%B4%D0%B0_1.jpg/110px-%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_1935_%D0%B3%D0%BE%D0%B4%D0%B0_1.jpg" decoding="async" width="110" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_1935_%D0%B3%D0%BE%D0%B4%D0%B0_1.jpg/165px-%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_1935_%D0%B3%D0%BE%D0%B4%D0%B0_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_1935_%D0%B3%D0%BE%D0%B4%D0%B0_1.jpg/220px-%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_1935_%D0%B3%D0%BE%D0%B4%D0%B0_1.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
-</td>
-<td style="width:33%;"><a href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures/Places/Architecture" title="commons:Commons:Featured pictures/Places/Architecture"><img alt="Image-Disney Concert Hall by Carol Highsmith edit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Image-Disney_Concert_Hall_by_Carol_Highsmith_edit.jpg/110px-Image-Disney_Concert_Hall_by_Carol_Highsmith_edit.jpg" decoding="async" width="110" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Image-Disney_Concert_Hall_by_Carol_Highsmith_edit.jpg/165px-Image-Disney_Concert_Hall_by_Carol_Highsmith_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Image-Disney_Concert_Hall_by_Carol_Highsmith_edit.jpg/220px-Image-Disney_Concert_Hall_by_Carol_Highsmith_edit.jpg 2x" data-file-width="4500" data-file-height="3516" /></a>
-</td>
-<td style="width:33%;"><a href="https://commons.wikimedia.org/wiki/Commons:Quality_images/Subject/Places/Man_made_structures" title="commons:Commons:Quality images/Subject/Places/Man made structures"><img alt="Eltingen Dorfstrasse (1).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eltingen_Dorfstrasse_%281%29.jpg/110px-Eltingen_Dorfstrasse_%281%29.jpg" decoding="async" width="110" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eltingen_Dorfstrasse_%281%29.jpg/165px-Eltingen_Dorfstrasse_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eltingen_Dorfstrasse_%281%29.jpg/220px-Eltingen_Dorfstrasse_%281%29.jpg 2x" data-file-width="3376" data-file-height="2532" /></a>
-</td></tr>
-<tr>
-<td style="width:33%;"><a href="https://commons.wikimedia.org/wiki/Category:Architecture" class="extiw" title="commons:Category:Architecture">Категория  <br />Архитектура</a>
-</td>
-<td style="width:33%;"><a href="https://commons.wikimedia.org/wiki/Commons:Featured_pictures/Places/Architecture" class="extiw" title="commons:Commons:Featured pictures/Places/Architecture">Избранные  <br />изображения</a>
-</td>
-<td style="width:33%;"><a href="https://commons.wikimedia.org/wiki/Commons:Quality_images/Subject/Places/Man_made_structures" class="extiw" title="commons:Commons:Quality images/Subject/Places/Man made structures">Качественные  <br />изображения</a>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Викисклад&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#5E4EBC; border-bottom:1px dotted #9c9c9c; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;">
-
-<tbody><tr>
-<td><b>Родственные проекты</b>
-</td></tr></tbody></table>
-<table width="90%" class="noprint" align="center" border="0" cellpadding="5" style="clear:both; background:none;">
-
-<tbody><tr>
-<td width="8%"><center> <a href="https://ru.wiktionary.org/wiki/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="wikt:архитектура"><img alt="Wiktionary-logo-sv.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/35px-Wiktionary-logo-sv.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/53px-Wiktionary-logo-sv.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/70px-Wiktionary-logo-sv.png 2x" data-file-width="135" data-file-height="135" /></a></center>
-</td>
-<td width="25%"><b><a href="https://ru.wiktionary.org/wiki/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" class="extiw" title="wikt:архитектура">Wiktionary</a></b><br />Викисловарь
-</td>
-<td width="8%"><center><a href="https://commons.wikimedia.org/wiki/Commons:CommonsProject_Architecture" title="commons:Commons:CommonsProject Architecture"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></center>
-</td>
-<td width="25%"><b><a href="https://commons.wikimedia.org/wiki/Commons:CommonsProject_Architecture" class="extiw" title="commons:Commons:CommonsProject Architecture">Commons</a></b><br />Викисклад
-</td>
-<td width="8%"><center><a href="https://ru.wikiquote.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="q:Архитектура"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" decoding="async" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></center>
-</td>
-<td width="25%"><b><a href="https://ru.wikiquote.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" class="extiw" title="q:Архитектура">Wikiquote</a></b><br />Викицитатник
-</td></tr></tbody></table>
-</td>
-<td valign="top" style="background:#ececec; padding-bottom:.5em; padding-top:.5em; font-size:90%;">
-<div align="center">
-<div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Louvre_2007_02_24_c.jpg" class="image"><img alt="Louvre 2007 02 24 c.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Louvre_2007_02_24_c.jpg/280px-Louvre_2007_02_24_c.jpg" decoding="async" width="280" height="111" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Louvre_2007_02_24_c.jpg/420px-Louvre_2007_02_24_c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Louvre_2007_02_24_c.jpg/560px-Louvre_2007_02_24_c.jpg 2x" data-file-width="3048" data-file-height="1209" /></a></div>
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Англия" data-ct-loaded="1" data-ct-state="expanded">▼</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Категория:Англия">Англия</a></div><div class="CategoryTreeChildren" style="display:block"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Английское_право" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE" title="Категория:Английское право">Английское право</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Археология_в_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B2_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Археология в Англии">Археология в Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="География_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:География Англии">География Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%B3%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Городские агломерации Англии">Городские агломерации Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Изображения:Англия" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Категория:Изображения:Англия">Изображения:Англия</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="История_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:История Англии">История Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Культура_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Культура Англии">Культура Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Наука_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Наука Англии">Наука Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Незавершённые_статьи_об_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE%D0%B1_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Незавершённые статьи об Англии">Незавершённые статьи об Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Персоналии:Англия" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Категория:Персоналии:Англия">Персоналии:Англия</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Побережье_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Побережье Англии">Побережье Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Политика_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Политика Англии">Политика Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Природа_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Природа Англии">Природа Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Списки:Англия" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Категория:Списки:Англия">Списки:Англия</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Экономика_Англии" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Категория:Экономика Англии">Экономика Англии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div></div></div>
 </div>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="20px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="10px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:#5E4EBC;"><b>&gt;</b></span> <b>Дочерние порталы и проекты</b>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Категория:Англия">Другие категории…</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%9A%D0%B0%D0%BA_%D1%8F_%D0%BC%D0%BE%D0%B3%D1%83_%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9A.D0.B0.D0.BA_.D1.8F_.D0.BC.D0.BE.D0.B3.D1.83_.D0.BF.D0.BE.D0.BC.D0.BE.D1.87.D1.8C"></span><span class="mw-headline" id="Как_я_могу_помочь">Как я могу помочь</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<p>Недостающие статьи об Англии (наиболее важные требующиеся):
+<a href="/w/index.php?title=%D0%9C%D1%8D%D1%82%D0%BB%D0%BE%D0%BA_(%D0%94%D0%B5%D1%80%D0%B1%D0%B8%D1%88%D0%B8%D1%80)&amp;action=edit&amp;redlink=1" class="new" title="Мэтлок (Дербишир) (страница отсутствует)">Мэтлок</a>, <a href="/w/index.php?title=%D0%91%D0%B5%D0%B2%D0%B5%D1%80%D0%BB%D0%B8_(%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Беверли (Англия) (страница отсутствует)">Беверли</a>, <a href="/w/index.php?title=%D0%AD%D1%81%D1%82%D0%BB%D0%B8_(%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80)&amp;action=edit&amp;redlink=1" class="new" title="Эстли (Большой Манчестер) (страница отсутствует)">Эстли (Большой Манчестер)</a> (<a href="https://en.wikipedia.org/wiki/Astley,_Greater_Manchester" class="extiw" title="en:Astley, Greater Manchester">англ.</a>), <a href="/w/index.php?title=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%94%D0%B5%D1%80%D0%B1%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Университет Дерби (страница отсутствует)">Университет Дерби</a>, <a href="/w/index.php?title=%D0%92%D0%B0%D0%BD%D0%B4%D1%81%D0%B2%D0%BE%D1%80%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Вандсворт (страница отсутствует)">Вандсворт</a>, <a href="/w/index.php?title=%D0%A3%D0%BE%D0%BB%D1%82%D1%85%D1%8D%D0%BC-%D0%A4%D0%BE%D1%80%D0%B5%D1%81%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Уолтхэм-Форест (страница отсутствует)">Уолтхэм-Форест</a>, <a href="/w/index.php?title=%D0%94%D0%B0%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Дарракотт (страница отсутствует)">Дарракотт</a>, <a href="/w/index.php?title=%D0%94%D0%BE%D0%BB%D0%B8%D1%88_(%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Долиш (Англия) (страница отсутствует)">Долиш (Англия)</a>, <a href="/w/index.php?title=%D0%9E%D0%BB%D0%B4%D0%B5%D0%B1%D1%83%D1%80%D0%B3&amp;action=edit&amp;redlink=1" class="new" title="Олдебург (страница отсутствует)">Олдебург</a>, <a href="/w/index.php?title=%D0%A2%D0%B0%D0%BC%D0%B2%D0%BE%D1%80%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Тамворт (страница отсутствует)">Тамворт</a>, <a href="/w/index.php?title=%D0%A4%D0%BB%D0%B8%D1%82_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Флит (город) (страница отсутствует)">Флит (город)</a>, <a href="/w/index.php?title=%D0%AF%D0%B2%D0%B5%D1%80%D0%BB%D0%B5%D0%BD%D0%B4&amp;action=edit&amp;redlink=1" class="new" title="Яверленд (страница отсутствует)">Яверленд</a>, <a href="/w/index.php?title=%D0%9D%D0%B0%D0%B9%D1%82%D1%81%D0%B1%D1%80%D0%B8%D0%B4%D0%B6&amp;action=edit&amp;redlink=1" class="new" title="Найтсбридж (страница отсутствует)">Найтсбридж</a>
+</p><p>См. <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Портал:Англия/Недостающие статьи">Портал:Англия/Недостающие статьи</a>.
+</p><p>Недостаточно подробные статьи об Англии: <a href="/wiki/%D0%AD%D0%BF%D0%BF%D0%B8%D0%BD%D0%B3_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4,_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F)" title="Эппинг (город, Великобритания)">Эппинг (город, Великобритания)</a>, <a href="/wiki/%D0%A0%D0%B8%D1%87%D0%BC%D0%BE%D0%BD%D0%B4_(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD)" title="Ричмонд (Лондон)">Ричмонд (Лондон)</a>, <a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%B2%D0%B5%D1%80%D0%B8%D0%BD%D0%B3" class="mw-redirect" title="Хейверинг">Хейверинг</a>, <a href="/wiki/%D0%91%D1%80%D0%BE%D0%BC%D0%BB%D0%B8" title="Бромли">Бромли</a>, <a href="/wiki/%D0%91%D0%B5%D0%BA%D1%81%D0%BB%D0%B8" class="mw-redirect" title="Бексли">Бексли</a>, <a href="/wiki/%D0%9F%D0%B0%D0%B4%D0%B4%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" title="Паддингтон">Паддингтон</a>, <a href="/wiki/%D0%94%D0%BE%D1%80%D0%BA%D0%B8%D0%BD%D0%B3" title="Доркинг">Доркинг</a>, <a href="/wiki/%D0%A3%D0%BE%D1%82%D1%84%D0%BE%D1%80%D0%B4" title="Уотфорд">Уотфорд</a>, <a href="/wiki/%D0%AF%D1%80%D0%BC%D1%83%D1%82" class="mw-redirect" title="Ярмут">Ярмут</a>, <a href="/wiki/%D0%91%D1%80%D0%B5%D0%BD%D1%82_(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD)" class="mw-redirect" title="Брент (Лондон)">Брент (Лондон)</a>, <a href="/wiki/%D0%98%D1%81%D0%BB%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" title="Ислингтон">Ислингтон</a>, <a href="/wiki/%D0%98%D0%BB%D0%B8%D0%BD%D0%B3" class="mw-redirect" title="Илинг">Илинг</a>.
+</p><p>См. <a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%9A_%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8E&amp;action=edit&amp;redlink=1" class="new" title="Проект:Англия/К улучшению (страница отсутствует)">Проект:Англия/К улучшению</a>
+</p><p>После написания/достаточного заполнения статьи удалите её название из списка.
 </p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
+<div style="clear:both;"></div></div>
+</div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Проекты">Проекты</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<table class="noprint" align="center" style="clear:both; background: transparent; text-align:center; font-size:91%" cellspacing="3" cellpadding="3" rules="none" border="0">
 
 <tbody><tr>
-<td>
-<table width="100%" cellpadding="0" cellspacing="0" style="background:none; margin-top:1em; margin-bottom:.75em;">
-
-<tbody><tr>
-<td width="45%" valign="top">
-<table width="100%" cellpadding="2" cellspacing="0" style="color:#000000; border-bottom:1px dotted #9c9c9c; background:none; font-size:100%; margin-bottom:.75em;">
-
-<tbody><tr>
-<td><b>Порталы</b>
-</td></tr></tbody></table>
-<ul><li><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%BA%D1%80%D1%91%D0%B1%D1%8B" title="Портал:Небоскрёбы">Небоскрёбы</a></li>
-<li><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80%D1%8B" title="Портал:Соборы">Соборы</a></li>
-<li><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Строительство">Строительство</a></li></ul>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="20px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="10px" width="2%" style="background:#DDDDEE;">
+<td><b><a href="https://ru.wikinews.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="n:Англия">Англия в&#160;Викиновостях</a></b>&#160;
 </td>
-<td width="6%" style="background:#8F8FA7;">
+<td><b><a href="https://ru.wikiquote.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="q:Англия">Англия в&#160;Викицитатнике</a></b>&#160;
 </td>
-<td width="4%" style="background:#B0A18D;">
+<td><b><a href="https://ru.wikibooks.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="b:Англия">Англия в&#160;Викиучебнике</a></b>&#160;
 </td>
-<td width="16%" style="background:#DDDDEE;">
+<td><b><a href="https://ru.wikisource.org/wiki/Special:Search/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="s:Special:Search/Англия">Англия в &#160;Викитеке</a></b>&#160;
 </td>
-<td width="2%" style="background:#8F8FA7;">
+<td><b><a href="https://ru.wiktionary.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="wikt:Категория:Англия">Англия в&#160;Викисловаре</a></b>&#160;
 </td>
-<td width="2%" style="background:#DDDDEE;">
+<td><b><a href="https://ru.wikiversity.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="v:Англия">Англия в&#160;Викиверситете</a></b>&#160;
 </td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" cellpadding="0" cellspacing="0" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:#5E4EBC;"><b>&gt;</b></span> <b>Категории</b>
-</p>
-<table width="100%" style="color:#5E4EBC; border-top:1px dotted #9c9c9c; background:none; margin-bottom:.5em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<p><span style="color:black;"><b>Архитекторы</b></span><br />
-<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Архитекторы Великобритании">Великобритания</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Архитекторы Германии">Германия</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Архитекторы Италии">Италия</a>  • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Категория:Архитекторы Нидерландов">Нидерланды</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Категория:Архитекторы Польши">Польша</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Архитекторы России">Россия</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Архитекторы СССР">СССР</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Архитекторы США">США</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Категория:Архитекторы Украины">Украина</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Категория:Архитекторы Франции">Франция</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Категория:Архитекторы Японии">Япония</a>  • <b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Категория:Архитекторы по странам">все...</a></b>
-</p><p><span style="color:black;"><b>Архитектура</b></span><br />
-<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Архитектура Австралии">Австралия</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Архитектура Великобритании">Великобритания</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0" title="Категория:Архитектура Египта">Египет</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Архитектура Германии">Германия</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Архитектура Италии">Италия</a>  • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Категория:Архитектура Польши">Польша</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Архитектура России">Россия</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Архитектура СССР">СССР</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A1%D0%A8%D0%90" title="Категория:Архитектура США">США</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Категория:Архитектура Украины">Украина</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Категория:Архитектура Франции">Франция</a> • <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8" title="Категория:Архитектура Японии">Япония</a> • <b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Категория:Архитектура по странам">все...</a></b>
-</p>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Категория:Архитектура">Все категории</a> <b>&#183;</b>  <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Категории&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="20px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="10px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" cellpadding="0" cellspacing="0" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:#5E4EBC;"><b>&gt;</b></span> <b>История архитектуры</b>
-</p>
-<table style="color:#5E4EBC; border-top:1px dotted #9c9c9c; background:none; margin-bottom:.5em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<p><span style="color:black;"><b>Первобытность</b></span><br />
-<a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BB%D0%B8%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Архитектура Палеолита (страница отсутствует)">Архитектура Палеолита</a> •   <a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%9C%D0%B5%D0%B7%D0%BE%D0%BB%D0%B8%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Архитектура Мезолита (страница отсутствует)">Архитектура Мезолита</a> •   <a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%9D%D0%B5%D0%BE%D0%BB%D0%B8%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Архитектура Неолита (страница отсутствует)">Архитектура Неолита</a> •  <a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%9C%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B5%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Архитектура Медного века (страница отсутствует)">Архитектура Медного века</a> •  <a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%91%D1%80%D0%BE%D0%BD%D0%B7%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B5%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Архитектура Бронзового века (страница отсутствует)">Архитектура Бронзового века</a> •  <a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B5%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Архитектура Железного века (страница отсутствует)">Архитектура Железного века</a>
-</p><p><span style="color:black;"><b>Древний Восток</b></span><br />
-<a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0" title="Архитектура Древнего Египта">Архитектура Древнего Египта</a> •   <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BA%D0%BE%D1%80" title="Ангкор">Ангкор</a> •   <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Персидская архитектура">Персидская архитектура</a> 
-</p><p><span style="color:black;"><b>Античность</b></span><br />
-<a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B9_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8" title="Архитектура Древней Греции">Архитектура Древней Греции</a> • <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%A0%D0%B8%D0%BC%D0%B0" title="Архитектура Древнего Рима">Архитектура Древнего Рима</a>   
-</p><p><span style="color:black;"><b>Средние века</b></span><br />
-<a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%92%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B8" title="Архитектура Византии">Архитектура Византии</a> • <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Романская архитектура">Романская архитектура</a> • <a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Готическая архитектура">Готическая архитектура</a> • <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%92%D0%BE%D0%B7%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Архитектура Возрождения">Архитектура Возрождения</a> 
-</p><p><span style="color:black;"><b>Новое время</b></span><br />
-<a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Архитектура барокко">Архитектура барокко</a> • <a href="/wiki/%D0%A0%D0%BE%D0%BA%D0%BE%D0%BA%D0%BE" title="Рококо">Рококо</a> • <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Классицизм">Классицизм</a> • <a href="/wiki/%D0%90%D0%BC%D0%BF%D0%B8%D1%80" title="Ампир">Ампир</a> • <a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Неоклассицизм">Неоклассицизм</a> •  <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Историзм (архитектура)">Историзм</a> • <a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Неоготика">Неоготика</a> • <a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD" title="Модерн">Модерн</a>
-</p><p><span style="color:black;"><b>Современная архитектура</b></span><br />
-<a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Функционализм (архитектура)">Функционализм</a>&#160;• <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Конструктивизм (искусство)">Конструктивизм</a>&#160;• <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_(%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%BC)" class="mw-redirect" title="Интернациональный стиль (модернизм)">Интернационализм</a>&#160;• <a href="/wiki/%D0%91%D1%80%D1%83%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Брутализм">Брутализм</a>&#160;• <a href="/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Органическая архитектура">Органическая архитектура</a>&#160;• <a href="/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Структурализм (архитектура)">Структурализм</a>&#160;• <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B1%D0%BE%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Метаболизм (архитектура)">Метаболизм</a>&#160;• <a href="/wiki/%D0%91%D0%B8%D0%BE-%D1%82%D0%B5%D0%BA" class="mw-redirect" title="Био-тек">Био-тек</a>&#160;• <a href="/wiki/%D0%A5%D0%B0%D0%B9-%D1%82%D0%B5%D0%BA_(%D1%81%D1%82%D0%B8%D0%BB%D1%8C)" title="Хай-тек (стиль)">Хай-тек</a>&#160;• <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" class="mw-redirect" title="Деконструктивизм (архитектура)">Деконструктивизм</a>
-</p>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B8%D0%BB%D0%B8" title="Категория:Архитектурные стили">Архитектурные стили</a> <b>&#183;</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/История&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
-</td></tr></tbody></table>
-<table width="90%" cellpadding="0" cellspacing="0" align="center" style="background:none; margin-bottom:.5em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:#5E4EBC;"><b>&gt;</b></span> <b>Как я могу помочь?</b>
-</p>
-<table style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:.5em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<ul><li><b>Новое:</b> Проходит рецензия статьи об <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%B8%D1%81,_%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%AE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Каракис, Иосиф Юльевич">архитекторе И. Каракисе</a>. Просьба <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%B8%D1%81,_%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%AE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Википедия:Рецензирование/Каракис, Иосиф Юльевич">высказать Ваши замечания и предложения</a>.</li>
-<li>Участвуйте в <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Проект:Архитектура">проекте Архитектура</a>.</li>
-<li>Создавайте <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Проект:Архитектура/Красные ссылки">недостающие статьи из списка</a>.</li>
-<li>Добавляйте иллюстрации в статьи без иллюстраций.</li></ul>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Как_я_могу_помочь&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="20px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="10px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:#5E4EBC;"><b>&gt;</b></span> <b>Знаете ли вы…</b>
-</p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<ul><li>Город <b><a href="/wiki/%D0%94%D0%B6%D0%B5%D1%80%D0%B0%D1%88" class="mw-redirect" title="Джераш">Гераса</a></b> стал "<a href="/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B5%D0%B8" title="Помпеи">Помпеями</a> Востока".</li>
-<li><b><a href="/wiki/%D0%A3%D0%B8%D0%BB%D1%82%D0%BE%D0%BD-%D1%85%D0%B0%D1%83%D1%81" title="Уилтон-хаус">Прообраз</a></b> одного из сооружений <a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%A1%D0%B5%D0%BB%D0%BE" class="mw-redirect" title="Царское Село">Царского Села</a> находится <a href="/wiki/%D0%A3%D0%B8%D0%BB%D1%82%D1%88%D0%B8%D1%80" title="Уилтшир">неподалёку</a> от <a href="/wiki/%D0%A1%D1%82%D0%BE%D1%83%D0%BD%D1%85%D0%B5%D0%BD%D0%B4%D0%B6" title="Стоунхендж">Стоунхенджа</a>.</li>
-<li>Многие церкви <a href="/wiki/%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D1%8F" title="Сицилия">Сицилии</a> со стороны <b><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%BE-%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" class="mw-redirect" title="Арабо-норманнский стиль">напоминают мечети</a>.</b></li>
-<li>Преобладающей формой <a href="/wiki/%D0%92%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" class="mw-redirect" title="Византийская архитектура">православного храма</a> является <b><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE-%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%85%D1%80%D0%B0%D0%BC" title="Крестово-купольный храм">крестово-купольный</a></b>.</li>
-<li><a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0" title="Александровская колонна">Александровская колонна</a> в <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a> установлена в честь <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_I" title="Александр I">Александра I</a>, а <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0_(%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%B0)" class="mw-redirect" title="Александровская колонна (Одесса)">Александровская колонна</a> в <a href="/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%B0" title="Одесса">Одессе</a> — в честь <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_II" title="Александр II">его племянника</a>.</li>
-<li><b><a href="/wiki/%D0%9F%D0%BE%D1%82%D1%91%D0%BC%D0%BA%D0%B8%D0%BD,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Потёмкин, Григорий Александрович">Светлейший князь</a></b> никогда не видел <a href="/wiki/%D0%9F%D0%BE%D1%82%D1%91%D0%BC%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0" title="Потёмкинская лестница">лестницу, носящую его имя</a>.</li>
-<li><a href="/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B5%D0%B5%D0%B2%D0%B0_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0" title="Помпеева колонна">Помпеева колонна</a> не имеет никакого отношения к <b><a href="/wiki/%D0%93%D0%BD%D0%B5%D0%B9_%D0%9F%D0%BE%D0%BC%D0%BF%D0%B5%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9" title="Гней Помпей Великий">тому, о ком</a></b> Вы подумали.</li></ul>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Архитектура/Знаете ли вы/Архив (страница отсутствует)">Архив</a> <b>·</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Знаете_ли_вы&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="20px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="10px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:#5E4EBC;"><b>&gt;</b></span> <b>Новые статьи</b>
-</p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<ul><li><a href="/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D1%83_%D0%98%D0%BB-18_(%D0%A8%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D1%8C%D0%B5%D0%B2%D0%BE)" title="Памятник самолёту Ил-18 (Шереметьево)">Памятник самолёту Ил-18 (Шереметьево)</a></li>
-<li><a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%BE" title="Базиле, Эрнесто">Базиле, Эрнесто</a></li>
-<li><a href="/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B5_%D0%9F%D1%80%D0%B5%D1%88%D0%B5%D1%80%D0%BD%D1%83" title="Памятник Франце Прешерну">Памятник Франце Прешерну</a></li>
-<li><a href="/wiki/Isavia" title="Isavia">Isavia</a></li>
-<li><a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%A1%D0%B8%D0%BB%D0%B5%D0%B7%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2_(%D0%92%D1%80%D0%BE%D1%86%D0%BB%D0%B0%D0%B2)" title="Улица Силезских повстанцев (Вроцлав)">Улица Силезских повстанцев (Вроцлав)</a></li>
-<li><a href="/wiki/%D0%91%D0%B0%D1%81%D0%BA%D1%83%D1%80,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84" title="Баскур, Джозеф">Баскур, Джозеф</a></li>
-<li><a href="/wiki/%D0%91%D0%B8%D0%BB%D1%8C%D0%B4%D1%8E%D0%B4%D0%B0%D0%BB%D1%8E%D1%80_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)" title="Бильдюдалюр (аэропорт)">Бильдюдалюр (аэропорт)</a></li>
-<li><a href="/wiki/%D0%90%D0%B2%D0%B5%D1%80%D0%BE%D1%84_(%D1%82%D1%8E%D1%80%D1%8C%D0%BC%D0%B0)" title="Авероф (тюрьма)">Авероф (тюрьма)</a></li>
-<li><a href="/wiki/Rotterdam_Ahoy" title="Rotterdam Ahoy">Rotterdam Ahoy</a></li>
-<li><a href="/wiki/%D0%9B%D1%83%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0" title="Лунные ворота">Лунные ворота</a></li>
-<li><a href="/wiki/%D0%91%D0%B0%D1%8F%D0%BB%D0%BE%D0%B2%D0%B8%D1%87,_%D0%94%D0%B6%D1%83%D1%80%D0%B0" title="Баялович, Джура">Баялович, Джура</a></li>
-<li><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BF,_%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4" title="Астроп, Торвальд">Астроп, Торвальд</a></li>
-<li><a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C" title="Андре, Шарль">Андре, Шарль</a></li>
-<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B3,_%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8C" title="Ангерберг, Аксель">Ангерберг, Аксель</a></li>
-<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%83%D0%BF_%D0%B2_%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB%D0%B5" title="Список ступ в Непале">Список ступ в Непале</a></li>
-<li><a href="/wiki/%D0%90%D0%BB%D0%BA%D1%81%D0%BD%D0%B8%D1%81,_%D0%AF%D0%BD%D0%B8%D1%81" title="Алкснис, Янис">Алкснис, Янис</a></li>
-<li><a href="/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9A%D0%B0%D1%80%D0%BB%D0%B0%D0%B9%D0%BB" title="Замок Карлайл">Замок Карлайл</a></li>
-<li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9)" title="Спасо-Преображенский собор (Новгород-Северский)">Спасо-Преображенский собор (Новгород-Северский)</a></li>
-<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%AD%D0%B6%D0%B5%D0%BD" title="Валлен, Эжен">Валлен, Эжен</a></li>
-<li><a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%A1%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B0_%D0%AE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0" title="Площадь Салавата Юлаева">Площадь Салавата Юлаева</a></li>
-<li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D0%BA%D0%B8)" title="Спасо-Преображенский собор (Прилуки)">Спасо-Преображенский собор (Прилуки)</a></li>
-<li><a href="/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%90%D0%B3%D0%B0%D1%82%D0%B5_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8" title="Памятник Агате Кристи">Памятник Агате Кристи</a></li>
-<li><a href="/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_(%D0%9A%D0%BE%D1%80%D0%BE%D0%BF)" title="Ильинская церковь (Короп)">Ильинская церковь (Короп)</a></li>
-<li><a href="/wiki/%D0%AD%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE)" title="Энджел (станция метро)">Энджел (станция метро)</a></li>
-<li><a href="/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%91%D0%BE%D0%BB%D1%82%D0%BE%D0%BD" title="Замок Болтон">Замок Болтон</a></li>
-<li><a href="/wiki/%D0%93%D1%80%D0%B8%D0%BC%D0%BC,_%D0%9C%D0%BE%D1%80%D0%B8%D1%86" title="Гримм, Мориц">Гримм, Мориц</a></li>
-<li><a href="/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D1%81%D0%B2%D1%8F%D1%82%D1%8B%D1%85_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%D0%B8_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0_(%D0%91%D1%80%D0%BD%D0%BE)" title="Храм святых Иоанна Крестителя и Иоанна Богослова (Брно)">Храм святых Иоанна Крестителя и Иоанна Богослова (Брно)</a></li>
-<li><a href="/wiki/%D0%94%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D1%8B%D1%85" title="Доходный дом Захаровых">Доходный дом Захаровых</a></li>
-<li><a href="/wiki/%D0%A1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5" title="Саровское городище">Саровское городище</a></li>
-<li><a href="/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9D%D1%8C%D1%8E%D0%BA%D0%B0%D1%81%D0%BB_(%D0%9D%D1%8C%D1%8E%D0%BA%D0%B0%D1%81%D0%BB-%D0%B0%D0%BF%D0%BE%D0%BD-%D0%A2%D0%B0%D0%B9%D0%BD)" title="Замок Ньюкасл (Ньюкасл-апон-Тайн)">Замок Ньюкасл (Ньюкасл-апон-Тайн)</a></li></ul>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#5E4EBC;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура/Новые_статьи&amp;action=edit">Править</a> <b>&gt;&gt;</b> </p>
-</td></tr></tbody></table>
+<td><b><a href="https://commons.wikimedia.org/wiki/Category:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" class="extiw" title="commons:Category:Англия">Англия в Викискладе</a></b>
 </td></tr>
 <tr>
-<td>
-<table cellspacing="0" cellpadding="0" width="100%">
-
+<td>Новости
+</td>
+<td>Цитаты
+</td>
+<td>Руководства и тексты
+</td>
+<td>Тексты
+</td>
+<td>Определения
+</td>
+<td>Учебные ресурсы
+</td>
+<td>Изображения и медиа
+</td></tr>
+<tr>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://ru.wikinews.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="n:&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Wikinews-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png" decoding="async" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/68px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/90px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://ru.wikiquote.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="q:&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/29px-Wikiquote-logo.svg.png" decoding="async" width="29" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/59px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://ru.wikibooks.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="b:&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Wikibooks-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/45px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://ru.wikisource.org/wiki/Special:Search/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="s:Special:Search/&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png" decoding="async" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/45px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://ru.wiktionary.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="wikt:&#x41a;&#x430;&#x442;&#x435;&#x433;&#x43e;&#x440;&#x438;&#x44f;:&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Wiktionary-logo-ru.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/30px-Wiktionary-logo-ru.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/45px-Wiktionary-logo-ru.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/60px-Wiktionary-logo-ru.png 2x" data-file-width="135" data-file-height="135" /></a></div></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://ru.wikiversity.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="v:&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Wikiversity-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png" decoding="async" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/45px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><div class="noresize"><a href="https://commons.wikimedia.org/wiki/Category:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="commons:Category:&#x410;&#x43d;&#x433;&#x43b;&#x438;&#x44f;"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div></div></div>
+</td></tr></tbody></table>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #00966E; background:#D12513; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F/%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B&amp;action=edit"><span style="color:white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:white; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A0.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BF.D0.BE.D1.80.D1.82.D0.B0.D0.BB.D1.8B"></span><span class="mw-headline" id="Родственные_порталы">Родственные порталы</span></h2></div>
+<div style="display:block; border:1px solid #00966E; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<table width="100%" border="0" cellpadding="4" style="border: 1px solid none;">
 <tbody><tr>
-<td height="40px" width="2%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="25px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td>
-<td>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="40px" width="4%" style="background:#9c9c9c;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="25px" width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td>
-<td width="16%" style="background:#DDDDEE;">
-</td>
-<td width="2%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="8%" style="background:#E6E3CF;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="12%" style="background:#DDDDEE;">
-</td>
-<td width="4%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#B0A18D;">
-</td>
-<td width="4%" style="background:#8F8FA7;">
-</td>
-<td width="2%" style="background:#E6E3CF;">
-</td>
-<td width="2%" style="background:#DDDDEE;">
-</td>
-<td width="6%" style="background:#8F8FA7;">
-</td>
-<td width="4%" style="background:#B0A18D;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Портал:Великобритания"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/50px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="50" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/75px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/100px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
+</th>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Портал:Лондон"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Buses_roundel_%28no_text%29.svg/50px-Buses_roundel_%28no_text%29.svg.png" decoding="async" width="50" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Buses_roundel_%28no_text%29.svg/75px-Buses_roundel_%28no_text%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Buses_roundel_%28no_text%29.svg/100px-Buses_roundel_%28no_text%29.svg.png 2x" data-file-width="640" data-file-height="520" /></a>
+</th>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A3%D1%8D%D0%BB%D1%8C%D1%81" title="Портал:Уэльс"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arms_of_Llywelyn.svg/43px-Arms_of_Llywelyn.svg.png" decoding="async" width="43" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arms_of_Llywelyn.svg/64px-Arms_of_Llywelyn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arms_of_Llywelyn.svg/85px-Arms_of_Llywelyn.svg.png 2x" data-file-width="385" data-file-height="450" /></a>
+</th>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Портал:Шотландия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/50px-Flag_of_Scotland.svg.png" decoding="async" width="50" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/75px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/100px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a>
+</th></tr>
+<tr>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Портал:Великобритания"><span class="nowrap">Великобритания</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Портал:Лондон"><span class="nowrap">Лондон</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A3%D1%8D%D0%BB%D1%8C%D1%81" title="Портал:Уэльс"><span class="nowrap">Уэльс</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Портал:Шотландия"><span class="nowrap">Шотландия</span></a>
+</th></tr></tbody></table>
+<div style="clear:both;"></div></div>
 <!-- 
 NewPP limit report
-Parsed by mw1367
-Cached time: 20210314112430
-Cache expiry: 2592000
-Dynamic content: false
+Parsed by mw1308
+Cached time: 20210314095638
+Cache expiry: 21600
+Dynamic content: true
 Complications: []
-CPU time usage: 0.181 seconds
-Real time usage: 0.289 seconds
-Preprocessor visited node count: 338/1000000
-Post‐expand include size: 44905/2097152 bytes
-Template argument size: 837/2097152 bytes
-Highest expansion depth: 11/40
-Expensive parser function count: 5/500
+CPU time usage: 0.377 seconds
+Real time usage: 0.516 seconds
+Preprocessor visited node count: 2667/1000000
+Post‐expand include size: 101663/2097152 bytes
+Template argument size: 9813/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 26/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
+Unstrip post‐expand size: 13827/5000000 bytes
+Lua time usage: 0.030/10.000 seconds
+Lua memory usage: 1441715/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  146.565      1 -total
- 14.43%   21.148      1 Портал:Архитектура/Архитектурный_стиль
- 11.41%   16.730      1 Портал:Архитектура/Архитектурный_элемент
- 10.86%   15.923      2 Шаблон:Портал-изб-выбор
- 10.53%   15.440      1 Портал:Архитектура/Хорошая_статья
-  9.02%   13.213      1 Портал:Архитектура/Избранная_статья
-  8.67%   12.704      1 Портал:Архитектура/Архитектурный_стиль/март
-  7.96%   11.662      2 Шаблон:Lang-grc
-  7.43%   10.891      1 Портал:Архитектура/Хорошая_статья/март
-  6.32%    9.263      1 Шаблон:Lang-en
+100.00%  329.749      1 -total
+ 30.18%   99.506     12 Портал:Англия/box-header
+ 28.63%   94.415     12 Шаблон:Box-header
+ 21.58%   71.175     24 Шаблон:Цветовой_контраст
+ 12.27%   40.461      1 Портал:Англия/Проекты
+ 11.53%   38.005      1 Шаблон:Викимедиа_для_порталов
+ 10.83%   35.723      1 Портал:Англия/Родственные_порталы
+ 10.52%   34.679      1 Портал:Англия/Новые_статьи
+  8.99%   29.634      1 Шаблон:Порталы
+  8.89%   29.315     15 Шаблон:Новая_статья
 -->
 
-<!-- Saved in parser cache with key ruwiki:stable-pcache:idhash:2106265-0!canonical and timestamp 20210314112430 and revision id 80684606. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:3164953-0!canonical and timestamp 20210314095639 and revision id 108238161. Serialized with JSON.
  -->
 </div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура&amp;oldid=80684606">https://ru.wikipedia.org/w/index.php?title=Портал:Архитектура&amp;oldid=80684606</a></div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Категория:Архитектура">Архитектура</a></li></ul></div></div>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Англия&amp;oldid=108238161">https://ru.wikipedia.org/w/index.php?title=Портал:Англия&amp;oldid=108238161</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Категория:Англия">Англия</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Категория:Портал:Великобритания">Портал:Великобритания</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -837,7 +312,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -850,7 +325,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0">Портал</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t">Обсуждение</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F">Портал</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -877,7 +352,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -947,7 +422,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;oldid=80684606" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3248428" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;oldid=108238161" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12816963" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
 		
 	</div>
 </nav>
@@ -958,18 +433,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
-		
-	</div>
-</nav>
-<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
-<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
-	 >
-	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
-		<span>В других проектах</span>
-	</h3>
-	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Architecture" hreflang="en">Викисклад</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
 		
 	</div>
 </nav>
@@ -981,8 +445,8 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>На других языках</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B9%D9%85%D8%A7%D8%B1%D8%A9" title="بوابة:عمارة — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Portal:Memarl%C4%B1q" title="Portal:Memarlıq — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D1%96%D1%82%D1%8D%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Партал:Архітэктура — белорусский" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Portal:Arquitectura" title="Portal:Arquitectura — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Ganghaan:Arkitektura" title="Ganghaan:Arkitektura — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AF%DB%95%D8%B1%D9%88%D8%A7%D8%B2%DB%95:%D9%86%DA%98%DB%8C%D8%A7%D8%B1%D9%88%D8%A7%D9%86%DB%8C" title="دەروازە:نژیاروانی — сорани" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Port%C3%A1l:Architektura_a_stavebnictv%C3%AD" title="Portál:Architektura a stavebnictví — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://de.wikipedia.org/wiki/Portal:Architektur_und_Bauwesen" title="Portal:Architektur und Bauwesen — немецкий" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://en.wikipedia.org/wiki/Portal:Architecture" title="Portal:Architecture — английский" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Arquitectura" title="Portal:Arquitectura — испанский" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Portaal:Arhitektuur" title="Portaal:Arhitektuur — эстонский" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C" title="درگاه:معماری — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Teemasivu:Arkkitehtuuri" title="Teemasivu:Arkkitehtuuri — финский" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Architecture_et_urbanisme" title="Portail:Architecture et urbanisme — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%90%D7%93%D7%A8%D7%99%D7%9B%D7%9C%D7%95%D7%AA" title="פורטל:אדריכלות — иврит" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%B8%D6%80%D5%BF%D5%A1%D5%AC:%D5%83%D5%A1%D6%80%D5%BF%D5%A1%D6%80%D5%A1%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Պորտալ:Ճարտարապետություն — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Portale:Architettura" title="Portale:Architettura — итальянский" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Portal:%E5%BB%BA%E7%AF%89" title="Portal:建築 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98:%E1%83%90%E1%83%A0%E1%83%A5%E1%83%98%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%90" title="პორტალი:არქიტექტურა — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%84%B8:%EA%B1%B4%EC%B6%95" title="포털:건축 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Portal:Architektur" title="Portal:Architektur — люксембургский" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Портал:Архитектура — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Portal:Seni_bina" title="Portal:Seni bina — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Portaal:Civiele_techniek_en_bouwkunde" title="Portaal:Civiele techniek en bouwkunde — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Portal:Arkitektur" title="Portal:Arkitektur — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Portal:Arquitectura_e_Urbanisme" title="Portal:Arquitectura e Urbanisme — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Portal:Architektura" title="Portal:Architektura — польский" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Arquitetura_e_urbanismo" title="Portal:Arquitetura e urbanismo — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Port%C3%A1l:Architekt%C3%BAra" title="Portál:Architektúra — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://sv.wikipedia.org/wiki/Portal:Arkitektur" title="Portal:Arkitektur — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Lango:Ujenzi" title="Lango:Ujenzi — суахили" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Портал:Архитектура — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Портал:Архітектура — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:Ki%E1%BA%BFn_tr%C3%BAc" title="Chủ đề:Kiến trúc — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Portal:%E5%BB%BA%E7%AF%89" title="Portal:建築 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3248428#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7" title="بوابة:إنجلترا — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CF%8D%CE%BB%CE%B7:%CE%91%CE%B3%CE%B3%CE%BB%CE%AF%CE%B1" title="Πύλη:Αγγλία — греческий" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en badge-Q17580674 badge-featuredportal" title="избранный портал"><a href="https://en.wikipedia.org/wiki/Portal:England" title="Portal:England — английский" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Inglaterra" title="Portal:Inglaterra — испанский" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86" title="درگاه:انگلستان — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Angleterre" title="Portail:Angleterre — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%98%D0%B0" title="Портал:Англија — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Inglaterra" title="Portal:Inglaterra — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Portal:%C4%B0ngiltere" title="Portal:İngiltere — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D1%96%D1%8F" title="Портал:Англія — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:Anh" title="Chủ đề:Anh — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12816963#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -991,7 +455,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 7 сентября 2016 в 22:37.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 17 июля 2020 в 18:48.</li>
 	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
 <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
 Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
@@ -1002,7 +466,7 @@ Wikipedia® — зарегистрированный товарный знак 
 	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
 	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
 	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
-	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
 	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
@@ -1017,5 +481,5 @@ Wikipedia® — зарегистрированный товарный знак 
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.181","walltime":"0.289","ppvisitednodes":{"value":338,"limit":1000000},"postexpandincludesize":{"value":44905,"limit":2097152},"templateargumentsize":{"value":837,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  146.565      1 -total"," 14.43%   21.148      1 Портал:Архитектура/Архитектурный_стиль"," 11.41%   16.730      1 Портал:Архитектура/Архитектурный_элемент"," 10.86%   15.923      2 Шаблон:Портал-изб-выбор"," 10.53%   15.440      1 Портал:Архитектура/Хорошая_статья","  9.02%   13.213      1 Портал:Архитектура/Избранная_статья","  8.67%   12.704      1 Портал:Архитектура/Архитектурный_стиль/март","  7.96%   11.662      2 Шаблон:Lang-grc","  7.43%   10.891      1 Портал:Архитектура/Хорошая_статья/март","  6.32%    9.263      1 Шаблон:Lang-en"]},"cachereport":{"origin":"mw1367","timestamp":"20210314112430","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":595,"wgHostname":"mw1367"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.377","walltime":"0.516","ppvisitednodes":{"value":2667,"limit":1000000},"postexpandincludesize":{"value":101663,"limit":2097152},"templateargumentsize":{"value":9813,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13827,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  329.749      1 -total"," 30.18%   99.506     12 Портал:Англия/box-header"," 28.63%   94.415     12 Шаблон:Box-header"," 21.58%   71.175     24 Шаблон:Цветовой_контраст"," 12.27%   40.461      1 Портал:Англия/Проекты"," 11.53%   38.005      1 Шаблон:Викимедиа_для_порталов"," 10.83%   35.723      1 Портал:Англия/Родственные_порталы"," 10.52%   34.679      1 Портал:Англия/Новые_статьи","  8.99%   29.634      1 Шаблон:Порталы","  8.89%   29.315     15 Шаблон:Новая_статья"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"10.000"},"limitreport-memusage":{"value":1441715,"limit":52428800}},"cachereport":{"origin":"mw1308","timestamp":"20210314095638","ttl":21600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":220,"wgHostname":"mw1413"});});</script>
 </body></html>

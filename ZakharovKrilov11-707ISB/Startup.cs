@@ -26,6 +26,7 @@ namespace ZakharovKrilov11_707ISB
             services.AddControllersWithViews();
             services.AddScoped<Scraper>();
             services.AddScoped<Tokenizer>();
+            services.AddScoped<Lemmatizer>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

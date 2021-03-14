@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Портал:Бенин — Википедия</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YE3ycOEeqMkugc7V-u3ioQAAAJg","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Бенин","wgTitle":"Бенин","wgCurRevisionId":89474450,"wgRevisionId":89474450,"wgArticleId":6773316,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Бенин","Портал:Африка"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Бенин","wgRelevantArticleId":6773316
-,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":89474450,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1};RLSTATE={
-"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
-"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>Портал:Арабский халифат — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEy0pAzPFEwXShX-xFxeSwAAAFE","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Арабский_халифат","wgTitle":"Арабский халифат","wgCurRevisionId":76820729,"wgRevisionId":76820729,"wgArticleId":6261596,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Арабский халифат","Порталы в разработке","Портал:История"],"wgPageContentLanguage":"ru",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Арабский_халифат","wgRelevantArticleId":6261596,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":76820729,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
+"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice",
+"ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -18,29 +18,29 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:title" content="Портал:Бенин"/>
+<meta property="og:title" content="Портал:Арабский халифат"/>
 <meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD"/>
-<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit"/>
-<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Бенин rootpage-Портал_Бенин skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Арабский_халифат rootpage-Портал_Арабский_халифат skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Портал:Бенин</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Арабский халифат</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
 		<div id="contentSub"></div>
@@ -49,504 +49,195 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
 		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
-		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="position:relative; height:170px; overflow:hidden; border:1px solid none; padding:0; background:Gold">
-<table width="100%" style="background:Gold; border:solid 5px none;color:none;" cellspacing="0" cellpadding="0">
-
-
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="background-color:#007F00">
 <tbody><tr>
-<td width="33%">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td style="background:SeaGreen;" height="170px" width="4%">
-<div style="position: absolute;font-size:520%;left:20px;top:10px; float:left; height:50px"><div align="center">
-<div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:West_African_male_lion.jpg" class="image" title="Западно-африканская львица"><img alt="Западно-африканская львица" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/West_African_male_lion.jpg/300px-West_African_male_lion.jpg" decoding="async" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/West_African_male_lion.jpg/450px-West_African_male_lion.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/West_African_male_lion.jpg/600px-West_African_male_lion.jpg 2x" data-file-width="1125" data-file-height="749" /></a></div>
+<td>
+<div style="background:white; border:1px solid #a2a9b1; margin-bottom:1em; padding:0.4em 0 0; text-align:center;"><table width="100%" style="text-align:center; background-color:transparent; margin-top:-3px;"><tbody><tr><td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Помощь начинающим">Начинающим</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Википедия:Страницы сообщества">Сообщество</a> · <span style="border-style:solid; border-color: #a2a9b1 #a2a9b1 white; border-width:1px; padding:3px 5px 4px; position:relative; bottom:3px;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Порталы</a></span> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Избранное содержание">Избранное</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">Проекты</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Запросы">Запросы</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Оценивание">Оценивание</a>
+<div style="border:1px solid #a2a9b1; padding:3px 2px;"><p style="clear:both; margin-top:0.2em; margin-bottom:0.2em; font-variant:small-caps; font-size:100%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a></p></div></td></tr></tbody></table></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82%D0%B0&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.90.D1.80.D0.B0.D0.B1.D1.81.D0.BA.D0.B8.D0.B9_.D1.85.D0.B0.D0.BB.D0.B8.D1.84.D0.B0.D1.82"></span><span class="mw-headline" id="Арабский_халифат"><big>Арабский халифат</big></span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div>
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mohammad_adil-Rashidun_empire-slide.gif" class="image" title="Герб Андалусии"><img alt="Герб Андалусии" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mohammad_adil-Rashidun_empire-slide.gif/270px-Mohammad_adil-Rashidun_empire-slide.gif" decoding="async" width="270" height="131" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mohammad_adil-Rashidun_empire-slide.gif/405px-Mohammad_adil-Rashidun_empire-slide.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mohammad_adil-Rashidun_empire-slide.gif/540px-Mohammad_adil-Rashidun_empire-slide.gif 2x" data-file-width="1196" data-file-height="580" /></a></div>
+<p><b>Ара́бский халифа́т</b> (<a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Арабский язык">араб.</a> <span lang="ar" style="font-size: 110%; font-style: normal; line-height: 1em;">خلافة إسلامية</span>&#8206;&#160;—  Исламский халифат&#8206;)&#160;— <a href="/wiki/%D0%A2%D0%B5%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F" title="Теократия">теократическое</a> <a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F)" title="Исламское государство (концепция)">исламское государство</a>, возникшее в результате мусульманских завоеваний в VII—IX&#160;вв. и возглавлявшееся <a href="/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D1%84" title="Халиф">халифами</a>. В старорусских источниках известно также под именами <b>царство Агарянское</b> и <b>царство Измаильтянское</b>, что таким образом включало его в общий список царств (империй) мира, известных книжным людям на Руси того времени.
+</p><p>Первоначальным ядром халифата стала созданная арабским проповедником&#160;единобожия&#160;и&#160;пророком ислама <a href="/wiki/%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4" title="Мухаммед">Мухаммедом</a> в начале <a href="/wiki/VII_%D0%B2%D0%B5%D0%BA" title="VII век">VII века</a> в <a href="/wiki/%D0%A5%D0%B8%D0%B4%D0%B6%D0%B0%D0%B7" title="Хиджаз">Хиджазе</a> (Западная Аравия) мусульманская община&#160;— <a href="/wiki/%D0%A3%D0%BC%D0%BC%D0%B0_(%D0%B8%D1%81%D0%BB%D0%B0%D0%BC)" class="mw-redirect" title="Умма (ислам)">умма</a>. Первоначально эта община была небольшой и представляла собой протогосударственное образование суперрелигиозного характера по аналогии с Моисеевым государством или Первыми христовыми общинами. В результате мусульманских завоеваний было создано огромное государство, включавшее <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Аравийский полуостров">Аравийский полуостров</a>, <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BA" title="Ирак">Ирак</a>, <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BD" title="Иран">Иран</a>, большую часть <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%8C%D0%B5" title="Закавказье">Закавказья</a> (в частности <a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%B3%D0%BE%D1%80%D1%8C%D0%B5" title="Армянское нагорье">Армянское нагорье</a>, Прикаспийские территории, <a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%85%D0%B8%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Колхидская низменность">Колхидскую низменность</a>, а также районы <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a>), <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Средняя Азия">Среднюю Азию</a>, <a href="/wiki/%D0%A1%D0%B8%D1%80%D0%B8%D1%8F" title="Сирия">Сирию</a>, <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B0_(%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Палестина (историческая область)">Палестину</a>, <a href="/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82" title="Египет">Египет</a>, <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Северная Африка">Северную Африку</a>, большую часть <a href="/wiki/%D0%9F%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Пиренейский полуостров">Пиренейского полуострова</a>, <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%B4" title="Синд">Синд</a>.
+</p><p>Слово <i>халиф</i> (<a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Арабский язык">араб.</a> <span lang="ar" style="font-size: 110%; font-style: normal; line-height: 1em;">خليفة</span>&#8206;&#160;— <i>Khalīfah</i>&#160;— «наследник», «представитель»)&#160;означает титул <a href="/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D1%84" title="Халиф">халифов</a>, создавших после смерти пророка Мухаммеда исламское государство <i>халифат</i>.
+</p><p>Эпоха существования Арабского халифата, вместе с несколькими последующими веками расцвета общеисламской науки и культуры, именуются в западной историографии <a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B2%D0%B5%D0%BA_%D0%B8%D1%81%D0%BB%D0%B0%D0%BC%D0%B0" title="Золотой век ислама">Золотым веком ислама</a>.
+</p><p><a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Арабский халифат"><b>Далее …</b></a>
+</p>
 </div>
-</div></td></tr></tbody></table>
-</td>
-<td valign="center">
-<div style="position: absolute;font-size:520%;left:600px;top:40px; float:left; height:50px">
-<span style="letter-spacing:.25em; font-family:Impact;"><span style="color:Green"></span>БЕНИН</span></div>
-</td>
-<td valign="top"><div align="left">
-</div></td></tr></tbody></table></div> 
-<table border="0" cellspacing="0" cellpadding="0" style="width:100%; border:1px solid none;">
-
-<tbody><tr style="background:#E6CEC6;">
-<td>
-</td></tr>
-<tr>
-<td width="33%">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td style="background:SeaGreen;" height="40px" width="4%">
-</td></tr></tbody></table>
-</td>
-<td width="67%">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="40px" width="2%" style="background:FireBrick;">
-<table style="background:transparent" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
-<tbody><tr>
-<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a class="mw-selflink selflink"><span style="color:white">Портал Бенина</span></a>
-</td>
-<td style="border-bottom:solid 2px white;">&#160;
-</td>
-<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Лучшие статьи (страница отсутствует)"><span style="color:white">Лучшие статьи</span></a>
-</td>
-<td style="border-bottom:solid 2px white;">&#160;
-</td>
-<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Проект:Африка"><span style="color:white">Проект:Африка</span></a>
-</td>
-<td style="border-bottom:solid 2px white;">&#160;
-</td>
-<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Обсуждение проекта:Африка"><span style="color:white">Обсуждение </span></a>
-</td>
-<td style="border-bottom:solid 2px white;">&#160;
-</td>
-<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" title="Проект:Африка/Участники"><span style="color:white">Участники проекта</span></a>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-<td valign="top" style="background:SeaGreen; padding-bottom:.5em; padding-top:.5em; font-size:90%;">
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="12px" width="4%" style="background:Gold;">
-<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
-
-<tbody><tr>
-<td height="10px" width="100%" style="background:SeaGreen;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Знаете ли вы, что …</b></span>
+<div style="clear:both;"></div></div>
+<div style="float:left; width:50%;">
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D1.8F"></span><span class="mw-headline" id="Избранная_статья">Избранная статья</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lunar_eclipse_al-Biruni.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lunar_eclipse_al-Biruni.jpg/200px-Lunar_eclipse_al-Biruni.jpg" decoding="async" width="200" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lunar_eclipse_al-Biruni.jpg/300px-Lunar_eclipse_al-Biruni.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lunar_eclipse_al-Biruni.jpg/400px-Lunar_eclipse_al-Biruni.jpg 2x" data-file-width="2192" data-file-height="1544" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lunar_eclipse_al-Biruni.jpg" class="internal" title="Увеличить"></a></div><center>Естественное объяснение фаз Луны (иллюстрация из книги ал-Бируни на персидском языке).</center></div></div></div>
+<p><b>Астрономия исламского Средневековья</b>&#160;— астрономические познания и взгляды, распространённые в <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B5%D0%BA%D0%B0" title="Средние века">Средние века</a> в <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Арабский халифат">Арабском халифате</a> и впоследствии государствах, возникших после распада халифата: <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Кордовский халифат">Кордовском халифате</a>, империях <a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8%D0%B4%D1%8B" title="Саманиды">Саманидов</a>, <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D0%B8%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Караханидское государство">Караханидов</a>, <a href="/wiki/%D0%93%D0%B0%D0%B7%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Газневидское государство">Газневидов</a>, <a href="/wiki/%D0%A2%D0%B8%D0%BC%D1%83%D1%80%D0%B8%D0%B4%D1%8B" title="Тимуриды">Тимуридов</a>, <a href="/wiki/%D0%A5%D1%83%D0%BB%D0%B0%D0%B3%D1%83%D0%B8%D0%B4%D1%8B" title="Хулагуиды">Хулагуидов</a>. Сочинения исламских астрономов были, как правило, написаны на арабском языке, который может считаться международным языком средневековой науки; по этой причине астрономия исламского Средневековья называется ещё арабской астрономией, хотя в её развитие внесли вклад не только арабы, но представители практически всех народов, проживавших на этой территории. Главным источником арабской астрономии была <a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B9_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8" title="Астрономия Древней Греции">астрономия Древней Греции</a>, а на ранних стадиях развития — также <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F" title="Индия">Индии</a> и <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%A1%D0%B0%D1%81%D0%B0%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2" title="Государство Сасанидов">государства Сасанидов</a>, расположенного на территориях современных <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BA" title="Ирак">Ирака</a> и <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BD" title="Иран">Ирана</a>. Период наивысшего развития приходится на VIII—XV века.
+</p><p><b>VII век.</b> Начало знакомства с астрономическими достижениями греков и индийцев. По повелению <a href="/wiki/%D0%9E%D0%BC%D0%B0%D1%80_%D0%B8%D0%B1%D0%BD_%D0%A5%D0%B0%D1%82%D1%82%D0%B0%D0%B1" class="mw-redirect" title="Омар ибн Хаттаб">халифа Омара</a> в <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Арабский халифат">Арабском халифате</a> разработан религиозно-мотивированный <a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Исламский календарь">лунный календарь</a>.
+</p><p><b>VIII&#160;— первая половина IX века.</b> Интенсивный перевод индийской и греческой научной литературы на арабский. Основным покровителем учёных становится <a href="/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D1%84" title="Халиф">халиф</a> <a href="/wiki/%D0%9C%D0%B0%D0%BC%D1%83%D0%BD" class="mw-redirect" title="Мамун">ал-Мамун</a>, основавший в 832 году <a href="/wiki/%D0%94%D0%BE%D0%BC_%D0%BC%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B8" title="Дом мудрости">Дом мудрости</a> в Багдаде и две астрономические обсерватории, в <a href="/wiki/%D0%94%D0%B0%D0%BC%D0%B0%D1%81%D0%BA" title="Дамаск">Дамаске</a> и <a href="/wiki/%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%B4" title="Багдад">Багдаде</a>. На этот период приходится деятельность таких выдающихся астрономов и математиков, как <a href="/wiki/%D0%90%D0%BB-%D0%A4%D0%B0%D0%B7%D0%B0%D1%80%D0%B8" class="mw-redirect" title="Ал-Фазари">Ибрахим ал-Фазари</a> (ум. ок. 777), <a href="/wiki/%D0%AF%D0%BA%D1%83%D0%B1_%D0%B8%D0%B1%D0%BD_%D0%A2%D0%B0%D1%80%D0%B8%D0%BA" title="Якуб ибн Тарик">Якуб ибн Тарик</a> (ум. ок. 796),  <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%B0%D1%88_%D0%B0%D0%BB%D1%8C-%D0%A5%D0%B0%D1%81%D0%B8%D0%B1" class="mw-redirect" title="Хаббаш аль-Хасиб">Хаббаш аль-Хасиб</a> (770-870), <a href="/wiki/%D0%90%D0%BB%D1%8C-%D0%A5%D0%BE%D1%80%D0%B5%D0%B7%D0%BC%D0%B8" title="Аль-Хорезми">Мухаммад аль-Хорезми</a> (783–850), <a href="/wiki/%D0%90%D0%BB%D1%8C-%D0%A4%D0%B5%D1%80%D0%B3%D0%B0%D0%BD%D0%B8" title="Аль-Фергани">Аль-Фергани</a> (790—860), братья <a href="/wiki/%D0%91%D0%B0%D0%BD%D1%83_%D0%9C%D1%83%D1%81%D0%B0" title="Бану Муса">Бану Муса</a> (первая половина IX в.) и их ученик <a href="/wiki/%D0%A1%D0%B0%D0%B1%D0%B8%D1%82_%D0%B8%D0%B1%D0%BD_%D0%9A%D0%BE%D1%80%D1%80%D0%B0" class="mw-redirect" title="Сабит ибн Корра">Сабит ибн Корра</a> (836–901). Открытие изменения наклона эклиптики к экватору и мнимое открытие трепидации. Полное овладение математическим аппаратом греческой астрономии, включая теорию Птолемея.
 </p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<ul><li><span style="color:White">С XVII века побережье Бенина и соседние области были крупнейшим центром работорговли в Африке и назывались <i>Невольничий берег</i>.</span></li>
-<li><span style="color:White">Исполнявший обязанности президента Дагомеи в <a href="/wiki/1965_%D0%B3%D0%BE%D0%B4" title="1965 год"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">1965 году</span></a> <a href="/wiki/%D0%90%D1%85%D0%BE%D0%BC%D0%B0%D0%B4%D0%B5%D0%B3%D0%B1%D0%B5-%D0%A2%D0%BE%D0%BC%D0%B5%D1%82%D0%B8%D0%BD,_%D0%96%D1%8E%D1%81%D1%82%D0%B5%D0%BD" title="Ахомадегбе-Тометин, Жюстен"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Жюстен Ахомадегбе-Тометин</span></a> находился под домашним арестом с более девяти лет, с 1972 по 1981 год, после того, как был свергнут в результате государственного переворота.</span></li>
-<li><span style="color:White">Хотя профсоюзы в Бенине представляют интересы до 75% рабочей силы, неформальный сектор экономики по-прежнему включает в себя детский и принудительный труд.</span></li>
-<li><span style="color:White">Культ <a href="/wiki/%D0%92%D1%83%D0%B4%D1%83" title="Вуду"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">вуду</span></a> вырос из анимистского культ древнего царства Дагомея, африканского королевства, расположенного на территории современного <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Бенина</span></a>.</span></li>
-<li><span style="color:White">Бенин за свою историю в разное время был как королевством, так и республикой, страной как капитализма, так и социализма.</span></li></ul>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#8E5543;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Знаете ли вы/Архив (страница отсутствует)">Архив</a> <b>•</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Бенин/Знаете_ли_вы&amp;action=edit"><span style="color:White">Править</span></a> <b>&gt;&gt;</b> </p>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="12px" width="4%" style="background:Gold;">
-<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
-
-<tbody><tr>
-<td height="10px" width="100%" style="background:SeaGreen;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b> История: Галерея</b></span>
-</p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td><div align="center">
-<div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:FORBES(1851)_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg" class="image" title="История Бенина"><img alt="История Бенина" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg/280px-FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg" decoding="async" width="280" height="195" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg/420px-FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg/560px-FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg 2x" data-file-width="1795" data-file-height="1252" /></a></div>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><b><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F_%D0%B8%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D1%8F" title="Астрономия исламского Средневековья">Подробнее...</a></b></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Арабский халифат/Избранная статья/Архив (страница отсутствует)">Архив</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9B.D1.83.D1.87.D1.88.D0.B8.D0.B5_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Лучшие_статьи">Лучшие статьи</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="✰" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" decoding="async" width="13" height="13" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" data-file-width="13" data-file-height="13" /></a> <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%BE-%D1%85%D0%B0%D0%B7%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Арабо-хазарские войны">Арабо-хазарские войны</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="✰" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" decoding="async" width="13" height="13" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" data-file-width="13" data-file-height="13" /></a> <a href="/wiki/%D0%9E%D1%81%D0%B0%D0%B4%D0%B0_%D0%90%D0%BC%D0%BE%D1%80%D0%B8%D1%8F" title="Осада Амория">Осада Амория</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%9E%D1%81%D0%B0%D0%B4%D0%B0_%D0%9D%D0%B8%D0%BA%D0%B5%D0%B8_(727)" title="Осада Никеи (727)">Осада Никеи (727)</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D1%80%D0%B8_%D0%90%D0%BA%D1%80%D0%BE%D0%B8%D0%BD%D0%BE%D0%BD%D0%B5" title="Битва при Акроиноне">Битва при Акроиноне</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%90%D0%B1%D0%B4_%D0%B0%D1%80-%D0%A0%D0%B0%D1%85%D0%BC%D0%B0%D0%BD_%D0%B8%D0%B1%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B8%D0%B1" title="Абд ар-Рахман ибн Хабиб">Абд ар-Рахман ибн Хабиб</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%90%D0%BB%D1%8C-%D0%92%D0%B0%D1%81%D0%B8%D0%BA_%D0%91%D0%B8%D0%BB%D0%BB%D0%B0%D1%85" title="Аль-Васик Биллах">Аль-Васик Биллах</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%90%D1%85%D0%BC%D0%B0%D0%B4_%D0%B8%D0%B1%D0%BD_%D0%91%D1%83%D0%B2%D0%B0%D0%B9%D1%85" title="Ахмад ибн Бувайх">Ахмад ибн Бувайх</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%97%D1%83%D0%B1%D0%B5%D0%B9%D0%B4%D0%B0_%D0%B1%D0%B8%D0%BD%D1%82_%D0%94%D0%B6%D0%B0%D1%84%D0%B0%D1%80" title="Зубейда бинт Джафар">Зубейда бинт Джафар</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Добротная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/14px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" decoding="async" width="14" height="14" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/21px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/28px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/%D0%9C%D1%83%D1%81%D0%B0_%D0%B0%D0%BB%D1%8C-%D0%A5%D0%B0%D0%B4%D0%B8" title="Муса аль-Хади">Муса аль-Хади</a></li></ul>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9D.D0.BE.D0.B2.D1.8B.D0.B5_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Новые_статьи">Новые статьи</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%BD%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0" title="Маронитская хроника">Маронитская хроника</a><small> — начато 13 января 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2" title="Участник:Игорь Васильев">Игорь Васильев</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BC_(%D1%86%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87_%D0%9A%D0%B0%D1%80%D1%82%D0%BB%D0%B8)" title="Ростом (царевич Картли)">Ростом (царевич Картли)</a><small> — начато 30 октября 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Villarreal9" title="Участник:Villarreal9">Villarreal9</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B9%D1%85%D0%BE%D1%81%D1%80%D0%BE,_%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%9C%D1%83%D1%85%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Кайхосро, князь Мухранский">Кайхосро, князь Мухранский</a><small> — начато 28 октября 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Villarreal9" title="Участник:Villarreal9">Villarreal9</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B0%D0%BA%D0%BE%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9" title="Дмитрий Анакопийский">Дмитрий Анакопийский</a><small> — начато 4 октября 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Villarreal9" title="Участник:Villarreal9">Villarreal9</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BC%D1%82%D0%B0_%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D1%8F%D0%BD" class="mw-redirect" title="Тамта Закарян">Тамта Закарян</a><small> — начато 19 апреля 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Grigor1945" title="Обсуждение участника:Grigor1945">Grigor1945</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A8%D0%B0%D1%85%D0%B8%D0%BD%D1%88%D0%B0%D1%85_I" title="Шахиншах I">Шахиншах I</a><small> — начато 19 апреля 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Grigor1945" title="Обсуждение участника:Grigor1945">Grigor1945</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D1%81%D0%B8%D0%B4%D0%B7%D0%B5" title="Крепость Кавкасидзе">Крепость Кавкасидзе</a><small> — начато 17 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B4%D1%83%D1%81%D0%B8" title="Бардуси">Бардуси</a><small> — начато 17 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%90%D0%B3%D0%B4%D0%B6%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0" class="mw-redirect" title="Агджакала">Агджакала</a><small> — начато 17 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B3%D0%BE%D1%82%D1%85%D0%B5%D0%B2%D0%B8" title="Лонготхеви">Лонготхеви</a><small> — начато 17 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D1%81%D0%BA%D0%B5%D1%80%D1%82%D0%B8" title="Панаскерти">Панаскерти</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%98%D0%BC%D0%B5%D1%80%D1%85%D0%B5%D0%B2%D0%B8_(%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0)" title="Имерхеви (долина)">Имерхеви (долина)</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B5%D0%BA%D0%B8" title="Петереки">Петереки</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D1%82%D0%BB%D0%B5" title="Сатле">Сатле</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%85%D0%B0%D1%80%D0%B8%D1%81%D0%B8" title="Тухариси">Тухариси</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%90%D0%B2%D0%B0%D0%B3_%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D1%8F%D0%BD" class="mw-redirect" title="Аваг Закарян">Аваг Закарян</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Grigor1945" title="Обсуждение участника:Grigor1945">Grigor1945</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%80%D0%B4_%D0%9C%D0%B0%D0%BC%D0%B8%D0%BA%D0%BE%D0%BD%D1%8F%D0%BD" title="Вард Мамиконян">Вард Мамиконян</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Grigor1945" title="Обсуждение участника:Grigor1945">Grigor1945</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%90%D1%85%D0%B8%D0%B7%D0%B0" title="Ахиза">Ахиза</a><small> — начато 16 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D1%8F%D0%BD,_%D0%A1%D0%B0%D1%80%D0%B3%D0%B8%D1%81" class="mw-redirect" title="Закарян, Саргис">Закарян, Саргис</a><small> — начато 15 апреля 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Grigor1945" title="Обсуждение участника:Grigor1945">Grigor1945</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%B6%D0%B8%D1%81%D1%86%D0%B8%D1%85%D0%B5" title="Каджисцихе">Каджисцихе</a><small> — начато 14 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Georgiano" title="Участник:Georgiano">Georgiano</a></small></li></ul>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.BE.D0.B5_.D0.B8.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Избранное_изображение">Избранное изображение</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div style="clear:both;"></div></div>
 </div>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
+<div style="float:right; width:49%">
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BB.D0.B8.D1.87.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Избранная_личность">Избранная личность</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9A.D0.B0.D1.82.D0.B5.D0.B3.D0.BE.D1.80.D0.B8.D0.B8"></span><span class="mw-headline" id="Категории">Категории</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Арабский_халифат" data-ct-loaded="1" data-ct-state="expanded">▼</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Арабский халифат">Арабский халифат</a></div><div class="CategoryTreeChildren" style="display:block"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Аббасидский_халифат" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B1%D0%B1%D0%B0%D1%81%D0%B8%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Аббасидский халифат">Аббасидский халифат</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Армянский_эмират" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D0%BC%D0%B8%D1%80%D0%B0%D1%82" title="Категория:Армянский эмират">Армянский эмират</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B0%D0%BB%D0%B8_%D0%B0%D0%BB%D1%8C-%D0%90%D0%BD%D0%B4%D0%B0%D0%BB%D1%83%D1%81%D0%B0" title="Категория:Вали аль-Андалуса">Вали аль-Андалуса</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B0%D0%BB%D0%B8_%D0%98%D1%84%D1%80%D0%B8%D0%BA%D0%B8%D0%B8" title="Категория:Вали Ифрикии">Вали Ифрикии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Войны_Арабского_халифата" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%BE%D0%B9%D0%BD%D1%8B_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82%D0%B0" title="Категория:Войны Арабского халифата">Войны Арабского халифата</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D1%8B_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82%D0%B0" title="Категория:Монеты Арабского халифата">Монеты Арабского халифата</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Омейядский_халифат" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BC%D0%B5%D0%B9%D1%8F%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Омейядский халифат">Омейядский халифат</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Праведный_халифат" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Праведный халифат">Праведный халифат</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Фатимидский_халифат" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D0%B8%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Фатимидский халифат">Фатимидский халифат</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div></div></div>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Арабский халифат">Другие категории…</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.97.D0.BD.D0.B0.D0.B5.D1.82.D0.B5_.D0.BB.D0.B8_.D0.B2.D1.8B.2C_.D1.87.D1.82.D0.BE.E2.80.A6"></span><span class="mw-headline" id="Знаете_ли_вы,_что…">Знаете ли вы, что…</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li><a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D0%B5" class="mw-redirect" title="Средневековье">Средневековые</a> жанры восточной поэзии — <b><a href="/wiki/%D0%97%D1%83%D1%85%D0%B4%D0%B8%D0%B9%D1%8F%D1%82" title="Зухдийят">зухдийят</a></b> и <b><a href="/wiki/%D0%A5%D0%B0%D0%BC%D1%80%D0%B8%D0%B9%D1%8F%D1%82" title="Хамрийят">хамрийят</a></b> — живы до сих пор.</li>
+<li>Благодаря <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Переводческое движение">средневековым переводам</a> на <b>«<a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Классический арабский язык">латынь Востока</a>»</b> было сохранено <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Античная философия">античное философское наследие</a>.</li>
+<li><b><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Медников, Николай Александрович">Российский востоковед</a></b> доказал подложность <a href="/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%A3%D0%BC%D0%B0%D1%80%D0%B0" title="Договор Умара">Договора Умара</a>.</li>
+<li><b><a href="/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F_%D1%87%D0%B8%D1%81%D1%82%D0%BE%D1%82%D1%8B" title="Братья чистоты">Первая арабская энциклопедия</a></b> была составлена в <a href="/wiki/X_%D0%B2%D0%B5%D0%BA" title="X век">X веке</a>.</li>
+<li>Из 508-летней истории <b><a href="/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82_%D0%90%D0%B1%D0%B1%D0%B0%D1%81%D0%B8%D0%B4%D0%BE%D0%B2" class="mw-redirect" title="Халифат Аббасидов">Багдадского халифата</a></b> <a href="/wiki/%D0%91%D0%B0%D0%B3%D0%B4%D0%B0%D0%B4" title="Багдад">Багдад</a> являлся его столицей 440 лет.</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD" title="Коран">Коран</a> был составлен и утверждён при <b><a href="/wiki/%D0%A3%D1%81%D0%BC%D0%B0%D0%BD_%D0%B8%D0%B1%D0%BD_%D0%90%D1%84%D1%84%D0%B0%D0%BD" title="Усман ибн Аффан">третьем праведном халифе</a></b>.</li></ul>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Арабский халифат/Знаете ли вы/Архив (страница отсутствует)">Архив</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%9A%D0%B0%D0%BA_%D1%8F_%D0%BC%D0%BE%D0%B3%D1%83_%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9A.D0.B0.D0.BA_.D1.8F_.D0.BC.D0.BE.D0.B3.D1.83_.D0.BF.D0.BE.D0.BC.D0.BE.D1.87.D1.8C"></span><span class="mw-headline" id="Как_я_могу_помочь">Как я могу помочь</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A1.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Статьи">Статьи</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B"></span><span class="mw-headline" id="Проекты">Проекты</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div style="clear:both;"></div></div>
+</div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #000000; background:#000000; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82/%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B&amp;action=edit"><span style="color:#FFFFFF; text-decoration: inherit; -moz-text-decoration-color: #FFFFFF; text-decoration-color: #FFFFFF;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#FFFFFF; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A0.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BF.D0.BE.D1.80.D1.82.D0.B0.D0.BB.D1.8B"></span><span class="mw-headline" id="Родственные_порталы">Родственные порталы</span></h2></div>
+<div style="display:block; border:1px solid #000000; vertical-align:top; background:white; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<table width="100%" border="0" cellpadding="5" style="border: 1px solid none;">
 <tbody><tr>
-<td height="12px" width="4%" style="background:Gold;">
-<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
-
-<tbody><tr>
-<td height="10px" width="100%" style="background:SeaGreen;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<p><br />
-</p>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Важнейшие этапы истории</b></span>
-</p>
-<table width="100%" style="border-top:1px dotted White; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<ul><li><span style="color:White">XV-XVII века - <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Бенинское царство"><span style="color:yellow">Бенинское царство</span></a></span></li>
-<li><span style="color:White">1620-1900 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dahomey_flag_1889.svg" class="image"><img alt="Dahomey flag 1889.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dahomey_flag_1889.svg/25px-Dahomey_flag_1889.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dahomey_flag_1889.svg/38px-Dahomey_flag_1889.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dahomey_flag_1889.svg/50px-Dahomey_flag_1889.svg.png 2x" data-file-width="750" data-file-height="500" /></a> <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея"><span style="color:yellow">Королевство Дагомея</span></a></span></li>
-<li><span style="color:White">1890 - <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D0%BE-%D0%B4%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая франко-дагомейская война"><span style="color:yellow">Первая франко-дагомейская война</span></a></span></li>
-<li><span style="color:White">1892-1894 - <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D0%BE-%D0%B4%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая франко-дагомейская война"><span style="color:yellow">Вторая франко-дагомейская война</span></a></span></li>
-<li><span style="color:White">1904-1960 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image"><img alt="Flag of France.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/25px-Flag_of_France.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/38px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Французская Дагомея"><span style="color:yellow">колония Французская Дагомея</span></a></span></li>
-<li><span style="color:White">1960-1975 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin.svg" class="image"><img alt="Flag of Benin.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/25px-Flag_of_Benin.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/38px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/50px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Республика Дагомея"><span style="color:yellow">независимая Республика Дагомея</span></a></span></li>
-<li><span style="color:White">1975-1990 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin_(1975%E2%80%931990).svg" class="image"><img alt="Flag of Benin (1975–1990).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Benin_%281975%E2%80%931990%29.svg/25px-Flag_of_Benin_%281975%E2%80%931990%29.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Benin_%281975%E2%80%931990%29.svg/38px-Flag_of_Benin_%281975%E2%80%931990%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Benin_%281975%E2%80%931990%29.svg/50px-Flag_of_Benin_%281975%E2%80%931990%29.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a> <a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Народная Республика Бенин"><span style="color:yellow">социалистическая Народная Республика Бенин</span></a></span></li>
-<li><span style="color:White">с 1990 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin.svg" class="image"><img alt="Flag of Benin.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/25px-Flag_of_Benin.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/38px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/50px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" class="mw-redirect" title="Республика Бенин"><span style="color:yellow">Республика Бенин</span></a></span></li></ul>
-</td></tr></tbody></table>
-<p align="right" class="plainlinks" style="font-size:8pt; color:#8E5543;"><a class="external text" href="https://ru.wikipedia.org/wiki/Портал:Бенин/Важнейшие_этапы_истории%7C"><span style="color:White">Править</span></a> <b>&gt;&gt;</b> </p>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="12px" width="4%" style="background:Gold;">
-<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
-
-<tbody><tr>
-<td height="10px" width="100%" style="background:SeaGreen;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Объекты Всемирного наследия ЮНЕСКО</b></span>
-</p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abomey-K%C3%B6nigspalast3.jpg" class="image"><img alt="Abomey-Königspalast3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abomey-K%C3%B6nigspalast3.jpg/250px-Abomey-K%C3%B6nigspalast3.jpg" decoding="async" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abomey-K%C3%B6nigspalast3.jpg/375px-Abomey-K%C3%B6nigspalast3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abomey-K%C3%B6nigspalast3.jpg/500px-Abomey-K%C3%B6nigspalast3.jpg 2x" data-file-width="3888" data-file-height="2592" /></a></div>
-<p><span style="color:White"><b>Королевские дворцы Абомея</b> — комплекс из 12 дворцов <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">дагомейских</span></a> правителей, занимающий площадь в 40 га в центре <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">бенинского</span></a> города <a href="/wiki/%D0%90%D0%B1%D0%BE%D0%BC%D0%B5%D0%B9" title="Абомей"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Абомей</span></a>. Со сменой правителя рядом со старыми строился новый дворец, таким образом комплекс служит уникальным памятником исчезнувшего государства. В 1985 году объект был включён в список <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5" title="Всемирное наследие"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Всемирного наследия</span></a> <a href="/wiki/%D0%AE%D0%9D%D0%95%D0%A1%D0%9A%D0%9E" title="ЮНЕСКО"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">ЮНЕСКО</span></a>. Так как за год до этого Абомей подвергся удару урагана, который повредил некоторые строения, комплекс попал в <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2_%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F,_%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D1%85%D1%81%D1%8F_%D0%BF%D0%BE%D0%B4_%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B9_%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Список объектов Всемирного наследия, находящихся под угрозой уничтожения"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Список объектов Всемирного наследия, находящихся под угрозой уничтожения</span></a>. При участии некоторых международных агентств были проведены реставрационные работы. Принимая это во внимание, ЮНЕСКО в 2007 году исключило объект из последнего списка.</span>
-<i>(<a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D1%8B_%D0%90%D0%B1%D0%BE%D0%BC%D0%B5%D1%8F" title="Королевские дворцы Абомея"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">далее…</span></a>)</i>
-</p>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="12px" width="4%" style="background:Gold;">
-<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
-
-<tbody><tr>
-<td height="10px" width="100%" style="background:SeaGreen;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b> Как я могу помочь</b></span>
-</p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<p><span style="color:White"><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Проект:Бенин/Участники (страница отсутствует)">Присоединяйтесь</a> к <b><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Проект:Бенин (страница отсутствует)">проекту Бенин</a></b>! Вы можете помочь:</span>
-</p>
-<ul><li><span style="color:White">улучшением статей проекта до <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">статуса избранных</span></a>.</span></li>
-<li><span style="color:White">написанием <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Недостающие статьи (страница отсутствует)">недостающих</a> и <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Служебная:Новые страницы"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">новых статей</span></a> (например, переводом из англоязычной Википедии) о Буркина-Фасо;</span></li>
-<li><span style="color:White">исправлением ошибок и улучшением статей <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A2%D0%98%D0%9B%D0%AC" class="mw-redirect" title="Википедия:СТИЛЬ"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">стилистики статей</span></a>;</span></li>
-<li><span style="color:White">проставлением <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A1%D0%B2%D1%8F%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Проект:Связность"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">категорий</span></a> и <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BA%D0%B8" title="Википедия:Интервики"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">интервики</span></a>;</span></li>
-<li><span style="color:White">добавлением <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Иллюстрирование"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">иллюстраций</span></a> и т.п.</span></li></ul>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="12px" width="4%" style="background:Gold;">
-<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
-
-<tbody><tr>
-<td height="10px" width="100%" style="background:SeaGreen;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
-
-<tbody><tr>
-<td>
-<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Викисклад</b></span>
-</p>
-<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
-
-<tbody><tr>
-<td>
-<table style="text-align:center; font-size:8pt; background-color:transparent; width:100%; margin-top:1em;">
-
-<tbody><tr align="center">
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:People_of_Benin" title="commons:Category:People of Benin"><img alt="Célébration de ma communion Cotonou St Augustin 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg/100px-C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg/150px-C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg/200px-C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg 2x" data-file-width="2448" data-file-height="2448" /></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Economy_of_Benin" title="commons:Category:Economy of Benin"><img alt="Rue 4.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rue_4.jpg/100px-Rue_4.jpg" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rue_4.jpg/150px-Rue_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rue_4.jpg/200px-Rue_4.jpg 2x" data-file-width="2044" data-file-height="1279" /></a>
-</td></tr>
-<tr>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:People_of_Benin" class="extiw" title="commons:Category:People of Benin"><span style="color:White">Люди</span></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Economy_of_Benin" class="extiw" title="commons:Category:Economy of Benin"><span style="color:White">Экономика</span></a>
-</td></tr>
-<tr align="center">
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Culture_of_Benin" title="commons:Category:Culture of Benin"><img alt="Group OSHALA from Benin in Saint Petersburg 13.6.2015 02.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG/100px-Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG" decoding="async" width="100" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG/150px-Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG/200px-Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG 2x" data-file-width="2189" data-file-height="1826" /></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Nature_of_Benin" title="commons:Category:Nature of Benin"><img alt="ESPERANTO tree.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ESPERANTO_tree.JPG/100px-ESPERANTO_tree.JPG" decoding="async" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ESPERANTO_tree.JPG/150px-ESPERANTO_tree.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ESPERANTO_tree.JPG/200px-ESPERANTO_tree.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
-</td></tr>
-<tr>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Culture_of_Benin" class="extiw" title="commons:Culture of Benin"><span style="color:White">Культура</span></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Nature_of_Benin" class="extiw" title="commons:Category:Nature of Benin"><span style="color:White">Природа</span></a>
-</td></tr>
-<tr align="center">
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Geography_of_Benin" title="commons:Category:Geography of Benin"><img alt="Pendjari.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pendjari.JPG/100px-Pendjari.JPG" decoding="async" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pendjari.JPG/150px-Pendjari.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pendjari.JPG/200px-Pendjari.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Politics_of_Benin" title="commons:Category:Politics of Benin"><img alt="Vladimir Putin with Vissinto Ayi d&#39;Almeida.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg/100px-Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg/150px-Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg/200px-Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg 2x" data-file-width="500" data-file-height="334" /></a>
-</td></tr>
-<tr>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Geography_of_Benin" class="extiw" title="commons:Category:Geography of Benin"><span style="color:White">География</span></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Politics_of_Benin" class="extiw" title="commons:Category:Politics of Benin"><span style="color:White">Политика</span></a>
-</td></tr>
-
-<tr>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:History_of_Benin" title="commons:Category:History of Benin"><img alt="Dodds-Abomey.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dodds-Abomey.jpg/100px-Dodds-Abomey.jpg" decoding="async" width="100" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dodds-Abomey.jpg/150px-Dodds-Abomey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dodds-Abomey.jpg/200px-Dodds-Abomey.jpg 2x" data-file-width="760" data-file-height="560" /></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Society_of_Benin" title="commons:Category:Society of Benin"><img alt="Beach peddlers.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Beach_peddlers.jpg/100px-Beach_peddlers.jpg" decoding="async" width="100" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Beach_peddlers.jpg/150px-Beach_peddlers.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Beach_peddlers.jpg/200px-Beach_peddlers.jpg 2x" data-file-width="960" data-file-height="810" /></a>
-</td></tr>
-<tr>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:History_of_Benin" class="extiw" title="commons:Category:History of Benin"><span style="color:White">История</span></a>
-</td>
-<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Society_of_Benin" class="extiw" title="commons:Category:Society of Benin"><span style="color:White">Общество</span></a>
-</td></tr>
-
-</tbody></table>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-</td>
-<td style="background:#f9f9f9; padding-left:8px; padding-bottom:.5em; padding-right:20px; padding-top:.5em; font-size:95%;" valign="top">
-<table style="background:none; margin-top:1em;" align="center" cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td>
-<table style="border-top:1px dotted Red; background:none; padding-top:2em; margin-bottom:.5em;" cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td>
-<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Benin.svg" class="image" title="Герб Бенина"><img alt="Герб Бенина" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/150px-Coat_of_arms_of_Benin.svg.png" decoding="async" width="150" height="132" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/225px-Coat_of_arms_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/300px-Coat_of_arms_of_Benin.svg.png 2x" data-file-width="475" data-file-height="419" /></a></div>
-<table style="margin-right: 1em" align="left" cellspacing="1" cellpadding="2">
-<tbody><tr>
-<td><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin.svg" class="image" title="Флаг Бенина"><img alt="Флаг Бенина" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/170px-Flag_of_Benin.svg.png" decoding="async" width="170" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/255px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/340px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a></div>
-</td>
-<td>
-</td></tr>
-<tr>
-<td colspan="2" align="center"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Location_Benin_AU_Africa.svg" class="image" title="Бенин на карте Африки"><img alt="Бенин на карте Африки" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/170px-Location_Benin_AU_Africa.svg.png" decoding="async" width="170" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/255px-Location_Benin_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/340px-Location_Benin_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
-</td></tr></tbody></table>
-<p><b>Бени́н</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Bénin</span>), полная официальная форма — <b>Респу́блика Бени́н</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">République du Bénin</span>, до 1975 года <b><a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея">Дагоме́я</a></b>) — <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Государство">государство</a> в <a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Западная Африка">Западной Африке</a>. Имеет выход к <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD_(%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2)" title="Бенин (залив)">заливу Бенин</a> <a href="/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2" title="Гвинейский залив">Гвинейского залива</a>. На севере граничит с <a href="/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо">Буркина-Фасо</a> и <a href="/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер">Нигером</a>, на востоке — с <a href="/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F" title="Нигерия">Нигерией</a>, на западе — с <a href="/wiki/%D0%A2%D0%BE%D0%B3%D0%BE" title="Того">Того</a>. Столица — <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE" title="Порто-Ново">Порто-Ново</a>, однако правительство размещается в <a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BD%D1%83" title="Котону">Котону</a>, самом крупном городе страны. В административном отношении делится на <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Административное деление Бенина">12 департаментов</a>.
-В древности на севере страны проживало племя <a href="/wiki/%D0%93%D1%83%D1%80%D0%BC%D0%B0" title="Гурма">гурма</a>, которых затем оттеснило племя барба, пришедшее с территории современной Нигерии. На юге страны жили племена <a href="/wiki/%D0%A4%D0%BE%D0%BD_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Фон (народ)">фон</a> и <a href="/wiki/%D0%90%D0%B4%D0%B6%D0%B0_(%D1%8F%D0%B7%D1%8B%D0%BA)" title="Аджа (язык)">аджа</a>.
-В XV веке на побережье Бенина появились португальцы. В XVI—XVII веках были построены форты и фактории французских, голландских, английских купцов и работорговцев. С XVII века побережье Бенина и соседние области были превращены европейцами в крупнейший район <a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F" title="Работорговля">работорговли</a> в Африке (отсюда название побережья — <i>Невольничий берег</i>).
-В XVII веке на современной территории Бенина сложилось раннее государство <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея">Дагомея</a>. Его население занималось в основном мотыжным земледелием. Общественный строй — переходный от первобытнообщинного к феодальному, с элементами рабовладельческого.
-В XVIII веке правители Дагомеи активно занимались работорговлей, ежегодно европейским купцам продавалось, по некоторым оценкам, до 20 тыс. рабов. Это продолжалось вплоть до середины XIX века, когда работорговля была запрещена большинством европейских стран.
-<i>(<a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">далее…</a>)</i>
-</p>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<table style="background:none; margin-top:1em; margin-bottom:.75em;" cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td style="padding-right:10px;" width="50%" valign="top">
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Столица</b>
-</td></tr></tbody></table>
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Grande_mosquee_porto-novo.jpg" class="image"><img alt="Grande mosquee porto-novo.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grande_mosquee_porto-novo.jpg/150px-Grande_mosquee_porto-novo.jpg" decoding="async" width="150" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grande_mosquee_porto-novo.jpg/225px-Grande_mosquee_porto-novo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grande_mosquee_porto-novo.jpg/300px-Grande_mosquee_porto-novo.jpg 2x" data-file-width="3228" data-file-height="2189" /></a></div>
-<p><b>По́рто-Но́во</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Porto-Novo</span>; также известен как <b>Хогбону</b>, <b>Огбону</b>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Hogbonou</span>, <b>Адъясе</b>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Adjacé</span>) — официальная <a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0" title="Столица">столица</a> государства <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">Бенин</a>; не являющаяся, однако, местом постоянного пребывания правительства страны.
-</p><p>Город является одним из портов <a href="/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2" title="Гвинейский залив">Гвинейского залива</a>, и располагается в юго-восточной части страны. Порто-Ново — второй по величине город Бенина, однако же, город <a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BD%D1%83" title="Котону">Котону</a> по своему статусу является более важным для страны — как в культурном, так и в политическом плане. В данном регионе производится <a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Пальмовое масло">пальмовое масло</a>, <a href="/wiki/%D0%A5%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA" title="Хлопок">хлопок</a> и <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%BE%D0%BA" class="mw-redirect" title="Капок">капок</a>. <a href="/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8C" title="Нефть">Нефтяные</a> месторождения были открыты в районе побережья Бенина в <a href="/wiki/1990" class="mw-redirect" title="1990">1990</a>-е годы, и стали важной частью <a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Экспорт">экспортной</a> экономики страны.
-<i>(<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE" title="Порто-Ново">далее…</a>)</i>
-</p>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Политическое устройство</b>
-</td></tr></tbody></table>
-<ul><li>Форма правления: <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Президентская республика">президентская республика</a>.</li>
-<li>Законодательная власть: принадлежит как Правительству, так и Парламенту.</li>
-<li>Исполнительная власть: Правительство во главе с Президентом.</li></ul>
-<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Бенин/Политическое устройство">Править</a> <b>&gt;&gt;</b> </p>
-</td></tr></tbody></table>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Интересная статья</b>
-</td></tr></tbody></table>
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dahomey_amazon2.jpg" class="image"><img alt="Dahomey amazon2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/150px-Dahomey_amazon2.jpg" decoding="async" width="150" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/225px-Dahomey_amazon2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/300px-Dahomey_amazon2.jpg 2x" data-file-width="819" data-file-height="536" /></a></div>
-<p><b>Дагомейские амазонки</b> — женское военное формирование в королевстве <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея">Дагомея</a> народа <a href="/wiki/%D0%A4%D0%BE%D0%BD_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Фон (народ)">фон</a>, существовавшее до конца XIX века. Получило своё название от западных путешественников и историков, сравнивавших этих женщин с полумифическими <a href="/wiki/%D0%90%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD%D0%BA%D0%B8" title="Амазонки">амазонками</a>, якобы жившими в древности на территории Малой Азии и по берегам Чёрного моря.
-</p><p>Король Хоегбаджа (который правил с 1645 по 1685 год), третий король Дагомеи, как сообщается, создал первое формирование, которое позднее превратилось в «амазонок», в качестве отряда охотников на слонов, носивших название гбето. Сын короля Хоегбаджи Агаджа (правивший с 1708 по 1732 год) создал отряд женщин-телохранителей в своей армии, хотя на самом деле их функции сводились, скорее, к аналогичным у русских «потешных полков» набранных из женщин. Сведения об их существовании встречаются в записях европейских торговцев, которые сообщали об аналогичных воительницах среди народа <a href="/wiki/%D0%90%D1%88%D0%B0%D0%BD%D1%82%D0%B8_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Ашанти (народ)">ашанти</a>. В течение следующих приблизительно ста лет они распространяли о себе слухи, как о бесстрашных воинах, хотя они воевали редко, и потому не могли зарекомендовать себя как бойцы.
-<i>(<a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD%D0%BA%D0%B8" title="Дагомейские амазонки">далее…</a>)</i>
-</p><p><br />
-</p>
-<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Портал:Бенин/Интересная статья">Архив</a> <b>•</b> <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Портал:Бенин/Интересная статья">Править</a> <b>&gt;&gt;</b> </p>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Интересное изображение</b>
-</td></tr></tbody></table>
-<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vue_panoramique_de_Natitingou.jpg" class="image"><img alt="Vue panoramique de Natitingou.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vue_panoramique_de_Natitingou.jpg/450px-Vue_panoramique_de_Natitingou.jpg" decoding="async" width="450" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vue_panoramique_de_Natitingou.jpg/675px-Vue_panoramique_de_Natitingou.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vue_panoramique_de_Natitingou.jpg/900px-Vue_panoramique_de_Natitingou.jpg 2x" data-file-width="1024" data-file-height="461" /></a></div></div> <center> Вид <a href="/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%82%D0%B8%D0%BD%D0%B3%D1%83" title="Натитингу">Натитингу</a> </center>
-<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"> <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Интересное изображение/Архив (страница отсутствует)">Архив</a> <b>•</b> <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Портал:Бенин/Интересное изображение">Править</a> <b>&gt;&gt;</b> </p>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Интересная личность</b>
-</td></tr></tbody></table>
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg" class="image"><img alt="Эмиль Зинсу.jpg" src="//upload.wikimedia.org/wikipedia/ru/thumb/4/4b/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg/150px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg" decoding="async" width="150" height="84" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/4/4b/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg/225px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/4/4b/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg/300px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg 2x" data-file-width="400" data-file-height="225" /></a></div>
-<p><b>Эмиль Дерлин Генри Зинсу</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Émile Derlin Henri Zinsou</span>; <a href="/wiki/23_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="23 марта">23 марта</a> <a href="/wiki/1918" class="mw-redirect" title="1918">1918</a>, <a href="/wiki/%D0%A3%D0%B8%D0%B4%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" class="mw-redirect" title="Уида (город)">Уида</a> — <a href="/wiki/28_%D0%B8%D1%8E%D0%BB%D1%8F" title="28 июля">28 июля</a> <a href="/wiki/2016" class="mw-redirect" title="2016">2016</a>, <a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BD%D1%83" title="Котону">Котону</a>) — <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">бенинский</a> политик, президент <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Республика Дагомея">Республики Дагомея</a>, ныне <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">Бенин</a> с 17 июля 1968 года по 10 декабря 1969 года.
-</p><p>Эмиль Зинсу родился 23 марта 1918 года в португальском колониальном городке Уида (Вида). Вскоре его семья перебралась во <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Французская Дагомея">Французскую Дагомею</a>, которая стала его родиной. Закончив школу, а затем ВУЗ, получил диплом врача. С 1955 года по 1958 был <a href="/wiki/%D0%94%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82" title="Депутат">депутатом</a> <a href="/wiki/%D0%94%D0%B2%D1%83%D1%85%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82" title="Двухпалатный парламент">верхней палаты</a> <a href="/wiki/%D0%A7%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D0%B0%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Четвёртая французская республика">французского</a> <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Парламент Франции">парламента</a>. После получения независимости Дагомеей в 1960 году он работал на дипломатическом поприще, а также периодически министром здравоохранения и иностранных дел в различных правительствах страны в 1962-1963 годах и 1965-1967 годах. 
-<i>(<a href="/wiki/%D0%97%D0%B8%D0%BD%D1%81%D1%83,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C" title="Зинсу, Эмиль">далее…</a>)</i>
-</p><p><br />
-</p>
-<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"> <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Интересное изображение/Архив (страница отсутствует)">Архив</a> <b>•</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Бенин/Интересная_личность&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Родственные порталы</b>
-</td></tr></tbody></table>
-<table style="width:100%; border:0; background-color:transparent; padding:0; padding-top:1em;" cellspacing="0">
-<tbody><tr>
-<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Африка"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/50px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/75px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/100px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/50px-P_history.svg.png" decoding="async" width="50" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/75px-P_history.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/100px-P_history.svg.png 2x" data-file-width="400" data-file-height="360" /></a>
 </th>
-<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Портал:Бенин"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/50px-Coat_of_arms_of_Benin.svg.png" decoding="async" width="50" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/75px-Coat_of_arms_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/100px-Coat_of_arms_of_Benin.svg.png 2x" data-file-width="475" data-file-height="419" /></a>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D0%B5" title="Портал:Средневековье"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castle_Icon-fr.svg/50px-Castle_Icon-fr.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castle_Icon-fr.svg/75px-Castle_Icon-fr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Castle_Icon-fr.svg/100px-Castle_Icon-fr.svg.png 2x" data-file-width="250" data-file-height="250" /></a>
 </th>
-<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Портал:Нигер"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/50px-Flag_of_Niger.svg.png" decoding="async" width="50" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/75px-Flag_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/100px-Flag_of_Niger.svg.png 2x" data-file-width="700" data-file-height="600" /></a>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Портал:Османская империя"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fictitious_Ottoman_flag_2.svg/50px-Fictitious_Ottoman_flag_2.svg.png" decoding="async" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fictitious_Ottoman_flag_2.svg/75px-Fictitious_Ottoman_flag_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fictitious_Ottoman_flag_2.svg/100px-Fictitious_Ottoman_flag_2.svg.png 2x" data-file-width="900" data-file-height="600" /></a>
 </th>
-<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F" title="Портал:Нигерия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/50px-Flag_of_Nigeria.svg.png" decoding="async" width="50" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/75px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/100px-Flag_of_Nigeria.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
-</th>
-<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%BE%D0%B3%D0%BE" title="Портал:Того"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/50px-Emblem_of_Togo.svg.png" decoding="async" width="50" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/75px-Emblem_of_Togo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/100px-Emblem_of_Togo.svg.png 2x" data-file-width="1220" data-file-height="1520" /></a>
+<th width="10%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Портал:Ислам"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/IslamSymbol.svg/50px-IslamSymbol.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/IslamSymbol.svg/75px-IslamSymbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/IslamSymbol.svg/100px-IslamSymbol.svg.png 2x" data-file-width="213" data-file-height="213" /></a>
 </th></tr>
-<tr style="padding:0;">
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Африка">Африка</a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Портал:Буркина-Фасо">Буркина-Фасо</a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Портал:Нигер">Нигер</a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F" title="Портал:Нигерия">Нигерия</a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%BE%D0%B3%D0%BE" title="Портал:Того">Того</a>
-</th></tr></tbody></table>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Родственные проекты</b>
-</td></tr></tbody></table>
-<table class="noprint" style="clear:both; background:none;" align="center" cellpadding="5" border="0" width="90%">
-
-<tbody><tr>
-<td width="8%"><center> <a href="https://ru.wiktionary.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="wikt:Бенин"><img alt="Wiktionary-logo-sv.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/35px-Wiktionary-logo-sv.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/53px-Wiktionary-logo-sv.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/70px-Wiktionary-logo-sv.png 2x" data-file-width="135" data-file-height="135" /></a></center>
-</td>
-<td width="25%"><b><a href="https://ru.wiktionary.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" class="extiw" title="wikt:Бенин">Wiktionary</a></b><br />Викисловарь
-</td>
-<td width="8%"><center><a href="https://commons.wikimedia.org/wiki/Category:Benin" title="commons:Category:Benin"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></center>
-</td>
-<td width="25%"><b><a href="https://commons.wikimedia.org/wiki/Category:Benin" class="extiw" title="commons:Category:Benin">Commons</a></b><br />Викисклад
-</td>
-<td width="8%"><center><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikiquote-logo.svg" class="image" title="link=Q%3ATomas%20tula/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA"><img alt="link=Q%3ATomas%20tula/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" decoding="async" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></center>
-</td>
-<td width="25%"><b><a href="https://ru.wikiquote.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" class="extiw" title="q:Бенин">Wikiquote</a></b><br />Викицитатник
-</td></tr></tbody></table>
-<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
-
-<tbody><tr>
-<td><b>Основные статьи</b>
-</td></tr></tbody></table>
-<div role="navigation" class="navbox" aria-labelledby="Бенин_в_темах" data-name="Бенин в темах" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD_%D0%B2_%D1%82%D0%B5%D0%BC%D0%B0%D1%85" title="Просмотр этого шаблона"><img alt="⛭" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span><div id="Бенин_в_темах" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">Бенин</a> в темах</div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
-<ul><li><a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Герб Бенина">Герб</a></li>
-<li><a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Флаг Бенина">Флаг</a></li>
-<li><a href="/wiki/%D0%93%D0%B8%D0%BC%D0%BD_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Гимн Бенина">Гимн</a></li>
-<li><a href="/w/index.php?title=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%B9_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Государственный строй Бенина (страница отсутствует)">Государственный строй</a></li>
-<li><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Конституция Бенина (страница отсутствует)">Конституция</a></li>
-<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Парламент Бенина">Парламент</a></li>
-<li><a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Административное деление Бенина">Административное деление</a></li>
-<li><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="География Бенина">География</a></li>
-<li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Города Бенина">Города</a></li>
-<li><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Столица Бенина">Столица</a></li>
-<li><a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Население Бенина">Население</a></li>
-<li><a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Языки Бенина">Языки</a></li>
-<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="История Бенина">История</a></li>
-<li><a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Экономика Бенина">Экономика</a></li>
-<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D1%8E%D1%82%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Валюта Бенина">Валюта</a></li>
-<li><a href="/w/index.php?title=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Культура Бенина (страница отсутствует)">Культура</a></li>
-<li><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Религия в Бенине (страница отсутствует)">Религия</a></li>
-<li><a href="/w/index.php?title=%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Кинематограф Бенина (страница отсутствует)">Кинематограф</a></li>
-<li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Литература Бенина">Литература</a></li>
-<li><a href="/w/index.php?title=%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Музыка Бенина (страница отсутствует)">Музыка</a></li>
-<li><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Праздники Бенина (страница отсутствует)">Праздники</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Спорт в Бенине (страница отсутствует)">Спорт</a></li>
-<li><a href="/w/index.php?title=%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Образование в Бенине (страница отсутствует)">Образование</a></li>
-<li><a href="/w/index.php?title=%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Наука в Бенине (страница отсутствует)">Наука</a></li>
-<li><a href="/w/index.php?title=%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Транспорт в Бенине (страница отсутствует)">Транспорт</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Сельское хозяйство Бенина (страница отсутствует)">Сельское хозяйство</a></li>
-<li><a href="/w/index.php?title=%D0%A2%D1%83%D1%80%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Туризм в Бенине (страница отсутствует)">Туризм</a></li>
-<li><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Почта Бенина">Почта</a>
-<ul><li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D0%BE%D1%87%D1%82%D1%8B_%D0%B8_%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D1%85_%D0%BC%D0%B0%D1%80%D0%BE%D0%BA_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="История почты и почтовых марок Бенина">история и марки</a></li></ul></li>
-<li><a href="/w/index.php?title=%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Телевидение в Бенине (страница отсутствует)">Телевидение</a></li>
-<li><a href="/w/index.php?title=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Интернет в Бенине (страница отсутствует)">Интернет</a></li>
-<li><a href="/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Вооружённые силы Бенина">Вооружённые силы</a></li>
-<li><a href="/w/index.php?title=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Внешняя политика Бенина (страница отсутствует)">Внешняя политика</a></li></ul>
-</div></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div><b><a class="mw-selflink selflink">Портал «Бенин»</a></b></div></td></tr></tbody></table></div>
-<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"> </p>
-</td></tr>
 <tr>
-<td>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td style="background:SeaGreen;" height="40px" width="4%">
-</td></tr></tbody></table>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История"><span class="nowrap">История</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D0%B5" title="Портал:Средневековье"><span class="nowrap">Средневековье</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Портал:Османская империя"><span class="nowrap">Османская империя</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Портал:Ислам"><span class="nowrap">Ислам</span></a>
+</th></tr></tbody></table>
+<div style="clear:both;"></div></div>
 </td>
-<td>
-<table cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr>
-<td height="40px" width="2%" style="background:FireBrick;">
-</td></tr></tbody></table>
-</td></tr></tbody></table>
+</tr>
+</tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1349
-Cached time: 20210314112433
-Cache expiry: 86400
+Parsed by mw1352
+Cached time: 20210313124836
+Cache expiry: 21600
 Dynamic content: true
 Complications: []
-CPU time usage: 0.245 seconds
-Real time usage: 0.542 seconds
-Preprocessor visited node count: 1568/1000000
-Post‐expand include size: 55773/2097152 bytes
-Template argument size: 5922/2097152 bytes
-Highest expansion depth: 11/40
-Expensive parser function count: 5/500
+CPU time usage: 0.271 seconds
+Real time usage: 0.505 seconds
+Preprocessor visited node count: 2606/1000000
+Post‐expand include size: 89605/2097152 bytes
+Template argument size: 9531/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 21/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.014/10.000 seconds
-Lua memory usage: 840105/52428800 bytes
+Unstrip post‐expand size: 5664/5000000 bytes
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1444644/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  430.781      1 -total
- 15.93%   68.610      1 Портал:Бенин/Основные_статьи
- 14.66%   63.138      1 Портал:Бенин/Родственные_порталы
- 13.94%   60.065      1 Шаблон:Бенин_в_темах
- 12.62%   54.347      1 Шаблон:Страна_в_темах
- 10.72%   46.180      5 Шаблон:РисПортала
- 10.24%   44.126      1 Шаблон:Навигационная_полоса
-  9.75%   41.984      1 Портал:Бенин/Интересная_личность
-  9.49%   40.891      1 Шаблон:Навигационная_таблица
-  8.40%   36.189      1 Портал:Бенин/Как_я_могу_помочь
+100.00%  395.737      1 -total
+ 22.64%   89.614     12 Портал:Арабский_халифат/box-header
+ 21.04%   83.245     12 Шаблон:Box-header
+ 15.55%   61.542     24 Шаблон:Цветовой_контраст
+ 14.13%   55.922      1 Портал:Арабский_халифат/Родственные_порталы
+ 13.24%   52.398      1 Портал:Арабский_халифат/Лучшие_статьи
+ 11.89%   47.048      1 Портал:Арабский_халифат/Новые_статьи
+ 10.21%   40.394      4 Шаблон:РисПортала
+  9.67%   38.257      1 Портал:Арабский_халифат/Категории
+  8.85%   35.011     20 Шаблон:Новая_статья
 -->
 
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:6773316-0!canonical and timestamp 20210314112432 and revision id 89474450. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:6261596-0!canonical and timestamp 20210313124836 and revision id 76820729. Serialized with JSON.
  -->
 </div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Бенин&amp;oldid=89474450">https://ru.wikipedia.org/w/index.php?title=Портал:Бенин&amp;oldid=89474450</a></div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Категория:Бенин">Бенин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Категория:Портал:Африка">Портал:Африка</a></li></ul></div></div>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Арабский_халифат&amp;oldid=76820729">https://ru.wikipedia.org/w/index.php?title=Портал:Арабский_халифат&amp;oldid=76820729</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Категория:Арабский халифат">Арабский халифат</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%B2_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5" title="Категория:Порталы в разработке">Порталы в разработке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Категория:Портал:История">Портал:История</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -563,7 +254,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -576,7 +267,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD">Портал</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t">Обсуждение</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82">Портал</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -603,7 +294,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -673,7 +364,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;oldid=89474450" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;oldid=76820729" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li></ul>
 		
 	</div>
 </nav>
@@ -684,7 +375,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
 		
 	</div>
 </nav>
@@ -697,7 +388,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	</h3>
 	<div class="vector-menu-content">
 		<ul class="vector-menu-content-list"></ul>
-		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwiki&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwiki&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9+%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -706,7 +397,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 5 декабря 2017 в 21:14.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 февраля 2016 в 21:13.</li>
 	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
 <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
 Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
@@ -717,7 +408,7 @@ Wikipedia® — зарегистрированный товарный знак 
 	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
 	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
 	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
-	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%B0%D0%BB%D0%B8%D1%84%D0%B0%D1%82&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
 	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
@@ -732,5 +423,5 @@ Wikipedia® — зарегистрированный товарный знак 
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.245","walltime":"0.542","ppvisitednodes":{"value":1568,"limit":1000000},"postexpandincludesize":{"value":55773,"limit":2097152},"templateargumentsize":{"value":5922,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  430.781      1 -total"," 15.93%   68.610      1 Портал:Бенин/Основные_статьи"," 14.66%   63.138      1 Портал:Бенин/Родственные_порталы"," 13.94%   60.065      1 Шаблон:Бенин_в_темах"," 12.62%   54.347      1 Шаблон:Страна_в_темах"," 10.72%   46.180      5 Шаблон:РисПортала"," 10.24%   44.126      1 Шаблон:Навигационная_полоса","  9.75%   41.984      1 Портал:Бенин/Интересная_личность","  9.49%   40.891      1 Шаблон:Навигационная_таблица","  8.40%   36.189      1 Портал:Бенин/Как_я_могу_помочь"]},"scribunto":{"limitreport-timeusage":{"value":"0.014","limit":"10.000"},"limitreport-memusage":{"value":840105,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20210314112433","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":848,"wgHostname":"mw1349"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.271","walltime":"0.505","ppvisitednodes":{"value":2606,"limit":1000000},"postexpandincludesize":{"value":89605,"limit":2097152},"templateargumentsize":{"value":9531,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5664,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  395.737      1 -total"," 22.64%   89.614     12 Портал:Арабский_халифат/box-header"," 21.04%   83.245     12 Шаблон:Box-header"," 15.55%   61.542     24 Шаблон:Цветовой_контраст"," 14.13%   55.922      1 Портал:Арабский_халифат/Родственные_порталы"," 13.24%   52.398      1 Портал:Арабский_халифат/Лучшие_статьи"," 11.89%   47.048      1 Портал:Арабский_халифат/Новые_статьи"," 10.21%   40.394      4 Шаблон:РисПортала","  9.67%   38.257      1 Портал:Арабский_халифат/Категории","  8.85%   35.011     20 Шаблон:Новая_статья"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1444644,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20210313124836","ttl":21600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":706,"wgHostname":"mw1352"});});</script>
 </body></html>

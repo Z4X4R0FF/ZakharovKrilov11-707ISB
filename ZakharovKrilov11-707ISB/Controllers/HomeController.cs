@@ -46,6 +46,7 @@ namespace ZakharovKrilov11_707ISB.Controllers
             var tokens = await _tokenizer.TokenizeDocumentsInFolder();
             _tokenizer.WriteTokensToTxt(tokens);
 
+            Lemmatizer.Lemmatize("Htmls/Tokens.txt");
             return View();
         }
 

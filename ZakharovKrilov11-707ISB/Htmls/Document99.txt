@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Портал:Абхазия — Википедия</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEesSpRaSKGT2KMJvMBP1wAAAIM","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Абхазия","wgTitle":"Абхазия","wgCurRevisionId":104389537,"wgRevisionId":104389537,"wgArticleId":1547426,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Портал:Абхазия","Абхазия"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Абхазия",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YE3u8R@6DQPMPGO-K17ZZgAAAEA","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Абхазия","wgTitle":"Абхазия","wgCurRevisionId":104389537,"wgRevisionId":104389537,"wgArticleId":1547426,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Портал:Абхазия","Абхазия"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Абхазия",
 "wgRelevantArticleId":1547426,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":104389537,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,
 "wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q11151582"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation",
 "ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
@@ -14,7 +14,7 @@
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.33"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.34"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
@@ -365,13 +365,13 @@
 </div></div>
 <!-- 
 NewPP limit report
-Parsed by mw1334
-Cached time: 20210308233034
+Parsed by mw1328
+Cached time: 20210314041643
 Cache expiry: 86400
 Dynamic content: true
 Complications: []
-CPU time usage: 0.216 seconds
-Real time usage: 0.326 seconds
+CPU time usage: 0.252 seconds
+Real time usage: 0.411 seconds
 Preprocessor visited node count: 1337/1000000
 Post‐expand include size: 72306/2097152 bytes
 Template argument size: 5446/2097152 bytes
@@ -383,19 +383,19 @@ Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  166.339      1 -total
- 83.26%  138.487     10 Портал:Абхазия/Секция
- 26.16%   43.509      1 Портал:Абхазия/Новые_статьи
- 22.42%   37.293     10 Шаблон:Новая_статья
- 16.42%   27.309      1 Портал:Абхазия/Порталы
- 12.00%   19.959      1 Шаблон:Порталы
- 10.87%   18.082      3 Шаблон:РисПортала
- 10.07%   16.750      1 Шаблон:Index_box
-  9.69%   16.118      1 Портал:Абхазия/Введение
-  8.02%   13.345      1 Шаблон:Индекс
+100.00%  250.502      1 -total
+ 85.10%  213.177     10 Портал:Абхазия/Секция
+ 24.76%   62.022      1 Портал:Абхазия/Избранное_изображение
+ 17.43%   43.671      1 Портал:Абхазия/Новые_статьи
+ 14.62%   36.634      1 Портал:Абхазия/Порталы
+ 11.94%   29.912     10 Шаблон:Новая_статья
+ 11.80%   29.560      1 Шаблон:Порталы
+ 10.70%   26.795      1 Портал:Абхазия/Рамка
+  9.42%   23.599      1 Шаблон:Index_box
+  8.79%   22.016      3 Шаблон:РисПортала
 -->
 
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:1547426-0!canonical and timestamp 20210308233034 and revision id 104389537. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1547426-0!canonical and timestamp 20210314041643 and revision id 104389537. Serialized with JSON.
  -->
 </div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Абхазия&amp;oldid=104389537">https://ru.wikipedia.org/w/index.php?title=Портал:Абхазия&amp;oldid=104389537</a></div></div>
@@ -585,5 +585,5 @@ Wikipedia® — зарегистрированный товарный знак 
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.326","ppvisitednodes":{"value":1337,"limit":1000000},"postexpandincludesize":{"value":72306,"limit":2097152},"templateargumentsize":{"value":5446,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  166.339      1 -total"," 83.26%  138.487     10 Портал:Абхазия/Секция"," 26.16%   43.509      1 Портал:Абхазия/Новые_статьи"," 22.42%   37.293     10 Шаблон:Новая_статья"," 16.42%   27.309      1 Портал:Абхазия/Порталы"," 12.00%   19.959      1 Шаблон:Порталы"," 10.87%   18.082      3 Шаблон:РисПортала"," 10.07%   16.750      1 Шаблон:Index_box","  9.69%   16.118      1 Портал:Абхазия/Введение","  8.02%   13.345      1 Шаблон:Индекс"]},"cachereport":{"origin":"mw1334","timestamp":"20210308233034","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":230,"wgHostname":"mw1393"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.411","ppvisitednodes":{"value":1337,"limit":1000000},"postexpandincludesize":{"value":72306,"limit":2097152},"templateargumentsize":{"value":5446,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  250.502      1 -total"," 85.10%  213.177     10 Портал:Абхазия/Секция"," 24.76%   62.022      1 Портал:Абхазия/Избранное_изображение"," 17.43%   43.671      1 Портал:Абхазия/Новые_статьи"," 14.62%   36.634      1 Портал:Абхазия/Порталы"," 11.94%   29.912     10 Шаблон:Новая_статья"," 11.80%   29.560      1 Шаблон:Порталы"," 10.70%   26.795      1 Портал:Абхазия/Рамка","  9.42%   23.599      1 Шаблон:Index_box","  8.79%   22.016      3 Шаблон:РисПортала"]},"cachereport":{"origin":"mw1328","timestamp":"20210314041643","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":248,"wgHostname":"mw1263"});});</script>
 </body></html>

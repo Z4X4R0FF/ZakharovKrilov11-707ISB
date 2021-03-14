@@ -14,31 +14,38 @@ namespace ZakharovKrilov11_707ISB.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly Scraper _scraper;
+        private readonly Tokenizer _tokenizer;
+        const string url =
+            "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83";
+
+        public HomeController(Scraper scraper, Tokenizer tokenizer)
         {
-            _logger = logger;
+            _scraper = scraper;
+            _tokenizer = tokenizer;
         }
 
         public async Task<IActionResult> Index()
         {
-            // const string url =
-            //     "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83";
-            // var response = await Scraper.CallUrl(url);
-            // var linkList = Scraper.GetLinksFromHtml(Scraper.ParseHtml(response)).Take(100).ToList();
-            // Scraper.WriteLinksToTxt(linkList);
-            // var htmlDocList = new ConcurrentBag<HtmlDocument>();
-            //
-            // await linkList.ParallelForEachAsync(async link =>
-            // {
-            //     var result = await Scraper.CallUrl(link);
-            //     htmlDocList.Add(Scraper.ParseHtml(result));
-            // }, 10);
-            // Scraper.WriteHtmlsToTxt(htmlDocList.ToList());
+            var response = await _scraper.CallUrl(url);
+            var linkList = _scraper.GetLinks(response)
+                .Take(100)
+                .ToList();
+            
+            _scraper.WriteLinksToTxt(linkList);
+            
+            var htmlDocs = new ConcurrentBag<HtmlDocument>();
+            await linkList.ParallelForEachAsync(async link =>
+            {
+                htmlDocs.Add(_scraper.ParseHtml(await _scraper.CallUrl(link)));
+            }, 10);
+            
+            _scraper.WriteHtmlsToTxt(htmlDocs.ToList());
 
-            var tokens = Tokenizer.TokenizeDocumentsInFolder("Htmls", " ");
-            Tokenizer.WriteTokensToTxt(tokens);
+            var tokens = await _tokenizer.TokenizeDocumentsInFolder();
+            _tokenizer.WriteTokensToTxt(tokens);
+
             return View();
         }
 

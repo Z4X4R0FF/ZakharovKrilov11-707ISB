@@ -2,281 +2,632 @@
 <html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Портал:Вертолёты — Википедия</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEd7SDej1TYHaqSaJkWOpgAAAFg","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Вертолёты","wgTitle":"Вертолёты","wgCurRevisionId":57780631,"wgRevisionId":57780631,"wgArticleId":4058289,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Вертолёты","wgRelevantArticleId":4058289,
-"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":57780631,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":
-"Q14614572"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin",
-"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>Портал:Велоспорт — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YE3yczvU8zjw37fQvKb03wAAAAg","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Велоспорт","wgTitle":"Велоспорт","wgCurRevisionId":86308256,"wgRevisionId":86308256,"wgArticleId":1885156,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Велоспорт","Портал:Спорт"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Велоспорт"
+,"wgRelevantArticleId":1885156,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":86308256,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,
+"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q8210238"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.33"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.34"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:title" content="Портал:Вертолёты"/>
+<meta property="og:title" content="Портал:Велоспорт"/>
 <meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B"/>
-<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=edit"/>
-<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Вертолёты rootpage-Портал_Вертолёты skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Велоспорт rootpage-Портал_Велоспорт skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Портал:Вертолёты</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Велоспорт</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
-		<div id="contentSub"></div>
+		<div id="contentSub"><div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;stable=1">Стабильная версия</a> была <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82">проверена</a> <i>15 июня 2020</i>. Имеются непроверенные <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;oldid=86308256&amp;diff=cur&amp;diffonly=0">изменения в шаблонах или файлах</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span aria-disabled='false' title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' aria-disabled='false' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;stable=1">Стабильная версия</a> была <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82">проверена</a> <i>15 июня 2020</i>. Имеются непроверенные <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;oldid=86308256&amp;diff=cur&amp;diffonly=0">изменения в шаблонах или файлах</a>.</div>
+</div>
+</div>
+</div>
 		<div id="contentSub2"></div>
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
 		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
-		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="browsebar" style="margin:-3px auto 0.2em; text-align: center; font-size: 98%;">
-<p><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Все порталы</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a>&#160;• 
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a>&#160;•
-<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a>
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="background:white; border:1px solid #a2a9b1; margin-bottom:1em; padding:0.4em 0 0; text-align:center;"><table width="100%" style="text-align:center; background-color:transparent; margin-top:-3px;"><tbody><tr><td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Помощь начинающим">Начинающим</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Википедия:Страницы сообщества">Сообщество</a> · <span style="border-style:solid; border-color: #a2a9b1 #a2a9b1 white; border-width:1px; padding:3px 5px 4px; position:relative; bottom:3px;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Порталы</a></span> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Избранное содержание">Избранное</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">Проекты</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Запросы">Запросы</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Оценивание">Оценивание</a>
+<div style="border:1px solid #a2a9b1; padding:3px 2px;"><p style="clear:both; margin-top:0.2em; margin-bottom:0.2em; font-variant:small-caps; font-size:100%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a></p></div></td></tr></tbody></table></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.92.D0.B5.D0.BB.D0.BE.D1.81.D0.BF.D0.BE.D1.80.D1.82"></span><span class="mw-headline" id="Велоспорт"><big>Велоспорт</big></span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<p><b><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Велосипедный спорт">Велоспорт</a></b> (<b>Велосипедный спорт</b>) — это перемещение по земле с использованием транспортных средств (<a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4" title="Велосипед">велосипедов</a>), движимых мускульной силой человека.
+</p><p>Велосипедный спорт включает в себя такие дисциплины, как <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D0%BA%D0%B0" class="mw-redirect" title="Велогонка">гонки</a> на <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%82%D1%80%D0%B5%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8" class="mw-redirect" title="Велотрековые гонки">треке</a>, <a href="/wiki/%D0%A8%D0%BE%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Шоссейный велоспорт">шоссе</a> и <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%BA%D1%80%D0%BE%D1%81%D1%81" title="Велокросс">пересеченной местности</a>, <a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BC%D0%B0%D1%83%D0%BD%D1%82%D0%B8%D0%BD%D0%B1%D0%B0%D0%B9%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Велоспорт-маунтинбайк (страница отсутствует)">маунтинбайк</a>, <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%82%D1%80%D0%B8%D0%B0%D0%BB" title="Велотриал">велотриал</a>, <a href="/wiki/BMX" class="mw-disambig" title="BMX">BMX</a>, соревнования в фигурной езде и игре в мяч на велосипедах — <a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Велополо (страница отсутствует)">велополо</a> и <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%B1%D0%BE%D0%BB" title="Велобол">велобол</a> и др. Основная цель гоночных дисциплин — наиболее быстрое преодоление дистанции.
+</p><p>Как вид спорта, велосипедный спорт управляется <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%81%D1%82%D0%BE%D0%B2" title="Международный союз велосипедистов">Международным союзом велосипедистов</a>, находящимся в Швейцарии. В <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> аналогичные функции выполняет <a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Федерация велосипедного спорта России">Федерация велосипедного спорта России</a>.
 </p>
-</div>
-<table width="100%" style="border-top:3px solid #987654; ; border-bottom:5px solid #987654; ; background-color:#fff; text-align:center; padding:0.5em;">
-<tbody><tr><td>
-<div style="padding: 2px; font-family:Eurostile, &#39;Gill Sans&#39;, sans-serif; font-size:130%;"><a class="mw-selflink selflink">Портал</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Проект:Авиация">Проект</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Обсуждение проекта:Авиация">Обсуждение проекта</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F#Участники" title="Проект:Авиация">Участники проекта</a></div>
-</td></tr>
-</tbody></table>
-<table cellspacing="6">
-<tbody><tr>
-<td width="75%" style="border-top:4px solid #987654; border-bottom:7px solid #987654; background-color:#fff; padding:0.5em;" valign="top"><div style="margin-bottom:1em">
-<div style="font-variant:small-caps; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:220%; font-weight:bold; padding-bottom:0.1em"><span style="font-weight:normal">Вертолёты</span></div>
-<hr />
-</div>
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:HEHughes_MD_500.svg" class="image"><img alt="HEHughes MD 500.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/HEHughes_MD_500.svg/80px-HEHughes_MD_500.svg.png" decoding="async" width="80" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/HEHughes_MD_500.svg/120px-HEHughes_MD_500.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/HEHughes_MD_500.svg/160px-HEHughes_MD_500.svg.png 2x" data-file-width="989" data-file-height="980" /></a></div> <div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:HEAS_355.svg" class="image"><img alt="HEAS 355.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HEAS_355.svg/80px-HEAS_355.svg.png" decoding="async" width="80" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HEAS_355.svg/120px-HEAS_355.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HEAS_355.svg/160px-HEAS_355.svg.png 2x" data-file-width="989" data-file-height="980" /></a></div> <b><a href="/wiki/%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82" title="Вертолёт">Вертолёт</a></b> (устаревшее <b>гелико́птер</b>) — <a href="/wiki/%D0%92%D0%B8%D0%BD%D1%82%D0%BE%D0%BA%D1%80%D1%8B%D0%BB%D1%8B%D0%B9_%D0%BB%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" title="Винтокрылый летательный аппарат">винтокрылый</a> <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82" title="Летательный аппарат">летательный аппарат</a>, у которого <a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0" title="Подъёмная сила">подъёмная</a> и пропульсивная силы на всех этапах <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%91%D1%82" title="Полёт">полёта</a> создаются одним или несколькими <a href="/wiki/%D0%9D%D0%B5%D1%81%D1%83%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%BD%D1%82" title="Несущий винт">несущими винтами</a> с приводом от одного или нескольких <a href="/wiki/%D0%94%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Двигатель">двигателей</a>.
-</td>
-<td rowspan="6" width="25%" style="border: 2px solid #CDC8B1; border-bottom: 4px solid #CDC8B1; background-color:#F5F5DC; padding:0em;" valign="top">
-<table cellspacing="0" cellpadding="0">
+<div style="clear:both;"></div></div>
+<div style="float:left; width:64%;">
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3_%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_UCI&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A0.D0.B5.D0.B9.D1.82.D0.B8.D0.BD.D0.B3_.D0.B2.D0.B5.D0.BB.D0.BE.D0.B3.D0.BE.D0.BD.D1.89.D0.B8.D0.BA.D0.BE.D0.B2_UCI_2016"></span><span class="mw-headline" id="Рейтинг_велогонщиков_UCI_2016"><a href="/wiki/%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%A2%D1%83%D1%80_UCI_2016" class="mw-redirect" title="Мировой Тур UCI 2016">Рейтинг велогонщиков UCI 2016</a></span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<h3><span id=".D0.98.D0.BD.D0.B4.D0.B8.D0.B2.D0.B8.D0.B4.D1.83.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B9_.D0.B7.D0.B0.D1.87.D0.B5.D1.82_.D0.9C.D0.B8.D1.80.D0.BE.D0.B2.D0.BE.D0.B3.D0.BE_.D1.82.D1.83.D1.80.D0.B0_2016"></span><span class="mw-headline" id="Индивидуальный_зачет_Мирового_тура_2016">Индивидуальный зачет Мирового тура 2016</span></h3>
+<table class="wikitable">
 
-<tbody><tr>
-<td style="border:0; border-top:2px solid #F5F5DC; background:; background:transparent; padding:0.5em 0.5em 0;" valign="middle" align="center"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:CH-53E_Drawing.svg" class="image" title="Sikorsky CH-53E Super Stallion"><img alt="Sikorsky CH-53E Super Stallion" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/CH-53E_Drawing.svg/250px-CH-53E_Drawing.svg.png" decoding="async" width="250" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/CH-53E_Drawing.svg/375px-CH-53E_Drawing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/CH-53E_Drawing.svg/500px-CH-53E_Drawing.svg.png 2x" data-file-width="881" data-file-height="441" /></a>
-</td></tr>
-
-
-<tr>
-<td style="border:0; border-bottom:2px solid #F5F5DC; background:; background:transparent; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Категории</div>
-<hr />
-<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Вертолёты" data-ct-loaded="1" data-ct-state="expanded">▼</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Вертолёты">Вертолёты</a></div><div class="CategoryTreeChildren" style="display:block"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Вертолёты_по_странам" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Категория:Вертолёты по странам">Вертолёты по странам</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Вертолёты_по_фирмам-производителям" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%BF%D0%BE_%D1%84%D0%B8%D1%80%D0%BC%D0%B0%D0%BC-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC" title="Категория:Вертолёты по фирмам-производителям">Вертолёты по фирмам-производителям</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Беспилотные_вертолёты" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B5%D1%81%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Беспилотные вертолёты">Беспилотные вертолёты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Боевые_вертолёты" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Боевые вертолёты">Боевые вертолёты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%92%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Категория:Вертолёты Вьетнамской войны">Вертолёты Вьетнамской войны</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%B8%D1%80%D0%B0%D0%BD%D0%BE-%D0%B8%D1%80%D0%B0%D0%BA%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Категория:Вертолёты ирано-иракской войны">Вертолёты ирано-иракской войны</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Вертолёты_связи_и_наблюдения" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8_%D0%B8_%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Вертолёты связи и наблюдения">Вертолёты связи и наблюдения</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B-%D0%B0%D0%BC%D1%84%D0%B8%D0%B1%D0%B8%D0%B8" title="Категория:Вертолёты-амфибии">Вертолёты-амфибии</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Гражданские вертолёты">Гражданские вертолёты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B2%D1%83%D1%85%D1%80%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Двухроторные вертолёты">Двухроторные вертолёты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B5%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D0%BA%D1%80%D0%B0%D0%BD%D1%8B" title="Категория:Летающие краны">Летающие краны</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D1%8B" title="Категория:Мультикоптеры">Мультикоптеры</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%BE-%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Поперечно-винтовые вертолёты">Поперечно-винтовые вертолёты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Производители_вертолётов" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2" title="Категория:Производители вертолётов">Производители вертолётов</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Авиационные_происшествия_с_вертолётами" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D1%81_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Авиационные происшествия с вертолётами">Авиационные происшествия с вертолётами</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D1%8B" title="Категория:Синхроптеры">Синхроптеры</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%BE%D0%B2" title="Категория:Списки вертолётов">Списки вертолётов</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%B0" title="Категория:Устройство вертолёта">Устройство вертолёта</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Категория:Экспериментальные вертолёты">Экспериментальные вертолёты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div></div></div>
-<div align="right">
-</div>
-</td></tr>
-
-
-<tr>
-<td style="border:0; border-bottom:2px solid #F5F5DC; background:; background:transparent; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Новые статьи</div>
-<hr />
-<ul><li class="mw-empty-elt"></li>
-<li><a href="/wiki/Defiant_X" title="Defiant X">Defiant X</a><small> — начато 7 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Oleg_Bor" title="Участник:Oleg Bor">Oleg Bor</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Sikorsky_CH-53K_King_Stallion" title="Sikorsky CH-53K King Stallion">Sikorsky CH-53K King Stallion</a><small> — начато 5 марта 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Oleg_Bor" title="Участник:Oleg Bor">Oleg Bor</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_S-76_%D0%BF%D0%BE%D0%B4_%D0%9A%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D1%81%D0%B0%D1%81%D0%BE%D0%BC" title="Катастрофа S-76 под Калабасасом">Катастрофа S-76 под Калабасасом</a><small> — начато 26 марта 2020</small><small> участником <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/85.192.188.199" title="Служебная:Вклад/85.192.188.199">85.192.188.199</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/TAI/AgustaWestland_T129_ATAK" title="TAI/AgustaWestland T129 ATAK">TAI/AgustaWestland T129 ATAK</a><small> — начато 9 марта 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Oleg_Bor" title="Участник:Oleg Bor">Oleg Bor</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%8D%D1%80%D0%BE%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Корейская аэрокосмическая компания">Корейская аэрокосмическая компания</a><small> — начато 16 декабря 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Topp" title="Участник:Topp">Topp</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9C%D0%B8-8%D0%9C%D0%A2%D0%92-3" title="Ми-8МТВ-3">Ми-8МТВ-3</a><small> — начато 15 декабря 2019</small><small> участником <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/77.238.144.67" title="Служебная:Вклад/77.238.144.67">77.238.144.67</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0_%D0%B4%D0%B2%D1%83%D1%85_%D0%9C%D0%B8-24_%D0%B2_%D0%94%D0%A0_%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE_(2017)" title="Катастрофа двух Ми-24 в ДР Конго (2017)">Катастрофа двух Ми-24 в ДР Конго (2017)</a><small> — начато 15 декабря 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:DBatura" title="Участник:DBatura">DBatura</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Lualdi-Tassotti_ES_53" title="Lualdi-Tassotti ES 53">Lualdi-Tassotti ES 53</a><small> — начато 21 ноября 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%9F%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%93%D0%BE%D0%BB%D0%B5%D0%BC" title="Участник:Полковник Голем">Полковник Голем</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BA%D0%B0_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%B0" title="Внешняя подвеска вертолёта">Внешняя подвеска вертолёта</a><small> — начато 1 ноября 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87" title="Участник:Игоревич">Игоревич</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Yamaha_R-MAX" title="Yamaha R-MAX">Yamaha R-MAX</a><small> — начато 23 июня 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Shadowcaster" title="Участник:Shadowcaster">Shadowcaster</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9F%D1%8B%D0%BB%D0%B5%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Пылезащитное устройство">Пылезащитное устройство</a><small> — начато 2 июня 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Smitmark" title="Участник:Smitmark">Smitmark</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9C%D0%B8-32" title="Ми-32">Ми-32</a><small> — начато 24 мая 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Arventur" title="Участник:Arventur">Arventur</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%A6%D0%90%D0%93%D0%98_1-%D0%AD%D0%90" title="ЦАГИ 1-ЭА">ЦАГИ 1-ЭА</a><small> — начато 18 апреля 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Leiba_Bronstein" title="Участник:Leiba Bronstein">Leiba Bronstein</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8" title="Уральский завод гражданской авиации">Уральский завод гражданской авиации</a><small> — начато 13 февраля 2019</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Alexander108" title="Обсуждение участника:Alexander108">Alexander108</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Lockheed_XH-51_Aerogyro" title="Lockheed XH-51 Aerogyro">Lockheed XH-51 Aerogyro</a><small> — начато 1 декабря 2018</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:KaldarovNurymzhan" title="Участник:KaldarovNurymzhan">KaldarovNurymzhan</a></small></li></ul>
-<div align="right">
-<p><small><span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit">править</a>]</span></small>
-</p>
-</div>
-</td></tr>
-
-
-<tr>
-<td style="border:0; border-bottom:2px solid #F5F5DC; background:; background:transparent; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Как я могу помочь</div>
-<hr />
-<ul><li>Вы можете помочь проекту, исправив и дополнив статьи о вертолётах.</li>
-<li>Создавайте <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Портал:Вертолёты/Красные ссылки">недостающие статьи</a>.</li>
-<li>Добавляйте иллюстрации в статьи без иллюстраций.</li>
-<li>Пожалуйста, обязательно размещайте в <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовках</a> пометку о неполноте статьи шаблон <span class="wp-templatelink">{{</span><span data-navboxnavigation-link="0"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Avia-stub" class="mw-redirect" title="Шаблон:Avia-stub">avia-stub</a></span><span class="wp-templatelink">}}</span>.</li></ul>
-<div align="right">
-<p><small><span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%9A%D0%B0%D0%BA_%D1%8F_%D0%BC%D0%BE%D0%B3%D1%83_%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C&amp;action=edit">править</a>]</span></small>
-</p>
-</div>
-</td></tr>
-</tbody></table>
-</td></tr>
-<tr valign="top">
-<td width="70%" style="border-bottom:4px solid #987654; background-color:#FFF;">
-<table width="100%">
-
-<tbody><tr>
-<td style="vertical-align:top; width:70%; background:#F5F5DC; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Интересная статья</div>
-<hr />
-<div style="padding:0; background:transparent;">
-<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mil_Mi-28_at_MAKS-2009_airshow.jpg" class="image"><img alt="Mil Mi-28 at MAKS-2009 airshow.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mil_Mi-28_at_MAKS-2009_airshow.jpg/200px-Mil_Mi-28_at_MAKS-2009_airshow.jpg" decoding="async" width="200" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mil_Mi-28_at_MAKS-2009_airshow.jpg/300px-Mil_Mi-28_at_MAKS-2009_airshow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mil_Mi-28_at_MAKS-2009_airshow.jpg/400px-Mil_Mi-28_at_MAKS-2009_airshow.jpg 2x" data-file-width="4288" data-file-height="2848" /></a></div> <b>Ми-28</b> (по <a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9D%D0%90%D0%A2%D0%9E" title="Кодовые обозначения НАТО">классификации НАТО</a> — <b>Havoс</b>, буквально — «Опустошитель») — российский ударный <a href="/wiki/%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82" title="Вертолёт">вертолёт</a>, предназначенный для поиска и уничтожения в условиях активного огневого противодействия танков и другой бронированной техники, а также малоскоростных воздушных целей и живой силы противника.
-<p>Разработка вертолёта велась на <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C._%D0%9B._%D0%9C%D0%B8%D0%BB%D1%8F" class="mw-redirect" title="Московский вертолётный завод имени М. Л. Миля">Московском вертолётном заводе им. М. Л. Миля</a> с 1980 года в условиях творческого соревнования с <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BE%D0%B2_(%D1%84%D0%B8%D1%80%D0%BC%D0%B0)" class="mw-redirect" title="Камов (фирма)">ОКБ Камова</a>, создававшего альтернативный боевой вертолёт <a href="/wiki/%D0%9A%D0%B0-50" title="Ка-50">Ка-50</a>. Первый опытный образец вертолёта Ми-28 совершил первый полёт <a href="/wiki/10_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="10 ноября">10 ноября</a> <a href="/wiki/1982_%D0%B3%D0%BE%D0%B4" title="1982 год">1982 года</a>.
-</p><p><i>(<a href="/wiki/%D0%9C%D0%B8-28" title="Ми-28">далее…</a>)</i>
-</p>
-<div style="font-size:smaller; text-align:right">&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F&amp;action=edit">править</a>]</span></div>
-</div>
-</td></tr>
-
-
-<tr>
-<td style="vertical-align:top; width:70%; background:#F5F5DC; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Избранное изображение</div>
-<hr />
-<div style="padding:0; background:transparent;">
-<div align="center">
-<p><b>Изображение вертолётов на почтовых марках:</b>
-</p>
-<table align="center" style="border-style:solid; border-width:3px; border-color:; font-size:90%; line-height:120%; margin-top:6px; margin-bottom:6px;" cellspacing="0" cellpadding="2">
-
-<tbody><tr bgcolor="align=center" valign="middle">
-<td><div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:The_Soviet_Union_1969_CPA_3833_stamp_(Helicopter_Mil_Mi-10,_1965._Visualization_of_Constellation_Leo).jpg" class="image"><img alt="The Soviet Union 1969 CPA 3833 stamp (Helicopter Mil Mi-10, 1965. Visualization of Constellation Leo).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Soviet_Union_1969_CPA_3833_stamp_%28Helicopter_Mil_Mi-10%2C_1965._Visualization_of_Constellation_Leo%29.jpg/400px-The_Soviet_Union_1969_CPA_3833_stamp_%28Helicopter_Mil_Mi-10%2C_1965._Visualization_of_Constellation_Leo%29.jpg" decoding="async" width="400" height="283" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Soviet_Union_1969_CPA_3833_stamp_%28Helicopter_Mil_Mi-10%2C_1965._Visualization_of_Constellation_Leo%29.jpg/600px-The_Soviet_Union_1969_CPA_3833_stamp_%28Helicopter_Mil_Mi-10%2C_1965._Visualization_of_Constellation_Leo%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Soviet_Union_1969_CPA_3833_stamp_%28Helicopter_Mil_Mi-10%2C_1965._Visualization_of_Constellation_Leo%29.jpg/800px-The_Soviet_Union_1969_CPA_3833_stamp_%28Helicopter_Mil_Mi-10%2C_1965._Visualization_of_Constellation_Leo%29.jpg 2x" data-file-width="2524" data-file-height="1788" /></a></div></div>
-</td></tr>
-<tr bgcolor="align=center" valign="top">
-<td colspan="11"><div style="padding-bottom:3px; width:400px"><a href="/wiki/%D0%9C%D0%B8-10" title="Ми-10">Ми-10</a></div>
-</td></tr></tbody></table></div>
-<div style="font-size:smaller; text-align:right">&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit">править</a>]</span></div>
-</div>
-</td></tr>
-
-
-<tr>
-<td style="vertical-align:top; width:70%; background:#F5F5DC; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Знаете ли вы</div>
-<hr />
-<div style="padding:0; background:transparent;">
-<ul><li><a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Американское вертолётное общество">Американское вертолётное общество</a> впервые за 33 года вручило <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B7_%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Приз Сикорского">приз</a> <a href="/wiki/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Сикорский, Игорь Иванович">Игоря Сикорского</a> за создание <a href="/wiki/%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82" title="Вертолёт">вертолёта</a> на <a href="/wiki/%D0%9C%D1%83%D1%81%D0%BA%D1%83%D0%BB%D0%BE%D0%BB%D1%91%D1%82_%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0" title="Мускулолёт вертолётного типа">мускульной тяге</a>.</li>
-<li><a href="/wiki/%D0%9C%D0%B8-1" title="Ми-1">Ми-1</a> — первый советский серийный вертолёт.</li>
-<li>Подбитый недалеко от Кандагара «<a href="/wiki/Boeing_CH-47_Chinook" title="Boeing CH-47 Chinook">Чинук</a>» был эвакуирован на внешней подвеске вертолетом <a href="/wiki/%D0%9C%D0%B8-26" title="Ми-26">Ми-26</a>.</li>
-<li><b><a href="/wiki/%D0%9C%D0%B8-2" title="Ми-2">Ми-2</a></b> — единственный советский вертолёт, который не производился в <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">СССР</a>.</li></ul>
-<div style="font-size:smaller; text-align:right">&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit">править</a>]</span></div>
-</div>
-</td></tr>
-
-
-<tr>
-<td style="vertical-align:top; width:70%; background:#F5F5DC; padding:0.5em;" valign="top">
-<div style="padding:4px; text-align:left; font-family:Eurostile,&#39;Gill Sans&#39;,sans-serif; font-size:140%; font-weight:bold">Родственные порталы</div>
-<hr />
-<div style="padding:0; background:transparent;">
-<table style="width:100%; border:0; background:transparent; text-align:center; padding:0; padding-top:1em;" cellspacing="0">
-
-<tbody><tr>
-<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Портал:Авиация"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Avion_silhouette.svg/50px-Avion_silhouette.svg.png" decoding="async" width="50" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Avion_silhouette.svg/75px-Avion_silhouette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Avion_silhouette.svg/100px-Avion_silhouette.svg.png 2x" data-file-width="650" data-file-height="700" /></a>
-</td>
-<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%94%D0%B8%D1%80%D0%B8%D0%B6%D0%B0%D0%B1%D0%BB%D0%B8" title="Портал:Дирижабли"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NSRW_Dirigible_Balloon.png/50px-NSRW_Dirigible_Balloon.png" decoding="async" width="50" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NSRW_Dirigible_Balloon.png/75px-NSRW_Dirigible_Balloon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NSRW_Dirigible_Balloon.png/100px-NSRW_Dirigible_Balloon.png 2x" data-file-width="731" data-file-height="409" /></a>
-</td>
-<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/50px-Nuvola_apps_kcmsystem.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/75px-Nuvola_apps_kcmsystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/100px-Nuvola_apps_kcmsystem.svg.png 2x" data-file-width="128" data-file-height="128" /></a>
-</td>
-<td style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Транспорт"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_ksysv.png/50px-Nuvola_apps_ksysv.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_ksysv.png/75px-Nuvola_apps_ksysv.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_ksysv.png/100px-Nuvola_apps_ksysv.png 2x" data-file-width="128" data-file-height="128" /></a>
-</td></tr>
-<tr>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Портал:Авиация">Авиация</a>
+<tbody><tr style="background:#ccf;">
+<th>Номер
 </th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%94%D0%B8%D1%80%D0%B8%D0%B6%D0%B0%D0%B1%D0%BB%D0%B8" title="Портал:Дирижабли">Дирижабли</a>
+<th>Гонщик
 </th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a>
+<th>Команда
 </th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Транспорт">Транспорт</a>
-</th></tr></tbody></table>
-<div style="font-size:smaller; text-align:right">&#160;&#160;<span class="editsection noprint plainlinks">[<a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B/%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B&amp;action=edit">править</a>]</span></div>
-</div>
+<th>Очки
+</th></tr>
+<tr bgcolor="#ccffcc">
+<td align="center">1
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Slovakia.svg" class="image" title="Словакия"><img alt="Словакия" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/22px-Flag_of_Slovakia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/33px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/44px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341" /></a></span> <a href="/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80_%D0%A1%D0%B0%D0%B3%D0%B0%D0%BD" class="mw-redirect" title="Петер Саган">Петер Саган</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F" title="Словакия">SVK</a>)</span>
+</td>
+<td><a href="/wiki/Tinkoff" title="Tinkoff">Tinkoff</a>
+</td>
+<td align="center">669
 </td></tr>
-</tbody></table>
+<tr>
+<td align="center">2
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="image" title="Колумбия"><img alt="Колумбия" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/33px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/44px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%9D%D0%B0%D0%B8%D1%80%D0%BE_%D0%9A%D0%B8%D0%BD%D1%82%D0%B0%D0%BD%D0%B0" class="mw-redirect" title="Наиро Кинтана">Наиро Кинтана</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">COL</a>)</span>
+</td>
+<td><a href="/wiki/Movistar_Team" title="Movistar Team">Movistar Team</a>
+</td>
+<td align="center">609
+</td></tr>
+<tr>
+<td align="center">3
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_Kingdom.svg" class="image" title="Великобритания"><img alt="Великобритания" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81_%D0%A4%D1%80%D1%83%D0%BC" class="mw-redirect" title="Крис Фрум">Крис Фрум</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">GBR</a>)</span>
+</td>
+<td><a href="/wiki/Ineos_Grenadiers" title="Ineos Grenadiers">Team Sky</a>
+</td>
+<td align="center">564
+</td></tr>
+<tr>
+<td align="center">4
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%90%D0%BB%D0%B5%D1%85%D0%B0%D0%BD%D0%B4%D1%80%D0%BE_%D0%92%D0%B0%D0%BB%D1%8C%D0%B2%D0%B5%D1%80%D0%B4%D0%B5" class="mw-redirect" title="Алехандро Вальверде">Алехандро Вальверде</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/Movistar_Team" title="Movistar Team">Movistar Team</a>
+</td>
+<td align="center">436
+</td></tr>
+<tr bgcolor="#ccffcc">
+<td align="center">5
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%B4%D0%BE%D1%80" class="mw-redirect" title="Альберто Контадор">Альберто Контадор</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/Tinkoff" title="Tinkoff">Tinkoff</a>
+</td>
+<td align="center">428
+</td></tr>
+<tr>
+<td align="center">6
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Belgium_(civil).svg" class="image" title="Бельгия"><img alt="Бельгия" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%93%D1%80%D0%B5%D0%B3_%D0%92%D0%B0%D0%BD_%D0%90%D0%B2%D0%B5%D1%80%D0%BC%D0%B0%D1%82" class="mw-redirect" title="Грег Ван Авермат">Грег Ван Авермат</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">BEL</a>)</span>
+</td>
+<td><a href="/wiki/CCC_Team" title="CCC Team">BMC Racing Team</a>
+</td>
+<td align="center">420
+</td></tr>
+<tr>
+<td align="center">7
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Australia.svg" class="image" title="Австралия"><img alt="Австралия" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/%D0%A0%D0%B8%D1%87%D0%B8_%D0%9F%D0%BE%D1%80%D1%82" class="mw-redirect" title="Ричи Порт">Ричи Порт</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">AUS</a>)</span>
+</td>
+<td><a href="/wiki/CCC_Team" title="CCC Team">BMC Racing Team</a>
+</td>
+<td align="center">394
+</td></tr>
+<tr>
+<td align="center">8
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image" title="Франция"><img alt="Франция" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B5%D0%BD_%D0%91%D0%B0%D1%80%D0%B4%D0%B5" class="mw-redirect" title="Ромен Барде">Ромен Барде</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">FRA</a>)</span>
+</td>
+<td><a href="/wiki/AG2R_Citro%C3%ABn" title="AG2R Citroën">AG2R La Mondiale</a>
+</td>
+<td align="center">374
+</td></tr>
+<tr>
+<td align="center">9
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="image" title="Колумбия"><img alt="Колумбия" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/33px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/44px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%AD%D1%81%D1%82%D0%B5%D0%B1%D0%B0%D0%BD_%D0%A7%D0%B0%D0%B2%D0%B5%D1%81" class="mw-redirect" title="Эстебан Чавес">Эстебан Чавес</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">COL</a>)</span>
+</td>
+<td><a href="/wiki/Mitchelton%E2%80%93Scott" title="Mitchelton–Scott">Orica–BikeExchange</a>
+</td>
+<td align="center">351
+</td></tr>
+<tr>
+<td align="center">10
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Ireland.svg" class="image" title="Ирландия"><img alt="Ирландия" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/33px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/44px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/%D0%94%D1%8D%D0%BD%D0%B8%D1%8D%D0%BB_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" class="mw-redirect" title="Дэниэл Мартин">Дэниэл Мартин</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Ирландия">IRL</a>)</span>
+</td>
+<td><a href="/wiki/Deceuninck-Quick_Step" title="Deceuninck-Quick Step">Etixx-Quick Step</a>
+</td>
+<td align="center">280
+</td></tr>
+<tr>
+<td align="center">11
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%98%D0%BE%D0%BD_%D0%98%D1%81%D0%B0%D0%B3%D0%B8%D1%80%D1%80%D0%B5" class="mw-redirect" title="Ион Исагирре">Ион Исагирре</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/Movistar_Team" title="Movistar Team">Movistar Team</a>
+</td>
+<td align="center">270
+</td></tr>
+<tr>
+<td align="center">12
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Italy.svg" class="image" title="Италия"><img alt="Италия" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/%D0%92%D0%B8%D0%BD%D1%87%D0%B5%D0%BD%D1%86%D0%BE_%D0%9D%D0%B8%D0%B1%D0%B0%D0%BB%D0%B8" class="mw-redirect" title="Винченцо Нибали">Винченцо Нибали</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">ITA</a>)</span>
+</td>
+<td><a href="/wiki/Astana_Pro_Team" title="Astana Pro Team">Astana Pro Team</a>
+</td>
+<td align="center">241
+</td></tr>
+<tr bgcolor="#ccffcc">
+<td align="center">13
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="image" title="Россия"><img alt="Россия" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%98%D0%BB%D1%8C%D0%BD%D1%83%D1%80_%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%B8%D0%BD" class="mw-redirect" title="Ильнур Закарин">Ильнур Закарин</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">RUS</a>)</span>
+</td>
+<td><a href="/wiki/Katusha%E2%80%93Alpecin" title="Katusha–Alpecin">Team Katusha</a>
+</td>
+<td align="center">239
+</td></tr>
+<tr>
+<td align="center">14
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="image" title="Колумбия"><img alt="Колумбия" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/33px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/44px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A1%D0%B5%D1%80%D1%85%D0%B8%D0%BE_%D0%AD%D0%BD%D0%B0%D0%BE" class="mw-redirect" title="Серхио Энао">Серхио Энао</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">COL</a>)</span>
+</td>
+<td><a href="/wiki/Ineos_Grenadiers" title="Ineos Grenadiers">Team Sky</a>
+</td>
+<td align="center">234
+</td></tr>
+<tr bgcolor="#ccffcc">
+<td align="center">15
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Norway.svg" class="image" title="Норвегия"><img alt="Норвегия" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png" decoding="async" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/33px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/44px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372" /></a></span> <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B5%D1%80_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D1%84" class="mw-redirect" title="Александер Кристофф">Александер Кристофф</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">NOR</a>)</span>
+</td>
+<td><a href="/wiki/Katusha%E2%80%93Alpecin" title="Katusha–Alpecin">Team Katusha</a>
+</td>
+<td align="center">229
+</td></tr>
+<tr bgcolor="#ccffcc">
+<td align="center">16
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%A5%D0%BE%D0%B0%D0%BA%D0%B8%D0%BC_%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%B3%D0%B5%D1%81" class="mw-redirect" title="Хоаким Родригес">Хоаким Родригес</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/Katusha%E2%80%93Alpecin" title="Katusha–Alpecin">Team Katusha</a>
+</td>
+<td align="center">211
+</td></tr>
+<tr>
+<td align="center">17
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image" title="Франция"><img alt="Франция" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A2%D0%B8%D0%B1%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BE" class="mw-redirect" title="Тибо Пино">Тибо Пино</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">FRA</a>)</span>
+</td>
+<td><a href="/wiki/Groupama-FDJ" title="Groupama-FDJ">FDJ</a>
+</td>
+<td align="center">206
+</td></tr>
+<tr>
+<td align="center">18
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Belgium_(civil).svg" class="image" title="Бельгия"><img alt="Бельгия" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A1%D0%B5%D0%BF_%D0%92%D0%B0%D0%BD%D0%BC%D0%B0%D1%80%D0%BA%D0%B5" class="mw-redirect" title="Сеп Ванмарке">Сеп Ванмарке</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">BEL</a>)</span>
+</td>
+<td><a href="/wiki/Jumbo-Visma" title="Jumbo-Visma">Team Lotto NL-Jumbo</a>
+</td>
+<td align="center">201
+</td></tr>
+<tr>
+<td align="center">19
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Portugal.svg" class="image" title="Португалия"><img alt="Португалия" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/22px-Flag_of_Portugal.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/33px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/44px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/%D0%9A%D0%BE%D1%88%D1%82%D0%B0,_%D0%A0%D1%83%D0%B9_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)" title="Кошта, Руй (велогонщик)">Руй Кошта</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">POR</a>)</span>
+</td>
+<td><a href="/wiki/UAE_Team_Emirates" title="UAE Team Emirates">Lampre-Merida</a>
+</td>
+<td align="center">194
+</td></tr>
+<tr>
+<td align="center">20
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Italy.svg" class="image" title="Италия"><img alt="Италия" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%91%D0%B5%D1%82%D1%82%D1%8C%D0%BE%D0%BB%D1%8C" class="mw-redirect" title="Альберто Беттьоль">Альберто Беттьоль</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">ITA</a>)</span>
+</td>
+<td><a href="/wiki/EF_Education_First_Pro_Cycling" title="EF Education First Pro Cycling">Cannondale</a>
+</td>
+<td align="center">185
+</td></tr>
+<tr>
+<td align="center">21
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Australia.svg" class="image" title="Австралия"><img alt="Австралия" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%9C%D1%8D%D1%82%D1%82%D1%8C%D1%8E%D1%81" class="mw-redirect" title="Майкл Мэттьюс">Майкл Мэттьюс</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">AUS</a>)</span>
+</td>
+<td><a href="/wiki/Mitchelton%E2%80%93Scott" title="Mitchelton–Scott">Orica–BikeExchange</a>
+</td>
+<td align="center">184
+</td></tr>
+<tr>
+<td align="center">22
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Switzerland.svg" class="image" title="Швейцария"><img alt="Швейцария" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" decoding="async" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/%D0%A4%D0%B0%D0%B1%D0%B8%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BD%D1%87%D0%B5%D0%BB%D0%BB%D0%B0%D1%80%D0%B0" class="mw-redirect" title="Фабиан Канчеллара">Фабиан Канчеллара</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Швейцария">SUI</a>)</span>
+</td>
+<td><a href="/wiki/Trek-Segafredo" title="Trek-Segafredo">Trek-Segafredo</a>
+</td>
+<td align="center">176
+</td></tr>
+<tr>
+<td align="center">23
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Belgium_(civil).svg" class="image" title="Бельгия"><img alt="Бельгия" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80_%D0%9D%D0%B0%D1%81%D0%B5%D0%BD" class="mw-redirect" title="Оливер Насен">Оливер Насен</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">BEL</a>)</span>
+</td>
+<td><a href="/wiki/IAM_Cycling" title="IAM Cycling">IAM Cycling</a>
+</td>
+<td align="center">162
+</td></tr>
+<tr>
+<td align="center">24
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Netherlands.svg" class="image" title="Нидерланды"><img alt="Нидерланды" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%91%D0%B0%D1%83%D0%BA%D0%B5_%D0%9C%D0%BE%D0%BB%D0%BB%D0%B5%D0%BC%D0%B0" class="mw-redirect" title="Бауке Моллема">Бауке Моллема</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Нидерланды">NED</a>)</span>
+</td>
+<td><a href="/wiki/Trek-Segafredo" title="Trek-Segafredo">Trek-Segafredo</a>
+</td>
+<td align="center">160
+</td></tr>
+<tr>
+<td align="center">25
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image" title="Франция"><img alt="Франция" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%90%D1%80%D0%BD%D0%BE_%D0%94%D0%B5%D0%BC%D0%B0%D1%80" class="mw-redirect" title="Арно Демар">Арно Демар</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">FRA</a>)</span>
+</td>
+<td><a href="/wiki/Groupama-FDJ" title="Groupama-FDJ">FDJ</a>
+</td>
+<td align="center">154
 </td></tr></tbody></table>
-<table width="100%" style="border-top:3px solid #987654; ; border-bottom:5px solid #987654; ; background-color:#fff; text-align:center; padding:0.5em;">
-<tbody><tr><td>
-<div style="padding: 2px; font-family:Eurostile, &#39;Gill Sans&#39;, sans-serif; font-size:130%;"><a class="mw-selflink selflink">Портал</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Проект:Авиация">Проект</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F" title="Обсуждение проекта:Авиация">Обсуждение проекта</a>&#160;&#8226;&#160;<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D1%8F#Участники" title="Проект:Авиация">Участники проекта</a></div>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3_%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_UCI/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Велоспорт/Рейтинг велогонщиков UCI/Архив">Архив</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D1.8F"></span><span class="mw-headline" id="Избранная_статья">Избранная статья</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Giro_d_Italia_2009-ru.png" class="image"><img alt="Giro d Italia 2009-ru.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Giro_d_Italia_2009-ru.png/120px-Giro_d_Italia_2009-ru.png" decoding="async" width="120" height="157" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Giro_d_Italia_2009-ru.png/180px-Giro_d_Italia_2009-ru.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Giro_d_Italia_2009-ru.png/240px-Giro_d_Italia_2009-ru.png 2x" data-file-width="827" data-file-height="1084" /></a></div>
+<p><b><a href="/wiki/%D0%94%D0%B6%D0%B8%D1%80%D0%BE_%D0%B4%E2%80%99%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Джиро д’Италия">Джиро д’Италия</a> <a href="/wiki/2009" class="mw-redirect" title="2009">2009</a></b> (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;">Giro d'Italia 2009</span>) — 92-я по счёту <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B2%D0%B5%D0%BB%D0%BE%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%BA%D0%B0" class="mw-redirect" title="Супервеломногодневка">супервеломногодневка</a> по дорогам <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италии</a>, проходила с 9 по 31 мая 2009 года, в столетний юбилей гонки. Двадцать две команды, включавшие 198 гонщиков, соревновались на 21 этапе, стартовав в <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F" title="Венеция">Венеции</a> и финишировав в <a href="/wiki/%D0%A0%D0%B8%D0%BC" title="Рим">Риме</a>.
+</p>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Велоспорт/Избранная статья/Архив (страница отсутствует)">Архив</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.BE.D0.B5_.D0.B8.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Избранное_изображение">Избранное изображение</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:390px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:2008_Laoshan_Velodrome.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2008_Laoshan_Velodrome.JPG/388px-2008_Laoshan_Velodrome.JPG" decoding="async" width="388" height="242" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2008_Laoshan_Velodrome.JPG/582px-2008_Laoshan_Velodrome.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2008_Laoshan_Velodrome.JPG/776px-2008_Laoshan_Velodrome.JPG 2x" data-file-width="975" data-file-height="607" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:2008_Laoshan_Velodrome.JPG" class="internal" title="Увеличить"></a></div><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9B%D0%B0%D0%BE%D1%88%D0%B0%D0%BD%D1%8C" title="Велокомплекс Лаошань">Велокомплекс Лаошань</a> в <a href="/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD" title="Пекин">Пекине</a>.</div></div></div></div>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B,_%D1%87%D1%82%D0%BE%E2%80%A6&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.97.D0.BD.D0.B0.D0.B5.D1.82.D0.B5_.D0.BB.D0.B8_.D0.B2.D1.8B.2C_.D1.87.D1.82.D0.BE.E2.80.A6"></span><span class="mw-headline" id="Знаете_ли_вы,_что…">Знаете ли вы, что…</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li>...<b><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B5%D1%80%D0%BE,_%D0%A0%D0%B5%D0%B1%D0%B5%D0%BA%D0%BA%D0%B0" title="Ромеро, Ребекка">британская велогонщица</a></b> успела и <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%85_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D0%B3%D1%80%D0%B0%D1%85_2004" title="Академическая гребля на летних Олимпийских играх 2004">в Афинах на лодке вёслами погрести</a>, и в Пекине голышом прокатиться.</li></ul>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Challenge_Fujin_SL_recumbent,_trekking_version.jpg" class="image"><img alt="Challenge Fujin SL recumbent, trekking version.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Challenge_Fujin_SL_recumbent%2C_trekking_version.jpg/130px-Challenge_Fujin_SL_recumbent%2C_trekking_version.jpg" decoding="async" width="130" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Challenge_Fujin_SL_recumbent%2C_trekking_version.jpg/195px-Challenge_Fujin_SL_recumbent%2C_trekking_version.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Challenge_Fujin_SL_recumbent%2C_trekking_version.jpg/260px-Challenge_Fujin_SL_recumbent%2C_trekking_version.jpg 2x" data-file-width="3840" data-file-height="2160" /></a></div>
+<ul><li>...<b><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B5%D1%80%D0%B0%D0%B4" title="Лигерад">лежачие велосипеды</a></b> (<i>на илл.</i>) не пускают на <a href="/wiki/%D0%A8%D0%BE%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4" title="Шоссейный велосипед">обычные</a> <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D0%BA%D0%B0" class="mw-redirect" title="Велогонка">велогонки</a>.</li>
+<li>...<b><a href="/wiki/%D0%92%D0%B0%D0%BD%D1%81%D0%B5%D0%B2%D0%B5%D0%BD%D0%B0%D0%BD%D1%82,_%D0%92%D0%B8%D0%BC" title="Вансевенант, Вим">бельгийский спортсмен</a></b> является трёхкратным обладателем <a href="/wiki/%D0%9B%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BD_%D1%80%D1%83%D0%B6" title="Лантерн руж">приза за худший результат</a> в <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Тур де Франс">велогонке</a>.</li>
+<li>...<b><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%9F%D1%83%D1%8D%D1%80%D1%82%D0%BE" title="Операция Пуэрто">рейд испанской полиции</a></b> выявил, что победители всех <a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B4_%D0%A2%D1%83%D1%80" class="mw-redirect" title="Гранд Тур">самых престижных велогонок</a> использовали <a href="/wiki/%D0%94%D0%BE%D0%BF%D0%B8%D0%BD%D0%B3" title="Допинг">допинг</a>.</li>
+<li>...на <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Тур де Франс">самой престижной велогонке</a> борьба порой идёт и за <b><a href="/wiki/%D0%9B%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BD_%D1%80%D1%83%D0%B6" title="Лантерн руж">последнее место</a></b>.</li>
+<li>...по легенде, <b><a href="/wiki/%D0%9E%D0%BA%D1%83%D1%82%D1%8E%D1%80%D1%8C%D0%B5,_%D0%98%D0%BF%D0%BF%D0%BE%D0%BB%D0%B8%D1%82" title="Окутюрье, Ипполит">один из гонщиков</a></b> велогонки <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81_1904" title="Тур де Франс 1904">Тур де Франс 1904</a> ехал с пробкой во рту.</li>
+<li>...<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B5%D1%86" class="mw-redirect" title="Швейцарец">швейцарец</a> <a href="/wiki/%D0%A3%D0%B3%D0%BE_%D0%9A%D0%BE%D0%B1%D0%BB%D0%B5" class="mw-redirect" title="Уго Кобле">Уго Кобле</a> стал первым неитальянцем, добившимся победы в <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Генеральная классификация">генеральной классификации</a> <a href="/wiki/%D0%94%D0%B6%D0%B8%D1%80%D0%BE_%D0%B4%27%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" class="mw-redirect" title="Джиро д&#39;Италия">Джиро д'Италия</a>. Это произошло лишь спустя 41 год после первой Джиро.</li>
+<li>...<a href="/wiki/%D0%9B%D1%8D%D0%BD%D1%81_%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3" class="mw-redirect" title="Лэнс Армстронг">Лэнс Армстронг</a>, рекордсмен по победам на <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Тур де Франс">Тур де Франс</a>, за три года до своей первой победы на Туре поборол <a href="/wiki/%D0%A0%D0%B0%D0%BA_(%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C)" class="mw-redirect" title="Рак (болезнь)">рак</a>.</li>
+<li>...<a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80_%D0%98%D0%BD%D0%BE" class="mw-redirect" title="Бернар Ино">последний</a> <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7" class="mw-redirect" title="Француз">француз</a> одержал победу на <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Тур де Франс">Тур де Франс</a> 24 года назад.</li>
+<li>...<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%86%D1%8B" title="Итальянцы">итальянцы</a> одержали 65 побед в <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Генеральная классификация">общем зачёте</a> <a href="/wiki/%D0%94%D0%B6%D0%B8%D1%80%D0%BE_%D0%B4%27%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" class="mw-redirect" title="Джиро д&#39;Италия">Джиро д'Италия</a> из 92 возможных.</li></ul>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Jersey_polkadot.svg" class="image"><img alt="Jersey polkadot.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jersey_polkadot.svg/100px-Jersey_polkadot.svg.png" decoding="async" width="100" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jersey_polkadot.svg/150px-Jersey_polkadot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jersey_polkadot.svg/200px-Jersey_polkadot.svg.png 2x" data-file-width="250" data-file-height="200" /></a></div> 
+<ul><li>...отличительная майка лидера горной классификации <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Тур де Франс">Тур де Франс</a> — <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0_%D0%B2_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BA" class="mw-redirect" title="Белая майка в красный горошек">белая майка в красный горошек</a> получила свою раскраску в честь первого <a href="/wiki/%D0%A1%D0%BF%D0%BE%D0%BD%D1%81%D0%BE%D1%80" title="Спонсор">спонсора</a> данной номинации. <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Французский</a> производитель <a href="/wiki/%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4" title="Шоколад">шоколада</a> «Chocolat Poulain» продавал свою продукцию в белой упаковке с красными точками. Хотя спонсор уже другой — майка осталась «в горошек».</li></ul>
+<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B,_%D1%87%D1%82%D0%BE%E2%80%A6/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Велоспорт/Знаете ли вы, что…/Архив (страница отсутствует)">Архив</a></div><div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%90%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.90.D0.BA.D1.82.D1.83.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE"></span><span class="mw-headline" id="Актуально">Актуально</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<h2><span id=".D0.98.D1.82.D0.BE.D0.B3.D0.B8_.D0.A2.D1.83.D1.80_.D0.A1.D1.82.D1.80.D0.B0.D0.BD.D1.8B_.D0.91.D0.B0.D1.81.D0.BA.D0.BE.D0.B2_2016"></span><span class="mw-headline" id="Итоги_Тур_Страны_Басков_2016">Итоги <a href="/wiki/%D0%A2%D1%83%D1%80_%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D1%8B_%D0%91%D0%B0%D1%81%D0%BA%D0%BE%D0%B2_2016" title="Тур Страны Басков 2016">Тур Страны Басков 2016</a></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>
+</th>
+<th>Гонщик
+</th>
+<th>Команда
+</th>
+<th>Время
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%B4%D0%BE%D1%80" class="mw-redirect" title="Альберто Контадор">Альберто Контадор</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/Tinkoff" title="Tinkoff">Tinkoff</a>
+</td>
+<td align="right">22h 44' 43"
 </td></tr>
-</tbody></table>
+<tr>
+<td>2
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="image" title="Колумбия"><img alt="Колумбия" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/33px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/44px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A1%D0%B5%D1%80%D1%85%D0%B8%D0%BE_%D0%AD%D0%BD%D0%B0%D0%BE" class="mw-redirect" title="Серхио Энао">Серхио Энао</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">COL</a>)</span>
+</td>
+<td><a href="/wiki/Ineos_Grenadiers" title="Ineos Grenadiers">Team Sky</a>
+</td>
+<td align="right">+ 12"
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="image" title="Колумбия"><img alt="Колумбия" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/33px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/44px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%9D%D0%B0%D0%B8%D1%80%D0%BE_%D0%9A%D0%B8%D0%BD%D1%82%D0%B0%D0%BD%D0%B0" class="mw-redirect" title="Наиро Кинтана">Наиро Кинтана</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">COL</a>)</span>
+</td>
+<td><a href="/wiki/Movistar_Team" title="Movistar Team">Movistar Team</a>
+</td>
+<td align="right">+ 37"
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image" title="Франция"><img alt="Франция" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A2%D0%B8%D0%B1%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BE" class="mw-redirect" title="Тибо Пино">Тибо Пино</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">FRA</a>)</span>
+</td>
+<td><a href="/wiki/Groupama-FDJ" title="Groupama-FDJ">FDJ</a>
+</td>
+<td align="right">+ 1' 13"
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%A5%D0%BE%D0%B0%D0%BA%D0%B8%D0%BC_%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%B3%D0%B5%D1%81" class="mw-redirect" title="Хоаким Родригес">Хоаким Родригес</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/Katusha%E2%80%93Alpecin" title="Katusha–Alpecin">Team Katusha</a>
+</td>
+<td align="right">+ 1' 22"
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/%D0%A1%D0%B0%D0%BC%D1%83%D1%8D%D0%BB%D1%8C_%D0%A1%D0%B0%D0%BD%D1%87%D0%B5%D1%81" class="mw-redirect" title="Самуэль Санчес">Самуэль Санчес</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">ESP</a>)</span>
+</td>
+<td><a href="/wiki/CCC_Team" title="CCC Team">BMC Racing Team</a>
+</td>
+<td align="right">+ 1' 29"
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Portugal.svg" class="image" title="Португалия"><img alt="Португалия" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/22px-Flag_of_Portugal.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/33px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/44px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/%D0%9A%D0%BE%D1%88%D1%82%D0%B0,_%D0%A0%D1%83%D0%B9_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)" title="Кошта, Руй (велогонщик)">Руй Кошта</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">POR</a>)</span>
+</td>
+<td><a href="/wiki/UAE_Team_Emirates" title="UAE Team Emirates">Lampre-Merida</a>
+</td>
+<td align="right">+ 2' 19"
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Slovenia.svg" class="image" title="Словения"><img alt="Словения" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/22px-Flag_of_Slovenia.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/33px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/44px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD_%D0%A8%D0%BF%D0%B8%D0%BB%D0%B0%D0%BA" class="mw-redirect" title="Симон Шпилак">Симон Шпилак</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F" title="Словения">SLO</a>)</span>
+</td>
+<td><a href="/wiki/Katusha%E2%80%93Alpecin" title="Katusha–Alpecin">Team Katusha</a>
+</td>
+<td align="right">+ 2' 47"
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" class="image" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/%D0%9A%D1%80%D1%8D%D0%B4%D0%B4%D0%BE%D0%BA,_%D0%9B%D0%BE%D1%83%D1%81%D0%BE%D0%BD" title="Крэддок, Лоусон">Лоусон Крэддок</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">USA</a>)</span>
+</td>
+<td><a href="/wiki/EF_Education_First_Pro_Cycling" title="EF Education First Pro Cycling">Cannondale</a>
+</td>
+<td align="right">+ 2' 52"
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Netherlands.svg" class="image" title="Нидерланды"><img alt="Нидерланды" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BA%D0%BE_%D0%9A%D0%B5%D0%BB%D0%B4%D0%B5%D1%80%D0%BC%D0%B0%D0%BD" class="mw-redirect" title="Вилко Келдерман">Вилко Келдерман</a>&#160;<span style="font-size:90%;">(<a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Нидерланды">NED</a>)</span>
+</td>
+<td><a href="/wiki/Jumbo-Visma" title="Jumbo-Visma">Team Lotto NL-Jumbo</a>
+</td>
+<td align="right">+ 3' 14"
+</td></tr></tbody></table>
+<div style="clear:both;"></div></div>
+</div>
+<div style="float:right; width:35%">
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%A7%D0%B5%D0%BC_%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C%3F&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A7.D0.B5.D0.BC_.D0.BF.D0.BE.D0.BC.D0.BE.D1.87.D1.8C.3F"></span><span class="mw-headline" id="Чем_помочь?">Чем помочь?</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<p>Примите участие в работе вики-проекта «<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Проект:Спорт">Спорт</a>».
+</p><p>Создавайте новые статьи о велоспорте и велогонщиках:
+</p>
+<ul><li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B#Велоспорт" title="Википедия:К созданию/Спортсмены">велогонщики</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/%D0%A1%D0%BF%D0%BE%D1%80%D1%82#Велоспорт" title="Википедия:К созданию/Спорт">соревнования</a>
+<ul><li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/%D0%A1%D0%BF%D0%BE%D1%80%D1%82#Тур_де_Франс" title="Википедия:К созданию/Спорт">Тур де Франс</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/%D0%A1%D0%BF%D0%BE%D1%80%D1%82#Джиро_д’Италия" title="Википедия:К созданию/Спорт">Джиро д’Италия</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E/%D0%A1%D0%BF%D0%BE%D1%80%D1%82#Вуэльта_Испании" title="Википедия:К созданию/Спорт">Вуэльта Испании</a></li></ul></li></ul>
+<p>(<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Проект:Спорт/Красные ссылки/Велоспорт">Автоматический список недостающих статей</a>)
+</p><p>Улучшайте старые статьи о велоспорте.
+</p>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_UCI_%D0%B2_2014_%D0%B3%D0%BE%D0%B4%D1%83&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9F.D1.80.D0.BE.D1.84.D0.B5.D1.81.D1.81.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D1.8B_UCI_.D0.B2_2016_.D0.B3.D0.BE.D0.B4.D1.83"></span><span class="mw-headline" id="Профессиональные_команды_UCI_в_2016_году"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_UCI" class="mw-redirect" title="Профессиональные команды UCI">Профессиональные команды UCI</a> в 2016 году</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image" title="Франция"><img alt="Франция" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/AG2R_Citro%C3%ABn" title="AG2R Citroën">AG2R La Mondiale</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kazakhstan.svg" class="image" title="Казахстан"><img alt="Казахстан" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/22px-Flag_of_Kazakhstan.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/33px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/44px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Astana_Pro_Team" title="Astana Pro Team">Astana Pro Team</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" class="image" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/CCC_Team" title="CCC Team">BMC Racing Team</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" class="image" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/EF_Education_First_Pro_Cycling" title="EF Education First Pro Cycling">Cannondale</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_South_Africa.svg" class="image" title="Южно-Африканская Республика"><img alt="Южно-Африканская Республика" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/22px-Flag_of_South_Africa.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/33px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/44px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/NTT_Pro_Cycling" title="NTT Pro Cycling">Dimension Data</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Belgium_(civil).svg" class="image" title="Бельгия"><img alt="Бельгия" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Deceuninck-Quick_Step" title="Deceuninck-Quick Step">Etixx-Quick Step</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image" title="Франция"><img alt="Франция" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Groupama-FDJ" title="Groupama-FDJ">FDJ</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Switzerland.svg" class="image" title="Швейцария"><img alt="Швейцария" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" decoding="async" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <a href="/wiki/IAM_Cycling" title="IAM Cycling">IAM Cycling</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="image" title="Россия"><img alt="Россия" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Katusha%E2%80%93Alpecin" title="Katusha–Alpecin">Team Katusha</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Italy.svg" class="image" title="Италия"><img alt="Италия" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/UAE_Team_Emirates" title="UAE Team Emirates">Lampre-Merida</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Belgium_(civil).svg" class="image" title="Бельгия"><img alt="Бельгия" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Lotto_Soudal" title="Lotto Soudal">Lotto Soudal</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Spain.svg" class="image" title="Испания"><img alt="Испания" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Movistar_Team" title="Movistar Team">Movistar Team</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Australia.svg" class="image" title="Австралия"><img alt="Австралия" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Mitchelton%E2%80%93Scott" title="Mitchelton–Scott">Orica-GreenEDGE</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Netherlands.svg" class="image" title="Нидерланды"><img alt="Нидерланды" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Team_Sunweb" title="Team Sunweb">Team Giant-Alpecin</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_Netherlands.svg" class="image" title="Нидерланды"><img alt="Нидерланды" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jumbo-Visma" title="Jumbo-Visma">Team Lotto NL-Jumbo</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_Kingdom.svg" class="image" title="Великобритания"><img alt="Великобритания" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ineos_Grenadiers" title="Ineos Grenadiers">Team Sky</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="image" title="Россия"><img alt="Россия" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Tinkoff" title="Tinkoff">Tinkoff</a></li>
+<li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" class="image" title="Соединённые Штаты Америки"><img alt="Соединённые Штаты Америки" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Trek-Segafredo" title="Trek-Segafredo">Trek-Segafredo</a></li></ul>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BB.D0.B8.D1.87.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Избранная_личность">Избранная личность</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Denis_Menchov_2.jpg" class="image"><img alt="Denis Menchov 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Denis_Menchov_2.jpg/228px-Denis_Menchov_2.jpg" decoding="async" width="228" height="228" srcset="//upload.wikimedia.org/wikipedia/commons/a/a3/Denis_Menchov_2.jpg 1.5x" data-file-width="300" data-file-height="300" /></a></div></div>
+<p><b><a href="/wiki/%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%9C%D0%B5%D0%BD%D1%8C%D1%88%D0%BE%D0%B2" class="mw-redirect" title="Денис Николаевич Меньшов">Денис Николаевич Меньшов</a></b> (род. <a href="/wiki/25_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="25 января">25 января</a> <a href="/wiki/1978_%D0%B3%D0%BE%D0%B4" title="1978 год">1978 года</a> в <a href="/wiki/%D0%9E%D1%80%D1%91%D0%BB_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Орёл (город)">Орле</a>, <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">СССР</a>) — <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">российский</a> профессиональный <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D1%88%D0%BE%D1%81%D1%81%D0%B5" class="mw-redirect" title="Велоспорт-шоссе">шоссейный велогонщик</a>, выступающий за команду <a href="/wiki/Katusha_Team" class="mw-redirect" title="Katusha Team">Катюша</a>. Лучший российский супермногодневщик, хорошо чувствует себя в горах, обладает отличным индивидуальным ходом. Победитель двух из трёх самых престижных веломногодневок <a href="/wiki/%D0%92%D1%83%D1%8D%D0%BB%D1%8C%D1%82%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Вуэльта Испании">Вуэльта Испании</a> (<a href="/wiki/%D0%92%D1%83%D1%8D%D0%BB%D1%8C%D1%82%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_2005" title="Вуэльта Испании 2005">2005</a>, <a href="/wiki/%D0%92%D1%83%D1%8D%D0%BB%D1%8C%D1%82%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_2007" title="Вуэльта Испании 2007">2007</a>) и <a href="/wiki/%D0%94%D0%B6%D0%B8%D1%80%D0%BE_%D0%B4%27%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" class="mw-redirect" title="Джиро д&#39;Италия">Джиро д'Италия</a> (<a href="/wiki/%D0%94%D0%B6%D0%B8%D1%80%D0%BE_%D0%B4%27%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_2009" class="mw-redirect" title="Джиро д&#39;Италия 2009">2009</a>).
+</p>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82/%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9D.D0.B0.D0.B2.D0.B8.D0.B3.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Навигация">Навигация</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<center><b>Категории</b></center>
+<p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA%D0%B8" title="Категория:Велогонщики">Велогонщики</a></b>
+</p>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Велогонщики по алфавиту">По алфавиту</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BC" title="Категория:Велогонщики по странам">По странам</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%A2%D1%83%D1%80_%D0%B4%D0%B5_%D0%A4%D1%80%D0%B0%D0%BD%D1%81" title="Категория:Победители Тур де Франс">Победители Тур де Франс</a></li></ul>
+<p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B" title="Категория:Велосипедные команды">Велокоманды</a></b><br />
+<b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%BE%D0%BC%D1%83_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83" title="Категория:Соревнования по велосипедному спорту">Соревнования</a></b>
+</p>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8" title="Категория:Велогонки">Велогонки</a></li></ul>
+<center><b>Статьи</b></center>
+<ul><li><a href="/wiki/%D0%A8%D0%BE%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Шоссейный велоспорт">Шоссейный велоспорт</a></li></ul>
+<div style="clear:both;"></div></div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9D.D0.BE.D0.B2.D1.8B.D0.B5_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Новые_статьи">Новые статьи</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<ul><li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9D%D0%B5%D1%82%D1%86%D0%BB%D0%B5%D1%80,_%D0%91%D1%8C%D1%8F%D0%BD%D0%BA%D0%B0_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D1%86%D0%B0)" title="Нетцлер, Бьянка (велогонщица)">Нетцлер, Бьянка (велогонщица)</a> (<i>8598 байт</i>)</span><small> — начато 27 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%91%D1%83%D0%BA%D1%81%D1%85%D0%BE%D1%84%D0%B5%D1%80,_%D0%9C%D0%B0%D1%82%D1%82%D0%B8%D0%B0%D1%81" title="Буксхофер, Маттиас">Буксхофер, Маттиас</a> (<i>16&#160;530 байт</i>)</span><small> — начато 21 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9C%D0%BE%D1%80%D1%88%D0%B5%D1%80,_%D0%A5%D0%B0%D1%80%D0%B0%D0%BB%D1%8C%D0%B4" title="Моршер, Харальд">Моршер, Харальд</a> (<i>9260 байт</i>)</span><small> — начато 21 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9B%D1%83%D0%B4%D0%B5%D1%88%D0%B5%D1%80,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF" title="Лудешер, Филипп">Лудешер, Филипп</a> (<i>3707 байт</i>)</span><small> — начато 21 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A1%D0%B0%D0%BB%D1%86%D0%BC%D0%B0%D0%BD,_%D0%99%D0%BE%D0%B4%D0%BE%D0%BA" title="Салцман, Йодок">Салцман, Йодок</a> (<i>4246 байт</i>)</span><small> — начато 21 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="Белорусская федерация велосипедного спорта">Белорусская федерация велосипедного спорта</a> (<i>39&#160;383 байта</i>)</span><small> — начато 16 февраля 2021</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Elza_Zykova" title="Обсуждение участника:Elza Zykova">Elza Zykova</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4,_%D0%AD%D0%B1%D1%82%D0%B8%D1%81%D1%81%D0%B0%D0%BC" title="Мохаммед, Эбтиссам">Мохаммед, Эбтиссам</a> (<i>15&#160;242 байта</i>)</span><small> — начато 15 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A0%D0%B0%D1%88%D0%B2%D0%B0%D0%BD,_%D0%94%D0%BE%D0%BD%D0%B8%D0%B0" title="Рашван, Дониа">Рашван, Дониа</a> (<i>8111 байт</i>)</span><small> — начато 15 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%98%D0%B4%D1%80%D0%B8%D1%81,_%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%B0%D1%85_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4" title="Идрис, Абдуллах Мухаммед">Идрис, Абдуллах Мухаммед</a> (<i>5770 байт</i>)</span><small> — начато 15 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%90%D0%B1%D0%B4%D0%B0%D0%BB%D0%BB%D0%B0,_%D0%A8%D0%B5%D1%80%D0%B8%D1%84_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4" title="Абдалла, Шериф Мохамед">Абдалла, Шериф Мохамед</a> (<i>4155 байт</i>)</span><small> — начато 14 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A0%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD,_%D0%98%D1%81%D0%BB%D0%B0%D0%BC_(%D0%B2%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BD%D1%89%D0%B8%D0%BA)" title="Рамадан, Ислам (велогонщик)">Рамадан, Ислам (велогонщик)</a> (<i>5342 байта</i>)</span><small> — начато 14 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A0%D0%B0%D1%88%D0%B0%D0%B4,_%D0%90%D1%85%D0%BC%D0%B5%D0%B4" title="Рашад, Ахмед">Рашад, Ахмед</a> (<i>4611 байт</i>)</span><small> — начато 14 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8_%D0%A8%D0%B0%D1%80%D0%BC-%D1%8D%D0%BB%D1%8C-%D0%A8%D0%B5%D0%B9%D1%85%D0%B0" title="Гран-при Шарм-эль-Шейха">Гран-при Шарм-эль-Шейха</a> (<i>5061 байт</i>)</span><small> — начато 13 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%90%D0%B1%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D0%B7%D0%B8%D0%B7,_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4" title="Абдель Азиз, Мохамед">Абдель Азиз, Мохамед</a> (<i>3956 байт</i>)</span><small> — начато 13 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%90%D1%85%D0%BC%D0%B5%D0%B4,_%D0%90%D0%BC%D1%80" title="Ахмед, Амр">Ахмед, Амр</a> (<i>4585 байт</i>)</span><small> — начато 13 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%94%D0%B5_%D0%91%D1%80%D1%8E%D0%BD,_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8" title="Де Брюн, Вилли">Де Брюн, Вилли</a> (<i>6804 байта</i>)</span><small> — начато 13 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:HalfOfDwarf" title="Участник:HalfOfDwarf">HalfOfDwarf</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A8%D0%B0%D0%B2%D0%BA%D0%B8,_%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Шавки, Ислам">Шавки, Ислам</a> (<i>8019 байт</i>)</span><small> — начато 11 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D1%80,_%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Насер, Ислам">Насер, Ислам</a> (<i>8415 байт</i>)</span><small> — начато 11 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%90%D0%B1%D0%B4%D0%B5%D0%BB%D1%8C_%D0%A4%D0%B0%D1%82%D1%82%D0%B0%D1%85,_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4" title="Абдель Фаттах, Мохамед">Абдель Фаттах, Мохамед</a> (<i>7046 байт</i>)</span><small> — начато 11 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%AD%D0%BB%D1%8C_%D0%9D%D0%B0%D0%B4%D0%B8,_%D0%90%D0%BC%D1%80" title="Эль Нади, Амр">Эль Нади, Амр</a> (<i>7903 байта</i>)</span><small> — начато 11 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A5%D0%BE%D0%BB%D0%B0%D1%84%D0%B8,_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4" title="Холафи, Мохамед">Холафи, Мохамед</a> (<i>5761 байт</i>)</span><small> — начато 11 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0_%D0%BF%D0%BE_%D1%88%D0%BE%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D0%BE%D0%BC%D1%83_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83" title="Чемпионат Египта по шоссейному велоспорту">Чемпионат Египта по шоссейному велоспорту</a> (<i>6452 байта</i>)</span><small> — начато 11 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%90%D0%BB%D0%B8_%D0%9C%D0%B0%D1%85%D0%BC%D1%83%D0%B4,_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4" title="Али Махмуд, Мохамед">Али Махмуд, Мохамед</a> (<i>4452 байта</i>)</span><small> — начато 10 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A1%D0%B0%D0%BB%D0%B5%D0%BC_%D0%A5%D0%B0%D1%81%D1%81%D0%B0%D0%BD,_%D0%90%D1%85%D0%BC%D0%B5%D0%B4" title="Салем Хассан, Ахмед">Салем Хассан, Ахмед</a> (<i>4421 байт</i>)</span><small> — начато 10 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%BA%D1%83%D1%80,_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B5%D0%B4" title="Мадкур, Мохамед">Мадкур, Мохамед</a> (<i>4535 байт</i>)</span><small> — начато 10 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B8%D0%B9_%D1%88%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B5%D1%86_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2006)" title="Летучий шотландец (фильм, 2006)">Летучий шотландец (фильм, 2006)</a> (<i>21&#160;286 байт</i>)</span><small> — начато 9 февраля 2021</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Ausdem.Nebel" title="Обсуждение участника:Ausdem.Nebel">Ausdem.Nebel</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9A%D0%B5%D0%BC%D0%B5%D0%BB%D0%BB%D0%BE,_%D0%A7%D0%B8%D0%BF%D1%80%D0%B8%D0%B0%D0%BD%D0%BE" title="Кемелло, Чиприано">Кемелло, Чиприано</a> (<i>6949 байт</i>)</span><small> — начато 9 февраля 2021</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:%D0%A3%D1%80%D0%B1%D0%B0%D0%BD75" title="Обсуждение участника:Урбан75">Урбан75</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%9D%D0%B8%D1%84%D1%84%D0%B0%D1%82%D0%B8,_%D0%90%D0%BB%D0%B8" title="Ниффати, Али">Ниффати, Али</a> (<i>13&#160;506 байт</i>)</span><small> — начато 2 февраля 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%A5%D0%B0%D1%81%D0%BD%D0%B0%D1%83%D0%B8,_%D0%9C%D0%B0%D1%85%D0%B5%D1%80" title="Хаснауи, Махер">Хаснауи, Махер</a> (<i>7237 байт</i>)</span><small> — начато 31 января 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li>
+<li class="mw-empty-elt"></li>
+<li><span style="color:gray"><a href="/wiki/%D0%91%D0%B5%D0%BD_%D0%9D%D0%B0%D1%81%D1%81%D0%B5%D1%80,_%D0%A5%D0%B0%D1%81%D1%81%D0%B5%D0%BD" title="Бен Нассер, Хассен">Бен Нассер, Хассен</a> (<i>6838 байт</i>)</span><small> — начато 31 января 2021</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GAN" title="Участник:GAN">GAN</a></small></li></ul>
+<div style="clear:both;"></div></div>
+</div>
+<div style="clear:both"></div> 
+<div style="border:1px solid #1C39BB; background:#FDE910; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B3&amp;action=edit"><span style="color:#000000; text-decoration: inherit; -moz-text-decoration-color: #000000; text-decoration-color: #000000;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:#000000; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A0.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BF.D0.BE.D1.80.D1.82.D0.B0.D0.BB.D1.8B"></span><span class="mw-headline" id="Родственные_порталы">Родственные порталы</span></h2></div>
+<div style="display:block; border:1px solid #1C39BB; vertical-align:top; background:#FFFACD; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">
+<table width="100%" border="0" cellpadding="4" cellspacing="4" style="border: 1px solid none; padding:0.3em; background-color: transparent">
+<tbody><tr>
+<th width="25%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/50px-P_sport.svg.png" decoding="async" width="50" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/75px-P_sport.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/P_sport.svg/100px-P_sport.svg.png 2x" data-file-width="75" data-file-height="66" /></a>
+</th>
+<th width="25%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Велоспорт"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pictgram_bicycle_man.svg/50px-Pictgram_bicycle_man.svg.png" decoding="async" width="50" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pictgram_bicycle_man.svg/75px-Pictgram_bicycle_man.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pictgram_bicycle_man.svg/100px-Pictgram_bicycle_man.svg.png 2x" data-file-width="222" data-file-height="143" /></a>
+</th>
+<th width="25%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B8%D0%B4%D1%8B_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="Портал:Моторные виды спорта"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/F1_chequered_flag.svg/50px-F1_chequered_flag.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/F1_chequered_flag.svg/75px-F1_chequered_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/F1_chequered_flag.svg/100px-F1_chequered_flag.svg.png 2x" data-file-width="512" data-file-height="398" /></a>
+</th>
+<th width="25%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1" title="Портал:Формула-1"><img alt="П:" src="//upload.wikimedia.org/wikipedia/ru/thumb/8/8b/F1_small.jpg/50px-F1_small.jpg" decoding="async" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/8/8b/F1_small.jpg/75px-F1_small.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/8/8b/F1_small.jpg 2x" data-file-width="80" data-file-height="27" /></a>
+</th></tr>
+<tr>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт"><span class="nowrap">Спорт</span></a>
+</th>
+<th><a class="mw-selflink selflink"><span class="nowrap">Велоспорт</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B8%D0%B4%D1%8B_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="Портал:Моторные виды спорта"><span class="nowrap">Моторные виды спорта</span></a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1" title="Портал:Формула-1"><span class="nowrap">Формула-1</span></a>
+</th></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1352
-Cached time: 20210309094559
-Cache expiry: 21600
-Dynamic content: true
+Parsed by mw1302
+Cached time: 20210314041057
+Cache expiry: 2592000
+Dynamic content: false
 Complications: []
-CPU time usage: 0.253 seconds
-Real time usage: 0.493 seconds
-Preprocessor visited node count: 1795/1000000
-Post‐expand include size: 55620/2097152 bytes
-Template argument size: 17631/2097152 bytes
-Highest expansion depth: 15/40
-Expensive parser function count: 20/500
+CPU time usage: 0.690 seconds
+Real time usage: 0.988 seconds
+Preprocessor visited node count: 10839/1000000
+Post‐expand include size: 149123/2097152 bytes
+Template argument size: 24595/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 100/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 11214/5000000 bytes
-Lua time usage: 0.014/10.000 seconds
-Lua memory usage: 857824/52428800 bytes
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1434069/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  325.587      1 -total
-100.00%  325.587      1 Шаблон:Разметка_портала
- 50.61%  164.778      3 Шаблон:Правый_блок_портала
- 33.70%  109.715      4 Шаблон:Левый_блок_портала
- 19.84%   64.593      1 Портал:Вертолёты/Новые_статьи
- 15.85%   51.592      1 Портал:Вертолёты/Избранное_изображение
- 15.81%   51.462      1 Портал:Вертолёты/Категории
- 14.41%   46.907      1 Шаблон:Фоторяд
- 12.46%   40.581     15 Шаблон:Новая_статья
-  9.81%   31.949      1 Портал:Вертолёты/Родственные_порталы
+100.00%  753.654      1 -total
+ 38.02%  286.515      1 Портал:Велоспорт/Рейтинг_велогонщиков_UCI
+ 31.57%  237.906     53 Шаблон:Флаг
+ 26.16%  197.191     35 Шаблон:Flagathlete
+ 21.22%  159.944     53 Шаблон:Ct
+ 16.68%  125.681      1 Проект:Спорт/Новые_статьи/Велоспорт
+ 15.32%  115.494     30 Шаблон:Новая_статья
+ 14.68%  110.659      1 Портал:Велоспорт/Профессиональные_команды_UCI_в_2014_году
+ 11.20%   84.399     12 Портал:Велоспорт/box-header
+ 10.60%   79.873     12 Шаблон:Box-header
 -->
 
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:4058289-0!canonical and timestamp 20210309094559 and revision id 57780631. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1885156-0!canonical and timestamp 20210314041057 and revision id 86308256. Serialized with JSON.
  -->
 </div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Вертолёты&amp;oldid=57780631">https://ru.wikipedia.org/w/index.php?title=Портал:Вертолёты&amp;oldid=57780631</a></div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li></ul></div></div>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Велоспорт&amp;oldid=86308256">https://ru.wikipedia.org/w/index.php?title=Портал:Велоспорт&amp;oldid=86308256</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Категория:Велоспорт">Велоспорт</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Категория:Портал:Спорт">Портал:Спорт</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -293,7 +644,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -306,7 +657,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B">Портал</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t">Обсуждение</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82">Портал</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -333,7 +684,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;stable=1">Читать</a></li><li id="ca-current" class="collapsible selected"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v">Текущая версия</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -403,7 +754,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;oldid=57780631" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14614572" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;oldid=86308256" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8210238" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
 		
 	</div>
 </nav>
@@ -414,7 +765,18 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://ru.wikinews.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B7%D0%BC" hreflang="ru">Викиновости</a></li></ul>
 		
 	</div>
 </nav>
@@ -426,8 +788,8 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>На других языках</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA_%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9" title="بوابة:طائرات مروحية — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:H%C3%A9licopt%C3%A8res" title="Portail:Hélicoptères — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14614572#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B3%D8%A8%D8%A7%D9%82_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A7%D8%AA_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9" title="بوابة:سباق الدراجات الهوائية — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Port%C3%A1l:Cyklistika" title="Portál:Cyklistika — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Portal:Cykling" title="Portal:Cykling — датский" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Portal:Radsport" title="Portal:Radsport — немецкий" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Ciclismo" title="Portal:Ciclismo — испанский" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Cyclisme" title="Portail:Cyclisme — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Portale:Ciclismo" title="Portale:Ciclismo — итальянский" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%BC" title="Портал:Велосипедизам — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Portaal:Wielersport" title="Portaal:Wielersport — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Portal:Sykling" title="Portal:Sykling — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Portal:Kolarstwo" title="Portal:Kolarstwo — польский" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Ciclismo" title="Portal:Ciclismo — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%B8%D0%B7%D0%B0%D0%BC" title="Портал:Бициклизам — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BB%D0%B0%D1%80" title="Портал:Велосипедлар — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8210238#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -436,7 +798,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 17 августа 2013 в 22:05.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 2 июля 2017 в 15:11.</li>
 	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
 <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
 Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
@@ -447,7 +809,7 @@ Wikipedia® — зарегистрированный товарный знак 
 	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
 	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
 	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
-	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%8B&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%82&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
 	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
@@ -462,5 +824,5 @@ Wikipedia® — зарегистрированный товарный знак 
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.253","walltime":"0.493","ppvisitednodes":{"value":1795,"limit":1000000},"postexpandincludesize":{"value":55620,"limit":2097152},"templateargumentsize":{"value":17631,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":20,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11214,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  325.587      1 -total","100.00%  325.587      1 Шаблон:Разметка_портала"," 50.61%  164.778      3 Шаблон:Правый_блок_портала"," 33.70%  109.715      4 Шаблон:Левый_блок_портала"," 19.84%   64.593      1 Портал:Вертолёты/Новые_статьи"," 15.85%   51.592      1 Портал:Вертолёты/Избранное_изображение"," 15.81%   51.462      1 Портал:Вертолёты/Категории"," 14.41%   46.907      1 Шаблон:Фоторяд"," 12.46%   40.581     15 Шаблон:Новая_статья","  9.81%   31.949      1 Портал:Вертолёты/Родственные_порталы"]},"scribunto":{"limitreport-timeusage":{"value":"0.014","limit":"10.000"},"limitreport-memusage":{"value":857824,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20210309094559","ttl":21600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":194,"wgHostname":"mw1324"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.690","walltime":"0.988","ppvisitednodes":{"value":10839,"limit":1000000},"postexpandincludesize":{"value":149123,"limit":2097152},"templateargumentsize":{"value":24595,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":100,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  753.654      1 -total"," 38.02%  286.515      1 Портал:Велоспорт/Рейтинг_велогонщиков_UCI"," 31.57%  237.906     53 Шаблон:Флаг"," 26.16%  197.191     35 Шаблон:Flagathlete"," 21.22%  159.944     53 Шаблон:Ct"," 16.68%  125.681      1 Проект:Спорт/Новые_статьи/Велоспорт"," 15.32%  115.494     30 Шаблон:Новая_статья"," 14.68%  110.659      1 Портал:Велоспорт/Профессиональные_команды_UCI_в_2014_году"," 11.20%   84.399     12 Портал:Велоспорт/box-header"," 10.60%   79.873     12 Шаблон:Box-header"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1434069,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20210314041057","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":196,"wgHostname":"mw1413"});});</script>
 </body></html>

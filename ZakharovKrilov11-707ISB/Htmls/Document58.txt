@@ -2,45 +2,45 @@
 <html class="client-nojs" lang="ru" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Портал:Аквариумистика — Википедия</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YEe1z1GEKX7rnHJxo3vbIgAAAEE","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Аквариумистика","wgTitle":"Аквариумистика","wgCurRevisionId":74131539,"wgRevisionId":74131539,"wgArticleId":3455580,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Аквариумистика"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":
-"Портал:Аквариумистика","wgRelevantArticleId":3455580,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":74131539,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled"
-:!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q8289369"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs",
-"ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<title>Портал:Бенин — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"YE3ycOEeqMkugc7V-u3ioQAAAJg","wgCSPNonce":!1,"wgCanonicalNamespace":"Портал","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Портал:Бенин","wgTitle":"Бенин","wgCurRevisionId":89474450,"wgRevisionId":89474450,"wgArticleId":6773316,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Порталы по алфавиту","Бенин","Портал:Африка"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Портал:Бенин","wgRelevantArticleId":6773316
+,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":89474450,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsReferencePreviewsBeta":!0,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ru"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
-<meta name="generator" content="MediaWiki 1.36.0-wmf.33"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.34"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:title" content="Портал:Аквариумистика"/>
+<meta property="og:title" content="Портал:Бенин"/>
 <meta property="og:type" content="website"/>
 <link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0"/>
-<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit"/>
-<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit"/>
+<link rel="edit" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Аквариумистика rootpage-Портал_Аквариумистика skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Портал_Бенин rootpage-Портал_Бенин skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
 	<a id="top"></a>
 	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" >Портал:Аквариумистика</h1>
+	<h1 id="firstHeading" class="firstHeading" >Портал:Бенин</h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
 		<div id="contentSub"></div>
@@ -49,249 +49,504 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
 		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
-		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="background:white; border:1px solid #a2a9b1; margin-bottom:1em; padding:0.4em 0 0; text-align:center;"><table width="100%" style="text-align:center; background-color:transparent; margin-top:-3px;"><tbody><tr><td><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%BC" title="Википедия:Помощь начинающим">Начинающим</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Википедия:Страницы сообщества">Сообщество</a> · <span style="border-style:solid; border-color: #a2a9b1 #a2a9b1 white; border-width:1px; padding:3px 5px 4px; position:relative; bottom:3px;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D0%B7%D0%BE%D1%80" title="Портал:Обзор">Порталы</a></span> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Избранное содержание">Избранное</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">Проекты</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Запросы">Запросы</a> · <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Оценивание">Оценивание</a>
-<div style="border:1px solid #a2a9b1; padding:3px 2px;"><p style="clear:both; margin-top:0.2em; margin-bottom:0.2em; font-variant:small-caps; font-size:100%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">География</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Портал:История">История</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Общество">Общество</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8" title="Портал:Персоналии">Персоналии</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F" title="Портал:Религия">Религия</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">Спорт</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">Техника</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">Наука</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Искусство">Искусство</a> · <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Портал:Философия">Философия</a></p></div></td></tr></tbody></table></div>
-<table style="margin-top: 5px; padding: 10px; border-left: 2px solid DarkSlateGray; border-top: 2px solid DarkSlateGray; border-right: 2px solid DarkSlateGray; border-bottom: 2px solid DarkSlateGray; background:LightBlue" width="100%" cellpadding="10">
-<tbody><tr>
-<td>
-<div style="background-color:LightBlue;">
-<table style="border-collapse:collapse; background:LightCyan; width:100%; border:0; color:CadetBlue; text-align:left; cellspacing:0.3em;">
+		<div id="mw-content-text" lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="position:relative; height:170px; overflow:hidden; border:1px solid none; padding:0; background:Gold">
+<table width="100%" style="background:Gold; border:solid 5px none;color:none;" cellspacing="0" cellpadding="0">
+
 
 <tbody><tr>
-<td style="width:100%; vertical-align:middle; font-size:250%; font-family:Verdana; line-height:1.18em">&#160;&#160;&#160;&#160;Добро пожаловать на портал <br />&#160;&#160;&#160;&#160;«<b>Аквариумистика</b>»
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bulle_Gif_Rose.gif" class="image"><img alt="Bulle Gif Rose.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bulle_Gif_Rose.gif/15px-Bulle_Gif_Rose.gif" decoding="async" width="15" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bulle_Gif_Rose.gif/23px-Bulle_Gif_Rose.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/3/31/Bulle_Gif_Rose.gif 2x" data-file-width="24" data-file-height="36" /></a>&#160;&#160;
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Crystal_Project_Babelfish.png" class="image"><img alt="Crystal Project Babelfish.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crystal_Project_Babelfish.png/100px-Crystal_Project_Babelfish.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crystal_Project_Babelfish.png/150px-Crystal_Project_Babelfish.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Crystal_Project_Babelfish.png/200px-Crystal_Project_Babelfish.png 2x" data-file-width="256" data-file-height="256" /></a>&#160;&#160;
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bulle_Gif_Rose.gif" class="image"><img alt="Bulle Gif Rose.gif" src="//upload.wikimedia.org/wikipedia/commons/3/31/Bulle_Gif_Rose.gif" decoding="async" width="40" height="60" data-file-width="24" data-file-height="36" /></a>&#160;&#160;
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Fugu_icon.png" class="image"><img alt="Fugu icon.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fugu_icon.png/120px-Fugu_icon.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/e/ed/Fugu_icon.png 1.5x" data-file-width="128" data-file-height="128" /></a>&#160;&#160;
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bulle_Gif_Rose.gif" class="image"><img alt="Bulle Gif Rose.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bulle_Gif_Rose.gif/15px-Bulle_Gif_Rose.gif" decoding="async" width="15" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bulle_Gif_Rose.gif/23px-Bulle_Gif_Rose.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/3/31/Bulle_Gif_Rose.gif 2x" data-file-width="24" data-file-height="36" /></a>&#160;&#160;
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Seashore_icon.png" class="image"><img alt="Seashore icon.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Seashore_icon.png/100px-Seashore_icon.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Seashore_icon.png/150px-Seashore_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Seashore_icon.png/200px-Seashore_icon.png 2x" data-file-width="512" data-file-height="512" /></a>&#160;&#160;
-</td>
-<td style="vertical-align:middle; border:0;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bulle_Gif_Rose.gif" class="image"><img alt="Bulle Gif Rose.gif" src="//upload.wikimedia.org/wikipedia/commons/3/31/Bulle_Gif_Rose.gif" decoding="async" width="30" height="45" data-file-width="24" data-file-height="36" /></a>&#160;&#160;
-</td></tr></tbody></table> <br />
-<p><span style="letter-spacing:.15em; font-size:170%; font-family:Verdana; float:center; valign:center;"><span style="color:LightCyan"> &#160;&#160;&#160;<b>&#8226;</b></span> <a class="mw-selflink selflink"><span style="color:CadetBlue">Портал</span></a><span style="color:LightCyan"> <b>&#8226;</b></span> <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Портал:Аквариумистика/Лучшие статьи (страница отсутствует)"><span style="color:CadetBlue">Лучшие статьи</span></a><span style="color:LightCyan"> <b>&#8226;</b></span> <a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Википедия:Проект:Аквариумистика (страница отсутствует)"><span style="color:CadetBlue">Проект</span></a><span style="color:LightCyan"> <b>&#8226;</b></span> <a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Обсуждение Википедии:Проект:Аквариумистика (страница отсутствует)"><span style="color:CadetBlue">Обсуждение проекта</span></a><span style="color:LightCyan"> <b>&#8226;</b></span> <a href="/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Википедия:Проект:Аквариумистика/Участники (страница отсутствует)"><span style="color:CadetBlue">Участники</span></a></span>
-</p>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.90.D0.BA.D0.B2.D0.B0.D1.80.D0.B8.D1.83.D0.BC.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Аквариумистика"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;"><big>Аквариумистика</big></span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Aquariumsimple.jpg" class="image"><img alt="Aquariumsimple.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aquariumsimple.jpg/200px-Aquariumsimple.jpg" decoding="async" width="200" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aquariumsimple.jpg/300px-Aquariumsimple.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aquariumsimple.jpg/400px-Aquariumsimple.jpg 2x" data-file-width="2326" data-file-height="1178" /></a></div>
-<p><b><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Аквариумистика">Аквариумистика</a></b>&#160;— род занятий, связанный с моделированием экосистемы в замкнутом искусственном водоёме. Среди основных направлений в современной аквариумистике выделяют декоративное, научное, коммерческое и другие направления. Аквариумистика&#160;— весьма древнее, распространённое и разностороннее <a href="/wiki/%D0%A5%D0%BE%D0%B1%D0%B1%D0%B8" title="Хобби">хобби</a>. Аквариумистика имеет множество направлений: одни аквариумисты больше увлечены рыбами, другие оказываются поклонниками разведения <a href="/wiki/%D0%A0%D0%B5%D0%BF%D1%82%D0%B8%D0%BB%D0%B8%D1%8F" class="mw-redirect" title="Рептилия">рептилий</a> или <a href="/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B5" title="Беспозвоночные">беспозвоночных</a> в том числе кораллов, третьи аквариумным садоводством, в таком аквариуме находятся одни растения или кораллы и нет рыб. Необходимо отметить и пресноводных улиток, пользующихся большой популярностью среди аквариумистов, <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%82%D0%BA%D0%B8" class="mw-redirect" title="Улитки">улитки</a> не только способны очищать стенки аквариума от разросшихся <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Водоросли">водорослей</a>, но и являются его украшением.
-</p>
-<div style="clear:both;"></div></div>
-<div style="float:left; width:64%;">
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D1%8B%D0%B1%D0%BA%D0%B0_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A0.D1.8B.D0.B1.D0.BA.D0.B0_.D0.BC.D0.B5.D1.81.D1.8F.D1.86.D0.B0"></span><span class="mw-headline" id="Рыбка_месяца"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Рыбка месяца</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kofferfisch_(Ostracion_cubicus)_02.jpg" class="image" title="Кузовок-кубик"><img alt="Кузовок-кубик" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kofferfisch_%28Ostracion_cubicus%29_02.jpg/250px-Kofferfisch_%28Ostracion_cubicus%29_02.jpg" decoding="async" width="250" height="181" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kofferfisch_%28Ostracion_cubicus%29_02.jpg/375px-Kofferfisch_%28Ostracion_cubicus%29_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kofferfisch_%28Ostracion_cubicus%29_02.jpg/500px-Kofferfisch_%28Ostracion_cubicus%29_02.jpg 2x" data-file-width="1915" data-file-height="1383" /></a></div>
-<p><b>Кузовок-кубик</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">Ostracion cubicus</span>) — <a href="/wiki/%D0%9B%D1%83%D1%87%D0%B5%D0%BF%D1%91%D1%80%D1%8B%D0%B5_%D1%80%D1%8B%D0%B1%D1%8B" title="Лучепёрые рыбы">лучепёрая рыба</a> отряда <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BE%D0%B2%D0%BA%D0%B8" class="mw-redirect" title="Кузовки">кузовков</a>, распространённая в водах <a href="/wiki/%D0%A2%D0%B8%D1%85%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Тихий океан">Тихого</a> и <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Индийский океан">Индийского океанов</a> в районах рифов, а также в <a href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Атлантический океан">Атлантическом океане</a> у юго-западного побережья <a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Африка">Африки</a>. Как следует из названия, кузовок-кубик имеет кубообразную форму тела. Корпус рыбы защищён, как и у других кузовковых, панцирем из сросшихся костных пластин, придающим телу характерную форму. Дополнительным защитным механизмом помимо панциря является способность при опасности выделять токсичную слизь.
-<br /> 
-</p>
-<b><a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BE%D0%B2%D0%BE%D0%BA-%D0%BA%D1%83%D0%B1%D0%B8%D0%BA" title="Кузовок-кубик">Читать дальше...</a></b><div style="clear:both"></div>
-<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D1%8B%D0%B1%D0%BA%D0%B0_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Аквариумистика/Рыбка месяца/Архив">Архив</a></div><div style="clear:both;"></div></div>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%9E%D0%B1%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BE%D0%B2&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9E.D0.B1.D1.83.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.BE_.D0.B0.D0.BA.D0.B2.D0.B0.D1.80.D0.B8.D1.83.D0.BC.D0.BE.D0.B2"></span><span class="mw-headline" id="Обустройство_аквариумов"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Обустройство аквариумов</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cryptocoryne_wendtii.JPG" class="image" title="Криптокорина Вендта"><img alt="Криптокорина Вендта" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cryptocoryne_wendtii.JPG/250px-Cryptocoryne_wendtii.JPG" decoding="async" width="250" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cryptocoryne_wendtii.JPG/375px-Cryptocoryne_wendtii.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cryptocoryne_wendtii.JPG/500px-Cryptocoryne_wendtii.JPG 2x" data-file-width="600" data-file-height="399" /></a></div>
-<p><b>Криптокори́на Ве́ндта</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">Cryptocoryne wendtii</span>) — травянистое растение рода <a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D0%BD%D0%B0" title="Криптокорина">Криптокорина</a> семейства <a href="/wiki/%D0%90%D1%80%D0%BE%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5" title="Ароидные">Ароидные</a>. Криптокорина Вендта образует четыре подвида, из которых наиболее известны Cryptocoryne wendtii wendtii, представлющий собой травянистый <a href="/wiki/%D0%9A%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA" title="Кустарник">куст</a> без <a href="/wiki/%D0%A1%D1%82%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C" title="Стебель">стебля</a> с длинными <a href="/wiki/%D0%9B%D0%B8%D1%81%D1%82" title="Лист">листьями</a>, собранными в розетку тёмно-зелёного или оливкового цвета и Криптокорина Вендта коричневая (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">Cryptocoryne wendtii rubella</span>) с более длинными листьями коричневого цвета. <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C" title="Корень">Корневище</a> длинное, ползучее. Куст достигает в высоту 25—30 сантиметров. В природе встречается на <a href="/wiki/%D0%A8%D1%80%D0%B8-%D0%9B%D0%B0%D0%BD%D0%BA%D0%B0" title="Шри-Ланка">Шри-Ланке</a>.
-<br /> 
-</p>
-<b><a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B5%D0%BD%D0%B4%D1%82%D0%B0" title="Криптокорина Вендта">Читать дальше...</a></b><div style="clear:both"></div>
-<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%9E%D0%B1%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BE%D0%B2/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Аквариумистика/Обустройство аквариумов/Архив">Архив</a></div><div style="clear:both;"></div></div>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.BE.D0.B5_.D0.B8.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Избранное_изображение"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Избранное изображение</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Small_aquarium.jpg" class="image"><img alt="Small aquarium.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Small_aquarium.jpg/400px-Small_aquarium.jpg" decoding="async" width="400" height="300" srcset="//upload.wikimedia.org/wikipedia/commons/2/28/Small_aquarium.jpg 1.5x" data-file-width="600" data-file-height="450" /></a></div></div>
-<div align="center"> Аквариум </div>
-<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Аквариумистика/Избранное изображение/Архив">Архив</a></div><div style="clear:both;"></div></div>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%9A%D0%B0%D0%BA_%D1%8F_%D0%BC%D0%BE%D0%B3%D1%83_%D0%BF%D0%BE%D0%BC%D0%BE%D1%87%D1%8C&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9A.D0.B0.D0.BA_.D1.8F_.D0.BC.D0.BE.D0.B3.D1.83_.D0.BF.D0.BE.D0.BC.D0.BE.D1.87.D1.8C"></span><span class="mw-headline" id="Как_я_могу_помочь"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Как я могу помочь</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<p>Если Вы интересуетесь аквариумистикой и собираетесь создавать или дополнять статьи данной тематики, то можете помочь порталу:
-</p>
-<ul><li>дополнять и улучшать <a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Категория:Незавершённые статьи о аквариумистике (страница отсутствует)">незавершённые статьи о аквариумистике</a>, а также статьи без источников и с недостаточным раскрытием темы;</li>
-<li>создавать <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Служебная:Новые страницы">новые статьи</a>;</li>
-<li>добавлять <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Википедия:Источники информации">источники</a>;</li>
-<li>исправлять орфографические, пунктуационные и стилистические ошибки;</li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Аквариумистика_и_террариумистика" data-name="Аквариумистика" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#addfad"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Просмотр этого шаблона"><img alt="⛭" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span><div id="Аквариумистика_и_террариумистика" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Аквариумистика">Аквариумистика</a> и <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Террариум">террариумистика</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#addfad;width:1px">Типы <a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Аквариум">аквариумов</a> и <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Террариум">террариумов</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B9_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Солоноватый аквариум (страница отсутствует)">Солоноватый аквариум</a></li>
-<li><a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Морской аквариум">Морской аквариум</a></li>
-<li><a href="/w/index.php?title=%D0%A0%D0%B8%D1%84%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Рифовый аквариум (страница отсутствует)">Рифовый аквариум</a></li>
-<li><a href="/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Океанариум">Океанариум</a></li>
-<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D0%B9" title="Дельфинарий">Дельфинарий</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%82%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B8%D1%83%D0%BC" class="mw-redirect" title="Акватеррариум">Акватеррариум</a></li>
-<li><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Террариум">Террариум</a></li>
-<li><a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8E%D0%B4%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Палюдариум">Палюдариум</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#addfad;width:1px"><a href="/w/index.php?title=%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Аквариумное оборудование (страница отсутствует)">Оборудование</a> и <a href="/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B0" title="Дизайн аквариума">дизайн</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/w/index.php?title=%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Аквариумная экосистема (страница отсутствует)">Аквариумная экосистема</a></li>
-<li><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Биологическая фильтрация (страница отсутствует)">Биологическая фильтрация</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D1%83%D0%BD%D1%82" title="Аквариумный грунт">Грунт</a></li>
-<li><a href="/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B0" title="Дизайн аквариума">Дизайн</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Аквариумный обогреватель">Обогреватель</a></li>
-<li><a href="/w/index.php?title=%D0%9E%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Освещение аквариума (страница отсутствует)">Освещение аквариума</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%80%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" title="Аквариумный термометр">Термометр</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80" title="Аквариумный фильтр">Фильтр</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#addfad;width:1px"><a href="/w/index.php?title=%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D0%B0%D1%8F_%D1%84%D0%B0%D1%83%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Аквариумная фауна (страница отсутствует)">Фауна</a> и <a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Аквариумные растения">флора</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D1%80%D1%8B%D0%B1%D1%8B" title="Аквариумные рыбы">Аквариумные рыбы</a></li>
-<li><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BB%D1%8E%D1%81%D0%BA%D0%B8" title="Моллюски">Моллюски</a></li>
-<li><a href="/wiki/%D0%A7%D0%BB%D0%B5%D0%BD%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5" title="Членистоногие">Членистоногие</a> (<a href="/wiki/%D0%A0%D0%B0%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Ракообразные">ракообразные</a>)</li>
-<li><a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5" title="Земноводные">Земноводные</a></li>
-<li><a href="/wiki/%D0%A0%D0%B5%D0%BF%D1%82%D0%B8%D0%BB%D0%B8%D0%B8" class="mw-redirect" title="Рептилии">Рептилии</a></li>
-<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BB%D0%BB%D1%8B" class="mw-redirect" title="Кораллы">Кораллы</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Аквариумные растения">Аквариумные растения</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#addfad;width:1px"><a href="/w/index.php?title=%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Аквариумный корм (страница отсутствует)">Корма</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%B9_%D0%BA%D0%BE%D1%80%D0%BC" title="Живой корм">Живой корм</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D1%83%D1%85%D0%BE%D0%B9_%D0%BA%D0%BE%D1%80%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Сухой корм (страница отсутствует)">Сухой корм</a></li>
-<li><a href="/w/index.php?title=%D0%A0%D0%B0%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Растительный корм (страница отсутствует)">Растительный корм</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%B2%D0%B5%D0%B6%D0%B5%D0%BC%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Свежемороженый корм (страница отсутствует)">Свежемороженый корм</a></li>
-<li><a href="/wiki/%D0%9C%D0%BE%D1%82%D1%8B%D0%BB%D1%8C" title="Мотыль">Мотыль</a></li>
-<li><a href="/wiki/%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D1%8F" class="mw-redirect" title="Артемия">Артемия</a></li>
-<li><a href="/wiki/%D0%A2%D1%80%D1%83%D0%B1%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9" title="Трубочник обыкновенный">Трубочник</a></li>
-<li><a href="/wiki/%D0%90%D1%83%D0%BB%D0%BE%D1%84%D0%BE%D1%80%D1%83%D1%81" title="Аулофорус">Аулофорус</a></li>
-<li><a href="/wiki/%D0%94%D0%B0%D1%84%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Дафния">Дафния</a></li>
-<li><a href="/wiki/%D0%98%D0%BD%D1%84%D1%83%D0%B7%D0%BE%D1%80%D0%B8%D1%8F-%D1%82%D1%83%D1%84%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0" title="Инфузория-туфелька">Инфузория</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#addfad;width:1px"><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8" title="История аквариумистики">История аквариумистики</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="История аквариумистики в России">История аквариумистики в России</a></li>
-<li><a href="/w/index.php?title=%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Известные аквариумисты (страница отсутствует)">Известные аквариумисты</a></li>
-<li><a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F" title="Аквариум любителя">Аквариум любителя</a> (книга)</li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#addfad;width:1px"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">Видовой состав</a> и<br /><a href="/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_(%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE)" title="Порода (животноводство)">породные разновидности</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D1%85_%D1%80%D1%8B%D0%B1" title="Список аквариумных рыб">Список аквариумных рыб</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2_%D0%BF%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D1%85_%D1%80%D1%8B%D0%B1&amp;action=edit&amp;redlink=1" class="new" title="Список видов пресноводных аквариумных рыб (страница отсутствует)">Список видов пресноводных аквариумных рыб</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D1%85&amp;action=edit&amp;redlink=1" class="new" title="Список аквариумных пресноводных беспозвоночных (страница отсутствует)">Список аквариумных пресноводных беспозвоночных</a></li>
-<li><a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C_%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D1%85_%D1%80%D1%8B%D0%B1&amp;action=edit&amp;redlink=1" class="new" title="Перечень морских видов аквариумных рыб (страница отсутствует)">Перечень морских видов аквариумных рыб</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2_%D1%80%D1%8B%D0%B1_%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D1%85_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Список видов рыб солоноватых аквариумов (страница отсутствует)">Список видов рыб солоноватых аквариумов</a></li>
-<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B5%D0%B9_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D1%85_%D1%80%D1%8B%D0%B1&amp;action=edit&amp;redlink=1" class="new" title="Список болезней аквариумных рыб (страница отсутствует)">Список болезней аквариумных рыб</a></li></ul>
-</div></td></tr></tbody></table></div>
-<div style="clear:both;"></div></div>
-</div>
-<div style="float:right; width:35%">
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BB.D0.B8.D1.87.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Избранная_личность"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Избранная личность</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<p><b>Набатов А. А.</b>&#160;— известный петербургский <a href="/wiki/%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Аквариумистика">аквариумист</a>-любитель конца XIX&#160;— начала XX века. В <a href="/wiki/1870_%D0%B3%D0%BE%D0%B4" title="1870 год">1870 году</a> в <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a> было создано «<a href="/w/index.php?title=%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B8_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Общество любителей комнатных растений и аквариумов (страница отсутствует)">Общество любителей комнатных растений и аквариумов</a>», которое он возглавил. Из его трудов можно выделить редкую среди соотечественников до настоящего момента книгу по морскому аквариуму. В <a href="/wiki/1905_%D0%B3%D0%BE%D0%B4" title="1905 год">1905 году</a> в <a href="/wiki/%D0%9A%D0%B8%D0%B5%D0%B2" title="Киев">Киеве</a> при содействии Набатова было создано отделение «Общества любителей комнатных растений и аквариумов».
-<br /> 
-</p>
-<b><a href="/wiki/%D0%9D%D0%B0%D0%B1%D0%B0%D1%82%D0%BE%D0%B2,_%D0%90._%D0%90." class="mw-redirect" title="Набатов, А. А.">Читать дальше...</a></b><div style="clear:both"></div>
-<div class="noprint" style="text-align:right; margin:0.3em 0.2em 0.2em 0.3em; padding:0.2em; font-weight:bold;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/%D0%90%D1%80%D1%85%D0%B8%D0%B2" title="Портал:Аквариумистика/Избранная личность/Архив">Архив</a></div><div style="clear:both;"></div></div>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9A.D0.B0.D1.82.D0.B5.D0.B3.D0.BE.D1.80.D0.B8.D0.B8"></span><span class="mw-headline" id="Категории"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Категории</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Аквариумистика" data-ct-loaded="1" data-ct-state="expanded">▼</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Аквариумистика">Аквариумистика</a></div><div class="CategoryTreeChildren" style="display:block"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D1%8B" title="Категория:Аквариумисты">Аквариумисты</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B5" title="Категория:Аквариумные беспозвоночные">Аквариумные беспозвоночные</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Аквариумные_растения" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Аквариумные растения">Аквариумные растения</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Аквариумные_рыбы" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D1%80%D1%8B%D0%B1%D1%8B" title="Категория:Аквариумные рыбы">Аквариумные рыбы</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%BC" title="Категория:Аквариумный корм">Аквариумный корм</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D1%8B" title="Категория:Аквариумы">Аквариумы</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8" title="Категория:История аквариумистики">История аквариумистики</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">[×] </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B5" title="Категория:Литература по аквариумистике">Литература по аквариумистике</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Океанариумы" data-ct-state="collapsed">►</span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D1%8B" title="Категория:Океанариумы">Океанариумы</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div></div></div>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.9D.D0.BE.D0.B2.D1.8B.D0.B5_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D0.B8"></span><span class="mw-headline" id="Новые_статьи"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Новые статьи</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<ul><li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D0%BF%D0%BB%D1%8E%D1%81%D1%8B" title="Милоплюсы">Милоплюсы</a><small> — начато 10 сентября 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Zbaratskiy" title="Обсуждение участника:Zbaratskiy">Zbaratskiy</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Nothobranchius" title="Nothobranchius">Nothobranchius</a><small> — начато 20 августа 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Polzohod" title="Обсуждение участника:Polzohod">Polzohod</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Nothobranchius_rubripinnis" title="Nothobranchius rubripinnis">Nothobranchius rubripinnis</a><small> — начато 19 августа 2020</small><small> участником <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Polzohod" title="Обсуждение участника:Polzohod">Polzohod</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B8%D1%81%D0%BA%D1%83%D1%81" title="Обыкновенный дискус">Обыкновенный дискус</a><small> — начато 28 июля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Olyngo" title="Участник:Olyngo">Olyngo</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9C%D0%B0%D1%85%D0%BB%D0%B8%D0%BD,_%D0%9C%D0%B0%D1%80%D0%BA_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Махлин, Марк Давидович">Махлин, Марк Давидович</a><small> — начато 24 апреля 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Vacalm" title="Участник:Vacalm">Vacalm</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%BE%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BA%D0%BE%D0%BB%D1%8E%D1%87%D0%BD%D0%B8%D0%BA" title="Южноамериканский многоколючник">Южноамериканский многоколючник</a><small> — начато 26 января 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Bsmirnov" title="Участник:Bsmirnov">Bsmirnov</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Gymnocorymbus_thayeri" title="Gymnocorymbus thayeri">Gymnocorymbus thayeri</a><small> — начато 22 января 2020</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:A._C._Tatarinov" title="Участник:A. C. Tatarinov">A. C. Tatarinov</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2_%D0%B8_%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%BE%D0%B2" title="Всемирная ассоциация зоопарков и аквариумов">Всемирная ассоциация зоопарков и аквариумов</a><small> — начато 3 июля 2019</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Upp75" title="Участник:Upp75">Upp75</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/Serrasalminae" title="Serrasalminae">Serrasalminae</a><small> — начато 25 декабря 2018</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Участник:Андрей Бондарь">Андрей Бондарь</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%9A%D0%BE%D1%87%D0%B5%D1%82%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Кочетов, Сергей Михайлович">Кочетов, Сергей Михайлович</a><small> — начато 5 декабря 2018</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:GlebK" title="Участник:GlebK">GlebK</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%98%D0%BD%D0%BD%D0%B5%D1%81,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC" title="Иннес, Уильям">Иннес, Уильям</a><small> — начато 30 сентября 2018</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:1Goldberg2" title="Участник:1Goldberg2">1Goldberg2</a></small></li>
-<li class="mw-empty-elt"></li>
-<li><a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D1%80%D0%B8%D1%83%D0%BC" title="Африкариум">Африкариум</a><small> — начато 30 августа 2018</small><small> участником <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Raxmal" title="Участник:Raxmal">Raxmal</a></small></li></ul>
-<div style="clear:both;"></div></div>
-</div>
-</div>
-<div style="clear:both"></div> 
-<div style="border:1px solid transparent; background:PowderBlue; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;"><span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%A0%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B&amp;action=edit"><span style="color:DarkSlateGray; text-decoration: inherit; -moz-text-decoration-color: DarkSlateGray; text-decoration-color: DarkSlateGray;">править</span></a>&#160;</span><h2 style="margin:0; padding:0; color:DarkSlateGray; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;"><span id=".D0.A0.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BF.D0.BE.D1.80.D1.82.D0.B0.D0.BB.D1.8B"></span><span class="mw-headline" id="Родственные_порталы"><span style="font-size:100%; font-weight:Italic; font-family:Verdana; padding-bottom:.2em;">Родственные порталы</span></span></h2></div>
-<div style="display:block; border:1px solid transparent; vertical-align:top; background:LightCyan; color:black; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0">        
-<table width="100%" border="0" cellpadding="4" style="border: 1px solid none;">
+<td width="33%">
+<table cellspacing="0" cellpadding="0" width="100%">
+
 <tbody><tr>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Биология"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crystal_nautilus.png/50px-Crystal_nautilus.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/7/71/Crystal_nautilus.png 1.5x" data-file-width="64" data-file-height="64" /></a>
-</th>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Ботаника"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Greentree_cropped.png/45px-Greentree_cropped.png" decoding="async" width="45" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Greentree_cropped.png/67px-Greentree_cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Greentree_cropped.png/89px-Greentree_cropped.png 2x" data-file-width="400" data-file-height="447" /></a>
-</th>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D1%80%D0%BF%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Герпетология"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/7/74/Farm-Fresh_chameleon.png" decoding="async" width="50" height="50" data-file-width="32" data-file-height="32" /></a>
-</th>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%BE%D1%88%D0%BA%D0%B8" title="Портал:Кошки"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cat_silhouette.svg/50px-Cat_silhouette.svg.png" decoding="async" width="50" height="48" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cat_silhouette.svg/75px-Cat_silhouette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cat_silhouette.svg/100px-Cat_silhouette.svg.png 2x" data-file-width="400" data-file-height="380" /></a>
-</th></tr>
-<tr>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Биология"><span class="nowrap">Биология</span></a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Ботаника"><span class="nowrap">Ботаника</span></a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D1%80%D0%BF%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Герпетология"><span class="nowrap">Герпетология</span></a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%BE%D1%88%D0%BA%D0%B8" title="Портал:Кошки"><span class="nowrap">Кошки</span></a>
-</th></tr>
-<tr>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Малакология"><img alt="П:" src="//upload.wikimedia.org/wikipedia/ru/thumb/d/d8/%D0%A0%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.png/50px-%D0%A0%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.png" decoding="async" width="50" height="49" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/d/d8/%D0%A0%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.png/75px-%D0%A0%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/d/d8/%D0%A0%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.png/100px-%D0%A0%D0%B8%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.png 2x" data-file-width="607" data-file-height="598" /></a>
-</th>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8" title="Портал:Собаки"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_silhouette.svg/50px-Dog_silhouette.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_silhouette.svg/75px-Dog_silhouette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_silhouette.svg/100px-Dog_silhouette.svg.png 2x" data-file-width="429" data-file-height="425" /></a>
-</th>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Портал:Таксономия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FUtree.svg/50px-FUtree.svg.png" decoding="async" width="50" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FUtree.svg/75px-FUtree.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FUtree.svg/100px-FUtree.svg.png 2x" data-file-width="774" data-file-height="637" /></a>
-</th>
-<th width="13%"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%AD%D0%BD%D1%82%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Энтомология"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nuvola_apps_bug2.svg/50px-Nuvola_apps_bug2.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nuvola_apps_bug2.svg/75px-Nuvola_apps_bug2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nuvola_apps_bug2.svg/100px-Nuvola_apps_bug2.svg.png 2x" data-file-width="295" data-file-height="296" /></a>
-</th></tr>
-<tr>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Малакология"><span class="nowrap">Малакология</span></a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8" title="Портал:Собаки"><span class="nowrap">Собаки</span></a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Портал:Таксономия"><span class="nowrap">Таксономия</span></a>
-</th>
-<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%AD%D0%BD%D1%82%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Энтомология"><span class="nowrap">Энтомология</span></a>
-</th></tr></tbody></table>
-<div style="clear:both;"></div></div>
+<td style="background:SeaGreen;" height="170px" width="4%">
+<div style="position: absolute;font-size:520%;left:20px;top:10px; float:left; height:50px"><div align="center">
+<div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:West_African_male_lion.jpg" class="image" title="Западно-африканская львица"><img alt="Западно-африканская львица" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/West_African_male_lion.jpg/300px-West_African_male_lion.jpg" decoding="async" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/West_African_male_lion.jpg/450px-West_African_male_lion.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/West_African_male_lion.jpg/600px-West_African_male_lion.jpg 2x" data-file-width="1125" data-file-height="749" /></a></div>
+</div>
 </div></td></tr></tbody></table>
+</td>
+<td valign="center">
+<div style="position: absolute;font-size:520%;left:600px;top:40px; float:left; height:50px">
+<span style="letter-spacing:.25em; font-family:Impact;"><span style="color:Green"></span>БЕНИН</span></div>
+</td>
+<td valign="top"><div align="left">
+</div></td></tr></tbody></table></div> 
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; border:1px solid none;">
+
+<tbody><tr style="background:#E6CEC6;">
+<td>
+</td></tr>
+<tr>
+<td width="33%">
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td style="background:SeaGreen;" height="40px" width="4%">
+</td></tr></tbody></table>
+</td>
+<td width="67%">
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="40px" width="2%" style="background:FireBrick;">
+<table style="background:transparent" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+<tbody><tr>
+<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a class="mw-selflink selflink"><span style="color:white">Портал Бенина</span></a>
+</td>
+<td style="border-bottom:solid 2px white;">&#160;
+</td>
+<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Лучшие статьи (страница отсутствует)"><span style="color:white">Лучшие статьи</span></a>
+</td>
+<td style="border-bottom:solid 2px white;">&#160;
+</td>
+<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Проект:Африка"><span style="color:white">Проект:Африка</span></a>
+</td>
+<td style="border-bottom:solid 2px white;">&#160;
+</td>
+<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Обсуждение проекта:Африка"><span style="color:white">Обсуждение </span></a>
+</td>
+<td style="border-bottom:solid 2px white;">&#160;
+</td>
+<td width="20%" style="background-color:none; border-top:solid 2px white; border-left:solid 2px white; border-right:solid 2px white; border-bottom:solid 2px white; text-align:center"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" title="Проект:Африка/Участники"><span style="color:white">Участники проекта</span></a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td valign="top" style="background:SeaGreen; padding-bottom:.5em; padding-top:.5em; font-size:90%;">
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="12px" width="4%" style="background:Gold;">
+<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
+
+<tbody><tr>
+<td height="10px" width="100%" style="background:SeaGreen;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
+
+<tbody><tr>
+<td>
+<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Знаете ли вы, что …</b></span>
+</p>
+<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
+
+<tbody><tr>
+<td>
+<ul><li><span style="color:White">С XVII века побережье Бенина и соседние области были крупнейшим центром работорговли в Африке и назывались <i>Невольничий берег</i>.</span></li>
+<li><span style="color:White">Исполнявший обязанности президента Дагомеи в <a href="/wiki/1965_%D0%B3%D0%BE%D0%B4" title="1965 год"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">1965 году</span></a> <a href="/wiki/%D0%90%D1%85%D0%BE%D0%BC%D0%B0%D0%B4%D0%B5%D0%B3%D0%B1%D0%B5-%D0%A2%D0%BE%D0%BC%D0%B5%D1%82%D0%B8%D0%BD,_%D0%96%D1%8E%D1%81%D1%82%D0%B5%D0%BD" title="Ахомадегбе-Тометин, Жюстен"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Жюстен Ахомадегбе-Тометин</span></a> находился под домашним арестом с более девяти лет, с 1972 по 1981 год, после того, как был свергнут в результате государственного переворота.</span></li>
+<li><span style="color:White">Хотя профсоюзы в Бенине представляют интересы до 75% рабочей силы, неформальный сектор экономики по-прежнему включает в себя детский и принудительный труд.</span></li>
+<li><span style="color:White">Культ <a href="/wiki/%D0%92%D1%83%D0%B4%D1%83" title="Вуду"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">вуду</span></a> вырос из анимистского культ древнего царства Дагомея, африканского королевства, расположенного на территории современного <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Бенина</span></a>.</span></li>
+<li><span style="color:White">Бенин за свою историю в разное время был как королевством, так и республикой, страной как капитализма, так и социализма.</span></li></ul>
+</td></tr></tbody></table>
+<p align="right" class="plainlinks" style="font-size:8pt; color:#8E5543;"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Знаете ли вы/Архив (страница отсутствует)">Архив</a> <b>•</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Бенин/Знаете_ли_вы&amp;action=edit"><span style="color:White">Править</span></a> <b>&gt;&gt;</b> </p>
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="12px" width="4%" style="background:Gold;">
+<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
+
+<tbody><tr>
+<td height="10px" width="100%" style="background:SeaGreen;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
+
+<tbody><tr>
+<td>
+<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b> История: Галерея</b></span>
+</p>
+<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
+
+<tbody><tr>
+<td><div align="center">
+<div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:FORBES(1851)_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg" class="image" title="История Бенина"><img alt="История Бенина" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg/280px-FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg" decoding="async" width="280" height="195" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg/420px-FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg/560px-FORBES%281851%29_p2.345_THE_HUMAN_SACRIFICES_OF_THE_EK-CNEE-NOO-AH-TOH.jpg 2x" data-file-width="1795" data-file-height="1252" /></a></div>
+</div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="12px" width="4%" style="background:Gold;">
+<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
+
+<tbody><tr>
+<td height="10px" width="100%" style="background:SeaGreen;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
+
+<tbody><tr>
+<td>
+<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Важнейшие этапы истории</b></span>
+</p>
+<table width="100%" style="border-top:1px dotted White; background:none; margin-bottom:0em; font-size:8pt;">
+
+<tbody><tr>
+<td>
+<ul><li><span style="color:White">XV-XVII века - <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Бенинское царство"><span style="color:yellow">Бенинское царство</span></a></span></li>
+<li><span style="color:White">1620-1900 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dahomey_flag_1889.svg" class="image"><img alt="Dahomey flag 1889.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dahomey_flag_1889.svg/25px-Dahomey_flag_1889.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dahomey_flag_1889.svg/38px-Dahomey_flag_1889.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dahomey_flag_1889.svg/50px-Dahomey_flag_1889.svg.png 2x" data-file-width="750" data-file-height="500" /></a> <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея"><span style="color:yellow">Королевство Дагомея</span></a></span></li>
+<li><span style="color:White">1890 - <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D0%BE-%D0%B4%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая франко-дагомейская война"><span style="color:yellow">Первая франко-дагомейская война</span></a></span></li>
+<li><span style="color:White">1892-1894 - <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D0%BE-%D0%B4%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая франко-дагомейская война"><span style="color:yellow">Вторая франко-дагомейская война</span></a></span></li>
+<li><span style="color:White">1904-1960 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France.svg" class="image"><img alt="Flag of France.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/25px-Flag_of_France.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/38px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Французская Дагомея"><span style="color:yellow">колония Французская Дагомея</span></a></span></li>
+<li><span style="color:White">1960-1975 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin.svg" class="image"><img alt="Flag of Benin.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/25px-Flag_of_Benin.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/38px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/50px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Республика Дагомея"><span style="color:yellow">независимая Республика Дагомея</span></a></span></li>
+<li><span style="color:White">1975-1990 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin_(1975%E2%80%931990).svg" class="image"><img alt="Flag of Benin (1975–1990).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Benin_%281975%E2%80%931990%29.svg/25px-Flag_of_Benin_%281975%E2%80%931990%29.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Benin_%281975%E2%80%931990%29.svg/38px-Flag_of_Benin_%281975%E2%80%931990%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Benin_%281975%E2%80%931990%29.svg/50px-Flag_of_Benin_%281975%E2%80%931990%29.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a> <a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Народная Республика Бенин"><span style="color:yellow">социалистическая Народная Республика Бенин</span></a></span></li>
+<li><span style="color:White">с 1990 - <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin.svg" class="image"><img alt="Flag of Benin.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/25px-Flag_of_Benin.svg.png" decoding="async" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/38px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/50px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" class="mw-redirect" title="Республика Бенин"><span style="color:yellow">Республика Бенин</span></a></span></li></ul>
+</td></tr></tbody></table>
+<p align="right" class="plainlinks" style="font-size:8pt; color:#8E5543;"><a class="external text" href="https://ru.wikipedia.org/wiki/Портал:Бенин/Важнейшие_этапы_истории%7C"><span style="color:White">Править</span></a> <b>&gt;&gt;</b> </p>
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="12px" width="4%" style="background:Gold;">
+<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
+
+<tbody><tr>
+<td height="10px" width="100%" style="background:SeaGreen;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
+
+<tbody><tr>
+<td>
+<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Объекты Всемирного наследия ЮНЕСКО</b></span>
+</p>
+<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
+
+<tbody><tr>
+<td>
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abomey-K%C3%B6nigspalast3.jpg" class="image"><img alt="Abomey-Königspalast3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abomey-K%C3%B6nigspalast3.jpg/250px-Abomey-K%C3%B6nigspalast3.jpg" decoding="async" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abomey-K%C3%B6nigspalast3.jpg/375px-Abomey-K%C3%B6nigspalast3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Abomey-K%C3%B6nigspalast3.jpg/500px-Abomey-K%C3%B6nigspalast3.jpg 2x" data-file-width="3888" data-file-height="2592" /></a></div>
+<p><span style="color:White"><b>Королевские дворцы Абомея</b> — комплекс из 12 дворцов <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">дагомейских</span></a> правителей, занимающий площадь в 40 га в центре <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">бенинского</span></a> города <a href="/wiki/%D0%90%D0%B1%D0%BE%D0%BC%D0%B5%D0%B9" title="Абомей"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Абомей</span></a>. Со сменой правителя рядом со старыми строился новый дворец, таким образом комплекс служит уникальным памятником исчезнувшего государства. В 1985 году объект был включён в список <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5" title="Всемирное наследие"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Всемирного наследия</span></a> <a href="/wiki/%D0%AE%D0%9D%D0%95%D0%A1%D0%9A%D0%9E" title="ЮНЕСКО"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">ЮНЕСКО</span></a>. Так как за год до этого Абомей подвергся удару урагана, который повредил некоторые строения, комплекс попал в <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2_%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F,_%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D1%85%D1%81%D1%8F_%D0%BF%D0%BE%D0%B4_%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B9_%D1%83%D0%BD%D0%B8%D1%87%D1%82%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Список объектов Всемирного наследия, находящихся под угрозой уничтожения"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">Список объектов Всемирного наследия, находящихся под угрозой уничтожения</span></a>. При участии некоторых международных агентств были проведены реставрационные работы. Принимая это во внимание, ЮНЕСКО в 2007 году исключило объект из последнего списка.</span>
+<i>(<a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D1%8B_%D0%90%D0%B1%D0%BE%D0%BC%D0%B5%D1%8F" title="Королевские дворцы Абомея"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">далее…</span></a>)</i>
+</p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="12px" width="4%" style="background:Gold;">
+<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
+
+<tbody><tr>
+<td height="10px" width="100%" style="background:SeaGreen;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
+
+<tbody><tr>
+<td>
+<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b> Как я могу помочь</b></span>
+</p>
+<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
+
+<tbody><tr>
+<td>
+<p><span style="color:White"><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Проект:Бенин/Участники (страница отсутствует)">Присоединяйтесь</a> к <b><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Проект:Бенин (страница отсутствует)">проекту Бенин</a></b>! Вы можете помочь:</span>
+</p>
+<ul><li><span style="color:White">улучшением статей проекта до <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Избранные статьи"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">статуса избранных</span></a>.</span></li>
+<li><span style="color:White">написанием <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Недостающие статьи (страница отсутствует)">недостающих</a> и <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Служебная:Новые страницы"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">новых статей</span></a> (например, переводом из англоязычной Википедии) о Буркина-Фасо;</span></li>
+<li><span style="color:White">исправлением ошибок и улучшением статей <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%A2%D0%98%D0%9B%D0%AC" class="mw-redirect" title="Википедия:СТИЛЬ"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">стилистики статей</span></a>;</span></li>
+<li><span style="color:White">проставлением <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A1%D0%B2%D1%8F%D0%B7%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Проект:Связность"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">категорий</span></a> и <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B8%D0%BA%D0%B8" title="Википедия:Интервики"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">интервики</span></a>;</span></li>
+<li><span style="color:White">добавлением <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Иллюстрирование"><span style="color: yellow; text-decoration: inherit; -moz-text-decoration-color: yellow; text-decoration-color: yellow;">иллюстраций</span></a> и т.п.</span></li></ul>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="12px" width="4%" style="background:Gold;">
+<table cellspacing="0" cellpadding="0" width="100%" style="background:SeaGreen;">
+
+<tbody><tr>
+<td height="10px" width="100%" style="background:SeaGreen;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table width="90%" align="center" style="background:none; margin-bottom:2em; margin-top:1em;">
+
+<tbody><tr>
+<td>
+<p><span style="color:Yellow;"><b>&gt;</b></span> <span style="color:White"><b>Викисклад</b></span>
+</p>
+<table width="100%" style="border-top:1px dotted #9c9c9c; background:none; margin-bottom:0em; font-size:8pt;">
+
+<tbody><tr>
+<td>
+<table style="text-align:center; font-size:8pt; background-color:transparent; width:100%; margin-top:1em;">
+
+<tbody><tr align="center">
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:People_of_Benin" title="commons:Category:People of Benin"><img alt="Célébration de ma communion Cotonou St Augustin 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg/100px-C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg/150px-C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg/200px-C%C3%A9l%C3%A9bration_de_ma_communion_Cotonou_St_Augustin_3.jpg 2x" data-file-width="2448" data-file-height="2448" /></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Economy_of_Benin" title="commons:Category:Economy of Benin"><img alt="Rue 4.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rue_4.jpg/100px-Rue_4.jpg" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rue_4.jpg/150px-Rue_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rue_4.jpg/200px-Rue_4.jpg 2x" data-file-width="2044" data-file-height="1279" /></a>
+</td></tr>
+<tr>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:People_of_Benin" class="extiw" title="commons:Category:People of Benin"><span style="color:White">Люди</span></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Economy_of_Benin" class="extiw" title="commons:Category:Economy of Benin"><span style="color:White">Экономика</span></a>
+</td></tr>
+<tr align="center">
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Culture_of_Benin" title="commons:Category:Culture of Benin"><img alt="Group OSHALA from Benin in Saint Petersburg 13.6.2015 02.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG/100px-Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG" decoding="async" width="100" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG/150px-Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG/200px-Group_OSHALA_from_Benin_in_Saint_Petersburg_13.6.2015_02.JPG 2x" data-file-width="2189" data-file-height="1826" /></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Nature_of_Benin" title="commons:Category:Nature of Benin"><img alt="ESPERANTO tree.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ESPERANTO_tree.JPG/100px-ESPERANTO_tree.JPG" decoding="async" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ESPERANTO_tree.JPG/150px-ESPERANTO_tree.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ESPERANTO_tree.JPG/200px-ESPERANTO_tree.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+</td></tr>
+<tr>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Culture_of_Benin" class="extiw" title="commons:Culture of Benin"><span style="color:White">Культура</span></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Nature_of_Benin" class="extiw" title="commons:Category:Nature of Benin"><span style="color:White">Природа</span></a>
+</td></tr>
+<tr align="center">
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Geography_of_Benin" title="commons:Category:Geography of Benin"><img alt="Pendjari.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pendjari.JPG/100px-Pendjari.JPG" decoding="async" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pendjari.JPG/150px-Pendjari.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pendjari.JPG/200px-Pendjari.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Politics_of_Benin" title="commons:Category:Politics of Benin"><img alt="Vladimir Putin with Vissinto Ayi d&#39;Almeida.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg/100px-Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg/150px-Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg/200px-Vladimir_Putin_with_Vissinto_Ayi_d%27Almeida.jpg 2x" data-file-width="500" data-file-height="334" /></a>
+</td></tr>
+<tr>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Geography_of_Benin" class="extiw" title="commons:Category:Geography of Benin"><span style="color:White">География</span></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Politics_of_Benin" class="extiw" title="commons:Category:Politics of Benin"><span style="color:White">Политика</span></a>
+</td></tr>
+
+<tr>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:History_of_Benin" title="commons:Category:History of Benin"><img alt="Dodds-Abomey.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dodds-Abomey.jpg/100px-Dodds-Abomey.jpg" decoding="async" width="100" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dodds-Abomey.jpg/150px-Dodds-Abomey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dodds-Abomey.jpg/200px-Dodds-Abomey.jpg 2x" data-file-width="760" data-file-height="560" /></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Society_of_Benin" title="commons:Category:Society of Benin"><img alt="Beach peddlers.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Beach_peddlers.jpg/100px-Beach_peddlers.jpg" decoding="async" width="100" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Beach_peddlers.jpg/150px-Beach_peddlers.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Beach_peddlers.jpg/200px-Beach_peddlers.jpg 2x" data-file-width="960" data-file-height="810" /></a>
+</td></tr>
+<tr>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:History_of_Benin" class="extiw" title="commons:Category:History of Benin"><span style="color:White">История</span></a>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/Category:Society_of_Benin" class="extiw" title="commons:Category:Society of Benin"><span style="color:White">Общество</span></a>
+</td></tr>
+
+</tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td>
+<td style="background:#f9f9f9; padding-left:8px; padding-bottom:.5em; padding-right:20px; padding-top:.5em; font-size:95%;" valign="top">
+<table style="background:none; margin-top:1em;" align="center" cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td>
+<table style="border-top:1px dotted Red; background:none; padding-top:2em; margin-bottom:.5em;" cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td>
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Benin.svg" class="image" title="Герб Бенина"><img alt="Герб Бенина" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/150px-Coat_of_arms_of_Benin.svg.png" decoding="async" width="150" height="132" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/225px-Coat_of_arms_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/300px-Coat_of_arms_of_Benin.svg.png 2x" data-file-width="475" data-file-height="419" /></a></div>
+<table style="margin-right: 1em" align="left" cellspacing="1" cellpadding="2">
+<tbody><tr>
+<td><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Benin.svg" class="image" title="Флаг Бенина"><img alt="Флаг Бенина" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/170px-Flag_of_Benin.svg.png" decoding="async" width="170" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/255px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/340px-Flag_of_Benin.svg.png 2x" data-file-width="900" data-file-height="600" /></a></div>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2" align="center"><div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Location_Benin_AU_Africa.svg" class="image" title="Бенин на карте Африки"><img alt="Бенин на карте Африки" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/170px-Location_Benin_AU_Africa.svg.png" decoding="async" width="170" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/255px-Location_Benin_AU_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_Benin_AU_Africa.svg/340px-Location_Benin_AU_Africa.svg.png 2x" data-file-width="1400" data-file-height="1300" /></a></div>
+</td></tr></tbody></table>
+<p><b>Бени́н</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Bénin</span>), полная официальная форма — <b>Респу́блика Бени́н</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">République du Bénin</span>, до 1975 года <b><a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея">Дагоме́я</a></b>) — <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Государство">государство</a> в <a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Западная Африка">Западной Африке</a>. Имеет выход к <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD_(%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2)" title="Бенин (залив)">заливу Бенин</a> <a href="/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2" title="Гвинейский залив">Гвинейского залива</a>. На севере граничит с <a href="/wiki/%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Буркина-Фасо">Буркина-Фасо</a> и <a href="/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Нигер">Нигером</a>, на востоке — с <a href="/wiki/%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F" title="Нигерия">Нигерией</a>, на западе — с <a href="/wiki/%D0%A2%D0%BE%D0%B3%D0%BE" title="Того">Того</a>. Столица — <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE" title="Порто-Ново">Порто-Ново</a>, однако правительство размещается в <a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BD%D1%83" title="Котону">Котону</a>, самом крупном городе страны. В административном отношении делится на <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Административное деление Бенина">12 департаментов</a>.
+В древности на севере страны проживало племя <a href="/wiki/%D0%93%D1%83%D1%80%D0%BC%D0%B0" title="Гурма">гурма</a>, которых затем оттеснило племя барба, пришедшее с территории современной Нигерии. На юге страны жили племена <a href="/wiki/%D0%A4%D0%BE%D0%BD_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Фон (народ)">фон</a> и <a href="/wiki/%D0%90%D0%B4%D0%B6%D0%B0_(%D1%8F%D0%B7%D1%8B%D0%BA)" title="Аджа (язык)">аджа</a>.
+В XV веке на побережье Бенина появились португальцы. В XVI—XVII веках были построены форты и фактории французских, голландских, английских купцов и работорговцев. С XVII века побережье Бенина и соседние области были превращены европейцами в крупнейший район <a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F" title="Работорговля">работорговли</a> в Африке (отсюда название побережья — <i>Невольничий берег</i>).
+В XVII веке на современной территории Бенина сложилось раннее государство <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея">Дагомея</a>. Его население занималось в основном мотыжным земледелием. Общественный строй — переходный от первобытнообщинного к феодальному, с элементами рабовладельческого.
+В XVIII веке правители Дагомеи активно занимались работорговлей, ежегодно европейским купцам продавалось, по некоторым оценкам, до 20 тыс. рабов. Это продолжалось вплоть до середины XIX века, когда работорговля была запрещена большинством европейских стран.
+<i>(<a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">далее…</a>)</i>
+</p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table style="background:none; margin-top:1em; margin-bottom:.75em;" cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td style="padding-right:10px;" width="50%" valign="top">
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Столица</b>
+</td></tr></tbody></table>
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Grande_mosquee_porto-novo.jpg" class="image"><img alt="Grande mosquee porto-novo.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grande_mosquee_porto-novo.jpg/150px-Grande_mosquee_porto-novo.jpg" decoding="async" width="150" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grande_mosquee_porto-novo.jpg/225px-Grande_mosquee_porto-novo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grande_mosquee_porto-novo.jpg/300px-Grande_mosquee_porto-novo.jpg 2x" data-file-width="3228" data-file-height="2189" /></a></div>
+<p><b>По́рто-Но́во</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Porto-Novo</span>; также известен как <b>Хогбону</b>, <b>Огбону</b>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Hogbonou</span>, <b>Адъясе</b>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Adjacé</span>) — официальная <a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0" title="Столица">столица</a> государства <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">Бенин</a>; не являющаяся, однако, местом постоянного пребывания правительства страны.
+</p><p>Город является одним из портов <a href="/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2" title="Гвинейский залив">Гвинейского залива</a>, и располагается в юго-восточной части страны. Порто-Ново — второй по величине город Бенина, однако же, город <a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BD%D1%83" title="Котону">Котону</a> по своему статусу является более важным для страны — как в культурном, так и в политическом плане. В данном регионе производится <a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Пальмовое масло">пальмовое масло</a>, <a href="/wiki/%D0%A5%D0%BB%D0%BE%D0%BF%D0%BE%D0%BA" title="Хлопок">хлопок</a> и <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%BE%D0%BA" class="mw-redirect" title="Капок">капок</a>. <a href="/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8C" title="Нефть">Нефтяные</a> месторождения были открыты в районе побережья Бенина в <a href="/wiki/1990" class="mw-redirect" title="1990">1990</a>-е годы, и стали важной частью <a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Экспорт">экспортной</a> экономики страны.
+<i>(<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE" title="Порто-Ново">далее…</a>)</i>
+</p>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Политическое устройство</b>
+</td></tr></tbody></table>
+<ul><li>Форма правления: <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Президентская республика">президентская республика</a>.</li>
+<li>Законодательная власть: принадлежит как Правительству, так и Парламенту.</li>
+<li>Исполнительная власть: Правительство во главе с Президентом.</li></ul>
+<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Бенин/Политическое устройство">Править</a> <b>&gt;&gt;</b> </p>
+</td></tr></tbody></table>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Интересная статья</b>
+</td></tr></tbody></table>
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Dahomey_amazon2.jpg" class="image"><img alt="Dahomey amazon2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/150px-Dahomey_amazon2.jpg" decoding="async" width="150" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/225px-Dahomey_amazon2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dahomey_amazon2.jpg/300px-Dahomey_amazon2.jpg 2x" data-file-width="819" data-file-height="536" /></a></div>
+<p><b>Дагомейские амазонки</b> — женское военное формирование в королевстве <a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Дагомея">Дагомея</a> народа <a href="/wiki/%D0%A4%D0%BE%D0%BD_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Фон (народ)">фон</a>, существовавшее до конца XIX века. Получило своё название от западных путешественников и историков, сравнивавших этих женщин с полумифическими <a href="/wiki/%D0%90%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD%D0%BA%D0%B8" title="Амазонки">амазонками</a>, якобы жившими в древности на территории Малой Азии и по берегам Чёрного моря.
+</p><p>Король Хоегбаджа (который правил с 1645 по 1685 год), третий король Дагомеи, как сообщается, создал первое формирование, которое позднее превратилось в «амазонок», в качестве отряда охотников на слонов, носивших название гбето. Сын короля Хоегбаджи Агаджа (правивший с 1708 по 1732 год) создал отряд женщин-телохранителей в своей армии, хотя на самом деле их функции сводились, скорее, к аналогичным у русских «потешных полков» набранных из женщин. Сведения об их существовании встречаются в записях европейских торговцев, которые сообщали об аналогичных воительницах среди народа <a href="/wiki/%D0%90%D1%88%D0%B0%D0%BD%D1%82%D0%B8_(%D0%BD%D0%B0%D1%80%D0%BE%D0%B4)" title="Ашанти (народ)">ашанти</a>. В течение следующих приблизительно ста лет они распространяли о себе слухи, как о бесстрашных воинах, хотя они воевали редко, и потому не могли зарекомендовать себя как бойцы.
+<i>(<a href="/wiki/%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD%D0%BA%D0%B8" title="Дагомейские амазонки">далее…</a>)</i>
+</p><p><br />
+</p>
+<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Портал:Бенин/Интересная статья">Архив</a> <b>•</b> <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Портал:Бенин/Интересная статья">Править</a> <b>&gt;&gt;</b> </p>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Интересное изображение</b>
+</td></tr></tbody></table>
+<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vue_panoramique_de_Natitingou.jpg" class="image"><img alt="Vue panoramique de Natitingou.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vue_panoramique_de_Natitingou.jpg/450px-Vue_panoramique_de_Natitingou.jpg" decoding="async" width="450" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vue_panoramique_de_Natitingou.jpg/675px-Vue_panoramique_de_Natitingou.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vue_panoramique_de_Natitingou.jpg/900px-Vue_panoramique_de_Natitingou.jpg 2x" data-file-width="1024" data-file-height="461" /></a></div></div> <center> Вид <a href="/wiki/%D0%9D%D0%B0%D1%82%D0%B8%D1%82%D0%B8%D0%BD%D0%B3%D1%83" title="Натитингу">Натитингу</a> </center>
+<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"> <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Интересное изображение/Архив (страница отсутствует)">Архив</a> <b>•</b> <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Портал:Бенин/Интересное изображение">Править</a> <b>&gt;&gt;</b> </p>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Интересная личность</b>
+</td></tr></tbody></table>
+<div class="floatleft"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg" class="image"><img alt="Эмиль Зинсу.jpg" src="//upload.wikimedia.org/wikipedia/ru/thumb/4/4b/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg/150px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg" decoding="async" width="150" height="84" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/4/4b/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg/225px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/4/4b/%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg/300px-%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%97%D0%B8%D0%BD%D1%81%D1%83.jpg 2x" data-file-width="400" data-file-height="225" /></a></div>
+<p><b>Эмиль Дерлин Генри Зинсу</b> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Émile Derlin Henri Zinsou</span>; <a href="/wiki/23_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="23 марта">23 марта</a> <a href="/wiki/1918" class="mw-redirect" title="1918">1918</a>, <a href="/wiki/%D0%A3%D0%B8%D0%B4%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" class="mw-redirect" title="Уида (город)">Уида</a> — <a href="/wiki/28_%D0%B8%D1%8E%D0%BB%D1%8F" title="28 июля">28 июля</a> <a href="/wiki/2016" class="mw-redirect" title="2016">2016</a>, <a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%BD%D1%83" title="Котону">Котону</a>) — <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">бенинский</a> политик, президент <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Республика Дагомея">Республики Дагомея</a>, ныне <a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">Бенин</a> с 17 июля 1968 года по 10 декабря 1969 года.
+</p><p>Эмиль Зинсу родился 23 марта 1918 года в португальском колониальном городке Уида (Вида). Вскоре его семья перебралась во <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%8F" title="Французская Дагомея">Французскую Дагомею</a>, которая стала его родиной. Закончив школу, а затем ВУЗ, получил диплом врача. С 1955 года по 1958 был <a href="/wiki/%D0%94%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82" title="Депутат">депутатом</a> <a href="/wiki/%D0%94%D0%B2%D1%83%D1%85%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82" title="Двухпалатный парламент">верхней палаты</a> <a href="/wiki/%D0%A7%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D0%B0%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Четвёртая французская республика">французского</a> <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Парламент Франции">парламента</a>. После получения независимости Дагомеей в 1960 году он работал на дипломатическом поприще, а также периодически министром здравоохранения и иностранных дел в различных правительствах страны в 1962-1963 годах и 1965-1967 годах. 
+<i>(<a href="/wiki/%D0%97%D0%B8%D0%BD%D1%81%D1%83,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C" title="Зинсу, Эмиль">далее…</a>)</i>
+</p><p><br />
+</p>
+<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"> <a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Портал:Бенин/Интересное изображение/Архив (страница отсутствует)">Архив</a> <b>•</b> <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Портал:Бенин/Интересная_личность&amp;action=edit">Править</a> <b>&gt;&gt;</b></p>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Родственные порталы</b>
+</td></tr></tbody></table>
+<table style="width:100%; border:0; background-color:transparent; padding:0; padding-top:1em;" cellspacing="0">
+<tbody><tr>
+<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Африка"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/50px-Africa_%28orthographic_projection%29.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/75px-Africa_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/100px-Africa_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550" /></a>
+</th>
+<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Портал:Бенин"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/50px-Coat_of_arms_of_Benin.svg.png" decoding="async" width="50" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/75px-Coat_of_arms_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/100px-Coat_of_arms_of_Benin.svg.png 2x" data-file-width="475" data-file-height="419" /></a>
+</th>
+<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Портал:Нигер"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/50px-Flag_of_Niger.svg.png" decoding="async" width="50" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/75px-Flag_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/100px-Flag_of_Niger.svg.png 2x" data-file-width="700" data-file-height="600" /></a>
+</th>
+<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F" title="Портал:Нигерия"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/50px-Flag_of_Nigeria.svg.png" decoding="async" width="50" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/75px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/100px-Flag_of_Nigeria.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
+</th>
+<th style="width:10%;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%BE%D0%B3%D0%BE" title="Портал:Того"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/50px-Emblem_of_Togo.svg.png" decoding="async" width="50" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/75px-Emblem_of_Togo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/100px-Emblem_of_Togo.svg.png 2x" data-file-width="1220" data-file-height="1520" /></a>
+</th></tr>
+<tr style="padding:0;">
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Африка">Африка</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%83%D1%80%D0%BA%D0%B8%D0%BD%D0%B0-%D0%A4%D0%B0%D1%81%D0%BE" title="Портал:Буркина-Фасо">Буркина-Фасо</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80" title="Портал:Нигер">Нигер</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B8%D0%B3%D0%B5%D1%80%D0%B8%D1%8F" title="Портал:Нигерия">Нигерия</a>
+</th>
+<th><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%BE%D0%B3%D0%BE" title="Портал:Того">Того</a>
+</th></tr></tbody></table>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Родственные проекты</b>
+</td></tr></tbody></table>
+<table class="noprint" style="clear:both; background:none;" align="center" cellpadding="5" border="0" width="90%">
+
+<tbody><tr>
+<td width="8%"><center> <a href="https://ru.wiktionary.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="wikt:Бенин"><img alt="Wiktionary-logo-sv.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/35px-Wiktionary-logo-sv.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/53px-Wiktionary-logo-sv.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wiktionary-logo-sv.png/70px-Wiktionary-logo-sv.png 2x" data-file-width="135" data-file-height="135" /></a></center>
+</td>
+<td width="25%"><b><a href="https://ru.wiktionary.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" class="extiw" title="wikt:Бенин">Wiktionary</a></b><br />Викисловарь
+</td>
+<td width="8%"><center><a href="https://commons.wikimedia.org/wiki/Category:Benin" title="commons:Category:Benin"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></center>
+</td>
+<td width="25%"><b><a href="https://commons.wikimedia.org/wiki/Category:Benin" class="extiw" title="commons:Category:Benin">Commons</a></b><br />Викисклад
+</td>
+<td width="8%"><center><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikiquote-logo.svg" class="image" title="link=Q%3ATomas%20tula/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA"><img alt="link=Q%3ATomas%20tula/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" decoding="async" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></center>
+</td>
+<td width="25%"><b><a href="https://ru.wikiquote.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" class="extiw" title="q:Бенин">Wikiquote</a></b><br />Викицитатник
+</td></tr></tbody></table>
+<table style="color:FireBrick; border-bottom:1px dotted Red; background:none; font-size:120%; margin-bottom:.75em; margin-top:1em;" cellspacing="0" cellpadding="2" width="100%">
+
+<tbody><tr>
+<td><b>Основные статьи</b>
+</td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Бенин_в_темах" data-name="Бенин в темах" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD_%D0%B2_%D1%82%D0%B5%D0%BC%D0%B0%D1%85" title="Просмотр этого шаблона"><img alt="⛭" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span><div id="Бенин_в_темах" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Бенин">Бенин</a> в темах</div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
+<ul><li><a href="/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Герб Бенина">Герб</a></li>
+<li><a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Флаг Бенина">Флаг</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%BC%D0%BD_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Гимн Бенина">Гимн</a></li>
+<li><a href="/w/index.php?title=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%B9_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Государственный строй Бенина (страница отсутствует)">Государственный строй</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Конституция Бенина (страница отсутствует)">Конституция</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Парламент Бенина">Парламент</a></li>
+<li><a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Административное деление Бенина">Административное деление</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="География Бенина">География</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Города Бенина">Города</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Столица Бенина">Столица</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Население Бенина">Население</a></li>
+<li><a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Языки Бенина">Языки</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="История Бенина">История</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Экономика Бенина">Экономика</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D1%8E%D1%82%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Валюта Бенина">Валюта</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Культура Бенина (страница отсутствует)">Культура</a></li>
+<li><a href="/w/index.php?title=%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Религия в Бенине (страница отсутствует)">Религия</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Кинематограф Бенина (страница отсутствует)">Кинематограф</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Литература Бенина">Литература</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Музыка Бенина (страница отсутствует)">Музыка</a></li>
+<li><a href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Праздники Бенина (страница отсутствует)">Праздники</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Спорт в Бенине (страница отсутствует)">Спорт</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Образование в Бенине (страница отсутствует)">Образование</a></li>
+<li><a href="/w/index.php?title=%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Наука в Бенине (страница отсутствует)">Наука</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Транспорт в Бенине (страница отсутствует)">Транспорт</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Сельское хозяйство Бенина (страница отсутствует)">Сельское хозяйство</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D1%83%D1%80%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Туризм в Бенине (страница отсутствует)">Туризм</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Почта Бенина">Почта</a>
+<ul><li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D0%BE%D1%87%D1%82%D1%8B_%D0%B8_%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D1%85_%D0%BC%D0%B0%D1%80%D0%BE%D0%BA_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="История почты и почтовых марок Бенина">история и марки</a></li></ul></li>
+<li><a href="/w/index.php?title=%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Телевидение в Бенине (страница отсутствует)">Телевидение</a></li>
+<li><a href="/w/index.php?title=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%B2_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Интернет в Бенине (страница отсутствует)">Интернет</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0" title="Вооружённые силы Бенина">Вооружённые силы</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Внешняя политика Бенина (страница отсутствует)">Внешняя политика</a></li></ul>
+</div></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div><b><a class="mw-selflink selflink">Портал «Бенин»</a></b></div></td></tr></tbody></table></div>
+<p class="plainlinks" style="font-size:8pt; color:Red;" align="right"> </p>
+</td></tr>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td style="background:SeaGreen;" height="40px" width="4%">
+</td></tr></tbody></table>
+</td>
+<td>
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tbody><tr>
+<td height="40px" width="2%" style="background:FireBrick;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1351
-Cached time: 20210309175215
-Cache expiry: 21600
+Parsed by mw1349
+Cached time: 20210314112433
+Cache expiry: 86400
 Dynamic content: true
 Complications: []
-CPU time usage: 0.369 seconds
-Real time usage: 0.637 seconds
-Preprocessor visited node count: 2394/1000000
-Post‐expand include size: 103908/2097152 bytes
-Template argument size: 10406/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 33/500
+CPU time usage: 0.245 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 1568/1000000
+Post‐expand include size: 55773/2097152 bytes
+Template argument size: 5922/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 5255/5000000 bytes
-Lua time usage: 0.050/10.000 seconds
-Lua memory usage: 1446848/52428800 bytes
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.014/10.000 seconds
+Lua memory usage: 840105/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  456.385      1 -total
- 26.28%  119.952      9 Портал:Аквариумистика/box-header
- 23.73%  108.284      9 Шаблон:Box-header
- 15.38%   70.187     18 Шаблон:Цветовой_контраст
- 15.03%   68.614      1 Портал:Аквариумистика/Родственные_порталы
- 13.81%   63.019      1 Портал:Аквариумистика/Как_я_могу_помочь
- 13.15%   60.015      1 Шаблон:Аквариумистика
- 12.14%   55.386      1 Шаблон:Навигационная_таблица
- 11.46%   52.314      8 Шаблон:РисПортала
-  8.57%   39.114      1 Портал:Аквариумистика/Новые_статьи
+100.00%  430.781      1 -total
+ 15.93%   68.610      1 Портал:Бенин/Основные_статьи
+ 14.66%   63.138      1 Портал:Бенин/Родственные_порталы
+ 13.94%   60.065      1 Шаблон:Бенин_в_темах
+ 12.62%   54.347      1 Шаблон:Страна_в_темах
+ 10.72%   46.180      5 Шаблон:РисПортала
+ 10.24%   44.126      1 Шаблон:Навигационная_полоса
+  9.75%   41.984      1 Портал:Бенин/Интересная_личность
+  9.49%   40.891      1 Шаблон:Навигационная_таблица
+  8.40%   36.189      1 Портал:Бенин/Как_я_могу_помочь
 -->
 
-<!-- Saved in parser cache with key ruwiki:pcache:idhash:3455580-0!canonical and timestamp 20210309175215 and revision id 74131539. Serialized with JSON.
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:6773316-0!canonical and timestamp 20210314112432 and revision id 89474450. Serialized with JSON.
  -->
 </div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Аквариумистика&amp;oldid=74131539">https://ru.wikipedia.org/w/index.php?title=Портал:Аквариумистика&amp;oldid=74131539</a></div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Аквариумистика">Аквариумистика</a></li></ul></div></div>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Портал:Бенин&amp;oldid=89474450">https://ru.wikipedia.org/w/index.php?title=Портал:Бенин&amp;oldid=89474450</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Порталы по алфавиту">Порталы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Категория:Бенин">Бенин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Категория:Портал:Африка">Портал:Африка</a></li></ul></div></div>
 	</div>
 </div>
 <div id='mw-data-after-content'>
@@ -308,7 +563,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Персональные инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Вы не представились системе</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n">Обсуждение</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y">Вклад</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно.">Создать учётную запись</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o">Войти</a></li></ul>
 		
 	</div>
 </nav>
@@ -321,7 +576,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Пространства имён</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0">Портал</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t">Обсуждение</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-nstab-портал" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD">Портал</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t">Обсуждение</a></li></ul>
 		
 	</div>
 </nav>
@@ -348,7 +603,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Просмотры</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD">Читать</a></li><li id="ca-edit"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e">Править код</a></li><li id="ca-history"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h">История</a></li></ul>
 		
 	</div>
 </nav>
@@ -418,7 +673,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Инструменты</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;oldid=74131539" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8289369" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g">Элемент Викиданных</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j">Ссылки сюда</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k">Связанные правки</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q">Служебные страницы</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;oldid=89474450" title="Постоянная ссылка на эту версию страницы">Постоянная ссылка</a></li><li id="t-info"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=info" title="Подробнее об этой странице">Сведения о странице</a></li></ul>
 		
 	</div>
 </nav>
@@ -429,7 +684,7 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>Печать/экспорт</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD">Создать книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;action=show-download-screen">Скачать как PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p">Версия для печати</a></li></ul>
 		
 	</div>
 </nav>
@@ -441,8 +696,8 @@ Transclusion expansion time report (%,ms,calls,template)
 		<span>На других языках</span>
 	</h3>
 	<div class="vector-menu-content">
-		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%B3%D9%85%D8%A7%D9%83_%D8%A7%D9%84%D8%B2%D9%8A%D9%86%D8%A9" title="بوابة:أسماك الزينة — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Portal:Acuariofilia" title="Portal:Acuariofilia — испанский" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Teemasivu:Akvaario" title="Teemasivu:Akvaario — финский" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Portail:Aquariophilie" title="Portail:Aquariophilie — французский" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Portal:Aq%C3%BCariop%C3%A8dia" title="Portal:Aqüariopèdia — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Portal:Akwarystyka" title="Portal:Akwarystyka — польский" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Portal:Aquarismo" title="Portal:Aquarismo — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Portal:Akvariefiskar" title="Portal:Akvariefiskar — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li></ul>
-		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8289369#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwiki&amp;page=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB%3A%D0%91%D0%B5%D0%BD%D0%B8%D0%BD" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span></div>
 	</div>
 </nav>
 
@@ -451,7 +706,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 26 октября 2015 в 09:11.</li>
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 5 декабря 2017 в 21:14.</li>
 	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
 <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
 Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
@@ -462,7 +717,7 @@ Wikipedia® — зарегистрированный товарный знак 
 	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
 	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
 	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
-	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%83%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B5%D0%BD%D0%B8%D0%BD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
 	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
 	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
@@ -477,5 +732,5 @@ Wikipedia® — зарегистрированный товарный знак 
 </footer>
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.369","walltime":"0.637","ppvisitednodes":{"value":2394,"limit":1000000},"postexpandincludesize":{"value":103908,"limit":2097152},"templateargumentsize":{"value":10406,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":33,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5255,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  456.385      1 -total"," 26.28%  119.952      9 Портал:Аквариумистика/box-header"," 23.73%  108.284      9 Шаблон:Box-header"," 15.38%   70.187     18 Шаблон:Цветовой_контраст"," 15.03%   68.614      1 Портал:Аквариумистика/Родственные_порталы"," 13.81%   63.019      1 Портал:Аквариумистика/Как_я_могу_помочь"," 13.15%   60.015      1 Шаблон:Аквариумистика"," 12.14%   55.386      1 Шаблон:Навигационная_таблица"," 11.46%   52.314      8 Шаблон:РисПортала","  8.57%   39.114      1 Портал:Аквариумистика/Новые_статьи"]},"scribunto":{"limitreport-timeusage":{"value":"0.050","limit":"10.000"},"limitreport-memusage":{"value":1446848,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20210309175215","ttl":21600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":902,"wgHostname":"mw1351"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.245","walltime":"0.542","ppvisitednodes":{"value":1568,"limit":1000000},"postexpandincludesize":{"value":55773,"limit":2097152},"templateargumentsize":{"value":5922,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  430.781      1 -total"," 15.93%   68.610      1 Портал:Бенин/Основные_статьи"," 14.66%   63.138      1 Портал:Бенин/Родственные_порталы"," 13.94%   60.065      1 Шаблон:Бенин_в_темах"," 12.62%   54.347      1 Шаблон:Страна_в_темах"," 10.72%   46.180      5 Шаблон:РисПортала"," 10.24%   44.126      1 Шаблон:Навигационная_полоса","  9.75%   41.984      1 Портал:Бенин/Интересная_личность","  9.49%   40.891      1 Шаблон:Навигационная_таблица","  8.40%   36.189      1 Портал:Бенин/Как_я_могу_помочь"]},"scribunto":{"limitreport-timeusage":{"value":"0.014","limit":"10.000"},"limitreport-memusage":{"value":840105,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20210314112433","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":848,"wgHostname":"mw1349"});});</script>
 </body></html>

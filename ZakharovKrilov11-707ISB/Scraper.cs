@@ -15,7 +15,7 @@ namespace ZakharovKrilov11_707ISB
             var httpClient = new HttpClient();
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls13;
             httpClient.DefaultRequestHeaders.Accept.Clear();
-            
+
             return httpClient.GetStringAsync(fullUrl);
         }
 
@@ -44,7 +44,8 @@ namespace ZakharovKrilov11_707ISB
             using var writer = new StreamWriter("Htmls/index.txt");
             for (var i = 0; i < links.Count; i++)
             {
-                writer.WriteLine(i + " " + links[i]);
+                if (i != 0 && i < 10) writer.WriteLine($"0{i} {links[i]}");
+                else writer.WriteLine(i + " " + links[i]);
             }
         }
 
@@ -52,7 +53,8 @@ namespace ZakharovKrilov11_707ISB
         {
             for (var i = 0; i < htmlDocuments.Count; i++)
             {
-                File.WriteAllText($"Htmls/Document{i}.txt", htmlDocuments[i].ParsedText);
+                if (i != 0 && i < 10) File.WriteAllText($"Htmls/Document0{i}.txt", htmlDocuments[i].ParsedText);
+                else File.WriteAllText($"Htmls/Document{i}.txt", htmlDocuments[i].ParsedText);
             }
         }
     }

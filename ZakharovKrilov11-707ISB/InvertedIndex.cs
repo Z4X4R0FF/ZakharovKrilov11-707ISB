@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ZakharovKrilov11_707ISB
@@ -28,7 +29,7 @@ namespace ZakharovKrilov11_707ISB
                     {
                         for (var i = 1; i < str.Length; i++)
                         {
-                            if (line.Contains(str[i]))
+                            if (Regex.IsMatch(line, str[i], RegexOptions.IgnoreCase))
                             {
                                 dictionary.AddOrUpdate(str[0],
                                     key => new ConcurrentBag<string> {document.Key},

@@ -27,6 +27,7 @@ namespace ZakharovKrilov11_707ISB
             services.AddScoped<Scraper>();
             services.AddScoped<Tokenizer>();
             services.AddScoped<Lemmatizer>();
+            services.AddScoped<InvertedIndex>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

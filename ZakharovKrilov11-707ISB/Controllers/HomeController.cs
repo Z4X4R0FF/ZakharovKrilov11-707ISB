@@ -53,7 +53,7 @@ namespace ZakharovKrilov11_707ISB.Controllers
 
             //_lemmatizer.Lemmatize("Htmls/Tokens.txt");
 
-            _invertedIndex.MakeInvertedIndexes();
+            //_invertedIndex.MakeInvertedIndexes();
             return View();
         }
 
@@ -66,6 +66,12 @@ namespace ZakharovKrilov11_707ISB.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel {RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier});
+        }
+
+        public IActionResult Search(string searchString)
+        {
+            var result = _invertedIndex.BoolSearch(searchString);
+            return StatusCode(0);
         }
     }
 }

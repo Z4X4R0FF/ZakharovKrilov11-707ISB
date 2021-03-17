@@ -1,9 +1,11 @@
-﻿using System.Collections.Concurrent;
+﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using DeepMorphy;
 
 namespace ZakharovKrilov11_707ISB
 {
@@ -63,6 +65,82 @@ namespace ZakharovKrilov11_707ISB
             {
                 await writer.WriteLineAsync($"{key} {value.Aggregate((x, y) => x + ' ' + y)}");
             }
+        }
+
+        public string BoolSearch(string searchString)
+        {
+            var str = searchString.Split(' ');
+            var wordToSearch = new List<string>();
+            var wordToSkip = new List<string>();
+
+            foreach (var word in str)
+            {
+                switch (word[0])
+                {
+                    case '!':
+                        wordToSkip.Add(word.Substring(1));
+                        break;
+                    default:
+                        wordToSearch.Add(word);
+                        break;
+                }
+            }
+
+            var morph = new MorphAnalyzer(withLemmatization: true);
+            var searchWords = morph.Parse(wordToSearch).Select(r => r.BestTag.Lemma).ToList();
+            var skipWords = morph.Parse(wordToSkip).Select(r => r.BestTag.Lemma).ToList();
+
+            var invIndexDict = File.ReadAllLines("Htmls/InvertedIndexes.txt")
+                .ToDictionary(key => key.Split(' ').First(),
+                    elem => elem.Substring(elem.IndexOf(' ') + 1).Split(' ').Select(r => Convert.ToInt32(r)).ToList());
+
+            var skipIndexes = new List<int>();
+            var foundIndexes = new List<int>();
+
+            foreach (var skipWord in skipWords)
+            {
+                if (invIndexDict.ContainsKey(skipWord))
+                {
+                    foreach (var index in invIndexDict[skipWord].Where(index => !skipIndexes.Contains(index)))
+                    {
+                        skipIndexes.Add(index);
+                    }
+                }
+            }
+
+            foreach (var searchWord in searchWords)
+            {
+                if (invIndexDict.ContainsKey(searchWord))
+                {
+                    if (foundIndexes.Count == 0)
+                    {
+                        foundIndexes.AddRange(invIndexDict[searchWord]);
+                    }
+                    else
+                    {
+                        var wordIndexes = invIndexDict[searchWord];
+                        foundIndexes = foundIndexes.Where(r => wordIndexes.Contains(r)).ToList();
+                    }
+                }
+                else
+                {
+                    return $"Word {searchWord} not found";
+                }
+            }
+
+            if (foundIndexes.Count == 0)
+            {
+                return "Nothing was found";
+            }
+
+            foreach (var skipIndex in skipIndexes.Where(skipIndex => foundIndexes.Contains(skipIndex)))
+            {
+                foundIndexes.Remove(skipIndex);
+            }
+
+            return foundIndexes.Count == 0
+                ? "Nothing was found"
+                : $"Documents : {string.Join(' ', foundIndexes.Select(x => x.ToString()).ToArray())}";
         }
     }
 }

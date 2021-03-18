@@ -92,20 +92,15 @@ namespace ZakharovKrilov11_707ISB
 
             var invIndexDict = File.ReadAllLines("Htmls/InvertedIndexes.txt")
                 .ToDictionary(key => key.Split(' ').First(),
-                    elem => elem.Substring(elem.IndexOf(' ') + 1).Split(' ').Select(r => Convert.ToInt32(r)).ToList());
+                    elem => elem.Substring(elem.IndexOf(' ') + 1)
+                        .Split(' ').Select(r => Convert.ToInt32(r)).ToList());
 
             var skipIndexes = new List<int>();
             var foundIndexes = new List<int>();
 
-            foreach (var skipWord in skipWords)
+            foreach (var skipWord in skipWords.Where(skipWord => invIndexDict.ContainsKey(skipWord)))
             {
-                if (invIndexDict.ContainsKey(skipWord))
-                {
-                    foreach (var index in invIndexDict[skipWord].Where(index => !skipIndexes.Contains(index)))
-                    {
-                        skipIndexes.Add(index);
-                    }
-                }
+                skipIndexes.AddRange(invIndexDict[skipWord].Where(index => !skipIndexes.Contains(index)));
             }
 
             foreach (var searchWord in searchWords)
@@ -133,10 +128,7 @@ namespace ZakharovKrilov11_707ISB
                 return "Nothing was found";
             }
 
-            foreach (var skipIndex in skipIndexes.Where(skipIndex => foundIndexes.Contains(skipIndex)))
-            {
-                foundIndexes.Remove(skipIndex);
-            }
+            foundIndexes = foundIndexes.Except(skipIndexes).ToList();
 
             return foundIndexes.Count == 0
                 ? "Nothing was found"

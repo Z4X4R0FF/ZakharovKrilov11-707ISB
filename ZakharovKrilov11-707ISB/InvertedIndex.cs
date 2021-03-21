@@ -67,7 +67,7 @@ namespace ZakharovKrilov11_707ISB
             }
         }
 
-        public string BoolSearch(string searchString)
+        public List<int> BoolSearch(string searchString)
         {
             var str = searchString.Split(' ');
             var wordToSearch = new List<string>();
@@ -87,13 +87,19 @@ namespace ZakharovKrilov11_707ISB
             }
 
             var morph = new MorphAnalyzer(withLemmatization: true);
-            var searchWords = morph.Parse(wordToSearch).Select(r => r.BestTag.Lemma).ToList();
-            var skipWords = morph.Parse(wordToSkip).Select(r => r.BestTag.Lemma).ToList();
+            var searchWords = morph.Parse(wordToSearch)
+                .Select(r => r.BestTag.Lemma)
+                .ToList();
+            var skipWords = morph.Parse(wordToSkip)
+                .Select(r => r.BestTag.Lemma)
+                .ToList();
 
             var invIndexDict = File.ReadAllLines("Htmls/InvertedIndexes.txt")
                 .ToDictionary(key => key.Split(' ').First(),
                     elem => elem.Substring(elem.IndexOf(' ') + 1)
-                        .Split(' ').Select(r => Convert.ToInt32(r)).ToList());
+                        .Split(' ')
+                        .Select(r => Convert.ToInt32(r))
+                        .ToList());
 
             var skipIndexes = new List<int>();
             var foundIndexes = new List<int>();
@@ -114,25 +120,20 @@ namespace ZakharovKrilov11_707ISB
                     else
                     {
                         var wordIndexes = invIndexDict[searchWord];
-                        foundIndexes = foundIndexes.Where(r => wordIndexes.Contains(r)).ToList();
+                        foundIndexes = foundIndexes
+                            .Where(r => wordIndexes.Contains(r))
+                            .ToList();
                     }
                 }
                 else
                 {
-                    return $"Word {searchWord} not found";
+                    return new List<int>();
                 }
             }
 
-            if (foundIndexes.Count == 0)
-            {
-                return "Nothing was found";
-            }
-
-            foundIndexes = foundIndexes.Except(skipIndexes).ToList();
-
-            return foundIndexes.Count == 0
-                ? "Nothing was found"
-                : $"Documents : {string.Join(' ', foundIndexes.Select(x => x.ToString()).ToArray())}";
+            return foundIndexes
+                .Except(skipIndexes)
+                .ToList();
         }
     }
 }

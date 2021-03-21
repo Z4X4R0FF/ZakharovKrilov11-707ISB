@@ -2,17 +2,7 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    @using(Html.BeginForm("Search", "Home", FormMethod.Get))
-    {
-        <input type="hidden" value="@ViewBag.BookId" name="BookId" />
-        <table>
-            <tr><td><p>Enter word to search</p></td>
-                <td><input type="text" name="searchString" /> </td></tr>
-            <tr><td><input type="submit" value="Отправить" /> </td>
-                    <td></td></tr>
-        </table>
-    }
-</div>
+@using (Html.BeginForm("Main", "SearchEngine"))
+{
+    <button type="submit">Перейти к поиску</button>
+}

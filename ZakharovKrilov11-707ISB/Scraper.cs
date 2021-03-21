@@ -8,6 +8,8 @@ using System.Linq;
 
 namespace ZakharovKrilov11_707ISB
 {
+    using System;
+
     public class Scraper
     {
         public Task<string> CallUrl(string fullUrl)
@@ -19,8 +21,11 @@ namespace ZakharovKrilov11_707ISB
             return httpClient.GetStringAsync(fullUrl);
         }
 
-        public IEnumerable<string> GetLinks(string html)
+        public IEnumerable<string> GetLinks(string url, string html)
         {
+            var uri = new Uri(url);
+            var mainPage = uri.GetLeftPart(UriPartial.Authority) + '/';
+
             var htmlDoc = ParseHtml(html);
             var programmerLinks = htmlDoc.DocumentNode.Descendants("li")
                 .Where(node => !node.GetAttributeValue("class", "").Contains("tocsection"))
@@ -28,7 +33,7 @@ namespace ZakharovKrilov11_707ISB
 
             return programmerLinks
                 .Where(r => r.FirstChild.Attributes.Count > 0)
-                .Select(r => "https://ru.wikipedia.org/" + r.FirstChild.Attributes[0].Value)
+                .Select(r => mainPage + r.FirstChild.Attributes[0].Value)
                 .ToList();
         }
 

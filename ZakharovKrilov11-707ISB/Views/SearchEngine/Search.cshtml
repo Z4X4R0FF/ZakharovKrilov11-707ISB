@@ -1,0 +1,6 @@
+﻿@using (Html.BeginForm("SearchResult", "SearchEngine"))
+{
+    <p>Введите слова для поиска: </p>
+    @Html.TextBox("Words", null, new { size = 30})
+    <button type="submit">Поиск</button>
+}

@@ -1,0 +1,6 @@
+﻿@using (Html.BeginForm("ProcessUrl", "SearchEngine"))
+{
+    <p>Введите ссылку для обработки: </p>
+    @Html.TextBox("Url", null, new { size = 30})
+    <button type="submit">Обработать</button>
+}

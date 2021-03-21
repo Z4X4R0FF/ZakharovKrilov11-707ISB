@@ -57,8 +57,8 @@
             var step3 = Regex.Replace(step2, "&#.*?;", " ");
             var step4 = Regex.Replace(step3, _pattern, " ");
             var step5 = Regex.Replace(step4, "\t", " ");
-            var textOnly = Regex.Replace(step5, "[\r\n]+", "\r\n");
-            var step6 = Regex.Replace(textOnly, @"\s+", " ");
+            var step6 = Regex.Replace(step5, "[\r\n]+", "\r\n");
+            var textOnly = Regex.Replace(step6, @"\s+", " ");
 
             return step6.Split(_splitters)
                 .Where(x=> x != string.Empty)

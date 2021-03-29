@@ -1,14 +1,14 @@
-﻿using System;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using DeepMorphy;
-
-namespace ZakharovKrilov11_707ISB
+﻿namespace ZakharovKrilov11_707ISB.Services
 {
+    using System;
+    using System.Collections.Concurrent;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Text.RegularExpressions;
+    using System.Threading.Tasks;
+    using DeepMorphy;
+
     public class InvertedIndex
     {
         public void MakeInvertedIndexes()

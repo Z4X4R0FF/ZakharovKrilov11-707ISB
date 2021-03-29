@@ -6,6 +6,8 @@ using Microsoft.Extensions.Hosting;
 
 namespace ZakharovKrilov11_707ISB
 {
+    using ZakharovKrilov11_707ISB.Services;
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -23,6 +25,7 @@ namespace ZakharovKrilov11_707ISB
             services.AddScoped<Tokenizer>();
             services.AddScoped<Lemmatizer>();
             services.AddScoped<InvertedIndex>();
+            services.AddScoped<TfIdfService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

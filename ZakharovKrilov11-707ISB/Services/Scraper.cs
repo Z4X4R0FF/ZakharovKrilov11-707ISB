@@ -1,14 +1,13 @@
-﻿using System.Collections.Generic;
-using HtmlAgilityPack;
-using System.Net.Http;
-using System.Threading.Tasks;
-using System.Net;
-using System.IO;
-using System.Linq;
-
-namespace ZakharovKrilov11_707ISB
+﻿namespace ZakharovKrilov11_707ISB.Services
 {
     using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Net;
+    using System.Net.Http;
+    using System.Threading.Tasks;
+    using HtmlAgilityPack;
 
     public class Scraper
     {

@@ -1,12 +1,12 @@
-﻿namespace ZakharovKrilov11_707ISB
+﻿namespace ZakharovKrilov11_707ISB.Services
 {
     using System.Collections.Concurrent;
-    using System.Text;
-    using System.Threading.Tasks;
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
+    using System.Text;
     using System.Text.RegularExpressions;
+    using System.Threading.Tasks;
     using Dasync.Collections;
     using HtmlAgilityPack;
     using StopWord;
@@ -60,7 +60,7 @@
             var step6 = Regex.Replace(step5, "[\r\n]+", "\r\n");
             var textOnly = Regex.Replace(step6, @"\s+", " ");
 
-            return step6.Split(_splitters)
+            return textOnly.Split(_splitters)
                 .Where(x=> x != string.Empty)
                 .Select(x => x.ToLower())
                 .Where(x =>  x.All(c => !char.IsDigit(c)))

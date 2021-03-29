@@ -6,6 +6,7 @@
     using Dasync.Collections;
     using HtmlAgilityPack;
     using Microsoft.AspNetCore.Mvc;
+    using ZakharovKrilov11_707ISB.Services;
 
     public class SearchEngineController : Controller
     {
@@ -13,17 +14,20 @@
         private readonly Tokenizer _tokenizer;
         private readonly Lemmatizer _lemmatizer;
         private readonly InvertedIndex _invertedIndex;
+        private readonly TfIdfService _tfIdfService;
 
         public SearchEngineController(
             Scraper scraper,
             Tokenizer tokenizer,
             Lemmatizer lemmatizer,
-            InvertedIndex invertedIndex)
+            InvertedIndex invertedIndex,
+            TfIdfService tfIdfService)
         {
             _scraper = scraper;
             _tokenizer = tokenizer;
             _lemmatizer = lemmatizer;
             _invertedIndex = invertedIndex;
+            _tfIdfService = tfIdfService;
         }
 
         public IActionResult Main()
@@ -33,6 +37,17 @@
 
         public IActionResult Search()
         {
+            return View();
+        }
+
+        public IActionResult TfIdfMain()
+        {
+            return View();
+        }
+
+        public IActionResult CalculateTfIdf()
+        {
+            _tfIdfService.CalculateTfIdf();
             return View();
         }
         

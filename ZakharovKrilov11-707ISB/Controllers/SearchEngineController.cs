@@ -15,19 +15,22 @@
         private readonly Lemmatizer _lemmatizer;
         private readonly InvertedIndex _invertedIndex;
         private readonly TfIdfService _tfIdfService;
+        private readonly VectorSearch _vectorSearch;
 
         public SearchEngineController(
             Scraper scraper,
             Tokenizer tokenizer,
             Lemmatizer lemmatizer,
             InvertedIndex invertedIndex,
-            TfIdfService tfIdfService)
+            TfIdfService tfIdfService, 
+            VectorSearch vectorSearch)
         {
             _scraper = scraper;
             _tokenizer = tokenizer;
             _lemmatizer = lemmatizer;
             _invertedIndex = invertedIndex;
             _tfIdfService = tfIdfService;
+            _vectorSearch = vectorSearch;
         }
 
         public IActionResult Main()
@@ -36,6 +39,11 @@
         }
 
         public IActionResult Search()
+        {
+            return View();
+        }
+        
+        public IActionResult SearchVector()
         {
             return View();
         }
@@ -80,6 +88,11 @@
         public IActionResult SearchResult(string words)
         {
             return View(_invertedIndex.BoolSearch(words));
+        }
+        
+        public IActionResult SearchVectorResult(string words)
+        {
+            return View(_vectorSearch.PerformVectorSearch(words));
         }
     }
 }

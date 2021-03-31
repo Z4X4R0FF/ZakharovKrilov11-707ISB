@@ -26,6 +26,7 @@ namespace ZakharovKrilov11_707ISB
             services.AddScoped<Lemmatizer>();
             services.AddScoped<InvertedIndex>();
             services.AddScoped<TfIdfService>();
+            services.AddScoped<VectorSearch>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

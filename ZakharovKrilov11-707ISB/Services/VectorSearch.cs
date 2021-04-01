@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using DeepMorphy;
 using Microsoft.AspNetCore.SignalR.Protocol;
 
 namespace ZakharovKrilov11_707ISB.Services
@@ -36,13 +37,17 @@ namespace ZakharovKrilov11_707ISB.Services
                 _isLoaded = true;
             }
 
-            var inputWords = searchString.Split(' ').ToList();
+            var morph = new MorphAnalyzer(withLemmatization: true);
+            var inputWords = morph.Parse(searchString.Split(' ')).Select(r => r.BestTag.Lemma).ToList();
             var wordDictionary = new Dictionary<string, double>();
             foreach (var inputWord in inputWords)
             {
                 var equalWordCount = inputWords.Count(word => word == inputWord);
-                wordDictionary.Add(inputWord,
-                    CalculateWordVector(inputWord, equalWordCount, inputWords.Count));
+                if (!wordDictionary.ContainsKey(inputWord))
+                {
+                    wordDictionary.Add(inputWord,
+                        CalculateWordVector(inputWord, equalWordCount, inputWords.Count));
+                }
             }
 
             wordDictionary = wordDictionary.Where(item => item.Value != 0)
